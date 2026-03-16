@@ -1,92 +1,64 @@
-# AI Exposure of the US Job Market
+# Exposition des Métiers Français à l'IA
 
-Analyzing how susceptible every occupation in the US economy is to AI and automation, using data from the Bureau of Labor Statistics [Occupational Outlook Handbook](https://www.bls.gov/ooh/) (OOH).
+Analyse du degré d'exposition à l'IA de chaque métier du marché de l'emploi français, à partir des données du [ROME 4.0](https://www.francetravail.org/opendata/repertoire-operationnel-des-meti.html) (Répertoire Opérationnel des Métiers et des Emplois) de France Travail.
 
-**Live demo: [joshkale.github.io/jobs](https://joshkale.github.io/jobs/)**
+Inspiré de [joshkale/jobs](https://github.com/joshkale/jobs) (version US avec les données BLS).
 
-![AI Exposure Treemap](jobs.png)
+## Données
 
-## What's here
+- **1 584 métiers** ROME 4.0 avec descriptions détaillées, compétences, conditions d'accès
+- **BMO 2025** (Besoins en Main-d'Oeuvre) pour les projets de recrutement
+- **Scoring IA** par Gemini Flash sur une échelle 0-10
 
-The BLS OOH covers **342 occupations** spanning every sector of the US economy, with detailed data on job duties, work environment, education requirements, pay, and employment projections. We scraped all of it, scored each occupation's AI exposure using an LLM, and built an interactive treemap visualization.
+## Pipeline de données
 
-## Data pipeline
+1. **Construire** (`build_occupations.py`) — Extrait les 1 584 fiches métiers du ROME 4.0 → `occupations.json` + `pages/*.md`
+2. **Enrichir** (`build_bmo.py`) — Extrait les projets de recrutement BMO 2025 → `bmo_by_rome.json`
+3. **Scorer** (`score.py`) — Envoie chaque description à Gemini Flash avec un barème de scoring → `scores.json`
+4. **Assembler** (`build_site_data.py`) — Fusionne tout en `site/data.json`
+5. **Site** (`site/index.html`) — Treemap interactif : surface = recrutements, couleur = exposition IA
 
-1. **Scrape** (`scrape.py`) — Playwright (non-headless, BLS blocks bots) downloads raw HTML for all 342 occupation pages into `html/`.
-2. **Parse** (`parse_detail.py`, `process.py`) — BeautifulSoup converts raw HTML into clean Markdown files in `pages/`.
-3. **Tabulate** (`make_csv.py`) — Extracts structured fields (pay, education, job count, growth outlook, SOC code) into `occupations.csv`.
-4. **Score** (`score.py`) — Sends each occupation's Markdown description to an LLM (Gemini Flash via OpenRouter) with a scoring rubric. Each occupation gets an AI Exposure score from 0-10 with a rationale. Results saved to `scores.json`.
-5. **Build site data** (`build_site_data.py`) — Merges CSV stats and AI exposure scores into a compact `site/data.json` for the frontend.
-6. **Website** (`site/index.html`) — Interactive treemap visualization where area = employment and color = AI exposure (green to red).
+## Fichiers clés
 
-## Key files
+| Fichier | Description |
+|---------|-------------|
+| `occupations.json` | Liste des 1 584 métiers avec titre, code ROME, catégorie, description |
+| `scores.json` | Scores d'exposition IA (0-10) avec justifications pour chaque métier |
+| `bmo_by_rome.json` | Estimations de recrutement par code ROME |
+| `pages/` | Descriptions Markdown de chaque métier (pour le scoring LLM) |
+| `site/` | Site statique (visualisation treemap) |
 
-| File | Description |
-|------|-------------|
-| `occupations.json` | Master list of 342 occupations with title, URL, category, slug |
-| `occupations.csv` | Summary stats: pay, education, job count, growth projections |
-| `scores.json` | AI exposure scores (0-10) with rationales for all 342 occupations |
-| `html/` | Raw HTML pages from BLS (source of truth, ~40MB) |
-| `pages/` | Clean Markdown versions of each occupation page |
-| `site/` | Static website (treemap visualization) |
-
-## AI exposure scoring
-
-Each occupation is scored on a single **AI Exposure** axis from 0 to 10, measuring how much AI will reshape that occupation. The score considers both direct automation (AI doing the work) and indirect effects (AI making workers so productive that fewer are needed).
-
-A key signal is whether the job's work product is fundamentally digital — if the job can be done entirely from a home office on a computer, AI exposure is inherently high. Conversely, jobs requiring physical presence, manual skill, or real-time human interaction have a natural barrier.
-
-**Calibration examples from the dataset:**
-
-| Score | Meaning | Examples |
-|-------|---------|---------|
-| 0-1 | Minimal | Roofers, janitors, construction laborers |
-| 2-3 | Low | Electricians, plumbers, nurses aides, firefighters |
-| 4-5 | Moderate | Registered nurses, retail workers, physicians |
-| 6-7 | High | Teachers, managers, accountants, engineers |
-| 8-9 | Very high | Software developers, paralegals, data analysts, editors |
-| 10 | Maximum | Medical transcriptionists |
-
-Average exposure across all 342 occupations: **5.3/10**.
-
-## Visualization
-
-The main visualization is an interactive **treemap** where:
-- **Area** of each rectangle is proportional to employment (number of jobs)
-- **Color** indicates AI exposure on a green (safe) to red (exposed) scale
-- **Layout** groups occupations by BLS category
-- **Hover** shows detailed tooltip with pay, jobs, outlook, education, exposure score, and LLM rationale
-
-## Setup
+## Installation
 
 ```
 uv sync
-uv run playwright install chromium
 ```
 
-Requires an OpenRouter API key in `.env`:
+Nécessite une clé API Gemini dans `.env` :
 ```
-OPENROUTER_API_KEY=your_key_here
+GEMINI_API_KEY=your_key_here
 ```
 
-## Usage
+## Utilisation
 
 ```bash
-# Scrape BLS pages (only needed once, results are cached in html/)
-uv run python scrape.py
+# Construire la liste des métiers depuis le ROME
+uv run python build_occupations.py
 
-# Generate Markdown from HTML
-uv run python process.py
+# Extraire les données BMO
+uv run python build_bmo.py
 
-# Generate CSV summary
-uv run python make_csv.py
-
-# Score AI exposure (uses OpenRouter API)
+# Scorer l'exposition IA (utilise l'API Gemini)
 uv run python score.py
 
-# Build website data
+# Construire les données du site
 uv run python build_site_data.py
 
-# Serve the site locally
+# Servir le site localement
 cd site && python -m http.server 8000
 ```
+
+## Sources de données
+
+- [ROME 4.0](https://www.francetravail.org/opendata/repertoire-operationnel-des-meti.html) — France Travail (open data)
+- [BMO 2025](https://www.data.gouv.fr/datasets/enquete-besoins-en-main-doeuvre-bmo) — France Travail / DARES

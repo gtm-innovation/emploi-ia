@@ -1,14 +1,14 @@
 """
-Score each occupation's AI exposure using an LLM via OpenRouter.
+Score each occupation's AI exposure using Gemini Flash via Google AI API.
 
-Reads Markdown descriptions from pages/, sends each to an LLM with a scoring
+Reads Markdown descriptions from pages/, sends each to Gemini with a scoring
 rubric, and collects structured scores. Results are cached incrementally to
 scores.json so the script can be resumed if interrupted.
 
 Usage:
     uv run python score.py
-    uv run python score.py --model google/gemini-3-flash-preview
     uv run python score.py --start 0 --end 10   # test on first 10
+    uv run python score.py --model gemini-2.0-flash
 """
 
 import argparse
@@ -20,95 +20,104 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-DEFAULT_MODEL = "google/gemini-3-flash-preview"
+DEFAULT_MODEL = "gemini-2.5-flash"
 OUTPUT_FILE = "scores.json"
-API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 SYSTEM_PROMPT = """\
-You are an expert analyst evaluating how exposed different occupations are to \
-AI. You will be given a detailed description of an occupation from the Bureau \
-of Labor Statistics.
+Tu es un analyste expert évaluant le degré d'exposition des différents métiers \
+à l'intelligence artificielle. On te fournira une description détaillée d'un \
+métier issue du ROME (Répertoire Opérationnel des Métiers et des Emplois) de \
+France Travail.
 
-Rate the occupation's overall **AI Exposure** on a scale from 0 to 10.
+Évalue l'**Exposition à l'IA** globale de ce métier sur une échelle de 0 à 10.
 
-AI Exposure measures: how much will AI reshape this occupation? Consider both \
-direct effects (AI automating tasks currently done by humans) and indirect \
-effects (AI making each worker so productive that fewer are needed).
+L'Exposition à l'IA mesure : dans quelle mesure l'IA va-t-elle transformer ce \
+métier ? Considère à la fois les effets directs (l'IA automatisant des tâches \
+actuellement effectuées par des humains) et les effets indirects (l'IA rendant \
+chaque travailleur si productif que moins de personnes sont nécessaires).
 
-A key signal is whether the job's work product is fundamentally digital. If \
-the job can be done entirely from a home office on a computer — writing, \
-coding, analyzing, communicating — then AI exposure is inherently high (7+), \
-because AI capabilities in digital domains are advancing rapidly. Even if \
-today's AI can't handle every aspect of such a job, the trajectory is steep \
-and the ceiling is very high. Conversely, jobs requiring physical presence, \
-manual skill, or real-time human interaction in the physical world have a \
-natural barrier to AI exposure.
+Un signal clé est de savoir si le produit du travail est fondamentalement \
+numérique. Si le travail peut être effectué entièrement depuis un bureau à \
+domicile sur un ordinateur — rédiger, coder, analyser, communiquer — alors \
+l'exposition à l'IA est intrinsèquement élevée (7+), car les capacités de \
+l'IA dans les domaines numériques progressent rapidement. Même si l'IA \
+d'aujourd'hui ne peut pas gérer tous les aspects d'un tel emploi, la \
+trajectoire est forte et le plafond très élevé. À l'inverse, les emplois \
+nécessitant une présence physique, une habileté manuelle ou une interaction \
+humaine en temps réel dans le monde physique ont une barrière naturelle.
 
-Use these anchors to calibrate your score:
+Utilise ces points de repère pour calibrer ton score :
 
-- **0–1: Minimal exposure.** The work is almost entirely physical, hands-on, \
-or requires real-time human presence in unpredictable environments. AI has \
-essentially no impact on daily work. \
-Examples: roofer, landscaper, commercial diver.
+- **0–1 : Exposition minimale.** Le travail est presque entièrement physique, \
+manuel ou nécessite une présence humaine en temps réel dans des environnements \
+imprévisibles. L'IA n'a essentiellement aucun impact sur le travail quotidien. \
+Exemples : couvreur, paysagiste, plongeur professionnel.
 
-- **2–3: Low exposure.** Mostly physical or interpersonal work. AI might help \
-with minor peripheral tasks (scheduling, paperwork) but doesn't touch the \
-core job. \
-Examples: electrician, plumber, firefighter, dental hygienist.
+- **2–3 : Exposition faible.** Travail principalement physique ou interpersonnel. \
+L'IA peut aider pour des tâches périphériques mineures (planning, paperasse) \
+mais ne touche pas le cœur du métier. \
+Exemples : électricien, plombier, pompier, aide-soignant.
 
-- **4–5: Moderate exposure.** A mix of physical/interpersonal work and \
-knowledge work. AI can meaningfully assist with the information-processing \
-parts but a substantial share of the job still requires human presence. \
-Examples: registered nurse, police officer, veterinarian.
+- **4–5 : Exposition modérée.** Un mélange de travail physique/interpersonnel \
+et de travail intellectuel. L'IA peut aider significativement pour les parties \
+de traitement de l'information, mais une part substantielle du travail \
+nécessite encore une présence humaine. \
+Exemples : infirmier, policier, vétérinaire.
 
-- **6–7: High exposure.** Predominantly knowledge work with some need for \
-human judgment, relationships, or physical presence. AI tools are already \
-useful and workers using AI may be substantially more productive. \
-Examples: teacher, manager, accountant, journalist.
+- **6–7 : Exposition élevée.** Travail principalement intellectuel avec un \
+besoin de jugement humain, de relations ou de présence physique. Les outils \
+d'IA sont déjà utiles et les travailleurs utilisant l'IA peuvent être \
+nettement plus productifs. \
+Exemples : enseignant, manager, comptable, journaliste.
 
-- **8–9: Very high exposure.** The job is almost entirely done on a computer. \
-All core tasks — writing, coding, analyzing, designing, communicating — are \
-in domains where AI is rapidly improving. The occupation faces major \
-restructuring. \
-Examples: software developer, graphic designer, translator, data analyst, \
-paralegal, copywriter.
+- **8–9 : Exposition très élevée.** Le travail est presque entièrement réalisé \
+sur ordinateur. Toutes les tâches principales — rédaction, codage, analyse, \
+conception, communication — sont dans des domaines où l'IA progresse \
+rapidement. Le métier fait face à une restructuration majeure. \
+Exemples : développeur logiciel, graphiste, traducteur, analyste de données, \
+juriste d'entreprise, rédacteur.
 
-- **10: Maximum exposure.** Routine information processing, fully digital, \
-with no physical component. AI can already do most of it today. \
-Examples: data entry clerk, telemarketer.
+- **10 : Exposition maximale.** Traitement routinier de l'information, \
+entièrement numérique, sans composante physique. L'IA peut déjà faire la \
+plupart du travail aujourd'hui. \
+Exemples : opérateur de saisie, télévendeur.
 
-Respond with ONLY a JSON object in this exact format, no other text:
+Réponds avec UNIQUEMENT un objet JSON dans ce format exact, sans autre texte :
 {
   "exposure": <0-10>,
-  "rationale": "<2-3 sentences explaining the key factors>"
+  "rationale": "<2-3 phrases en français expliquant les facteurs clés>"
 }\
 """
 
 
-def score_occupation(client, text, model):
-    """Send one occupation to the LLM and parse the structured response."""
+def score_occupation(client, text, model, api_key):
+    """Send one occupation to Gemini and parse the structured response."""
+    api_url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     response = client.post(
-        API_URL,
-        headers={
-            "Authorization": f"Bearer {os.environ['OPENROUTER_API_KEY']}",
-        },
+        api_url,
+        params={"key": api_key},
         json={
-            "model": model,
-            "messages": [
-                {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": text},
+            "systemInstruction": {
+                "parts": [{"text": SYSTEM_PROMPT}]
+            },
+            "contents": [
+                {"parts": [{"text": text}]}
             ],
-            "temperature": 0.2,
+            "generationConfig": {
+                "temperature": 0.2,
+                "responseMimeType": "application/json",
+            },
         },
         timeout=60,
     )
     response.raise_for_status()
-    content = response.json()["choices"][0]["message"]["content"]
+    result = response.json()
+    content = result["candidates"][0]["content"]["parts"][0]["text"]
 
     # Strip markdown code fences if present
     content = content.strip()
     if content.startswith("```"):
-        content = content.split("\n", 1)[1]  # remove first line
+        content = content.split("\n", 1)[1]
         if content.endswith("```"):
             content = content[:-3]
         content = content.strip()
@@ -121,10 +130,15 @@ def main():
     parser.add_argument("--model", default=DEFAULT_MODEL)
     parser.add_argument("--start", type=int, default=0)
     parser.add_argument("--end", type=int, default=None)
-    parser.add_argument("--delay", type=float, default=0.5)
+    parser.add_argument("--delay", type=float, default=0.3)
     parser.add_argument("--force", action="store_true",
                         help="Re-score even if already cached")
     args = parser.parse_args()
+
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        print("Error: GEMINI_API_KEY not set in .env")
+        return
 
     with open("occupations.json") as f:
         occupations = json.load(f)
@@ -138,8 +152,8 @@ def main():
             for entry in json.load(f):
                 scores[entry["slug"]] = entry
 
-    print(f"Scoring {len(subset)} occupations with {args.model}")
-    print(f"Already cached: {len(scores)}")
+    print(f"Scoring {len(subset)} métiers avec {args.model}")
+    print(f"Déjà en cache : {len(scores)}")
 
     errors = []
     client = httpx.Client()
@@ -152,7 +166,7 @@ def main():
 
         md_path = f"pages/{slug}.md"
         if not os.path.exists(md_path):
-            print(f"  [{i+1}] SKIP {slug} (no markdown)")
+            print(f"  [{i+1}] SKIP {slug} (pas de markdown)")
             continue
 
         with open(md_path) as f:
@@ -161,29 +175,29 @@ def main():
         print(f"  [{i+1}/{len(subset)}] {occ['title']}...", end=" ", flush=True)
 
         try:
-            result = score_occupation(client, text, args.model)
+            result = score_occupation(client, text, args.model, api_key)
             scores[slug] = {
                 "slug": slug,
                 "title": occ["title"],
                 **result,
             }
-            print(f"exposure={result['exposure']}")
+            print(f"exposition={result['exposure']}")
         except Exception as e:
-            print(f"ERROR: {e}")
+            print(f"ERREUR: {e}")
             errors.append(slug)
 
         # Save after each one (incremental checkpoint)
         with open(OUTPUT_FILE, "w") as f:
-            json.dump(list(scores.values()), f, indent=2)
+            json.dump(list(scores.values()), f, indent=2, ensure_ascii=False)
 
         if i < len(subset) - 1:
             time.sleep(args.delay)
 
     client.close()
 
-    print(f"\nDone. Scored {len(scores)} occupations, {len(errors)} errors.")
+    print(f"\nTerminé. {len(scores)} métiers scorés, {len(errors)} erreurs.")
     if errors:
-        print(f"Errors: {errors}")
+        print(f"Erreurs: {errors}")
 
     # Summary stats
     vals = [s for s in scores.values() if "exposure" in s]
@@ -193,8 +207,8 @@ def main():
         for s in vals:
             bucket = s["exposure"]
             by_score[bucket] = by_score.get(bucket, 0) + 1
-        print(f"\nAverage exposure across {len(vals)} occupations: {avg:.1f}")
-        print("Distribution:")
+        print(f"\nExposition moyenne sur {len(vals)} métiers : {avg:.1f}")
+        print("Distribution :")
         for k in sorted(by_score):
             print(f"  {k}: {'█' * by_score[k]} ({by_score[k]})")
 

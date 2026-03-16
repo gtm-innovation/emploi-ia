@@ -12,12 +12,22 @@ wheels/
 # Secrets
 .env
 
-# Parsed markdown (reproducible via process.py)
+# Parsed markdown (reproducible via build_occupations.py)
 pages/
+
+# ROME raw data (downloaded from francetravail.org)
+rome_data.zip
+unix_*.json
+
+# BMO Excel (downloaded from francetravail.org)
+bmo_2025.xlsx
 
 # Embeddings (unused in final visualization)
 embed.py
 embeddings.json
+
+# Original US HTML data
+html/
 
 # macOS
 .DS_Store
