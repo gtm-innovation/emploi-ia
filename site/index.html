@@ -231,7 +231,7 @@ canvas#canvas {
 <div id="sidebar">
   <div>
     <h1>Exposition des Métiers Français à l'IA</h1>
-    <div class="subtitle">1 584 métiers ROME &middot; surface = recrutements &middot; couleur = exposition IA<br>Données <a href="https://www.francetravail.org/opendata/repertoire-operationnel-des-meti.html">ROME 4.0</a> &middot; <a href="https://www.data.gouv.fr/datasets/enquete-besoins-en-main-doeuvre-bmo">BMO 2025</a><br>Scoré par Gemini Flash</div>
+    <div class="subtitle">217 familles professionnelles &middot; surface = recrutements &middot; couleur = exposition IA<br>Données <a href="https://www.data.gouv.fr/datasets/enquete-besoins-en-main-doeuvre-bmo">BMO 2025</a> &middot; <a href="https://dares.travail-emploi.gouv.fr/donnees/la-nomenclature-des-familles-professionnelles-2021">FAP 2021</a><br>Scoré par Gemini Flash</div>
   </div>
 
   <div class="stat-section">
@@ -258,14 +258,9 @@ canvas#canvas {
   </div>
 
   <div class="stat-section">
-    <h3>Exposition par formation</h3>
-    <div class="hbar-chart" id="eduChart"></div>
-  </div>
-
-  <div class="stat-section">
-    <h3>Métiers très exposés</h3>
+    <h3>Familles très exposées</h3>
     <div class="stat-big" id="statHighExposure">&mdash;</div>
-    <div class="stat-label">métiers avec score &ge; 7</div>
+    <div class="stat-label">familles avec score &ge; 7</div>
   </div>
 
   <div class="gradient-legend">
@@ -492,7 +487,8 @@ function draw() {
       ctx.fillText(r.title, rx + 5, ry + 4);
 
       if (rh > 34 && rw > 60) {
-        const info = (r.exposure != null ? r.exposure + "/10" : "") +
+        const expStr = r.exposure != null ? (Number.isInteger(r.exposure) ? r.exposure : r.exposure.toFixed(1)) : "";
+        const info = (expStr ? expStr + "/10" : "") +
                      (r.jobs ? " \u00b7 " + formatNumber(r.jobs) + " recrutements" : "");
         ctx.font = `400 ${Math.max(8, fontSize - 2)}px -apple-system, system-ui, sans-serif`;
         ctx.fillStyle = "rgba(255,255,255,0.5)";
@@ -546,7 +542,7 @@ function showTooltip(d, mx, my) {
     const span = document.createElement("span");
     span.style.color = color;
     span.style.fontWeight = "600";
-    span.textContent = "Exposition IA : " + score + "/10";
+    span.textContent = "Exposition IA : " + (Number.isInteger(score) ? score : score.toFixed(1)) + "/10";
     exposureEl.appendChild(span);
     const barOuter = document.createElement("div");
     barOuter.style.cssText = "margin-top:3px;height:4px;background:rgba(255,255,255,0.08);border-radius:2px;";
@@ -566,9 +562,9 @@ function showTooltip(d, mx, my) {
   const statsEl = tt.querySelector(".tt-stats");
   statsEl.textContent = "";
   const statsData = [
-    ["Code ROME", d.code_rome || "\u2014"],
+    ["Code FAP", d.code_fap || "\u2014"],
     ["Recrutements", formatNumber(d.jobs)],
-    ["Formation", d.education || "\u2014"],
+    ["Métiers ROME", d.rome_count ? d.rome_count.toString() : "\u2014"],
     ["Catégorie", d.category ? d.category.split(",")[0] : "\u2014"],
   ];
   for (const [label, value] of statsData) {
@@ -616,11 +612,11 @@ function computeStats() {
   }
   const weightedAvg = weightedCount > 0 ? weightedSum / weightedCount : 0;
 
-  // Histogram: jobs per exposure score 0-10
+  // Histogram: jobs per exposure score 0-10 (round to nearest integer)
   const histogram = new Array(11).fill(0);
   for (const d of data) {
     if (d.exposure != null && d.jobs) {
-      histogram[d.exposure] += d.jobs;
+      histogram[Math.round(d.exposure)] += d.jobs;
     }
   }
 
@@ -635,8 +631,9 @@ function computeStats() {
   for (const tier of tiers) {
     tier.jobs = 0;
     for (const d of data) {
+      const rounded = Math.round(d.exposure);
       if (d.exposure != null && d.jobs &&
-          d.exposure >= tier.range[0] && d.exposure <= tier.range[1]) {
+          rounded >= tier.range[0] && rounded <= tier.range[1]) {
         tier.jobs += d.jobs;
       }
     }
@@ -714,54 +711,6 @@ function computeStats() {
     tierEl.appendChild(row);
   }
 
-  // Exposure by education
-  const eduGroups = [
-    { label: "Sans diplôme", match: ["Sans diplôme"] },
-    { label: "CAP / BEP", match: ["CAP / BEP"] },
-    { label: "Bac", match: ["Bac / Bac pro"] },
-    { label: "Bac+2", match: ["Bac+2 / BTS-DUT"] },
-    { label: "Bac+3", match: ["Bac+3 / Licence"] },
-    { label: "Bac+5", match: ["Bac+5 / Master"] },
-    { label: "Doctorat", match: ["Doctorat / État"] },
-  ];
-  const eduChartEl = document.getElementById("eduChart");
-  eduChartEl.textContent = "";
-  for (const grp of eduGroups) {
-    let wSum = 0, wCount = 0;
-    for (const d of data) {
-      if (d.exposure != null && d.jobs && grp.match.includes(d.education)) {
-        wSum += d.exposure * d.jobs;
-        wCount += d.jobs;
-      }
-    }
-    const avg = wCount > 0 ? wSum / wCount : 0;
-    const pct = avg / 10 * 100;
-
-    const row = document.createElement("div");
-    row.className = "hbar-row";
-
-    const labelSpan = document.createElement("span");
-    labelSpan.className = "hbar-label";
-    labelSpan.textContent = grp.label;
-
-    const track = document.createElement("div");
-    track.className = "hbar-track";
-    const fill = document.createElement("div");
-    fill.className = "hbar-fill";
-    fill.style.width = pct + "%";
-    fill.style.background = exposureColorCSS(avg, 0.8);
-    track.appendChild(fill);
-
-    const valSpan = document.createElement("span");
-    valSpan.className = "hbar-val";
-    valSpan.textContent = avg.toFixed(1);
-
-    row.appendChild(labelSpan);
-    row.appendChild(track);
-    row.appendChild(valSpan);
-    eduChartEl.appendChild(row);
-  }
-
   // High exposure
   document.getElementById("statHighExposure").textContent = highExposureCount;
 }
@@ -776,18 +725,15 @@ canvas.addEventListener("mousemove", (e) => {
   }
   if (hovered) {
     showTooltip(hovered, e.clientX, e.clientY);
-    canvas.style.cursor = "pointer";
+    canvas.style.cursor = "default";
   } else {
     hideTooltip();
     canvas.style.cursor = "default";
   }
 });
 
-canvas.addEventListener("click", (e) => {
-  const hit = hitTest(e.clientX, e.clientY);
-  if (hit && hit.code_rome) {
-    window.open("https://candidat.francetravail.fr/metierscope/fiche-metier/" + encodeURIComponent(hit.code_rome), "_blank");
-  }
+canvas.addEventListener("click", () => {
+  // No external link for FAP groups
 });
 
 canvas.addEventListener("mouseleave", () => {

@@ -26,6 +26,10 @@ bmo_2025.xlsx
 embed.py
 embeddings.json
 
+# DPAE embauches data (downloaded from data.gouv.fr)
+contrats_30j.csv
+contrats_30j.zip
+
 # Original US HTML data
 html/
 
