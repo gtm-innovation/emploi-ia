@@ -1,6 +1,6 @@
 # Exposition des Métiers Français à l'IA
 
-Analyse du degré d'exposition à l'IA de chaque métier du marché de l'emploi français, à partir des données du [ROME 4.0](https://www.francetravail.org/opendata/repertoire-operationnel-des-meti.html) (Répertoire Opérationnel des Métiers et des Emplois) de France Travail.
+Analyse du degré d'exposition à l'IA de chaque métier du marché de l'emploi français, à partir des données du [ROME 4.0](https://www.francetravail.org/accueil/mot-cle.html?tagRecherche=rome+4.0) (Répertoire Opérationnel des Métiers et des Emplois) de France Travail.
 
 Inspiré de [joshkale/jobs](https://github.com/joshkale/jobs) (version US avec les données BLS).
 
@@ -60,5 +60,5 @@ cd site && python -m http.server 8000
 
 ## Sources de données
 
-- [ROME 4.0](https://www.francetravail.org/opendata/repertoire-operationnel-des-meti.html) — France Travail (open data)
+- [ROME 4.0](https://www.francetravail.org/accueil/mot-cle.html?tagRecherche=rome+4.0) — France Travail (open data)
 - [BMO 2025](https://www.data.gouv.fr/datasets/enquete-besoins-en-main-doeuvre-bmo) — France Travail / DARES
