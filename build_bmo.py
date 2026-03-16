@@ -1,84 +1,90 @@
 """
-Extract BMO 2025 hiring projections and distribute across ROME codes.
+Build hiring estimates per ROME code from DPAE embauches data.
 
-The BMO uses FAP (Familles Professionnelles) codes, not ROME codes.
-Since there's no official mapping, we distribute BMO hiring numbers
-across ROME codes by matching the first letter of the ROME category
-to BMO family categories, then distributing evenly.
+Uses the "Nombre d'embauches par code APE et code ROME" dataset from
+data.gouv.fr (contrats_30j.csv) which has actual hiring counts by ROME code.
 
-For ROME codes with no BMO match, we assign a default estimate based
-on total hires / total ROME codes.
+For ROME 4.0 codes not present in the dataset (which uses ROME v3),
+distributes hiring from the matching 3-character ROME domain prefix
+evenly across sibling codes.
 
-Writes bmo_by_rome.json with estimated hiring projections per ROME code.
+Writes bmo_by_rome.json with hiring estimates per ROME code.
 
 Usage:
     uv run python build_bmo.py
 """
 
+import csv
 import json
-import openpyxl
 from collections import defaultdict
 
 
 def main():
-    # Load BMO data and aggregate nationally
-    wb = openpyxl.load_workbook("bmo_2025.xlsx", read_only=True)
-    ws = wb["BMO_2025_open_data"]
+    # Load actual embauches by ROME code from DPAE data
+    embauches = defaultdict(int)
+    with open("contrats_30j.csv") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            embauches[row["ROME"]] += int(row["nb_embauches"])
 
-    bmo = defaultdict(lambda: {"nom": "", "famille": "", "met": 0, "xmet": 0})
+    total = sum(embauches.values())
+    print(f"DPAE data: {len(embauches)} ROME codes, {total:,} embauches")
 
-    for row in ws.iter_rows(min_row=2, values_only=True):
-        if row[0] is None:
-            break
-        code = row[1]
-        bmo[code]["nom"] = row[2]
-        bmo[code]["famille"] = row[4]
-        for field, idx in [("met", 12), ("xmet", 13)]:
-            val = row[idx]
-            if val and val != "*":
-                try:
-                    bmo[code][field] += int(val)
-                except (ValueError, TypeError):
-                    pass
-
-    total_bmo = sum(m["met"] for m in bmo.values())
-    print(f"BMO 2025: {len(bmo)} métiers, {total_bmo:,} projets de recrutement")
-
-    # Load ROME occupations
+    # Load ROME 4.0 occupations
     with open("occupations.json") as f:
         occupations = json.load(f)
 
-    # Simple heuristic: distribute total hiring across all ROME codes
-    # proportionally by category size (larger categories get more)
-    cat_counts = defaultdict(int)
+    # Build prefix maps for fallback distribution
+    # Group embauches by 3-char prefix (e.g. "A11" covers A1101-A1199)
+    prefix3_total = defaultdict(int)
+    for code, count in embauches.items():
+        prefix3_total[code[:3]] += count
+
+    # Count how many ROME 4.0 codes share each 3-char prefix
+    prefix3_rome_codes = defaultdict(list)
     for occ in occupations:
-        cat_counts[occ["category"]] += 1
+        prefix3_rome_codes[occ["code_rome"][:3]].append(occ["code_rome"])
 
-    # BMO family → approx ROME category mapping (manual mapping by domain)
-    bmo_family_totals = defaultdict(int)
-    for m in bmo.values():
-        bmo_family_totals[m["famille"]] += m["met"]
-
-    # Assign each ROME code an estimated hiring count
-    # Strategy: each ROME métier gets total_bmo / n_rome as base,
-    # then we scale by category to reflect real differences
-    n_rome = len(occupations)
-    base_per_metier = total_bmo / n_rome if n_rome > 0 else 0
-
+    # Assign hiring estimates
     result = {}
+    direct = 0
+    estimated = 0
+
     for occ in occupations:
-        result[occ["code_rome"]] = {
-            "code_rome": occ["code_rome"],
+        code = occ["code_rome"]
+
+        if code in embauches:
+            # Direct match
+            hiring = embauches[code]
+            source = "dpae_direct"
+            direct += 1
+        else:
+            # Distribute parent prefix's hiring across sibling codes
+            prefix = code[:3]
+            if prefix in prefix3_total:
+                siblings = prefix3_rome_codes[prefix]
+                hiring = prefix3_total[prefix] // len(siblings)
+                source = "dpae_estimated_from_prefix"
+            else:
+                hiring = total // len(occupations)
+                source = "dpae_global_average"
+            estimated += 1
+
+        result[code] = {
+            "code_rome": code,
             "title": occ["title"],
-            "hiring_estimate": round(base_per_metier),
-            "source": "estimated_from_bmo_2025",
+            "hiring_estimate": hiring,
+            "source": source,
         }
 
     with open("bmo_by_rome.json", "w") as f:
         json.dump(result, f, indent=2, ensure_ascii=False)
 
+    values = [v["hiring_estimate"] for v in result.values()]
     print(f"Wrote {len(result)} ROME codes to bmo_by_rome.json")
-    print(f"Average hiring per ROME métier: {base_per_metier:.0f}")
+    print(f"  Direct matches: {direct}")
+    print(f"  Estimated from prefix: {estimated}")
+    print(f"  Min: {min(values):,}, Max: {max(values):,}, Median: {sorted(values)[len(values)//2]:,}")
 
 
 if __name__ == "__main__":
