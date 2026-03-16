@@ -258,6 +258,11 @@ canvas#canvas {
   </div>
 
   <div class="stat-section">
+    <h3>Exposition par salaire</h3>
+    <div class="hbar-chart" id="salaryChart"></div>
+  </div>
+
+  <div class="stat-section">
     <h3>Familles très exposées</h3>
     <div class="stat-big" id="statHighExposure">&mdash;</div>
     <div class="stat-label">familles avec score &ge; 7</div>
@@ -564,6 +569,7 @@ function showTooltip(d, mx, my) {
   const statsData = [
     ["Code FAP", d.code_fap || "\u2014"],
     ["Recrutements", formatNumber(d.jobs)],
+    ["Salaire médian", d.salary ? d.salary.toLocaleString("fr-FR") + " €/mois" : "\u2014"],
     ["Métiers ROME", d.rome_count ? d.rome_count.toString() : "\u2014"],
     ["Catégorie", d.category ? d.category.split(",")[0] : "\u2014"],
   ];
@@ -638,6 +644,54 @@ function computeStats() {
       }
     }
     tier.pct = totalJobs > 0 ? (tier.jobs / totalJobs * 100) : 0;
+  }
+
+  // Exposure by salary bracket
+  const salaryBrackets = [
+    { label: "< 1 300 €", min: 0, max: 1300 },
+    { label: "1 300-1 600 €", min: 1300, max: 1600 },
+    { label: "1 600-2 000 €", min: 1600, max: 2000 },
+    { label: "2 000-2 500 €", min: 2000, max: 2500 },
+    { label: "2 500-3 000 €", min: 2500, max: 3000 },
+    { label: "> 3 000 €", min: 3000, max: Infinity },
+  ];
+  const salaryChartEl = document.getElementById("salaryChart");
+  salaryChartEl.textContent = "";
+  for (const bracket of salaryBrackets) {
+    let wSum = 0, wCount = 0;
+    for (const d of data) {
+      if (d.exposure != null && d.jobs && d.salary != null &&
+          d.salary >= bracket.min && d.salary < bracket.max) {
+        wSum += d.exposure * d.jobs;
+        wCount += d.jobs;
+      }
+    }
+    const avg = wCount > 0 ? wSum / wCount : 0;
+    const pct = avg / 10 * 100;
+
+    const row = document.createElement("div");
+    row.className = "hbar-row";
+
+    const labelSpan = document.createElement("span");
+    labelSpan.className = "hbar-label";
+    labelSpan.textContent = bracket.label;
+
+    const track = document.createElement("div");
+    track.className = "hbar-track";
+    const fill = document.createElement("div");
+    fill.className = "hbar-fill";
+    fill.style.width = pct + "%";
+    fill.style.background = exposureColorCSS(avg, 0.8);
+    track.appendChild(fill);
+
+    const valSpan = document.createElement("span");
+    valSpan.className = "hbar-val";
+    valSpan.textContent = avg.toFixed(1);
+
+    row.appendChild(labelSpan);
+    row.appendChild(track);
+    row.appendChild(valSpan);
+    salaryChartEl.appendChild(row);
   }
 
   // High exposure count (score >= 7)

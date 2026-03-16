@@ -5,7 +5,7 @@
     "category": "Agriculteurs, éleveurs, sylviculteurs, bûcherons",
     "code_fap": "A0X40",
     "jobs": 92905,
-    "education": "",
+    "salary": 1400,
     "exposure": 6.0,
     "exposure_rationale": "Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -16,7 +16,7 @@
     "category": "Agriculteurs, éleveurs, sylviculteurs, bûcherons",
     "code_fap": "A0X41",
     "jobs": 6702,
-    "education": "",
+    "salary": 1394,
     "exposure": 2.7,
     "exposure_rationale": "Métiers les moins exposés : Aide d'élevage agricole, Eleveur / Eleveuse d'animaux sauvages, Eleveur / Eleveuse d'ovins. Score moyen sur 6 métiers ROME.",
     "rome_count": 6
@@ -27,7 +27,7 @@
     "category": "Agriculteurs, éleveurs, sylviculteurs, bûcherons",
     "code_fap": "A0X42",
     "jobs": 3181,
-    "education": "",
+    "salary": 1638,
     "exposure": 3.3,
     "exposure_rationale": "Métiers les moins exposés : Bûcheron / Bûcheronne, Garde de parc naturel. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -38,7 +38,7 @@
     "category": "Agriculteurs, éleveurs, sylviculteurs, bûcherons",
     "code_fap": "A0X43",
     "jobs": 5667,
-    "education": "",
+    "salary": 1625,
     "exposure": 5.0,
     "exposure_rationale": "Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -49,7 +49,7 @@
     "category": "Maraîchers, jardiniers, viticulteurs",
     "code_fap": "A1X40",
     "jobs": 21710,
-    "education": "",
+    "salary": 1295,
     "exposure": 3.0,
     "exposure_rationale": "Métiers les moins exposés : Aide agricole en production végétale. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -60,7 +60,7 @@
     "category": "Maraîchers, jardiniers, viticulteurs",
     "code_fap": "A1X41",
     "jobs": 31304,
-    "education": "",
+    "salary": 1452,
     "exposure": 3.0,
     "exposure_rationale": "Métiers les plus exposés : Architecte du bâtiment. Métiers les moins exposés : Agent / Agente d'entretien des espaces naturels, Agent / Agente d'entretien des espaces verts. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -71,7 +71,7 @@
     "category": "Maraîchers, jardiniers, viticulteurs",
     "code_fap": "A1X42",
     "jobs": 86304,
-    "education": "",
+    "salary": 1300,
     "exposure": 2.0,
     "exposure_rationale": "Métiers les moins exposés : Arboriculteur / Arboricultrice, Cueilleur / Cueilleuse de fruits. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -82,7 +82,7 @@
     "category": "Techniciens et cadres de l'agriculture",
     "code_fap": "A2X70",
     "jobs": 3905,
-    "education": "",
+    "salary": 1958,
     "exposure": 5.8,
     "exposure_rationale": "Métiers les plus exposés : Ingénieur / Ingénieure d'études et de recherche agricoles. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -93,7 +93,7 @@
     "category": "Techniciens et cadres de l'agriculture",
     "code_fap": "A2X90",
     "jobs": 922,
-    "education": "",
+    "salary": 2500,
     "exposure": 5.4,
     "exposure_rationale": "Métiers les plus exposés : Ingénieur / Ingénieure d'études et de recherche agricoles. Score moyen sur 5 métiers ROME.",
     "rome_count": 5
@@ -104,7 +104,7 @@
     "category": "Marins, pêcheurs, aquaculteurs",
     "code_fap": "A3X40",
     "jobs": 3041,
-    "education": "",
+    "salary": 1500,
     "exposure": 2.0,
     "exposure_rationale": "Métiers les moins exposés : Marin-pêcheur, Saliculteur / Salicultrice. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -115,7 +115,7 @@
     "category": "Marins, pêcheurs, aquaculteurs",
     "code_fap": "A3X41",
     "jobs": 1294,
-    "education": "",
+    "salary": 2085,
     "exposure": 2.0,
     "exposure_rationale": "Métiers les moins exposés : Marin, Matelot de la navigation fluviale. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -126,7 +126,7 @@
     "category": "Marins, pêcheurs, aquaculteurs",
     "code_fap": "A3X90",
     "jobs": 560,
-    "education": "",
+    "salary": 2085,
     "exposure": 4.3,
     "exposure_rationale": "Métiers les moins exposés : Marin. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -137,7 +137,7 @@
     "category": "Ouvriers des travaux publics, du béton et de l'extraction",
     "code_fap": "B0X30",
     "jobs": 9915,
-    "education": "",
+    "salary": 1560,
     "exposure": 1.5,
     "exposure_rationale": "Métiers les moins exposés : Extracteur / Extractrice de roches, Ouvrier / Ouvrière en voiries, Scaphandrier / Scaphandrière. Score moyen sur 6 métiers ROME.",
     "rome_count": 6
@@ -148,7 +148,7 @@
     "category": "Ouvriers des travaux publics, du béton et de l'extraction",
     "code_fap": "B0X31",
     "jobs": 9387,
-    "education": "",
+    "salary": 1560,
     "exposure": 1.5,
     "exposure_rationale": "Métiers les moins exposés : Extracteur / Extractrice de roches, Ouvrier / Ouvrière en voiries, Scaphandrier / Scaphandrière. Score moyen sur 6 métiers ROME.",
     "rome_count": 6
@@ -159,7 +159,7 @@
     "category": "Ouvriers des travaux publics, du béton et de l'extraction",
     "code_fap": "B0X32",
     "jobs": 9239,
-    "education": "",
+    "salary": 1560,
     "exposure": 3.0,
     "exposure_rationale": "Métiers les moins exposés : Coffreur / Coffreuse. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -170,7 +170,7 @@
     "category": "Ouvriers du gros œuvre du bâtiment",
     "code_fap": "B1X30",
     "jobs": 3371,
-    "education": "",
+    "salary": 1841,
     "exposure": 2.0,
     "exposure_rationale": "Métiers les moins exposés : Maçon / Maçonne. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -181,7 +181,7 @@
     "category": "Ouvriers du gros œuvre du bâtiment",
     "code_fap": "B1X31",
     "jobs": 16606,
-    "education": "",
+    "salary": 1841,
     "exposure": 2.0,
     "exposure_rationale": "Métiers les moins exposés : Maçon / Maçonne. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -192,7 +192,7 @@
     "category": "Ouvriers du gros œuvre du bâtiment",
     "code_fap": "B1X33",
     "jobs": 7150,
-    "education": "",
+    "salary": 1841,
     "exposure": 3.0,
     "exposure_rationale": "Métiers les moins exposés : Métallier / Métallière, Monteur / Monteuse de structures bois, Monteur / Monteuse en structures métalliques. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -203,7 +203,7 @@
     "category": "Ouvriers du gros œuvre du bâtiment",
     "code_fap": "B1X34",
     "jobs": 11263,
-    "education": "",
+    "salary": 1841,
     "exposure": 4.0,
     "exposure_rationale": "Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -214,7 +214,7 @@
     "category": "Ouvriers du gros œuvre du bâtiment",
     "code_fap": "B1X38",
     "jobs": 830,
-    "education": "",
+    "salary": 1841,
     "exposure": 2.0,
     "exposure_rationale": "Métiers les moins exposés : Tailleur / Tailleuse de pierre. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -225,7 +225,7 @@
     "category": "Ouvriers du second œuvre du bâtiment",
     "code_fap": "B2X30",
     "jobs": 8305,
-    "education": "",
+    "salary": 1700,
     "exposure": 2.3,
     "exposure_rationale": "Métiers les moins exposés : Carreleur / Carreleuse, Plâtrier / Plâtrière, Solier / Solière. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -236,7 +236,7 @@
     "category": "Ouvriers du second œuvre du bâtiment",
     "code_fap": "B2X31",
     "jobs": 5884,
-    "education": "",
+    "salary": 1700,
     "exposure": 1.3,
     "exposure_rationale": "Métiers les moins exposés : Façadier / Façadière itéiste, Etancheur / Etancheuse, Cordiste. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -247,7 +247,7 @@
     "category": "Ouvriers du second œuvre du bâtiment",
     "code_fap": "B2X32",
     "jobs": 13979,
-    "education": "",
+    "salary": 1700,
     "exposure": 3.0,
     "exposure_rationale": "Métiers les moins exposés : Electricien / Electricienne du bâtiment. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -258,7 +258,7 @@
     "category": "Ouvriers du second œuvre du bâtiment",
     "code_fap": "B2X33",
     "jobs": 14329,
-    "education": "",
+    "salary": 1700,
     "exposure": 2.5,
     "exposure_rationale": "Métiers les moins exposés : Chauffagiste, Plombier / Plombière sanitaire. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -269,7 +269,7 @@
     "category": "Ouvriers du second œuvre du bâtiment",
     "code_fap": "B2X35",
     "jobs": 1624,
-    "education": "",
+    "salary": 1700,
     "exposure": 2.0,
     "exposure_rationale": "Métiers les moins exposés : Monteur / Monteuse de réseaux électriques. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -280,7 +280,7 @@
     "category": "Ouvriers du second œuvre du bâtiment",
     "code_fap": "B2X36",
     "jobs": 8426,
-    "education": "",
+    "salary": 1700,
     "exposure": 2.0,
     "exposure_rationale": "Métiers les moins exposés : Peintre en bâtiment. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -291,7 +291,7 @@
     "category": "Ouvriers du second œuvre du bâtiment",
     "code_fap": "B2X37",
     "jobs": 5422,
-    "education": "",
+    "salary": 1700,
     "exposure": 3.3,
     "exposure_rationale": "Métiers les moins exposés : Menuisier / Menuisière aluminium, Plaquiste. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -302,7 +302,7 @@
     "category": "Ouvriers du second œuvre du bâtiment",
     "code_fap": "B2X38",
     "jobs": 11881,
-    "education": "",
+    "salary": 1700,
     "exposure": 3.3,
     "exposure_rationale": "Métiers les moins exposés : Menuisier / Menuisière aluminium, Plaquiste. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -313,7 +313,7 @@
     "category": "Conducteurs d'engins du bâtiment et des travaux publics",
     "code_fap": "B5X40",
     "jobs": 6641,
-    "education": "",
+    "salary": 1800,
     "exposure": 2.5,
     "exposure_rationale": "Métiers les moins exposés : Conducteur / Conductrice d'engins de chantier, Grutier / Grutière. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -324,7 +324,7 @@
     "category": "Techniciens, agents de maîtrise et assimilés du bâtiment et des travaux publics",
     "code_fap": "B6X70",
     "jobs": 556,
-    "education": "",
+    "salary": 1891,
     "exposure": 6.0,
     "exposure_rationale": "Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -335,7 +335,7 @@
     "category": "Techniciens, agents de maîtrise et assimilés du bâtiment et des travaux publics",
     "code_fap": "B6X71",
     "jobs": 6882,
-    "education": "",
+    "salary": 1980,
     "exposure": 6.2,
     "exposure_rationale": "Métiers les plus exposés : Ingénieur / Ingénieure d'études de prix BTP, Métreur / Métreuse de la construction. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -346,7 +346,7 @@
     "category": "Techniciens, agents de maîtrise et assimilés du bâtiment et des travaux publics",
     "code_fap": "B6X72",
     "jobs": 2208,
-    "education": "",
+    "salary": 1861,
     "exposure": 8.0,
     "exposure_rationale": "Métiers les plus exposés : Dessinateur-projeteur / Dessinatrice-projeteuse de la construction. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -357,7 +357,7 @@
     "category": "Techniciens, agents de maîtrise et assimilés du bâtiment et des travaux publics",
     "code_fap": "B6X73",
     "jobs": 5729,
-    "education": "",
+    "salary": 2250,
     "exposure": 2.3,
     "exposure_rationale": "Métiers les moins exposés : Ouvrier / Ouvrière en voiries, Cordiste, Scaphandrier / Scaphandrière. Score moyen sur 26 métiers ROME.",
     "rome_count": 26
@@ -368,7 +368,7 @@
     "category": "Techniciens, agents de maîtrise et assimilés du bâtiment et des travaux publics",
     "code_fap": "B6X74",
     "jobs": 7899,
-    "education": "",
+    "salary": 2058,
     "exposure": 5.5,
     "exposure_rationale": "Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -379,7 +379,7 @@
     "category": "Cadres du bâtiment et des travaux publics",
     "code_fap": "B7X90",
     "jobs": 1644,
-    "education": "",
+    "salary": 2808,
     "exposure": 7.0,
     "exposure_rationale": "Métiers les plus exposés : Architecte du bâtiment. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -390,7 +390,7 @@
     "category": "Cadres du bâtiment et des travaux publics",
     "code_fap": "B7X91",
     "jobs": 2296,
-    "education": "",
+    "salary": 2866,
     "exposure": 6.5,
     "exposure_rationale": "Métiers les plus exposés : Dessinateur-projeteur / Dessinatrice-projeteuse de la construction, Ingénieur / Ingénieure d'études de prix BTP, Métreur / Métreuse de la construction. Score moyen sur 6 métiers ROME.",
     "rome_count": 6
@@ -401,7 +401,7 @@
     "category": "Cadres du bâtiment et des travaux publics",
     "code_fap": "B7X92",
     "jobs": 7478,
-    "education": "",
+    "salary": 2808,
     "exposure": 4.8,
     "exposure_rationale": "Métiers les moins exposés : Maçon / Maçonne. Score moyen sur 5 métiers ROME.",
     "rome_count": 5
@@ -412,7 +412,7 @@
     "category": "Ouvriers de l'électricité et de l'électronique",
     "code_fap": "C0X30",
     "jobs": 9008,
-    "education": "",
+    "salary": 1500,
     "exposure": 4.2,
     "exposure_rationale": "Métiers les plus exposés : Chef / Cheffe d'atelier production électricité-électronique. Métiers les moins exposés : Assembleur / Assembleuse en produits électriques et électroniques, Câbleur / Câbleuse d'armoires. Score moyen sur 6 métiers ROME.",
     "rome_count": 6
@@ -423,7 +423,7 @@
     "category": "Techniciens, agents de maîtrise et assimilés de l'électricité et de l'électronique",
     "code_fap": "C2X70",
     "jobs": 3180,
-    "education": "",
+    "salary": 1968,
     "exposure": 4.2,
     "exposure_rationale": "Métiers les plus exposés : Chef / Cheffe d'atelier production électricité-électronique. Métiers les moins exposés : Assembleur / Assembleuse en produits électriques et électroniques, Câbleur / Câbleuse d'armoires. Score moyen sur 6 métiers ROME.",
     "rome_count": 6
@@ -434,7 +434,7 @@
     "category": "Ouvriers travaillant par enlèvement de métal",
     "code_fap": "D0X30",
     "jobs": 4352,
-    "education": "",
+    "salary": 1538,
     "exposure": 4.5,
     "exposure_rationale": "Métiers les moins exposés : Mouleur noyauteur / Mouleuse noyauteuse. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -445,7 +445,7 @@
     "category": "Ouvriers travaillant par enlèvement de métal",
     "code_fap": "D0X31",
     "jobs": 5385,
-    "education": "",
+    "salary": 1538,
     "exposure": 4.5,
     "exposure_rationale": "Métiers les moins exposés : Mouleur noyauteur / Mouleuse noyauteuse. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -456,7 +456,7 @@
     "category": "Ouvriers travaillant par enlèvement de métal",
     "code_fap": "D0X33",
     "jobs": 814,
-    "education": "",
+    "salary": 1538,
     "exposure": 5.0,
     "exposure_rationale": "Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -467,7 +467,7 @@
     "category": "Ouvriers travaillant par formage de métal",
     "code_fap": "D1X30",
     "jobs": 5516,
-    "education": "",
+    "salary": 1841,
     "exposure": 3.5,
     "exposure_rationale": "Métiers les moins exposés : Forgeron industriel / Forgeronne industrielle. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -478,7 +478,7 @@
     "category": "Ouvriers travaillant par formage de métal",
     "code_fap": "D1X32",
     "jobs": 1014,
-    "education": "",
+    "salary": 1841,
     "exposure": 3.0,
     "exposure_rationale": "Métiers les moins exposés : Tuyauteur / Tuyauteuse. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -489,7 +489,7 @@
     "category": "Ouvriers travaillant par formage de métal",
     "code_fap": "D1X33",
     "jobs": 4681,
-    "education": "",
+    "salary": 1841,
     "exposure": 2.0,
     "exposure_rationale": "Métiers les moins exposés : Soudeur / Soudeuse. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -500,7 +500,7 @@
     "category": "Ouvriers de la mécanique et du traitement de surface",
     "code_fap": "D2X30",
     "jobs": 8207,
-    "education": "",
+    "salary": 1756,
     "exposure": 3.3,
     "exposure_rationale": "Métiers les moins exposés : Ajusteur-monteur / Ajusteuse-monteuse, Assembleur monteur / Assembleuse monteuse. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -511,7 +511,7 @@
     "category": "Ouvriers de la mécanique et du traitement de surface",
     "code_fap": "D2X31",
     "jobs": 5462,
-    "education": "",
+    "salary": 1756,
     "exposure": 4.0,
     "exposure_rationale": "Métiers les moins exposés : Ajusteur-monteur / Ajusteuse-monteuse, Assembleur monteur / Assembleuse monteuse. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -522,7 +522,7 @@
     "category": "Ouvriers de la mécanique et du traitement de surface",
     "code_fap": "D2X32",
     "jobs": 1717,
-    "education": "",
+    "salary": 1756,
     "exposure": 2.8,
     "exposure_rationale": "Métiers les moins exposés : Opérateur / Opératrice de traitement d'abrasion de surface, Agent / Agente de traitement de surface, Opérateur / Opératrice de traitement thermique. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -533,7 +533,7 @@
     "category": "Techniciens et agents de maîtrise des industries mécaniques",
     "code_fap": "D6X70",
     "jobs": 3114,
-    "education": "",
+    "salary": 2173,
     "exposure": 3.5,
     "exposure_rationale": "Métiers les moins exposés : Opérateur / Opératrice de traitement d'abrasion de surface, Agent / Agente de traitement de surface, Opérateur / Opératrice de traitement thermique. Score moyen sur 14 métiers ROME.",
     "rome_count": 14
@@ -544,7 +544,7 @@
     "category": "Techniciens et agents de maîtrise des industries mécaniques",
     "code_fap": "D6X80",
     "jobs": 613,
-    "education": "",
+    "salary": 2266,
     "exposure": 3.6,
     "exposure_rationale": "Métiers les moins exposés : Opérateur / Opératrice de traitement d'abrasion de surface, Agent / Agente de traitement de surface, Opérateur / Opératrice de traitement thermique. Score moyen sur 14 métiers ROME.",
     "rome_count": 14
@@ -555,7 +555,7 @@
     "category": "Pilotes d'installations lourdes des industries de transformation et d'énergie",
     "code_fap": "E0X30",
     "jobs": 4245,
-    "education": "",
+    "salary": 1500,
     "exposure": 6.2,
     "exposure_rationale": "Métiers les plus exposés : Technicien / Technicienne énergie, Technicien / Technicienne de l'industrie du verre. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -566,7 +566,7 @@
     "category": "Ouvriers de la métallurgie, du verre, de la céramique et des matériaux de construction",
     "code_fap": "E1X21",
     "jobs": 1159,
-    "education": "",
+    "salary": 1750,
     "exposure": 4.0,
     "exposure_rationale": "Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -577,7 +577,7 @@
     "category": "Ouvriers de la métallurgie, du verre, de la céramique et des matériaux de construction",
     "code_fap": "E1X30",
     "jobs": 972,
-    "education": "",
+    "salary": 1750,
     "exposure": 2.7,
     "exposure_rationale": "Métiers les moins exposés : Opérateur / Opératrice en Industrie Céramique, Armaturier / Armaturière de l'industrie du béton, Souffleur / Souffleuse de verre. Score moyen sur 6 métiers ROME.",
     "rome_count": 6
@@ -588,7 +588,7 @@
     "category": "Ouvriers de la métallurgie, du verre, de la céramique et des matériaux de construction",
     "code_fap": "E1X41",
     "jobs": 653,
-    "education": "",
+    "salary": 1800,
     "exposure": 4.0,
     "exposure_rationale": "Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -599,7 +599,7 @@
     "category": "Ouvriers des industries chimiques et plastiques",
     "code_fap": "E2X20",
     "jobs": 5851,
-    "education": "",
+    "salary": 2183,
     "exposure": 4.0,
     "exposure_rationale": "Métiers les moins exposés : Plasturgiste, Mouleur-stratifieur / Mouleuse-stratifieuse. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -610,7 +610,7 @@
     "category": "Ouvriers des industries chimiques et plastiques",
     "code_fap": "E2X40",
     "jobs": 3923,
-    "education": "",
+    "salary": 2183,
     "exposure": 4.0,
     "exposure_rationale": "Métiers les moins exposés : Plasturgiste, Mouleur-stratifieur / Mouleuse-stratifieuse. Score moyen sur 5 métiers ROME.",
     "rome_count": 5
@@ -621,7 +621,7 @@
     "category": "Ouvriers des industries agro-alimentaires",
     "code_fap": "E3X20",
     "jobs": 24440,
-    "education": "",
+    "salary": 1799,
     "exposure": 3.0,
     "exposure_rationale": "Métiers les moins exposés : Fromager-affineur / Fromagère-affineuse, Ouvrier / Ouvrière d'abattoir. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -632,7 +632,7 @@
     "category": "Ouvriers des industries agro-alimentaires",
     "code_fap": "E3X40",
     "jobs": 10304,
-    "education": "",
+    "salary": 1799,
     "exposure": 3.7,
     "exposure_rationale": "Métiers les moins exposés : Fromager-affineur / Fromagère-affineuse. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -643,7 +643,7 @@
     "category": "Autres ouvriers des industries de process",
     "code_fap": "E4X30",
     "jobs": 2074,
-    "education": "",
+    "salary": 1799,
     "exposure": 4.7,
     "exposure_rationale": "Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -654,7 +654,7 @@
     "category": "Autres ouvriers des industries de process",
     "code_fap": "E4X32",
     "jobs": 9021,
-    "education": "",
+    "salary": 1799,
     "exposure": 3.7,
     "exposure_rationale": "Métiers les moins exposés : Agent / Agente de conditionnement. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -665,7 +665,7 @@
     "category": "Techniciens et agents de maîtrise des industries de process",
     "code_fap": "E5X70",
     "jobs": 7033,
-    "education": "",
+    "salary": 1799,
     "exposure": 4.4,
     "exposure_rationale": "Métiers les plus exposés : Responsable d'unité de production industrielle, Technicien / Technicienne énergie, Technicien / Technicienne de l'industrie du verre. Métiers les moins exposés : Plasturgiste, Mouleur-stratifieur / Mouleuse-stratifieuse, Agent / Agente de conditionnement. Score moyen sur 22 métiers ROME.",
     "rome_count": 22
@@ -676,7 +676,7 @@
     "category": "Techniciens et agents de maîtrise des industries de process",
     "code_fap": "E5X80",
     "jobs": 1301,
-    "education": "",
+    "salary": 1799,
     "exposure": 4.4,
     "exposure_rationale": "Métiers les plus exposés : Responsable d'unité de production industrielle, Technicien / Technicienne énergie, Technicien / Technicienne de l'industrie du verre. Métiers les moins exposés : Opérateur / Opératrice en Industrie Céramique, Plasturgiste, Mouleur-stratifieur / Mouleuse-stratifieuse. Score moyen sur 18 métiers ROME.",
     "rome_count": 18
@@ -687,7 +687,7 @@
     "category": "Ouvriers, techniciens et agents de maîtrise du textile et du cuir",
     "code_fap": "F0X30",
     "jobs": 1969,
-    "education": "",
+    "salary": 1300,
     "exposure": 3.4,
     "exposure_rationale": "Métiers les moins exposés : Monteur / Monteuse prototypiste cuir et matériaux souples, Opérateur / Opératrice de préparation ou de finition sur articles de cuirs, peaux ou matériaux associés, Cordonnier / Cordonnière. Score moyen sur 9 métiers ROME.",
     "rome_count": 9
@@ -698,7 +698,7 @@
     "category": "Ouvriers, techniciens et agents de maîtrise du textile et du cuir",
     "code_fap": "F0X32",
     "jobs": 3420,
-    "education": "",
+    "salary": 1300,
     "exposure": 3.2,
     "exposure_rationale": "Métiers les moins exposés : Opérateur / Opératrice de finition en industrie du textile, Conducteur / Conductrice de machines de traitement textile, Opérateur / Opératrice de préparation en industrie textile. Score moyen sur 8 métiers ROME.",
     "rome_count": 8
@@ -709,7 +709,7 @@
     "category": "Ouvriers, techniciens et agents de maîtrise du textile et du cuir",
     "code_fap": "F0X33",
     "jobs": 1485,
-    "education": "",
+    "salary": 1300,
     "exposure": 3.8,
     "exposure_rationale": "Métiers les plus exposés : Patronnier / Patronnière. Métiers les moins exposés : Couturier industriel / Couturière industrielle de l'habillement, Retoucheur / Retoucheuse en habillement, Brodeur / Brodeuse. Score moyen sur 6 métiers ROME.",
     "rome_count": 6
@@ -720,7 +720,7 @@
     "category": "Ouvriers et techniciens du travail du bois et de l'ameublement",
     "code_fap": "F1X30",
     "jobs": 701,
-    "education": "",
+    "salary": 1459,
     "exposure": 3.7,
     "exposure_rationale": "Métiers les moins exposés : Tapissier / Tapissière d'ameublement. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -731,7 +731,7 @@
     "category": "Ouvriers et techniciens du travail du bois et de l'ameublement",
     "code_fap": "F1X31",
     "jobs": 3744,
-    "education": "",
+    "salary": 1459,
     "exposure": 4.2,
     "exposure_rationale": "Métiers les plus exposés : Dessinateur / Dessinatrice de structures en bois. Métiers les moins exposés : Assembleur / Assembleuse d'ouvrages en bois, Conducteur / Conductrice de machines à bois, Contremaître / Contremaîtresse en menuiserie. Score moyen sur 5 métiers ROME.",
     "rome_count": 5
@@ -742,7 +742,7 @@
     "category": "Ouvriers, techniciens et agents de maîtrise des industries graphiques",
     "code_fap": "F2X30",
     "jobs": 1031,
-    "education": "",
+    "salary": 1450,
     "exposure": 5.2,
     "exposure_rationale": "Métiers les plus exposés : Préparateur-correcteur / Préparatrice-correctrice en industrie graphique, Opérateur / Opératrice de prépresse. Métiers les moins exposés : Conducteur / Conductrice de machines d'impression, Agent / Agente de façonnage et routage. Score moyen sur 10 métiers ROME.",
     "rome_count": 10
@@ -753,7 +753,7 @@
     "category": "Ouvriers qualifiés de la maintenance",
     "code_fap": "G0A40",
     "jobs": 15437,
-    "education": "",
+    "salary": 1888,
     "exposure": 3.3,
     "exposure_rationale": "Métiers les moins exposés : Préparateur / Préparatrice de bateau, Horloger / Horlogère, Mécanicien / Mécanicienne en mécanique marine ou navale. Score moyen sur 6 métiers ROME.",
     "rome_count": 6
@@ -764,7 +764,7 @@
     "category": "Ouvriers qualifiés de la maintenance",
     "code_fap": "G0A41",
     "jobs": 5611,
-    "education": "",
+    "salary": 2000,
     "exposure": 4.5,
     "exposure_rationale": "Métiers les moins exposés : Electricien / Electricienne de maintenance. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -775,7 +775,7 @@
     "category": "Ouvriers qualifiés de la maintenance",
     "code_fap": "G0A43",
     "jobs": 7032,
-    "education": "",
+    "salary": 1540,
     "exposure": 2.0,
     "exposure_rationale": "Métiers les moins exposés : Agent / Agente d'entretien du bâtiment. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -786,7 +786,7 @@
     "category": "Ouvriers de la réparation automobile",
     "code_fap": "G0B40",
     "jobs": 6648,
-    "education": "",
+    "salary": 1700,
     "exposure": 3.0,
     "exposure_rationale": "Métiers les moins exposés : Carrossier-peintre / Carrossière-peintre. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -797,7 +797,7 @@
     "category": "Ouvriers de la réparation automobile",
     "code_fap": "G0B41",
     "jobs": 21557,
-    "education": "",
+    "salary": 1600,
     "exposure": 3.8,
     "exposure_rationale": "Métiers les moins exposés : Mécanicien-réparateur / Mécanicienne-réparatrice en matériels agricoles. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -808,7 +808,7 @@
     "category": "Techniciens et agents de maîtrise de la maintenance",
     "code_fap": "G1X70",
     "jobs": 3229,
-    "education": "",
+    "salary": 2100,
     "exposure": 4.7,
     "exposure_rationale": "Métiers les plus exposés : Ingénieur / Ingénieure Hygiène, Sécurité et Environnement en industrie (HSE). Métiers les moins exposés : Garde de parc naturel. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -819,7 +819,7 @@
     "category": "Techniciens et agents de maîtrise de la maintenance",
     "code_fap": "G1X71",
     "jobs": 3302,
-    "education": "",
+    "salary": 1994,
     "exposure": 3.8,
     "exposure_rationale": "Métiers les moins exposés : Mécanicien-réparateur / Mécanicienne-réparatrice en matériels agricoles. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -830,7 +830,7 @@
     "category": "Techniciens et agents de maîtrise de la maintenance",
     "code_fap": "G1X72",
     "jobs": 3202,
-    "education": "",
+    "salary": 2020,
     "exposure": 3.5,
     "exposure_rationale": "Métiers les moins exposés : Horloger / Horlogère, Technicien / Technicienne en risques technologiques, Mécanicien / Mécanicienne en mécanique marine ou navale. Score moyen sur 8 métiers ROME.",
     "rome_count": 8
@@ -841,7 +841,7 @@
     "category": "Techniciens et agents de maîtrise de la maintenance",
     "code_fap": "G1X74",
     "jobs": 2940,
-    "education": "",
+    "salary": 2020,
     "exposure": 3.0,
     "exposure_rationale": "Métiers les moins exposés : Frigoriste. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -852,7 +852,7 @@
     "category": "Techniciens et agents de maîtrise de la maintenance",
     "code_fap": "G1X75",
     "jobs": 2487,
-    "education": "",
+    "salary": 2020,
     "exposure": 5.5,
     "exposure_rationale": "Métiers les plus exposés : Ingénieur / Ingénieure support technique. Métiers les moins exposés : Antenniste. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -863,7 +863,7 @@
     "category": "Techniciens et agents de maîtrise de la maintenance",
     "code_fap": "G1X76",
     "jobs": 1614,
-    "education": "",
+    "salary": 2020,
     "exposure": 5.0,
     "exposure_rationale": "Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -874,7 +874,7 @@
     "category": "Techniciens et agents de maîtrise de la maintenance",
     "code_fap": "G1X77",
     "jobs": 2885,
-    "education": "",
+    "salary": 2020,
     "exposure": 5.0,
     "exposure_rationale": "Métiers les plus exposés : Automaticien / Automaticienne en bureau d'études. Métiers les moins exposés : Electricien / Electricienne de maintenance. Score moyen sur 5 métiers ROME.",
     "rome_count": 5
@@ -885,7 +885,7 @@
     "category": "Techniciens et agents de maîtrise de la maintenance",
     "code_fap": "G1X78",
     "jobs": 1011,
-    "education": "",
+    "salary": 2020,
     "exposure": 5.0,
     "exposure_rationale": "Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -896,7 +896,7 @@
     "category": "Techniciens et ouvriers du contrôle qualité et du dessin industriel",
     "code_fap": "H0X40",
     "jobs": 2601,
-    "education": "",
+    "salary": 3120,
     "exposure": 5.5,
     "exposure_rationale": "Métiers les plus exposés : Responsable qualité en industrie. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -907,7 +907,7 @@
     "category": "Techniciens et ouvriers du contrôle qualité et du dessin industriel",
     "code_fap": "H0X90",
     "jobs": 1642,
-    "education": "",
+    "salary": 3431,
     "exposure": 6.0,
     "exposure_rationale": "Métiers les plus exposés : Rédacteur / Rédactrice technique, Responsable qualité en industrie. Score moyen sur 6 métiers ROME.",
     "rome_count": 6
@@ -918,7 +918,7 @@
     "category": "Techniciens et ouvriers du contrôle qualité et du dessin industriel",
     "code_fap": "H0X91",
     "jobs": 1394,
-    "education": "",
+    "salary": 3100,
     "exposure": 8.0,
     "exposure_rationale": "Métiers les plus exposés : Dessinateur / Dessinatrice en électricité-électronique, Dessinateur-projeteur / Dessinatrice-projeteuse en mécanique. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -929,7 +929,7 @@
     "category": "Techniciens et ouvriers du contrôle qualité et du dessin industriel",
     "code_fap": "H0X92",
     "jobs": 4411,
-    "education": "",
+    "salary": 2800,
     "exposure": 8.0,
     "exposure_rationale": "Métiers les plus exposés : Responsable ordonnancement-lancement-planification en industrie, Ingénieur / Ingénieure méthodes et process, Gestionnaire de flux de production. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -940,7 +940,7 @@
     "category": "Ingénieurs et cadres techniques de l'industrie",
     "code_fap": "H1X90",
     "jobs": 4541,
-    "education": "",
+    "salary": 3120,
     "exposure": 5.0,
     "exposure_rationale": "Métiers les plus exposés : Dessinateur / Dessinatrice en électricité-électronique, Dessinateur-projeteur / Dessinatrice-projeteuse en mécanique, Chef / Cheffe d'atelier production électricité-électronique. Métiers les moins exposés : Ajusteur-monteur / Ajusteuse-monteuse, Assembleur monteur / Assembleuse monteuse, Agent / Agente de façonnage et routage. Score moyen sur 23 métiers ROME.",
     "rome_count": 23
@@ -951,7 +951,7 @@
     "category": "Ingénieurs et cadres techniques de l'industrie",
     "code_fap": "H1X91",
     "jobs": 747,
-    "education": "",
+    "salary": 3120,
     "exposure": 5.0,
     "exposure_rationale": "Métiers les plus exposés : Ingénieur / Ingénieure Hygiène, Sécurité et Environnement en industrie (HSE). Métiers les moins exposés : Garde de parc naturel. Score moyen sur 5 métiers ROME.",
     "rome_count": 5
@@ -962,7 +962,7 @@
     "category": "Ingénieurs et cadres techniques de l'industrie",
     "code_fap": "H1X92",
     "jobs": 572,
-    "education": "",
+    "salary": 3120,
     "exposure": 5.5,
     "exposure_rationale": "Métiers les plus exposés : Ingénieur / Ingénieure support technique. Score moyen sur 6 métiers ROME.",
     "rome_count": 6
@@ -973,7 +973,7 @@
     "category": "Ingénieurs et cadres techniques de l'industrie",
     "code_fap": "H1X93",
     "jobs": 3221,
-    "education": "",
+    "salary": 3120,
     "exposure": 6.6,
     "exposure_rationale": "Métiers les plus exposés : Rédacteur / Rédactrice technique, Responsable ordonnancement-lancement-planification en industrie, Ingénieur / Ingénieure méthodes et process. Score moyen sur 8 métiers ROME.",
     "rome_count": 8
@@ -984,7 +984,7 @@
     "category": "Ouvriers de la manutention",
     "code_fap": "J0X30",
     "jobs": 22947,
-    "education": "",
+    "salary": 1380,
     "exposure": 3.0,
     "exposure_rationale": "Métiers les moins exposés : Ouvrier / Ouvrière de manutention portuaire, Déménageur / Déménageuse, Manutentionnaire. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -995,7 +995,7 @@
     "category": "Ouvriers de la manutention",
     "code_fap": "J0X31",
     "jobs": 5590,
-    "education": "",
+    "salary": 1380,
     "exposure": 3.0,
     "exposure_rationale": "Métiers les moins exposés : Ouvrier / Ouvrière de manutention portuaire, Déménageur / Déménageuse, Manutentionnaire. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -1006,7 +1006,7 @@
     "category": "Ouvriers de la manutention",
     "code_fap": "J0X32",
     "jobs": 6457,
-    "education": "",
+    "salary": 1380,
     "exposure": 2.5,
     "exposure_rationale": "Métiers les moins exposés : Cariste, Pontier / Pontière. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -1017,7 +1017,7 @@
     "category": "Ouvriers de la manutention",
     "code_fap": "J0X33",
     "jobs": 31880,
-    "education": "",
+    "salary": 1380,
     "exposure": 6.3,
     "exposure_rationale": "Métiers les plus exposés : Responsable logistique, Approvisionneur / Approvisionneuse logistique. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -1028,7 +1028,7 @@
     "category": "Ouvriers de la manutention",
     "code_fap": "J0X34",
     "jobs": 8203,
-    "education": "",
+    "salary": 1380,
     "exposure": 6.3,
     "exposure_rationale": "Métiers les plus exposés : Responsable logistique, Approvisionneur / Approvisionneuse logistique. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -1039,7 +1039,7 @@
     "category": "Responsable magasinage",
     "code_fap": "J1X80",
     "jobs": 1770,
-    "education": "",
+    "salary": 2006,
     "exposure": 5.4,
     "exposure_rationale": "Métiers les plus exposés : Responsable logistique, Approvisionneur / Approvisionneuse logistique. Métiers les moins exposés : Manutentionnaire. Score moyen sur 5 métiers ROME.",
     "rome_count": 5
@@ -1050,7 +1050,7 @@
     "category": "Facteurs",
     "code_fap": "J2X40",
     "jobs": 4005,
-    "education": "",
+    "salary": 1700,
     "exposure": 3.0,
     "exposure_rationale": "Métiers les moins exposés : Facteur / Factrice. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -1061,7 +1061,7 @@
     "category": "Conducteurs de véhicules",
     "code_fap": "J3X40",
     "jobs": 11694,
-    "education": "",
+    "salary": 1600,
     "exposure": 3.0,
     "exposure_rationale": "Métiers les moins exposés : Ambulancier / Ambulancière. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -1072,7 +1072,7 @@
     "category": "Conducteurs de véhicules",
     "code_fap": "J3X41",
     "jobs": 11852,
-    "education": "",
+    "salary": 1833,
     "exposure": 3.0,
     "exposure_rationale": "Métiers les moins exposés : Conducteur / Conductrice de bus. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -1083,7 +1083,7 @@
     "category": "Conducteurs de véhicules",
     "code_fap": "J3X42",
     "jobs": 17838,
-    "education": "",
+    "salary": 1594,
     "exposure": 2.5,
     "exposure_rationale": "Métiers les moins exposés : Conducteur-livreur / Conductrice-livreuse, Coursier / Coursière. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -1094,7 +1094,7 @@
     "category": "Conducteurs de véhicules",
     "code_fap": "J3X43",
     "jobs": 27753,
-    "education": "",
+    "salary": 1903,
     "exposure": 5.0,
     "exposure_rationale": "Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -1105,7 +1105,7 @@
     "category": "Conducteurs de véhicules",
     "code_fap": "J3X44",
     "jobs": 1625,
-    "education": "",
+    "salary": 2500,
     "exposure": 2.5,
     "exposure_rationale": "Métiers les moins exposés : Conducteur / Conductrice de train, Conducteur / Conductrice de remontées mécaniques. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -1116,7 +1116,7 @@
     "category": "Employés commerciaux des transports et du tourisme",
     "code_fap": "J4X60",
     "jobs": 4738,
-    "education": "",
+    "salary": 2166,
     "exposure": 3.0,
     "exposure_rationale": "Métiers les moins exposés : Personnel Navigant Commercial - PNC -. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -1127,7 +1127,7 @@
     "category": "Employés commerciaux des transports et du tourisme",
     "code_fap": "J4X62",
     "jobs": 3969,
-    "education": "",
+    "salary": 2166,
     "exposure": 6.6,
     "exposure_rationale": "Métiers les plus exposés : Affréteur / Affréteuse, Agent / Agente de transit, Responsable d'agence transport routier de marchandises. Score moyen sur 8 métiers ROME.",
     "rome_count": 8
@@ -1138,7 +1138,7 @@
     "category": "Employés commerciaux des transports et du tourisme",
     "code_fap": "J4X63",
     "jobs": 5473,
-    "education": "",
+    "salary": 2166,
     "exposure": 5.8,
     "exposure_rationale": "Métiers les plus exposés : Chargé / Chargée de promotion touristique, Conseiller / Conseillère en voyages. Métiers les moins exposés : Agent technico-commercial / Agente technico-commerciale en location de véhicules. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -1149,7 +1149,7 @@
     "category": "Agents d'exploitation des transports et maîtrise du tourisme",
     "code_fap": "J5X40",
     "jobs": 3668,
-    "education": "",
+    "salary": 1800,
     "exposure": 5.5,
     "exposure_rationale": "Métiers les plus exposés : Affréteur / Affréteuse, Agent / Agente de transit, Responsable d'agence transport routier de marchandises. Métiers les moins exposés : Opérateur / Opératrice ferroviaire, Personnel Navigant Commercial - PNC -, Agent / Agente de piste. Score moyen sur 12 métiers ROME.",
     "rome_count": 12
@@ -1160,7 +1160,7 @@
     "category": "Agents d'exploitation des transports et maîtrise du tourisme",
     "code_fap": "J5X60",
     "jobs": 370,
-    "education": "",
+    "salary": 2000,
     "exposure": 3.0,
     "exposure_rationale": "Métiers les moins exposés : Contrôleur / Contrôleuse des transports en commun. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -1171,7 +1171,7 @@
     "category": "Agents d'exploitation des transports et maîtrise du tourisme",
     "code_fap": "J5X80",
     "jobs": 336,
-    "education": "",
+    "salary": 1950,
     "exposure": 6.0,
     "exposure_rationale": "Métiers les plus exposés : Affréteur / Affréteuse, Agent / Agente de transit, Responsable d'agence transport routier de marchandises. Métiers les moins exposés : Agent / Agente de piste. Score moyen sur 11 métiers ROME.",
     "rome_count": 11
@@ -1182,7 +1182,7 @@
     "category": "Agents d'exploitation des transports et maîtrise du tourisme",
     "code_fap": "J5X81",
     "jobs": 481,
-    "education": "",
+    "salary": 1800,
     "exposure": 5.9,
     "exposure_rationale": "Métiers les plus exposés : Yield manager, Chargé / Chargée de promotion touristique, Concepteur / Conceptrice de produits touristiques. Métiers les moins exposés : Agent technico-commercial / Agente technico-commerciale en location de véhicules, Personnel Navigant Commercial - PNC -. Score moyen sur 7 métiers ROME.",
     "rome_count": 7
@@ -1193,7 +1193,7 @@
     "category": "Cadres des transports, du tourisme, de la logistique et navigants de l'aviation",
     "code_fap": "J6X90",
     "jobs": 767,
-    "education": "",
+    "salary": 3033,
     "exposure": 6.1,
     "exposure_rationale": "Métiers les plus exposés : Yield manager, Chargé / Chargée de promotion touristique, Affréteur / Affréteuse. Métiers les moins exposés : Contrôleur / Contrôleuse des transports en commun, Agent / Agente de piste. Score moyen sur 19 métiers ROME.",
     "rome_count": 19
@@ -1204,7 +1204,7 @@
     "category": "Cadres des transports, du tourisme, de la logistique et navigants de l'aviation",
     "code_fap": "J6X91",
     "jobs": 607,
-    "education": "",
+    "salary": 4500,
     "exposure": 2.0,
     "exposure_rationale": "Métiers les moins exposés : Personnel Navigant Commercial - PNC -, Pilote de ligne. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -1215,7 +1215,7 @@
     "category": "Cadres des transports, du tourisme, de la logistique et navigants de l'aviation",
     "code_fap": "J6X92",
     "jobs": 530,
-    "education": "",
+    "salary": 2960,
     "exposure": 4.8,
     "exposure_rationale": "Métiers les plus exposés : Responsable logistique, Approvisionneur / Approvisionneuse logistique. Métiers les moins exposés : Déménageur / Déménageuse, Manutentionnaire. Score moyen sur 6 métiers ROME.",
     "rome_count": 6
@@ -1226,7 +1226,7 @@
     "category": "Artisans et ouvriers artisanaux",
     "code_fap": "K0X30",
     "jobs": 1464,
-    "education": "",
+    "salary": 1322,
     "exposure": 1.9,
     "exposure_rationale": "Métiers les moins exposés : Opérateur / Opératrice en bijouterie, Graveur / Graveuse d'art, Vannier / Vannière. Score moyen sur 7 métiers ROME.",
     "rome_count": 7
@@ -1237,7 +1237,7 @@
     "category": "Artisans et ouvriers artisanaux",
     "code_fap": "K0X32",
     "jobs": 4701,
-    "education": "",
+    "salary": 1322,
     "exposure": 2.0,
     "exposure_rationale": "Métiers les moins exposés : Employé / Employée de pressing, Blanchisseur industriel / Blanchisseuse industrielle. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -1248,7 +1248,7 @@
     "category": "Secrétaires",
     "code_fap": "L0X60",
     "jobs": 29369,
-    "education": "",
+    "salary": 1551,
     "exposure": 7.6,
     "exposure_rationale": "Métiers les plus exposés : Assistant commercial / Assistante commerciale, Secrétaire, Secrétaire comptable. Score moyen sur 5 métiers ROME.",
     "rome_count": 5
@@ -1259,7 +1259,7 @@
     "category": "Employés de la comptabilité",
     "code_fap": "L1X60",
     "jobs": 17317,
-    "education": "",
+    "salary": 1733,
     "exposure": 7.7,
     "exposure_rationale": "Métiers les plus exposés : Comptable, Contrôleur / Contrôleuse de gestion, Responsable comptabilité. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -1270,7 +1270,7 @@
     "category": "Employés administratifs d'entreprise et d'administration publique",
     "code_fap": "L2X60",
     "jobs": 30572,
-    "education": "",
+    "salary": 1375,
     "exposure": 5.0,
     "exposure_rationale": "Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -1281,7 +1281,7 @@
     "category": "Employés administratifs d'entreprise et d'administration publique",
     "code_fap": "L2X61",
     "jobs": 28838,
-    "education": "",
+    "salary": 1600,
     "exposure": 7.7,
     "exposure_rationale": "Métiers les plus exposés : Opérateur / Opératrice de saisie, Directeur / Directrice des services administratifs et financiers, Assistant / Assistante Ressources Humaines (RH). Score moyen sur 7 métiers ROME.",
     "rome_count": 7
@@ -1292,7 +1292,7 @@
     "category": "Secrétaires de direction",
     "code_fap": "L3X80",
     "jobs": 3603,
-    "education": "",
+    "salary": 1920,
     "exposure": 7.6,
     "exposure_rationale": "Métiers les plus exposés : Assistant commercial / Assistante commerciale, Secrétaire, Secrétaire comptable. Score moyen sur 5 métiers ROME.",
     "rome_count": 5
@@ -1303,7 +1303,7 @@
     "category": "Techniciens des services administratifs, comptables et financiers",
     "code_fap": "L4X80",
     "jobs": 7916,
-    "education": "",
+    "salary": 1850,
     "exposure": 6.8,
     "exposure_rationale": "Métiers les plus exposés : Opérateur / Opératrice de saisie, Responsable en organisation en entreprise, Assistant / Assistante Ressources Humaines (RH). Métiers les moins exposés : Facteur / Factrice. Score moyen sur 12 métiers ROME.",
     "rome_count": 12
@@ -1314,7 +1314,7 @@
     "category": "Techniciens des services administratifs, comptables et financiers",
     "code_fap": "L4X81",
     "jobs": 4216,
-    "education": "",
+    "salary": 2050,
     "exposure": 8.0,
     "exposure_rationale": "Métiers les plus exposés : Analyste financier / Analyste financière, Auditeur comptable et financier / Auditrice comptable et financière, Comptable. Score moyen sur 7 métiers ROME.",
     "rome_count": 7
@@ -1325,7 +1325,7 @@
     "category": "Techniciens des services administratifs, comptables et financiers",
     "code_fap": "L4X82",
     "jobs": 1398,
-    "education": "",
+    "salary": 1928,
     "exposure": 8.0,
     "exposure_rationale": "Métiers les plus exposés : Chargé / Chargée d'études socio-économiques. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -1336,7 +1336,7 @@
     "category": "Cadres des services administratifs, comptables et financiers",
     "code_fap": "L5X90",
     "jobs": 11917,
-    "education": "",
+    "salary": 3218,
     "exposure": 7.4,
     "exposure_rationale": "Métiers les plus exposés : Opérateur / Opératrice de saisie, Analyste financier / Analyste financière, Auditeur comptable et financier / Auditrice comptable et financière. Métiers les moins exposés : Facteur / Factrice. Score moyen sur 18 métiers ROME.",
     "rome_count": 18
@@ -1347,7 +1347,7 @@
     "category": "Cadres des services administratifs, comptables et financiers",
     "code_fap": "L5X91",
     "jobs": 3021,
-    "education": "",
+    "salary": 3531,
     "exposure": 8.0,
     "exposure_rationale": "Métiers les plus exposés : Juriste. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -1358,7 +1358,7 @@
     "category": "Cadres des services administratifs, comptables et financiers",
     "code_fap": "L5X92",
     "jobs": 2158,
-    "education": "",
+    "salary": 3000,
     "exposure": 7.2,
     "exposure_rationale": "Métiers les plus exposés : Assistant / Assistante Ressources Humaines (RH), Conseiller consultant / Conseillère consultante en formation, Coordinateur / Coordinatrice pédagogique. Score moyen sur 5 métiers ROME.",
     "rome_count": 5
@@ -1369,7 +1369,7 @@
     "category": "Cadres des services administratifs, comptables et financiers",
     "code_fap": "L5X93",
     "jobs": 1431,
-    "education": "",
+    "salary": 3200,
     "exposure": 8.0,
     "exposure_rationale": "Métiers les plus exposés : Chargé / Chargée d'études socio-économiques. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -1380,7 +1380,7 @@
     "category": "Dirigeants d'entreprises",
     "code_fap": "L6X00",
     "jobs": 245,
-    "education": "",
+    "salary": 2000,
     "exposure": 7.0,
     "exposure_rationale": "Métiers les plus exposés : Responsable de Petite ou Moyenne Entreprise -PME-. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -1391,7 +1391,7 @@
     "category": "Dirigeants d'entreprises",
     "code_fap": "L6X90",
     "jobs": 208,
-    "education": "",
+    "salary": 2000,
     "exposure": 7.0,
     "exposure_rationale": "Métiers les plus exposés : Dirigeant / Dirigeante d'entreprise privée. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -1402,7 +1402,7 @@
     "category": "Techniciens de l'informatique",
     "code_fap": "M1X80",
     "jobs": 13987,
-    "education": "",
+    "salary": 1950,
     "exposure": 9.0,
     "exposure_rationale": "Métiers les plus exposés : Développeur / Développeuse informatique. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -1413,7 +1413,7 @@
     "category": "Techniciens de l'informatique",
     "code_fap": "M1X81",
     "jobs": 10754,
-    "education": "",
+    "salary": 1891,
     "exposure": 7.0,
     "exposure_rationale": "Métiers les plus exposés : Administrateur / Administratrice de systèmes d'information (SI), Technicien / Technicienne d'exploitation informatique, Directeur / Directrice des systèmes d'information -DSI-. Score moyen sur 6 métiers ROME.",
     "rome_count": 6
@@ -1424,7 +1424,7 @@
     "category": "Ingénieurs de l'informatique",
     "code_fap": "M2X90",
     "jobs": 22509,
-    "education": "",
+    "salary": 3100,
     "exposure": 8.0,
     "exposure_rationale": "Métiers les plus exposés : Développeur / Développeuse informatique, Ingénieur / Ingénieure télécoms. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -1435,7 +1435,7 @@
     "category": "Ingénieurs de l'informatique",
     "code_fap": "M2X91",
     "jobs": 3027,
-    "education": "",
+    "salary": 3120,
     "exposure": 7.0,
     "exposure_rationale": "Métiers les plus exposés : Directeur / Directrice des systèmes d'information -DSI-. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -1446,7 +1446,7 @@
     "category": "Ingénieurs de l'informatique",
     "code_fap": "M2X92",
     "jobs": 2457,
-    "education": "",
+    "salary": 3492,
     "exposure": 6.2,
     "exposure_rationale": "Métiers les plus exposés : Administrateur / Administratrice de systèmes d'information (SI), Technicien / Technicienne d'exploitation informatique. Métiers les moins exposés : Antenniste. Score moyen sur 5 métiers ROME.",
     "rome_count": 5
@@ -1457,7 +1457,7 @@
     "category": "Ingénieurs de l'informatique",
     "code_fap": "M2X93",
     "jobs": 6411,
-    "education": "",
+    "salary": 3120,
     "exposure": 8.0,
     "exposure_rationale": "Métiers les plus exposés : Expert / Experte systèmes et réseaux informatiques, Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -1468,7 +1468,7 @@
     "category": "Techniciens d'études et de recherche",
     "code_fap": "N0X70",
     "jobs": 4189,
-    "education": "",
+    "salary": 3100,
     "exposure": 7.8,
     "exposure_rationale": "Métiers les plus exposés : Ingénieur / Ingénieure R&D en industrie, Technicien / Technicienne en électricité et électronique études et développement, Ingénieur / Ingénieure de recherche scientifique. Score moyen sur 6 métiers ROME.",
     "rome_count": 6
@@ -1479,7 +1479,7 @@
     "category": "Cadres d'études et de recherche",
     "code_fap": "N1X90",
     "jobs": 15352,
-    "education": "",
+    "salary": 3100,
     "exposure": 8.0,
     "exposure_rationale": "Métiers les plus exposés : Ingénieur / Ingénieure R&D en industrie, Automaticien / Automaticienne en bureau d'études, Technicien / Technicienne en électricité et électronique études et développement. Score moyen sur 5 métiers ROME.",
     "rome_count": 5
@@ -1490,7 +1490,7 @@
     "category": "Cadres d'études et de recherche",
     "code_fap": "N1X91",
     "jobs": 2122,
-    "education": "",
+    "salary": 3100,
     "exposure": 8.0,
     "exposure_rationale": "Métiers les plus exposés : Chercheur / Chercheuse en sciences humaines et sociales, Ingénieur / Ingénieure de recherche scientifique. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -1501,7 +1501,7 @@
     "category": "Employés administratifs des administrations publiques (catégorie C et assimilés)",
     "code_fap": "P0X60",
     "jobs": 0,
-    "education": "",
+    "salary": 1800,
     "exposure": 6.2,
     "exposure_rationale": "Métiers les plus exposés : Contrôleur / Contrôleuse des impôts, Percepteur / Perceptrice des impôts et du Trésor Public. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -1512,7 +1512,7 @@
     "category": "Employés administratifs des administrations publiques (catégorie C et assimilés)",
     "code_fap": "P0X61",
     "jobs": 0,
-    "education": "",
+    "salary": 1600,
     "exposure": 6.3,
     "exposure_rationale": "Métiers les plus exposés : Chargé / Chargée de mission développement territorial. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -1523,7 +1523,7 @@
     "category": "Professions intermédiaires administratives des administrations publiques (catégorie B et assimilés)",
     "code_fap": "P1X80",
     "jobs": 0,
-    "education": "",
+    "salary": 2281,
     "exposure": 6.2,
     "exposure_rationale": "Métiers les plus exposés : Contrôleur / Contrôleuse des impôts, Percepteur / Perceptrice des impôts et du Trésor Public. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -1534,7 +1534,7 @@
     "category": "Professions intermédiaires administratives des administrations publiques (catégorie B et assimilés)",
     "code_fap": "P1X81",
     "jobs": 0,
-    "education": "",
+    "salary": 1999,
     "exposure": 6.2,
     "exposure_rationale": "Métiers les plus exposés : Directeur / Directrice de structure de santé, sociale ou pénitentiaire, Chargé / Chargée de mission développement territorial. Score moyen sur 5 métiers ROME.",
     "rome_count": 5
@@ -1545,7 +1545,7 @@
     "category": "Cadres des administrations publiques (catégorie A et assimilés)",
     "code_fap": "P2X90",
     "jobs": 0,
-    "education": "",
+    "salary": 3000,
     "exposure": 6.1,
     "exposure_rationale": "Métiers les plus exposés : Contrôleur / Contrôleuse des impôts, Cadre Dirigeant / Dirigeante d'administration centrale, Directeur / Directrice de structure de santé, sociale ou pénitentiaire. Score moyen sur 11 métiers ROME.",
     "rome_count": 11
@@ -1556,7 +1556,7 @@
     "category": "Professionnels du droit (hors juristes en entreprise)",
     "code_fap": "P3X90",
     "jobs": 1314,
-    "education": "",
+    "salary": 4173,
     "exposure": 7.5,
     "exposure_rationale": "Métiers les plus exposés : Clerc de notaire, Notaire. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -1567,7 +1567,7 @@
     "category": "Professionnels du droit (hors juristes en entreprise)",
     "code_fap": "P3X91",
     "jobs": 0,
-    "education": "",
+    "salary": 4173,
     "exposure": 6.0,
     "exposure_rationale": "Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -1578,7 +1578,7 @@
     "category": "Armée, police, pompiers",
     "code_fap": "P4X60",
     "jobs": 0,
-    "education": "",
+    "salary": 2100,
     "exposure": 2.3,
     "exposure_rationale": "Métiers les moins exposés : Secouriste, Combattant / Combattante en milieu terrestre. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -1589,7 +1589,7 @@
     "category": "Armée, police, pompiers",
     "code_fap": "P4X61",
     "jobs": 0,
-    "education": "",
+    "salary": 2000,
     "exposure": 4.0,
     "exposure_rationale": "Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -1600,7 +1600,7 @@
     "category": "Armée, police, pompiers",
     "code_fap": "P4X80",
     "jobs": 0,
-    "education": "",
+    "salary": 2542,
     "exposure": 3.1,
     "exposure_rationale": "Métiers les moins exposés : Responsable Opérationnel / Opérationnelle de la défense, Secouriste, Combattant / Combattante en milieu terrestre. Score moyen sur 7 métiers ROME.",
     "rome_count": 7
@@ -1611,7 +1611,7 @@
     "category": "Experts de la finance, de la banque et de l'assurance",
     "code_fap": "QAX01",
     "jobs": 879,
-    "education": "",
+    "salary": 2333,
     "exposure": 8.3,
     "exposure_rationale": "Métiers les plus exposés : Trader, Gestionnaire des opérations sur les marchés financiers, Gérant / Gérante de portefeuille financier. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -1622,7 +1622,7 @@
     "category": "Experts de la finance, de la banque et de l'assurance",
     "code_fap": "QAX02",
     "jobs": 2032,
-    "education": "",
+    "salary": 2333,
     "exposure": 8.0,
     "exposure_rationale": "Métiers les plus exposés : Analyste de crédits et risques bancaires, Gestionnaire de produits bancaires. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -1633,7 +1633,7 @@
     "category": "Experts de la finance, de la banque et de l'assurance",
     "code_fap": "QAX03",
     "jobs": 1829,
-    "education": "",
+    "salary": 2333,
     "exposure": 7.0,
     "exposure_rationale": "Métiers les plus exposés : Actuaire, Chargé / Chargée de produit en assurances. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -1644,7 +1644,7 @@
     "category": "Gestionnaires de la banque et de l'assurance",
     "code_fap": "QBX01",
     "jobs": 3848,
-    "education": "",
+    "salary": 2333,
     "exposure": 7.5,
     "exposure_rationale": "Métiers les plus exposés : Gestionnaire en assurances, Agent administratif / Agente administrative banque ou assurance. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -1655,7 +1655,7 @@
     "category": "Commerciaux de la banque",
     "code_fap": "QCX01",
     "jobs": 4797,
-    "education": "",
+    "salary": 2333,
     "exposure": 6.8,
     "exposure_rationale": "Métiers les plus exposés : Chargé / Chargée d'affaires bancaires entreprise, Conseiller / Conseillère en gestion de patrimoine, Conseiller / Conseillère de clientèle bancaire. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -1666,7 +1666,7 @@
     "category": "Commerciaux de la banque",
     "code_fap": "QCX02",
     "jobs": 3119,
-    "education": "",
+    "salary": 2333,
     "exposure": 6.8,
     "exposure_rationale": "Métiers les plus exposés : Chargé / Chargée d'affaires bancaires entreprise, Conseiller / Conseillère en gestion de patrimoine, Conseiller / Conseillère de clientèle bancaire. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -1677,7 +1677,7 @@
     "category": "Commerciaux des assurances",
     "code_fap": "QDX01",
     "jobs": 7251,
-    "education": "",
+    "salary": 2333,
     "exposure": 7.0,
     "exposure_rationale": "Métiers les plus exposés : Conseiller / Conseillère en assurances, Courtier / Courtière en assurance, Souscripteur / Souscriptrice en assurances. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -1688,7 +1688,7 @@
     "category": "Commerciaux des assurances",
     "code_fap": "QDX02",
     "jobs": 2151,
-    "education": "",
+    "salary": 2333,
     "exposure": 7.0,
     "exposure_rationale": "Métiers les plus exposés : Conseiller / Conseillère en assurances, Courtier / Courtière en assurance, Souscripteur / Souscriptrice en assurances. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -1699,7 +1699,7 @@
     "category": "Managers en banque assurance",
     "code_fap": "QEX01",
     "jobs": 412,
-    "education": "",
+    "salary": 2333,
     "exposure": 7.0,
     "exposure_rationale": "Métiers les plus exposés : Responsable d'agence en assurances, Responsable de département en assurances, Directeur / Directrice d'agence bancaire. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -1710,7 +1710,7 @@
     "category": "Caissiers, employés de libre service",
     "code_fap": "R0X60",
     "jobs": 55724,
-    "education": "",
+    "salary": 1359,
     "exposure": 4.0,
     "exposure_rationale": "Métiers les moins exposés : Employé / Employée de rayon libre-service. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -1721,7 +1721,7 @@
     "category": "Caissiers, employés de libre service",
     "code_fap": "R0X61",
     "jobs": 31723,
-    "education": "",
+    "salary": 1300,
     "exposure": 6.0,
     "exposure_rationale": "Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -1732,7 +1732,7 @@
     "category": "Vendeurs",
     "code_fap": "R1X60",
     "jobs": 33934,
-    "education": "",
+    "salary": 1334,
     "exposure": 2.7,
     "exposure_rationale": "Métiers les moins exposés : Vendeur / Vendeuse en épicerie, Vendeur / Vendeuse grossiste en produits frais, Poissonnier / Poissonnière. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -1743,7 +1743,7 @@
     "category": "Vendeurs",
     "code_fap": "R1X61",
     "jobs": 11487,
-    "education": "",
+    "salary": 1488,
     "exposure": 5.5,
     "exposure_rationale": "Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -1754,7 +1754,7 @@
     "category": "Vendeurs",
     "code_fap": "R1X62",
     "jobs": 27959,
-    "education": "",
+    "salary": 1311,
     "exposure": 3.7,
     "exposure_rationale": "Métiers les moins exposés : Fleuriste, Vendeur / Vendeuse d'articles de sport et loisirs, Vendeur / Vendeuse en prêt-à-porter. Score moyen sur 6 métiers ROME.",
     "rome_count": 6
@@ -1765,7 +1765,7 @@
     "category": "Vendeurs",
     "code_fap": "R1X67",
     "jobs": 12507,
-    "education": "",
+    "salary": 1300,
     "exposure": 9.0,
     "exposure_rationale": "Métiers les plus exposés : Conseiller / Conseillère clientèle à distance. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -1776,7 +1776,7 @@
     "category": "Vendeurs",
     "code_fap": "R1X68",
     "jobs": 3933,
-    "education": "",
+    "salary": 1360,
     "exposure": 8.0,
     "exposure_rationale": "Métiers les plus exposés : Acheteur / Acheteuse, Responsable de l'administration des ventes, Chef / Cheffe de produit. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -1787,7 +1787,7 @@
     "category": "Attachés commerciaux et représentants",
     "code_fap": "R2X80",
     "jobs": 23310,
-    "education": "",
+    "salary": 2045,
     "exposure": 7.0,
     "exposure_rationale": "Métiers les plus exposés : Commercial / Commerciale grands comptes et entreprises, Conseiller / Conseillère en information médicale, Technico-commercial / Technico-commerciale. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -1798,7 +1798,7 @@
     "category": "Attachés commerciaux et représentants",
     "code_fap": "R2X83",
     "jobs": 2539,
-    "education": "",
+    "salary": 1852,
     "exposure": 5.5,
     "exposure_rationale": "Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -1809,7 +1809,7 @@
     "category": "Maîtrise des magasins et intermédiaires du commerce",
     "code_fap": "R3X80",
     "jobs": 6788,
-    "education": "",
+    "salary": 1811,
     "exposure": 4.4,
     "exposure_rationale": "Métiers les plus exposés : Conseiller / Conseillère clientèle à distance. Métiers les moins exposés : Vendeur / Vendeuse en prêt-à-porter, Employé / Employée de rayon libre-service, Poissonnier / Poissonnière. Score moyen sur 16 métiers ROME.",
     "rome_count": 16
@@ -1820,7 +1820,7 @@
     "category": "Maîtrise des magasins et intermédiaires du commerce",
     "code_fap": "R3X82",
     "jobs": 512,
-    "education": "",
+    "salary": 2004,
     "exposure": 7.5,
     "exposure_rationale": "Métiers les plus exposés : Acheteur / Acheteuse, Responsable des achats. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -1831,7 +1831,7 @@
     "category": "Maîtrise des magasins et intermédiaires du commerce",
     "code_fap": "R3X83",
     "jobs": 3405,
-    "education": "",
+    "salary": 1883,
     "exposure": 7.4,
     "exposure_rationale": "Métiers les plus exposés : Responsable de l'administration des ventes, Chef / Cheffe de produit, Responsable relation client (CRM). Score moyen sur 8 métiers ROME.",
     "rome_count": 8
@@ -1842,7 +1842,7 @@
     "category": "Maîtrise des magasins et intermédiaires du commerce",
     "code_fap": "R3X84",
     "jobs": 9265,
-    "education": "",
+    "salary": 1883,
     "exposure": 6.2,
     "exposure_rationale": "Métiers les plus exposés : Chargé / Chargée d'affaires immobilières. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -1853,7 +1853,7 @@
     "category": "Cadres commerciaux et technico-commerciaux",
     "code_fap": "R4X90",
     "jobs": 7368,
-    "education": "",
+    "salary": 3450,
     "exposure": 7.4,
     "exposure_rationale": "Métiers les plus exposés : Assistant commercial / Assistante commerciale, Acheteur / Acheteuse, Responsable de l'administration des ventes. Score moyen sur 14 métiers ROME.",
     "rome_count": 14
@@ -1864,7 +1864,7 @@
     "category": "Cadres commerciaux et technico-commerciaux",
     "code_fap": "R4X91",
     "jobs": 10476,
-    "education": "",
+    "salary": 3408,
     "exposure": 6.4,
     "exposure_rationale": "Métiers les plus exposés : Conseiller / Conseillère en information médicale, Technico-commercial / Technico-commerciale, Ingénieur / Ingénieure d'affaires en industrie. Score moyen sur 5 métiers ROME.",
     "rome_count": 5
@@ -1875,7 +1875,7 @@
     "category": "Cadres commerciaux et technico-commerciaux",
     "code_fap": "R4X92",
     "jobs": 2443,
-    "education": "",
+    "salary": 2751,
     "exposure": 4.3,
     "exposure_rationale": "Métiers les plus exposés : Conseiller / Conseillère clientèle à distance. Métiers les moins exposés : Vendeur / Vendeuse en prêt-à-porter, Employé / Employée de rayon libre-service, Poissonnier / Poissonnière. Score moyen sur 16 métiers ROME.",
     "rome_count": 16
@@ -1886,7 +1886,7 @@
     "category": "Cadres commerciaux et technico-commerciaux",
     "code_fap": "R4X93",
     "jobs": 2552,
-    "education": "",
+    "salary": 3033,
     "exposure": 6.2,
     "exposure_rationale": "Métiers les plus exposés : Chargé / Chargée d'affaires immobilières. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -1897,7 +1897,7 @@
     "category": "Bouchers, charcutiers, boulangers",
     "code_fap": "S0X40",
     "jobs": 6824,
-    "education": "",
+    "salary": 1590,
     "exposure": 1.5,
     "exposure_rationale": "Métiers les moins exposés : Boucher / Bouchère, Ouvrier / Ouvrière d'abattoir. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -1908,7 +1908,7 @@
     "category": "Bouchers, charcutiers, boulangers",
     "code_fap": "S0X41",
     "jobs": 1754,
-    "education": "",
+    "salary": 1441,
     "exposure": 2.0,
     "exposure_rationale": "Métiers les moins exposés : Charcutier-traiteur / Charcutière-traiteuse. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -1919,7 +1919,7 @@
     "category": "Bouchers, charcutiers, boulangers",
     "code_fap": "S0X42",
     "jobs": 17895,
-    "education": "",
+    "salary": 1558,
     "exposure": 2.0,
     "exposure_rationale": "Métiers les moins exposés : Boulanger / Boulangère, Pâtissier / Pâtissière. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -1930,7 +1930,7 @@
     "category": "Cuisiniers",
     "code_fap": "S1X20",
     "jobs": 103364,
-    "education": "",
+    "salary": 1270,
     "exposure": 2.5,
     "exposure_rationale": "Métiers les moins exposés : Equipier polyvalent / Equipière polyvalente de restauration rapide, Pizzaïolo / Pizzaïola, Plongeur officier / Plongeuse officière de cuisine. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -1941,7 +1941,7 @@
     "category": "Cuisiniers",
     "code_fap": "S1X40",
     "jobs": 56784,
-    "education": "",
+    "salary": 1500,
     "exposure": 3.5,
     "exposure_rationale": "Métiers les moins exposés : Commis / Commise de cuisine, Equipier polyvalent / Equipière polyvalente de restauration rapide, Pizzaïolo / Pizzaïola. Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -1952,7 +1952,7 @@
     "category": "Cuisiniers",
     "code_fap": "S1X80",
     "jobs": 6660,
-    "education": "",
+    "salary": 1803,
     "exposure": 3.7,
     "exposure_rationale": "Métiers les moins exposés : Commis / Commise de cuisine, Pizzaïolo / Pizzaïola. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -1963,7 +1963,7 @@
     "category": "Employés et agents de maîtrise de l'hôtellerie et de la restauration",
     "code_fap": "S2X60",
     "jobs": 52297,
-    "education": "",
+    "salary": 1380,
     "exposure": 3.2,
     "exposure_rationale": "Métiers les moins exposés : Concierge d'hôtel, Bagagiste en établissement hôtelier, Employé / Employée d'étage. Score moyen sur 6 métiers ROME.",
     "rome_count": 6
@@ -1974,7 +1974,7 @@
     "category": "Employés et agents de maîtrise de l'hôtellerie et de la restauration",
     "code_fap": "S2X61",
     "jobs": 107788,
-    "education": "",
+    "salary": 1350,
     "exposure": 2.3,
     "exposure_rationale": "Métiers les moins exposés : Maître / Maîtresse d'hôtel, Barman / Barmaid, Serveur / Serveuse en restauration. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -1985,7 +1985,7 @@
     "category": "Employés et agents de maîtrise de l'hôtellerie et de la restauration",
     "code_fap": "S2X80",
     "jobs": 4402,
-    "education": "",
+    "salary": 1700,
     "exposure": 3.2,
     "exposure_rationale": "Métiers les moins exposés : Maître / Maîtresse d'hôtel, Barman / Barmaid, Serveur / Serveuse en restauration. Score moyen sur 5 métiers ROME.",
     "rome_count": 5
@@ -1996,7 +1996,7 @@
     "category": "Employés et agents de maîtrise de l'hôtellerie et de la restauration",
     "code_fap": "S2X81",
     "jobs": 3165,
-    "education": "",
+    "salary": 1766,
     "exposure": 4.0,
     "exposure_rationale": "Métiers les moins exposés : Concierge d'hôtel, Bagagiste en établissement hôtelier, Employé / Employée d'étage. Score moyen sur 9 métiers ROME.",
     "rome_count": 9
@@ -2007,7 +2007,7 @@
     "category": "Patrons et cadres de l’hôtellerie et de la restauration",
     "code_fap": "S3X90",
     "jobs": 3160,
-    "education": "",
+    "salary": 2500,
     "exposure": 4.0,
     "exposure_rationale": "Métiers les moins exposés : Maître / Maîtresse d'hôtel, Barman / Barmaid, Serveur / Serveuse en restauration. Score moyen sur 14 métiers ROME.",
     "rome_count": 14
@@ -2018,7 +2018,7 @@
     "category": "Coiffeurs, esthéticiens",
     "code_fap": "T0X60",
     "jobs": 19441,
-    "education": "",
+    "salary": 1298,
     "exposure": 2.0,
     "exposure_rationale": "Métiers les moins exposés : Coiffeur / Coiffeuse, Agent / Agente de soins en hydrothérapie, Esthéticien / Esthéticienne. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -2029,7 +2029,7 @@
     "category": "Personnels de ménage chez des particuliers",
     "code_fap": "T1X60",
     "jobs": 38454,
-    "education": "",
+    "salary": 1400,
     "exposure": 2.0,
     "exposure_rationale": "Métiers les moins exposés : Employé familial / Employée familiale. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -2040,7 +2040,7 @@
     "category": "Aides à domicile et auxiliaires de vie",
     "code_fap": "T2A60",
     "jobs": 61331,
-    "education": "",
+    "salary": 1290,
     "exposure": 2.5,
     "exposure_rationale": "Métiers les moins exposés : Technicien / Technicienne d'Intervention Sociale et Familiale (TISF), Assistant / Assistante de vie dépendance. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -2051,7 +2051,7 @@
     "category": "Assistants maternels, auxiliaires de puériculture, assistants familiaux et gardes à domicile",
     "code_fap": "T2B60",
     "jobs": 22129,
-    "education": "",
+    "salary": 1324,
     "exposure": 2.0,
     "exposure_rationale": "Métiers les moins exposés : Auxiliaire de puériculture, Garde d'enfant. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -2062,7 +2062,7 @@
     "category": "Agents de gardiennage et de sécurité",
     "code_fap": "T3X60",
     "jobs": 1909,
-    "education": "",
+    "salary": 1408,
     "exposure": 3.0,
     "exposure_rationale": "Métiers les moins exposés : Gardien / Gardienne d'immeuble. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -2073,7 +2073,7 @@
     "category": "Agents de gardiennage et de sécurité",
     "code_fap": "T3X61",
     "jobs": 27285,
-    "education": "",
+    "salary": 1490,
     "exposure": 4.5,
     "exposure_rationale": "Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -2084,7 +2084,7 @@
     "category": "Agents d'entretien",
     "code_fap": "T4X60",
     "jobs": 84488,
-    "education": "",
+    "salary": 1441,
     "exposure": 3.0,
     "exposure_rationale": "Métiers les plus exposés : Responsable de site nettoyage de locaux. Métiers les moins exposés : Laveur / Laveuse de vitres, Agent / Agente de nettoyage industriel. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -2095,7 +2095,7 @@
     "category": "Agents d'entretien",
     "code_fap": "T4X61",
     "jobs": 17762,
-    "education": "",
+    "salary": 1400,
     "exposure": 2.0,
     "exposure_rationale": "Métiers les moins exposés : Agent / Agente de service hospitalier (ASH). Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -2106,7 +2106,7 @@
     "category": "Agents d'entretien",
     "code_fap": "T4X62",
     "jobs": 13820,
-    "education": "",
+    "salary": 1600,
     "exposure": 2.4,
     "exposure_rationale": "Métiers les moins exposés : Agent / Agente de désinsectisation, Agent / Agente technique d'affichage, Ripeur / Ripeuse. Score moyen sur 8 métiers ROME.",
     "rome_count": 8
@@ -2117,7 +2117,7 @@
     "category": "Employés des services divers",
     "code_fap": "T6X61",
     "jobs": 10292,
-    "education": "",
+    "salary": 1600,
     "exposure": 2.2,
     "exposure_rationale": "Métiers les moins exposés : Porteur / Porteuse funéraire, Maréchal-ferrant / Maréchale-ferrante, Thanatopracteur / Thanatopractrice. Score moyen sur 9 métiers ROME.",
     "rome_count": 9
@@ -2128,7 +2128,7 @@
     "category": "Professionnels de la communication et de l'information",
     "code_fap": "U0X80",
     "jobs": 4355,
-    "education": "",
+    "salary": 1800,
     "exposure": 7.6,
     "exposure_rationale": "Métiers les plus exposés : Média planneur / Média planneuse, Community manager, Chef / Cheffe de publicité. Score moyen sur 5 métiers ROME.",
     "rome_count": 5
@@ -2139,7 +2139,7 @@
     "category": "Professionnels de la communication et de l'information",
     "code_fap": "U0X81",
     "jobs": 406,
-    "education": "",
+    "salary": 2614,
     "exposure": 9.0,
     "exposure_rationale": "Métiers les plus exposés : Traducteur / Traductrice. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -2150,7 +2150,7 @@
     "category": "Professionnels de la communication et de l'information",
     "code_fap": "U0X90",
     "jobs": 1499,
-    "education": "",
+    "salary": 3099,
     "exposure": 7.6,
     "exposure_rationale": "Métiers les plus exposés : Média planneur / Média planneuse, Community manager, Chef / Cheffe de publicité. Score moyen sur 5 métiers ROME.",
     "rome_count": 5
@@ -2161,7 +2161,7 @@
     "category": "Professionnels de la communication et de l'information",
     "code_fap": "U0X91",
     "jobs": 902,
-    "education": "",
+    "salary": 2400,
     "exposure": 8.0,
     "exposure_rationale": "Métiers les plus exposés : Documentaliste. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -2172,7 +2172,7 @@
     "category": "Professionnels de la communication et de l'information",
     "code_fap": "U0X92",
     "jobs": 1046,
-    "education": "",
+    "salary": 3007,
     "exposure": 7.5,
     "exposure_rationale": "Métiers les plus exposés : Editeur / Editrice, Journaliste. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -2183,7 +2183,7 @@
     "category": "Professionnels des arts et des spectacles",
     "code_fap": "U1X80",
     "jobs": 24949,
-    "education": "",
+    "salary": 2200,
     "exposure": 4.9,
     "exposure_rationale": "Métiers les plus exposés : Monteur / Monteuse vidéo, Agent / Agente de talent. Métiers les moins exposés : Opérateur / Opératrice de prise de vues, Maquilleur / Maquilleuse spectacle, Machiniste spectacle. Score moyen sur 13 métiers ROME.",
     "rome_count": 13
@@ -2194,7 +2194,7 @@
     "category": "Professionnels des arts et des spectacles",
     "code_fap": "U1X81",
     "jobs": 718,
-    "education": "",
+    "salary": 2000,
     "exposure": 7.0,
     "exposure_rationale": "Métiers les plus exposés : Photographe. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -2205,7 +2205,7 @@
     "category": "Professionnels des arts et des spectacles",
     "code_fap": "U1X82",
     "jobs": 4328,
-    "education": "",
+    "salary": 1937,
     "exposure": 7.3,
     "exposure_rationale": "Métiers les plus exposés : Concepteur / Conceptrice de contenus multimedia, Designer graphique, Architecte d'intérieur. Score moyen sur 7 métiers ROME.",
     "rome_count": 7
@@ -2216,7 +2216,7 @@
     "category": "Professionnels des arts et des spectacles",
     "code_fap": "U1X91",
     "jobs": 48980,
-    "education": "",
+    "salary": 1841,
     "exposure": 3.4,
     "exposure_rationale": "Métiers les moins exposés : Mannequin, Danseur / Danseuse, Artiste de cirque. Score moyen sur 9 métiers ROME.",
     "rome_count": 9
@@ -2227,7 +2227,7 @@
     "category": "Professionnels des arts et des spectacles",
     "code_fap": "U1X92",
     "jobs": 102,
-    "education": "",
+    "salary": 2000,
     "exposure": 9.0,
     "exposure_rationale": "Métiers les plus exposés : Ecrivain / Ecrivaine. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -2238,7 +2238,7 @@
     "category": "Professionnels des arts et des spectacles",
     "code_fap": "U1X93",
     "jobs": 517,
-    "education": "",
+    "salary": 2000,
     "exposure": 5.0,
     "exposure_rationale": "Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -2249,7 +2249,7 @@
     "category": "Aides-soignants",
     "code_fap": "V0X60",
     "jobs": 60107,
-    "education": "",
+    "salary": 1549,
     "exposure": 4.3,
     "exposure_rationale": "Métiers les moins exposés : Aide-soignant / Aide-soignante. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -2260,7 +2260,7 @@
     "category": "Infirmiers, sages-femmes",
     "code_fap": "V1X80",
     "jobs": 39004,
-    "education": "",
+    "salary": 2025,
     "exposure": 4.0,
     "exposure_rationale": "Métiers les moins exposés : Infirmier / Infirmière anesthésiste (IADE), Puériculteur / Puéricultrice, Homme sage-femme / Sage-femme. Score moyen sur 7 métiers ROME.",
     "rome_count": 7
@@ -2271,7 +2271,7 @@
     "category": "Médecins, dentistes, vétérinaires et pharmaciens",
     "code_fap": "V2X90",
     "jobs": 9634,
-    "education": "",
+    "salary": 3800,
     "exposure": 6.0,
     "exposure_rationale": "Métiers les plus exposés : Médecin conseil. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -2282,7 +2282,7 @@
     "category": "Médecins, dentistes, vétérinaires et pharmaciens",
     "code_fap": "V2X91",
     "jobs": 1084,
-    "education": "",
+    "salary": 3390,
     "exposure": 4.0,
     "exposure_rationale": "Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -2293,7 +2293,7 @@
     "category": "Médecins, dentistes, vétérinaires et pharmaciens",
     "code_fap": "V2X92",
     "jobs": 1394,
-    "education": "",
+    "salary": 3390,
     "exposure": 5.0,
     "exposure_rationale": "Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -2304,7 +2304,7 @@
     "category": "Médecins, dentistes, vétérinaires et pharmaciens",
     "code_fap": "V2X93",
     "jobs": 4612,
-    "education": "",
+    "salary": 2841,
     "exposure": 6.0,
     "exposure_rationale": "Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -2315,7 +2315,7 @@
     "category": "Professions para-médicales",
     "code_fap": "V3X70",
     "jobs": 8669,
-    "education": "",
+    "salary": 1808,
     "exposure": 5.0,
     "exposure_rationale": "Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -2326,7 +2326,7 @@
     "category": "Professions para-médicales",
     "code_fap": "V3X71",
     "jobs": 3613,
-    "education": "",
+    "salary": 1824,
     "exposure": 4.8,
     "exposure_rationale": "Score moyen sur 4 métiers ROME.",
     "rome_count": 4
@@ -2337,7 +2337,7 @@
     "category": "Professions para-médicales",
     "code_fap": "V3X80",
     "jobs": 7333,
-    "education": "",
+    "salary": 1854,
     "exposure": 4.0,
     "exposure_rationale": "Métiers les plus exposés : Diététicien / Diététicienne. Métiers les moins exposés : Ostéopathe, Pédicure-podologue, Psychomotricien / Psychomotricienne. Score moyen sur 8 métiers ROME.",
     "rome_count": 8
@@ -2348,7 +2348,7 @@
     "category": "Professions para-médicales",
     "code_fap": "V3X90",
     "jobs": 3446,
-    "education": "",
+    "salary": 2280,
     "exposure": 5.0,
     "exposure_rationale": "Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -2359,7 +2359,7 @@
     "category": "Professionnels de l'action sociale et de l'orientation",
     "code_fap": "V4X80",
     "jobs": 1742,
-    "education": "",
+    "salary": 2398,
     "exposure": 7.0,
     "exposure_rationale": "Métiers les plus exposés : Conseiller / Conseillère en insertion professionnelle, Conseiller / Conseillère d'orientation. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -2370,7 +2370,7 @@
     "category": "Professionnels de l'action sociale et de l'orientation",
     "code_fap": "V4X83",
     "jobs": 23614,
-    "education": "",
+    "salary": 1770,
     "exposure": 2.3,
     "exposure_rationale": "Métiers les moins exposés : Educateur technique spécialisé / Educatrice technique spécialisée, Educateur / Educatrice de jeunes enfants, Educateur spécialisé / Educatrice spécialisée. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -2381,7 +2381,7 @@
     "category": "Professionnels de l'action sociale et de l'orientation",
     "code_fap": "V4X84",
     "jobs": 8072,
-    "education": "",
+    "salary": 1800,
     "exposure": 4.0,
     "exposure_rationale": "Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -2392,7 +2392,7 @@
     "category": "Professionnels de l'action sociale et de l'orientation",
     "code_fap": "V4X85",
     "jobs": 11352,
-    "education": "",
+    "salary": 1840,
     "exposure": 3.2,
     "exposure_rationale": "Métiers les moins exposés : Assistant social / Assistante sociale, Médiateur familial / Médiatrice familiale, Médiateur social / Médiatrice sociale. Score moyen sur 5 métiers ROME.",
     "rome_count": 5
@@ -2403,7 +2403,7 @@
     "category": "Professionnels de l'action culturelle, sportive et surveillants",
     "code_fap": "V5X81",
     "jobs": 63828,
-    "education": "",
+    "salary": 1450,
     "exposure": 2.7,
     "exposure_rationale": "Métiers les moins exposés : Animateur / Animatrice d'atelier artistique ou ludique, Animateur coordinateur socioculturel / Animatrice coordinatrice socioculturelle, Animateur / Animatrice jeunesse. Score moyen sur 3 métiers ROME.",
     "rome_count": 3
@@ -2414,7 +2414,7 @@
     "category": "Professionnels de l'action culturelle, sportive et surveillants",
     "code_fap": "V5X82",
     "jobs": 22869,
-    "education": "",
+    "salary": 1603,
     "exposure": 2.0,
     "exposure_rationale": "Métiers les moins exposés : Educateur sportif / Educatrice sportive, Sportif professionnel / Sportive professionnelle. Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -2425,7 +2425,7 @@
     "category": "Professionnels de l'action culturelle, sportive et surveillants",
     "code_fap": "V5X84",
     "jobs": 11995,
-    "education": "",
+    "salary": 1320,
     "exposure": 3.0,
     "exposure_rationale": "Métiers les moins exposés : Surveillant / Surveillante en milieu scolaire. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -2436,7 +2436,7 @@
     "category": "Enseignants",
     "code_fap": "W0X80",
     "jobs": 1014,
-    "education": "",
+    "salary": 2148,
     "exposure": 6.0,
     "exposure_rationale": "Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -2447,7 +2447,7 @@
     "category": "Enseignants",
     "code_fap": "W0X90",
     "jobs": 5562,
-    "education": "",
+    "salary": 2320,
     "exposure": 5.0,
     "exposure_rationale": "Score moyen sur 2 métiers ROME.",
     "rome_count": 2
@@ -2458,7 +2458,7 @@
     "category": "Enseignants",
     "code_fap": "W0X91",
     "jobs": 67,
-    "education": "",
+    "salary": 3533,
     "exposure": 5.0,
     "exposure_rationale": "Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -2469,7 +2469,7 @@
     "category": "Enseignants",
     "code_fap": "W0X92",
     "jobs": 1648,
-    "education": "",
+    "salary": 3000,
     "exposure": 7.0,
     "exposure_rationale": "Métiers les plus exposés : Professeur / Professeure des universités. Score moyen sur 1 métiers ROME.",
     "rome_count": 1
@@ -2480,7 +2480,7 @@
     "category": "Formateurs",
     "code_fap": "W1X80",
     "jobs": 17436,
-    "education": "",
+    "salary": 1780,
     "exposure": 5.5,
     "exposure_rationale": "Métiers les plus exposés : Formateur / Formatrice. Score moyen sur 2 métiers ROME.",
     "rome_count": 2

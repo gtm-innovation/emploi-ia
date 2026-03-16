@@ -124,7 +124,35 @@ def main():
 
     print(f"BMO 2025: {len(bmo)} FAP codes, {sum(bmo.values()):,} projets")
 
-    # 7. Build site data
+    # 7. Load DARES median salary data (2017-2019)
+    salary_by_code = {}
+    with open("dares_salaire_median.csv", encoding="latin-1") as f:
+        reader = csv.DictReader(f, delimiter=";")
+        for row in reader:
+            code = row["Code Fap"]
+            year = row.get("Ann\xe9e", "")
+            sal = row.get("Salaire m\xe9dian (en \x80)", "")
+            if "2017-2019" in year and sal and sal != "nd":
+                salary_by_code[code] = int(sal)
+
+    def get_salary(code228):
+        """Map FAP2021 code to old FAP salary data (X→Z substitution)."""
+        old = code228.replace("X", "Z")
+        # Try FAP228 level
+        if old in salary_by_code:
+            return salary_by_code[old]
+        # Try FAP86 level (3 chars)
+        old86 = old[:3]
+        if old86 in salary_by_code:
+            return salary_by_code[old86]
+        # Try FAP22 level (1 char)
+        if old[0] in salary_by_code:
+            return salary_by_code[old[0]]
+        return None
+
+    print(f"DARES salary: {len(salary_by_code)} codes loaded")
+
+    # 8. Build site data
     data = []
     scored_count = 0
 
@@ -174,7 +202,7 @@ def main():
             "category": category,
             "code_fap": code228,
             "jobs": hiring,
-            "education": "",
+            "salary": get_salary(code228),
             "exposure": avg_exposure if avg_exposure is not None else 0,
             "exposure_rationale": " ".join(rationale_parts),
             "rome_count": len(score_list),
