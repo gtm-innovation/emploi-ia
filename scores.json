@@ -8650,5 +8650,857 @@
     "title": "Analyste en cybersécurité",
     "exposure": 8,
     "rationale": "Le métier d'analyste en cybersécurité est intrinsèquement numérique, impliquant l'analyse de données, la surveillance de systèmes et la gestion des risques, des domaines où l'IA excelle. L'IA peut automatiser la détection des menaces, l'analyse des vulnérabilités et même certaines réponses, rendant les analystes humains beaucoup plus productifs ou réduisant le besoin pour les tâches routinières. Bien que le jugement humain reste essentiel pour les menaces complexes et la stratégie, le rôle est confronté à une restructuration majeure due aux capacités croissantes de l'IA."
+  },
+  {
+    "slug": "M1845-architecte-iot-internet-des-objets",
+    "title": "Architecte IoT - Internet des Objets",
+    "exposure": 8,
+    "rationale": "Ce métier est intrinsèquement numérique, axé sur la conception, le développement et l'intégration de solutions IoT complexes. Les tâches principales comme l'architecture système, la cybersécurité, l'optimisation et l'exploitation de la Data Science/IA sont des domaines où l'IA progresse rapidement, permettant une augmentation significative de la productivité et une automatisation partielle. Bien que le jugement humain et la collaboration restent essentiels, l'IA transformera profondément les méthodes de travail et les compétences requises."
+  },
+  {
+    "slug": "M1846-ingenieur-ingenieure-cybersecurite-datacenter",
+    "title": "Ingénieur / Ingénieure Cybersécurité Datacenter",
+    "exposure": 8,
+    "rationale": "Ce métier est presque entièrement numérique, axé sur l'analyse, la conception, la surveillance et la gestion d'incidents dans des infrastructures IT complexes. L'IA excelle dans la détection d'anomalies, l'analyse de menaces, l'évaluation des vulnérabilités et l'automatisation des réponses, des tâches centrales à la cybersécurité. Bien que le jugement humain reste essentiel pour les menaces inédites et la stratégie, l'IA va transformer significativement la productivité et la nature des tâches, rendant ce métier très exposé à une restructuration."
+  },
+  {
+    "slug": "M1847-expert-experte-en-communication-et-reseaux",
+    "title": "Expert / Experte en communication et réseaux",
+    "exposure": 8,
+    "rationale": "Ce métier est presque entièrement numérique, impliquant la conception de stratégies, la gestion de réseaux, l'analyse de performances et la veille technologique. L'IA peut déjà automatiser et optimiser de nombreuses tâches clés comme la surveillance réseau, la sécurité, l'analyse de données et la génération de contenu de communication. La mention explicite de l'IA et du Machine Learning dans les connaissances requises indique une intégration profonde de ces technologies dans le cœur du métier."
+  },
+  {
+    "slug": "M1848-analyste-concepteur-conceptrice-informatique",
+    "title": "Analyste Concepteur / Conceptrice informatique",
+    "exposure": 8,
+    "rationale": "Ce métier est presque entièrement numérique, impliquant l'analyse, la conception, le codage et la documentation de solutions informatiques. L'IA excelle déjà dans l'assistance à la rédaction de spécifications, la génération de code, la modélisation et l'optimisation, rendant les travailleurs utilisant l'IA significativement plus productifs. De plus, le rôle inclut explicitement l'intégration d'outils IA/Data Science, indiquant une transformation majeure du métier."
+  },
+  {
+    "slug": "M1849-administrateur-administratrice-de-messagerie",
+    "title": "Administrateur / Administratrice de messagerie",
+    "exposure": 8,
+    "rationale": "Ce métier est presque entièrement numérique, axé sur l'administration, la sécurité et l'optimisation de systèmes informatiques. L'IA excelle dans la surveillance, la détection d'anomalies, le dépannage automatisé et la cybersécurité, des domaines centraux à ce rôle. Bien que le jugement humain reste essentiel pour les incidents complexes et le support utilisateur, une grande partie des tâches peut être automatisée ou fortement assistée par l'IA, entraînant une restructuration majeure du métier."
+  },
+  {
+    "slug": "M1850-architecte-multimedias-interactifs",
+    "title": "Architecte multimédias interactifs",
+    "exposure": 9,
+    "rationale": "Ce métier est intrinsèquement numérique, axé sur la conception, le développement et l'optimisation d'expériences interactives et d'architectures logicielles. L'IA peut déjà automatiser ou assister significativement la création de prototypes, le codage, les tests, l'analyse UX et la veille technologique, rendant les travailleurs utilisant l'IA beaucoup plus productifs. La mention explicite de l'intégration d'outils IA/Data Science dans les compétences souligne une transformation majeure et rapide du rôle."
+  },
+  {
+    "slug": "M1851-analyste-decisionnel-business-intelligence",
+    "title": "Analyste décisionnel - Business Intelligence",
+    "exposure": 9,
+    "rationale": "Ce métier est presque entièrement numérique, centré sur l'analyse de données, la modélisation prédictive et le reporting, des domaines où l'IA excelle et progresse rapidement. Les compétences et connaissances requises incluent déjà l'intégration d'outils IA/Data Science et l'application de méthodes de machine learning, indiquant une transformation majeure. Bien que le jugement stratégique et la communication humaine restent cruciaux, l'IA va automatiser et augmenter considérablement les tâches analytiques."
+  },
+  {
+    "slug": "M1852-analyste-d-etude-informatique",
+    "title": "Analyste d'étude informatique",
+    "exposure": 9,
+    "rationale": "Le métier d'Analyste d'étude informatique est presque entièrement numérique, impliquant l'analyse de besoins, la conception d'architectures, la rédaction de spécifications et la documentation. Ces tâches sont hautement automatisables et augmentables par l'IA, qui excelle dans le traitement, la génération et l'analyse d'informations textuelles et structurelles. L'IA peut considérablement accroître la productivité, menant à une restructuration majeure du rôle."
+  },
+  {
+    "slug": "M1853-chef-cheffe-de-projet-etude-et-developpement-informatique",
+    "title": "Chef / Cheffe de projet étude et développement informatique",
+    "exposure": 8,
+    "rationale": "Ce métier est entièrement numérique, axé sur la conception et la gestion de projets de développement logiciel. De nombreuses tâches clés, telles que l'analyse des besoins, la conception d'architecture, la supervision du développement, la gestion de projet et les tests, sont directement impactées par les avancées rapides de l'IA (génération de code, analyse prédictive, automatisation des tests). La compétence explicite d'intégration d'outils IA/Data Science souligne une transformation profonde et continue du rôle."
+  },
+  {
+    "slug": "M1854-administrateur-administratrice-reseau-informatique",
+    "title": "Administrateur / Administratrice réseau informatique",
+    "exposure": 8,
+    "rationale": "Ce métier est intrinsèquement numérique, axé sur la gestion, la surveillance et l'optimisation des infrastructures réseau. L'IA peut automatiser de nombreuses tâches routinières comme l'analyse de logs, la détection d'anomalies, la configuration et la génération de scripts, augmentant considérablement la productivité. Bien que le jugement humain reste crucial pour les problèmes complexes et la stratégie de sécurité, l'IA transformera profondément les méthodes de travail et les compétences requises."
+  },
+  {
+    "slug": "M1855-developpeur-developpeuse-web",
+    "title": "Développeur / Développeuse web",
+    "exposure": 9,
+    "rationale": "Le métier de développeur web est intrinsèquement numérique, impliquant la conception, le codage et la maintenance de solutions digitales. L'IA excelle déjà dans la génération de code, le débogage et l'optimisation, transformant profondément les méthodes de travail et augmentant considérablement la productivité, ce qui indique une exposition très élevée à la restructuration par l'IA."
+  },
+  {
+    "slug": "M1856-expert-experte-en-cybersecurite",
+    "title": "Expert / Experte en cybersécurité",
+    "exposure": 8,
+    "rationale": "Le métier d'expert en cybersécurité est majoritairement intellectuel et numérique, impliquant l'analyse de données massives, la détection de menaces et la mise en place de solutions, des domaines où l'IA excelle. L'IA peut automatiser la surveillance, l'analyse des vulnérabilités et la réponse aux incidents, transformant profondément les tâches quotidiennes. Bien que le jugement humain reste crucial pour la stratégie et la gestion de crise, une grande partie du travail est hautement susceptible à l'automatisation et à l'augmentation par l'IA."
+  },
+  {
+    "slug": "M1857-urbaniste-datacenter",
+    "title": "Urbaniste Datacenter",
+    "exposure": 8,
+    "rationale": "Ce métier est fortement axé sur la planification, la conception et l'optimisation d'infrastructures numériques complexes, avec une grande partie du travail réalisée en bureau d'études. Les tâches principales d'analyse, de dimensionnement et d'élaboration de plans sont hautement numériques et peuvent être grandement assistées, voire transformées, par l'IA. Bien qu'il y ait un besoin de suivi de travaux et d'interaction client, le cœur du travail est intellectuel et se prête à une restructuration majeure par l'IA."
+  },
+  {
+    "slug": "M1858-chef-cheffe-de-projet-tma-tierce-maintenance-applicative",
+    "title": "Chef / Cheffe de projet TMA - Tierce Maintenance Applicative",
+    "exposure": 8,
+    "rationale": "Ce métier est intrinsèquement numérique, centré sur la gestion et l'optimisation d'applications et de systèmes informatiques. De nombreuses tâches, telles que l'analyse des performances, la coordination des mises à jour, le diagnostic technique et la création de documentation, sont hautement susceptibles d'être automatisées ou assistées par l'IA. Bien que la coordination d'équipe et l'analyse des besoins clients nécessitent un jugement humain, l'IA peut considérablement augmenter la productivité du chef de projet, entraînant une restructuration majeure du rôle."
+  },
+  {
+    "slug": "M1859-chef-cheffe-de-projet-maitrise-d-oeuvre-informatique",
+    "title": "Chef / Cheffe de projet maîtrise d'½uvre informatique",
+    "exposure": 8,
+    "rationale": "Le rôle de Chef de projet maîtrise d'œuvre informatique est intrinsèquement numérique, impliquant la définition de besoins, la planification, la coordination, la supervision du développement, le reporting et la documentation. L'IA peut déjà assister significativement dans la rédaction de cahiers des charges, l'optimisation de la planification, le suivi de projet et la génération de rapports. Bien que le jugement humain, la relation client et le leadership restent essentiels, l'IA transformera profondément la productivité et la nature des tâches quotidiennes, rendant le métier très exposé à la restructuration."
+  },
+  {
+    "slug": "M1860-architecte-cloud",
+    "title": "Architecte cloud",
+    "exposure": 8,
+    "rationale": "Le métier d'architecte cloud est intrinsèquement numérique, impliquant la conception, l'optimisation et la sécurisation d'infrastructures logicielles. L'IA peut déjà assister significativement dans la génération d'architectures, l'optimisation des coûts et des performances, l'automatisation des déploiements et la gestion de la sécurité, transformant profondément les tâches principales. Bien que le jugement stratégique et la collaboration humaine restent essentiels, une grande partie du travail technique est hautement exposée à l'automatisation et à l'augmentation par l'IA."
+  },
+  {
+    "slug": "M1861-developpeur-developpeuse-logiciel-ou-d-application",
+    "title": "Développeur / Développeuse logiciel ou d'application",
+    "exposure": 9,
+    "rationale": "Ce métier est presque entièrement numérique, impliquant le codage, la conception, l'analyse et la documentation, des domaines où l'IA progresse très rapidement. L'IA peut déjà assister significativement dans la génération de code, le débogage, la rédaction de spécifications et la création de documentation, rendant les développeurs utilisant l'IA beaucoup plus productifs et transformant profondément le métier."
+  },
+  {
+    "slug": "M1862-responsable-d-exploitation-fibre-optique",
+    "title": "Responsable d'exploitation fibre optique",
+    "exposure": 5,
+    "rationale": "Ce métier combine une forte composante d'analyse de données, de planification stratégique et de reporting (où l'IA peut apporter une productivité significative) avec une supervision essentielle sur le terrain des équipes et des infrastructures physiques. Bien que l'IA puisse optimiser la gestion du réseau et la maintenance prédictive, la présence humaine reste indispensable pour le management d'équipes, le contrôle qualité sur site et la résolution de problèmes imprévus dans le monde physique."
+  },
+  {
+    "slug": "M1863-evaluateur-evaluatrice-securite-des-systemes-et-produits-informatiques",
+    "title": "Evaluateur / Evaluatrice sécurité des systèmes et produits informatiques",
+    "exposure": 8,
+    "rationale": "Ce métier est presque entièrement numérique, axé sur l'analyse de données (logs, code, configurations) et la réalisation d'audits et de tests. L'IA excelle dans l'identification de vulnérabilités, l'analyse de vastes volumes de données de sécurité et l'automatisation des tests d'intrusion, ce qui transformera profondément les méthodes de travail et la productivité. Bien que le jugement humain et l'interaction restent nécessaires, les tâches principales sont hautement automatisables par l'IA."
+  },
+  {
+    "slug": "M1864-product-owner",
+    "title": "Product Owner",
+    "exposure": 8,
+    "rationale": "Le métier de Product Owner est presque entièrement numérique, impliquant l'analyse de données, la rédaction de spécifications, la gestion de backlog et la communication. L'IA peut automatiser ou augmenter de nombreuses tâches clés comme l'analyse des besoins utilisateurs, la priorisation des fonctionnalités et la rédaction de documents. Bien que le jugement humain, la négociation et l'empathie restent essentiels, l'IA transformera profondément la productivité et la nature des tâches quotidiennes, menant à une restructuration majeure du rôle."
+  },
+  {
+    "slug": "M1865-ingenieur-ingenieure-blockchain",
+    "title": "Ingénieur / Ingénieure blockchain",
+    "exposure": 9,
+    "rationale": "Ce métier est intrinsèquement numérique, axé sur le développement, la conception et la sécurisation d'architectures blockchain. Les tâches principales comme le codage, l'analyse de données, la cryptographie et l'audit de sécurité sont des domaines où l'IA progresse très rapidement, permettant une automatisation ou une augmentation significative. La nature du travail, réalisable entièrement sur ordinateur et à distance, indique une exposition très élevée à la transformation par l'IA."
+  },
+  {
+    "slug": "M1866-pentesteur-pentesteuse",
+    "title": "Pentesteur / Pentesteuse",
+    "exposure": 8,
+    "rationale": "Le métier de pentesteur est entièrement numérique, impliquant du codage, de l'analyse de systèmes complexes, de la détection de vulnérabilités et la rédaction de rapports techniques. L'IA peut déjà automatiser de nombreuses tâches comme l'analyse de logs, la reconnaissance, la génération d'exploits et l'identification de patterns, rendant les professionnels utilisant l'IA beaucoup plus productifs. Bien que la créativité humaine et le jugement éthique restent cruciaux pour les attaques sophistiquées et l'adaptation à des scénarios imprévus, l'exposition globale à la transformation par l'IA est très élevée."
+  },
+  {
+    "slug": "M1867-responsable-des-systemes-d-information-si",
+    "title": "Responsable des systèmes d'information (SI)",
+    "exposure": 8,
+    "rationale": "Le Responsable des systèmes d'information opère dans un environnement entièrement numérique, gérant des infrastructures, des données et des stratégies informatiques. L'IA peut automatiser et optimiser de nombreuses tâches d'analyse de performance, de surveillance de sécurité, de gestion des risques et même de planification stratégique, rendant le travailleur très productif. Bien que le jugement humain et le management d'équipe restent essentiels, le cœur du métier est intrinsèquement lié aux capacités numériques en rapide évolution de l'IA."
+  },
+  {
+    "slug": "M1868-architecte-base-de-donnees",
+    "title": "Architecte base de données",
+    "exposure": 8,
+    "rationale": "Le métier d'Architecte base de données est presque entièrement numérique et intellectuel, impliquant la conception, l'optimisation, l'analyse et la documentation de systèmes de données. Ces tâches, ainsi que la gestion des données massives et la programmation, sont des domaines où l'IA progresse rapidement, permettant une automatisation significative et une augmentation de la productivité. Bien que le jugement humain et la collaboration restent essentiels, le cœur technique du métier est fortement exposé à la transformation par l'IA."
+  },
+  {
+    "slug": "M1869-gestionnaire-de-parc-informatique",
+    "title": "Gestionnaire de parc informatique",
+    "exposure": 8,
+    "rationale": "Ce métier est majoritairement numérique, impliquant l'administration de systèmes, la cybersécurité, la surveillance de réseaux et l'optimisation des ressources informatiques. L'IA peut automatiser de nombreuses tâches comme l'inventaire, le reporting, la détection d'incidents, la planification des mises à jour et le support technique de premier niveau. Bien qu'il y ait des aspects physiques (installation de matériel, dépannage sur site) et d'interaction humaine (formation des utilisateurs), la majeure partie du travail est hautement susceptible d'être transformée et rendue plus productive par l'IA."
+  },
+  {
+    "slug": "M1870-directeur-directrice-de-projet-en-informatique",
+    "title": "Directeur / Directrice de projet en informatique",
+    "exposure": 8,
+    "rationale": "Ce métier est entièrement numérique et intellectuel, axé sur la planification, l'analyse, la communication et la stratégie pour des solutions informatiques. L'IA peut considérablement augmenter la productivité en automatisant l'allocation des ressources, la gestion des risques, le reporting et l'optimisation des processus. Bien que le jugement humain et le leadership restent essentiels, les tâches principales sont dans des domaines où l'IA progresse rapidement, entraînant une restructuration majeure du rôle."
+  },
+  {
+    "slug": "M1871-gestionnaire-d-applications-systeme-d-information",
+    "title": "Gestionnaire d'applications système d'information",
+    "exposure": 8,
+    "rationale": "Le métier de gestionnaire d'applications système d'information est entièrement numérique, axé sur l'administration, l'optimisation et la maintenance de systèmes. L'IA peut automatiser une grande partie des tâches de surveillance, de diagnostic d'incidents, de maintenance prédictive et de gestion des mises à jour, augmentant significativement la productivité ou réduisant le besoin en personnel. Bien que la coordination d'équipes et la formation des utilisateurs conservent une composante humaine, le cœur technique du métier est très fortement exposé à la transformation par l'IA."
+  },
+  {
+    "slug": "M1872-consultant-decisionnel-consultante-decisionnelle-business-intelligence",
+    "title": "Consultant décisionnel / Consultante décisionnelle - Business Intelligence",
+    "exposure": 8,
+    "rationale": "Ce métier est presque entièrement numérique, axé sur l'analyse, la modélisation de données et la création de rapports/tableaux de bord, des tâches hautement automatisables par l'IA. Le rôle implique déjà l'intégration d'outils d'IA et de Machine Learning, signalant une transformation intrinsèque. Bien que le conseil client et la gestion de projet nécessitent un jugement humain, l'IA augmentera considérablement la productivité et modifiera la nature des livrables, entraînant une restructuration majeure du métier."
+  },
+  {
+    "slug": "M1873-specialiste-ia-embarquee",
+    "title": "Spécialiste IA embarquée",
+    "exposure": 8,
+    "rationale": "Ce métier est intrinsèquement numérique, axé sur la conception, le développement et l'optimisation d'algorithmes et de systèmes d'IA. Les tâches principales comme le codage, l'analyse, les tests et la veille technologique sont des domaines où l'IA progresse rapidement, offrant des outils d'assistance puissants. Bien que le jugement humain et la créativité restent essentiels pour les défis complexes d'intégration et d'innovation, l'IA peut augmenter considérablement la productivité du spécialiste, transformant ainsi le rôle."
+  },
+  {
+    "slug": "M1874-specialiste-support",
+    "title": "Spécialiste support",
+    "exposure": 8,
+    "rationale": "Ce métier est presque entièrement numérique, impliquant la gestion d'incidents, l'analyse de systèmes, la documentation technique et la formation, des domaines où l'IA progresse rapidement. L'IA peut automatiser le triage, générer des solutions, analyser les tendances et assister la documentation, rendant les spécialistes support beaucoup plus productifs. Bien que la supervision et la formation nécessitent un jugement humain, la nature digitale du travail le rend très exposé à une restructuration majeure par l'IA."
+  },
+  {
+    "slug": "M1875-coordinateur-coordinatrice-maitrise-d-ouvrage-systeme-d-information-moa-si",
+    "title": "Coordinateur / Coordinatrice Maitrise d'Ouvrage Système d'Information (MOA SI)",
+    "exposure": 8,
+    "rationale": "Ce métier est intrinsèquement numérique, axé sur la conception, la coordination et l'optimisation de systèmes d'information. Les tâches principales comme la rédaction de cahiers des charges, l'analyse des besoins, la planification de projets et l'évaluation de systèmes sont fortement basées sur le traitement de l'information et la communication, des domaines où l'IA progresse rapidement. Bien que la liaison humaine et la formation restent cruciales, l'IA peut automatiser et augmenter significativement la productivité sur de nombreuses facettes de ce rôle."
+  },
+  {
+    "slug": "M1876-technicien-technicienne-cloud",
+    "title": "Technicien / Technicienne Cloud",
+    "exposure": 9,
+    "rationale": "Ce métier est presque entièrement numérique, impliquant la gestion, la configuration et la surveillance d'infrastructures et de données dans le cloud. L'IA excelle dans l'automatisation des tâches répétitives, la détection d'anomalies, la cybersécurité et l'optimisation des performances, ce qui aura un impact très élevé sur la productivité et la nature des tâches du technicien cloud."
+  },
+  {
+    "slug": "M1877-developpeur-developpeuse-blockchain",
+    "title": "Développeur / Développeuse blockchain",
+    "exposure": 9,
+    "rationale": "Ce métier est entièrement numérique, axé sur le développement, la conception d'architectures et la sécurisation de systèmes blockchain. Les tâches principales comme le codage, la conception de smart contracts, les tests et la veille technologique sont des domaines où l'IA progresse rapidement, permettant une automatisation et une augmentation significative de la productivité. La possibilité de télétravail confirme la nature purement intellectuelle et digitale du poste, le rendant très exposé à la transformation par l'IA."
+  },
+  {
+    "slug": "M1878-responsable-de-la-production-informatique",
+    "title": "Responsable de la production informatique",
+    "exposure": 8,
+    "rationale": "Ce métier est entièrement numérique, axé sur la supervision, l'optimisation et la sécurité des infrastructures informatiques. L'IA peut automatiser une grande partie de l'analyse des performances, de la détection d'incidents, de l'optimisation des processus et de la gestion des risques, rendant les tâches opérationnelles plus efficaces et transformant le rôle vers une supervision stratégique et une prise de décision assistée. Bien que le jugement humain et le management d'équipe restent essentiels, l'IA va profondément restructurer les méthodes de travail et la productivité."
+  },
+  {
+    "slug": "M1879-ingenieur-ingenieure-cloud-computing",
+    "title": "Ingénieur / Ingénieure Cloud computing",
+    "exposure": 9,
+    "rationale": "Le métier d'Ingénieur Cloud computing est intrinsèquement numérique, impliquant la conception, le déploiement, l'optimisation et la sécurisation d'architectures cloud. Toutes les tâches principales (codage, analyse, configuration, surveillance) sont réalisées sur ordinateur, des domaines où l'IA progresse rapidement, permettant une automatisation et une augmentation significative de la productivité, ce qui indique une restructuration majeure du métier."
+  },
+  {
+    "slug": "M1880-specialiste-e-sante",
+    "title": "Spécialiste e-santé",
+    "exposure": 8,
+    "rationale": "Ce métier est intrinsèquement numérique, axé sur la conception, le déploiement et l'analyse de solutions e-santé, ainsi que l'exploitation de données et d'IA. Bien qu'il implique de la collaboration et du jugement humain pour les aspects éthiques et réglementaires, la majorité des tâches intellectuelles (analyse, gestion de projet, intégration technologique) sont hautement transformables par l'IA, augmentant significativement la productivité et potentiellement la restructuration du rôle."
+  },
+  {
+    "slug": "M1881-chef-cheffe-de-projet-maitrise-d-ouvrage-des-systemes-d-information-moa",
+    "title": "Chef / Cheffe de projet Maîtrise d'Ouvrage des Systèmes d'Information (MOA)",
+    "exposure": 8,
+    "rationale": "Ce métier est fortement axé sur des tâches intellectuelles et numériques, telles que la rédaction de cahiers des charges, l'analyse de données, la planification et le reporting. L'IA peut considérablement automatiser la génération de documents, l'analyse des besoins, le suivi de projet et la gestion des risques. Bien que le jugement humain, la négociation et l'interaction avec les parties prenantes restent essentiels, l'IA rendra les chefs de projet MOA beaucoup plus productifs, transformant potentiellement le rôle et les compétences requises."
+  },
+  {
+    "slug": "M1882-architecte-securite-informatique",
+    "title": "Architecte sécurité informatique",
+    "exposure": 9,
+    "rationale": "Le métier d'architecte sécurité informatique est intrinsèquement numérique, impliquant l'analyse de risques, la conception d'architectures, la veille technologique et la documentation. L'IA excelle dans l'analyse de données massives, la détection de menaces, la génération de configurations et l'automatisation de la conformité, ce qui transformera profondément les tâches principales. Bien que le jugement humain reste essentiel pour la stratégie et la négociation, une grande partie du travail sera fortement augmentée ou restructurée par l'IA."
+  },
+  {
+    "slug": "M1883-analyste-soc-security-operations-center",
+    "title": "Analyste SOC (Security Operations Center)",
+    "exposure": 8,
+    "rationale": "Le métier d'Analyste SOC est intrinsèquement numérique, axé sur la surveillance, l'analyse de données massives et la réponse aux incidents de cybersécurité. L'IA excelle déjà dans la détection d'anomalies, l'analyse des menaces et l'automatisation des réponses, rendant les analystes actuels plus productifs et transformant profondément les tâches routinières. Bien que le jugement humain reste essentiel pour les menaces complexes et la stratégie, une grande partie du travail est susceptible d'être automatisée ou fortement assistée par l'IA."
+  },
+  {
+    "slug": "M1884-ingenieur-ingenieure-systemes-reseaux-et-securite-informatique",
+    "title": "Ingénieur / Ingénieure systèmes, réseaux et sécurité informatique",
+    "exposure": 8,
+    "rationale": "Ce métier est presque entièrement numérique, impliquant la conception, l'administration et la sécurisation d'infrastructures IT. L'IA peut automatiser la surveillance, l'optimisation des performances, la détection des menaces cybernétiques et la réponse aux incidents, rendant les ingénieurs beaucoup plus productifs et transformant les tâches routinières. Bien que le jugement humain reste crucial pour les problèmes complexes et la stratégie, la majorité des compétences sont directement impactées par les avancées rapides de l'IA."
+  },
+  {
+    "slug": "M1885-responsable-telecoms",
+    "title": "Responsable télécoms",
+    "exposure": 7,
+    "rationale": "Le Responsable télécoms effectue un travail principalement intellectuel, axé sur la conception, l'optimisation et la supervision de réseaux, des domaines où l'IA excelle pour l'analyse de données, la modélisation et l'automatisation. Bien que l'IA puisse augmenter considérablement la productivité et la prise de décision, les aspects de leadership d'équipe, de négociation avec les partenaires et de définition de la stratégie technique nécessitent un jugement humain et des compétences relationnelles qui ne sont pas entièrement automatisables."
+  },
+  {
+    "slug": "M1886-chef-cheffe-de-projet-web",
+    "title": "Chef / Cheffe de projet Web",
+    "exposure": 8,
+    "rationale": "Ce métier est intrinsèquement numérique, impliquant la gestion, l'analyse et l'optimisation de projets web, avec une forte composante de travail sur ordinateur. L'IA peut déjà automatiser ou augmenter considérablement de nombreuses tâches clés comme l'analyse de données, la rédaction de contenu, la planification de projet et l'optimisation UX/UI. Bien que le jugement humain, la coordination d'équipe et la relation client restent essentiels, la nature entièrement digitale du travail expose ce rôle à une transformation majeure et à une augmentation significative de la productivité via l'IA."
+  },
+  {
+    "slug": "M1887-product-builder-no-code",
+    "title": "Product builder no code",
+    "exposure": 9,
+    "rationale": "Ce métier est entièrement numérique, axé sur la conception et le développement de produits digitaux via des plateformes no-code. Les tâches principales, telles que la conception d'interfaces, l'architecture d'applications, l'intégration de systèmes et les tests, sont des domaines où l'IA progresse rapidement, capable d'assister ou d'automatiser la génération de solutions et l'optimisation. L'IA peut considérablement augmenter la productivité ou même prendre en charge une grande partie de la construction, rendant ce métier très exposé à une restructuration majeure."
+  },
+  {
+    "slug": "M1888-specialiste-en-modelisation-climatique",
+    "title": "Spécialiste en modélisation climatique",
+    "exposure": 8,
+    "rationale": "Ce métier est presque entièrement numérique et intellectuel, axé sur la modélisation, l'analyse de données complexes et le développement d'algorithmes. Ces tâches, ainsi que la rédaction scientifique et la communication, sont des domaines où l'IA progresse rapidement, permettant une augmentation significative de la productivité et l'automatisation de nombreuses étapes. Bien que le jugement humain et l'expertise de haut niveau restent cruciaux pour l'interprétation et la recherche, l'IA va profondément transformer et restructurer ce métier."
+  },
+  {
+    "slug": "M1889-ingenieur-ingenieure-en-intelligence-artificielle-ia",
+    "title": "Ingénieur / Ingénieure en Intelligence Artificielle (IA)",
+    "exposure": 9,
+    "rationale": "Ce métier est entièrement numérique et intellectuel, centré sur la conception, le développement et l'optimisation de systèmes d'IA. Les tâches principales comme le codage, l'analyse de données et la conception d'algorithmes sont déjà fortement augmentées par les outils d'IA (ex: copilotes de code, AutoML), rendant les ingénieurs IA beaucoup plus productifs. Le métier est en constante restructuration par la technologie qu'il crée, déplaçant l'accent vers la résolution de problèmes complexes, l'éthique et la stratégie."
+  },
+  {
+    "slug": "M1890-responsable-d-operations-en-station-meteorologique",
+    "title": "Responsable d'opérations en station météorologique",
+    "exposure": 6,
+    "rationale": "Ce métier combine des tâches intellectuelles d'analyse de données météorologiques, de prévision et de recherche, fortement impactées par l'IA, avec des responsabilités de gestion d'équipe et de maintenance physique des équipements en station. L'IA va considérablement augmenter la productivité dans les aspects analytiques et prédictifs, mais la nécessité d'une présence humaine pour la supervision des infrastructures et le management d'équipe maintient une barrière à l'automatisation complète."
+  },
+  {
+    "slug": "M1891-ingenieur-ingenieure-previsionniste-meteorologue",
+    "title": "Ingénieur / Ingénieure prévisionniste météorologue",
+    "exposure": 8,
+    "rationale": "Le cœur de ce métier repose sur l'analyse de vastes ensembles de données météorologiques, l'interprétation de modèles prédictifs et l'élaboration de prévisions, des tâches où l'IA excelle et progresse rapidement. L'IA peut automatiser une grande partie du traitement des données et de la modélisation, transformant significativement la productivité et les méthodes de travail. Bien que des aspects de maintenance physique et de communication humaine subsistent, la composante numérique et analytique est prédominante et fortement exposée à l'IA."
+  },
+  {
+    "slug": "M1892-ingenieur-ingenieure-en-informatique-embarquee",
+    "title": "Ingénieur / Ingénieure en informatique embarquée",
+    "exposure": 8,
+    "rationale": "Ce métier est principalement intellectuel, axé sur le développement logiciel, la conception d'architectures et l'optimisation de systèmes embarqués, souvent sur ordinateur. Les tâches de codage, d'analyse et de conception sont des domaines où l'IA progresse rapidement, offrant des outils pour l'automatisation et l'amélioration de la productivité. La mention explicite de la conception et de l'optimisation de 'systèmes IA embarqués' souligne une exposition directe et très élevée à la transformation par l'IA."
+  },
+  {
+    "slug": "M1893-technicien-technicienne-de-la-meteorologie",
+    "title": "Technicien / Technicienne de la météorologie",
+    "exposure": 7,
+    "rationale": "Ce métier implique une part importante d'analyse de données météorologiques, d'interprétation de modèles complexes et de rédaction de rapports, des tâches hautement numériques où l'IA excelle. Bien que la maintenance des équipements et les observations sur le terrain nécessitent une présence physique, l'IA transformera la productivité des techniciens dans le traitement des données et la prévision, rendant le métier très exposé à l'automatisation et à l'augmentation des capacités."
+  },
+  {
+    "slug": "M1894-gestionnaire-de-base-de-donnees",
+    "title": "Gestionnaire de base de données",
+    "exposure": 9,
+    "rationale": "Le métier de Gestionnaire de base de données est entièrement numérique, impliquant la conception, la maintenance, l'optimisation et la sécurisation de systèmes d'information. L'IA excelle dans l'analyse de données, l'optimisation de performances, la détection d'anomalies, la cybersécurité et l'automatisation des tâches de routine, ce qui rend ce rôle très exposé à la transformation et à l'augmentation par l'IA, augmentant potentiellement la productivité de manière significative."
+  },
+  {
+    "slug": "N1101-cariste",
+    "title": "Cariste",
+    "exposure": 3,
+    "rationale": "Le métier de cariste est principalement physique, impliquant la conduite d'engins de manutention pour déplacer des marchandises dans des environnements dynamiques. Bien que l'IA puisse optimiser la gestion des stocks et les itinéraires, le cœur du travail nécessite une présence humaine, une dextérité manuelle et un jugement en temps réel pour la sécurité et l'adaptation aux imprévus."
+  },
+  {
+    "slug": "N1102-demenageur-demenageuse",
+    "title": "Déménageur / Déménageuse",
+    "exposure": 2,
+    "rationale": "Le métier de déménageur est intrinsèquement physique, nécessitant une présence humaine pour la manutention, l'emballage, le montage/démontage de meubles et la conduite de véhicules. Bien que l'IA puisse optimiser les itinéraires ou la gestion administrative, elle ne peut pas automatiser les tâches manuelles lourdes, la coordination physique sur site ou l'interaction directe avec les objets et les clients dans des environnements imprévisibles."
+  },
+  {
+    "slug": "N1103-preparateur-preparatrice-de-commandes",
+    "title": "Préparateur / Préparatrice de commandes",
+    "exposure": 5,
+    "rationale": "Ce métier combine des tâches physiques (manutention, emballage) avec une utilisation significative de systèmes informatiques pour la gestion des stocks et des commandes. L'IA peut optimiser considérablement les itinéraires de picking, la gestion des stocks et la coordination des flux, rendant les processus plus efficaces. Bien qu'une présence physique et une dextérité humaine soient encore requises pour de nombreuses opérations, la robotique et l'automatisation guidées par l'IA transforment rapidement ce secteur, impactant directement la productivité et potentiellement les effectifs."
+  },
+  {
+    "slug": "N1104-pontier-pontiere",
+    "title": "Pontier / Pontière",
+    "exposure": 2,
+    "rationale": "Le métier de pontier est principalement physique et manuel, impliquant la manipulation d'engins lourds dans un environnement réel et dynamique. Les compétences clés sont la dextérité, la conscience spatiale et le jugement humain en temps réel pour la sécurité. L'IA pourrait assister pour des tâches périphériques comme la documentation ou la maintenance prédictive, mais le cœur du métier, nécessitant une présence physique et une interaction humaine pour la sécurité, est peu exposé à l'automatisation directe par l'IA."
+  },
+  {
+    "slug": "N1105-manutentionnaire",
+    "title": "Manutentionnaire",
+    "exposure": 2,
+    "rationale": "Le métier de manutentionnaire est principalement physique et manuel, impliquant la manipulation d'objets, l'utilisation d'engins et une présence sur le terrain. Bien que l'IA puisse optimiser la gestion des stocks ou les itinéraires, elle ne peut pas automatiser le cœur des tâches qui nécessitent une dextérité physique et une interaction avec l'environnement réel. L'exposition à l'IA est faible car elle ne touche que des aspects périphériques du métier."
+  },
+  {
+    "slug": "N1106-agent-agente-de-quai-manutentionnaire",
+    "title": "Agent / Agente de quai manutentionnaire",
+    "exposure": 2,
+    "rationale": "Ce métier est principalement physique, impliquant le chargement, le déchargement et la manutention de marchandises avec des engins. Bien que l'IA puisse optimiser la gestion des stocks et les itinéraires, le cœur du travail nécessite une présence physique et une dextérité manuelle. L'automatisation directe des tâches de manipulation physique est encore limitée, ce qui réduit l'exposition globale à l'IA."
+  },
+  {
+    "slug": "N1107-chef-cheffe-d-equipe-en-demenagement",
+    "title": "Chef / Cheffe d'équipe en déménagement",
+    "exposure": 3,
+    "rationale": "Le métier de chef d'équipe en déménagement est fortement ancré dans le monde physique, impliquant des tâches manuelles lourdes, la conduite de véhicules, la gestion d'équipe sur le terrain et des interactions humaines directes avec les clients. Bien que l'IA puisse optimiser la planification des itinéraires ou la gestion des inventaires, elle ne peut pas automatiser les aspects cruciaux de manutention, d'emballage, de montage/démontage de meubles, ni la coordination humaine en temps réel face aux imprévus sur site."
+  },
+  {
+    "slug": "N1108-conducteur-conductrice-de-grue-mobile",
+    "title": "Conducteur / Conductrice de grue mobile",
+    "exposure": 2,
+    "rationale": "Ce métier est principalement physique, nécessitant la manipulation d'engins lourds sur des chantiers en extérieur, souvent dans des environnements imprévisibles. Bien que l'IA puisse assister pour la planification ou la documentation, le cœur du métier repose sur l'habileté manuelle, le jugement humain en temps réel et la gestion de la sécurité pour des opérations de levage complexes. L'IA ne touche pas directement l'essence de la conduite et de la manœuvre de la grue."
+  },
+  {
+    "slug": "N1109-eclusier-barragiste-eclusiere-barragiste",
+    "title": "Eclusier-barragiste / Eclusière-barragiste",
+    "exposure": 3,
+    "rationale": "Le métier d'éclusier-barragiste implique une forte composante physique (manœuvre d'écluses, maintenance) et une présence humaine essentielle pour la sécurité, la communication avec les bateliers et la gestion des urgences. Bien que l'IA puisse optimiser la surveillance des niveaux d'eau et la planification, elle ne peut pas remplacer l'interaction humaine directe ni les interventions physiques et manuelles dans un environnement imprévisible."
+  },
+  {
+    "slug": "N1110-magasinier-magasiniere",
+    "title": "Magasinier / Magasinière",
+    "exposure": 4,
+    "rationale": "Le métier de magasinier combine des tâches physiques importantes (manutention, chargement/déchargement, conduite d'engins) avec des tâches de gestion de l'information (suivi des stocks, utilisation de WMS/ERP, traitement des commandes). L'IA peut optimiser considérablement la gestion des stocks, la planification et l'analyse des flux, rendant les processus plus efficaces. Cependant, la composante physique essentielle du travail, nécessitant une présence sur site et une dextérité manuelle, limite une automatisation complète par l'IA à court et moyen terme."
+  },
+  {
+    "slug": "N1111-conducteur-conductrice-de-pont-roulant",
+    "title": "Conducteur / Conductrice de pont roulant",
+    "exposure": 2,
+    "rationale": "Ce métier est principalement physique, nécessitant la manipulation d'engins lourds dans un environnement réel et souvent dynamique. Les compétences clés impliquent la manœuvre précise, la coordination avec les équipes au sol et le respect strict des normes de sécurité, des aspects où la présence humaine et le jugement en temps réel sont cruciaux. L'IA pourrait assister pour des tâches périphériques comme l'optimisation des trajets ou la maintenance prédictive, mais elle ne touche pas le cœur de l'opération physique et sécuritaire."
+  },
+  {
+    "slug": "N1112-chef-cariste-cheffe-cariste",
+    "title": "Chef cariste / Cheffe cariste",
+    "exposure": 6,
+    "rationale": "Le rôle de Chef cariste implique une part significative de supervision, de coordination et d'optimisation des flux logistiques et de la gestion des stocks, des tâches fortement basées sur l'analyse de données et l'utilisation de systèmes informatisés. L'IA peut grandement améliorer la planification, la prédiction et l'automatisation de ces processus. Cependant, la présence physique pour la supervision des opérations, la conduite d'engins et le management d'équipes humaines dans un environnement physique reste essentielle, empêchant une automatisation complète du métier."
+  },
+  {
+    "slug": "N1113-preparateur-preparatrice-au-drive",
+    "title": "Préparateur / Préparatrice au drive",
+    "exposure": 4,
+    "rationale": "Le cœur de ce métier implique une manipulation physique des produits (prélèvement, conditionnement) et une interaction directe avec les clients lors du retrait des commandes. Bien que l'IA puisse optimiser la gestion des stocks, les parcours de préparation et les systèmes de commande, ces tâches numériques supportent une activité majoritairement physique et interpersonnelle. L'IA améliorera l'efficacité mais ne remplacera pas la présence humaine et la dextérité manuelle."
+  },
+  {
+    "slug": "N1114-conducteur-conductrice-d-engins-lourds-de-manutention",
+    "title": "Conducteur / Conductrice d'engins lourds de manutention",
+    "exposure": 2,
+    "rationale": "Ce métier est principalement physique, impliquant la conduite d'engins lourds et la manipulation de charges dans des environnements réels et souvent imprévisibles. Le jugement humain en temps réel est crucial pour la sécurité et la coordination avec les équipes au sol. L'IA pourrait assister pour des tâches périphériques comme la gestion documentaire ou la maintenance prédictive, mais le cœur du métier reste fortement ancré dans le monde physique."
+  },
+  {
+    "slug": "N1115-operateur-operatrice-logistique-en-entrepot",
+    "title": "Opérateur / Opératrice logistique en entrepôt",
+    "exposure": 5,
+    "rationale": "Ce métier combine des tâches physiques de manutention et d'opération d'équipements avec des tâches numériques de gestion de stock et de préparation de commandes. L'IA peut optimiser significativement les processus logistiques, la gestion des flux et l'inventaire, et l'automatisation robotique réduit le besoin d'intervention humaine pour les tâches physiques répétitives, transformant ainsi le rôle sans le remplacer entièrement."
+  },
+  {
+    "slug": "N1116-agent-agente-de-quai-de-messagerie",
+    "title": "Agent / Agente de quai de messagerie",
+    "exposure": 2,
+    "rationale": "Ce métier est principalement physique, impliquant la manipulation de marchandises variées, le chargement/déchargement et l'utilisation d'engins de manutention. Bien qu'il y ait une composante numérique pour la traçabilité et l'enregistrement, le cœur du travail nécessite une présence physique, une dextérité manuelle et un jugement humain pour la qualité et la sécurité. L'IA peut optimiser les flux logistiques ou la planification, mais elle ne touche pas directement les tâches physiques essentielles de l'agent de quai."
+  },
+  {
+    "slug": "N1201-affreteur-affreteuse",
+    "title": "Affréteur / Affréteuse",
+    "exposure": 8,
+    "rationale": "Le métier d'affréteur est fortement axé sur l'analyse de données, l'optimisation des flux, la planification et la conformité réglementaire, des tâches où l'IA excelle. La digitalisation des processus logistiques et l'utilisation des systèmes de gestion des transports (TMS) rendent le travail intrinsèquement numérique. Bien que la négociation et la gestion des relations nécessitent un jugement humain, l'IA peut considérablement augmenter la productivité et automatiser de nombreuses tâches préparatoires et de suivi, entraînant une restructuration majeure du métier."
+  },
+  {
+    "slug": "N1202-agent-agente-de-transit",
+    "title": "Agent / Agente de transit",
+    "exposure": 7,
+    "rationale": "Ce métier implique une gestion intensive de l'information, de la documentation et de la coordination via des outils numériques, des domaines où l'IA excelle pour l'automatisation et l'optimisation. L'IA peut considérablement augmenter la productivité en gérant les tâches routinières, le suivi et la conformité. Cependant, le jugement humain reste crucial pour gérer les aléas complexes, les relations clients et les négociations, ce qui maintient une composante non automatisable."
+  },
+  {
+    "slug": "N1203-technicien-technicienne-gestion-douaniere",
+    "title": "Technicien / Technicienne gestion douanière",
+    "exposure": 8,
+    "rationale": "Ce métier est fortement axé sur le traitement administratif, l'analyse de documents, le calcul de taxes et la conformité réglementaire, des tâches majoritairement numériques et basées sur des règles, très propices à l'automatisation par l'IA. Bien que le conseil client et la négociation avec les autorités douanières requièrent un jugement humain, l'IA peut considérablement augmenter la productivité en préparant et en optimisant ces interactions, rendant l'exposition très élevée."
+  },
+  {
+    "slug": "N1204-coordinateur-coordinatrice-transit-en-import-export",
+    "title": "Coordinateur / Coordinatrice transit en import - export",
+    "exposure": 7,
+    "rationale": "Ce métier est principalement intellectuel et implique une gestion intensive de l'information, de la planification, de l'optimisation des itinéraires et du suivi documentaire, des tâches où l'IA excelle. Bien que la négociation avec les transporteurs et la résolution de litiges complexes nécessitent un jugement humain, une grande partie du travail administratif, de coordination et d'analyse peut être fortement augmentée ou automatisée par l'IA, rendant les travailleurs beaucoup plus productifs."
+  },
+  {
+    "slug": "N1205-responsable-de-service-transit",
+    "title": "Responsable de service transit",
+    "exposure": 6,
+    "rationale": "Ce métier implique une forte composante d'analyse de données, d'optimisation des processus logistiques et de gestion de la documentation numérique, des domaines où l'IA peut apporter une productivité significative. L'IA peut automatiser la veille réglementaire, l'optimisation des itinéraires et des coûts, et le contrôle de conformité des documents. Cependant, les aspects de management d'équipe, de négociation complexe avec les partenaires et de gestion des aléas géopolitiques nécessitent un jugement humain et une interaction qui limitent l'automatisation complète."
+  },
+  {
+    "slug": "N1206-courtier-courtiere-affretement-maritime",
+    "title": "Courtier / Courtière affrètement maritime",
+    "exposure": 8,
+    "rationale": "Ce métier est fortement axé sur l'analyse de données, l'optimisation d'itinéraires et de coûts, la conformité réglementaire et la négociation, des domaines où l'IA excelle. Bien que la négociation complexe et le développement de relations humaines restent cruciaux, l'IA peut automatiser une grande partie de la recherche, de l'analyse et de la préparation des dossiers, rendant les courtiers existants beaucoup plus productifs. Le travail est majoritairement numérique et peut être effectué à distance."
+  },
+  {
+    "slug": "N1207-chef-cheffe-de-groupe-affretement",
+    "title": "Chef / Cheffe de groupe affrètement",
+    "exposure": 7,
+    "rationale": "Ce métier implique une forte composante d'optimisation des opérations de transport, d'analyse de données et de gestion administrative, des domaines où l'IA excelle et peut automatiser ou augmenter significativement la productivité. Cependant, les compétences clés en négociation complexe avec les transporteurs et les clients, le management d'équipe et la gestion des imprévus nécessitent un jugement humain et des interactions interpersonnelles, limitant une automatisation complète mais rendant l'IA un outil puissant d'assistance."
+  },
+  {
+    "slug": "N1208-operateur-operatrice-de-traitement-de-valeurs",
+    "title": "Opérateur / Opératrice de traitement de valeurs",
+    "exposure": 3,
+    "rationale": "Le cœur de ce métier est la manipulation physique et sécurisée de fonds et de valeurs, l'opération et la maintenance de machines spécialisées, ainsi que la gestion de la sécurité physique. Bien que des outils numériques soient utilisés pour la gestion des stocks et la rédaction de rapports, ces tâches sont secondaires par rapport aux exigences de présence physique, de dextérité manuelle et de vigilance en temps réel. L'IA pourrait optimiser certaines tâches périphériques ou l'efficacité des machines, mais elle ne peut pas remplacer la composante physique et sécuritaire essentielle du poste."
+  },
+  {
+    "slug": "N1301-responsable-logistique",
+    "title": "Responsable logistique",
+    "exposure": 7,
+    "rationale": "Le Responsable logistique effectue un travail majoritairement intellectuel axé sur l'analyse de données, la planification et l'optimisation des flux, des domaines où l'IA excelle et peut augmenter considérablement la productivité. Bien que l'IA puisse automatiser de nombreuses tâches d'optimisation et d'analyse, le rôle exige également un management d'équipes, des négociations avec des partenaires et une supervision sur site, nécessitant un jugement humain et une présence physique qui limitent l'automatisation complète."
+  },
+  {
+    "slug": "N1302-responsable-entrepot-logistique",
+    "title": "Responsable entrepôt logistique",
+    "exposure": 6,
+    "rationale": "Ce métier combine une gestion stratégique et opérationnelle fortement numérisée (analyse de données, optimisation de la chaîne logistique, gestion des stocks) avec un management d'équipes et une supervision physique d'un entrepôt. L'IA va considérablement augmenter la productivité pour les tâches d'analyse, de planification et d'administration, mais la présence humaine reste essentielle pour le leadership, la négociation et la gestion des imprévus sur le terrain."
+  },
+  {
+    "slug": "N1303-approvisionneur-approvisionneuse-logistique",
+    "title": "Approvisionneur / Approvisionneuse logistique",
+    "exposure": 7,
+    "rationale": "Ce métier implique une forte composante intellectuelle et numérique, notamment dans la planification, l'organisation, le contrôle des flux logistiques et la gestion des stocks, des domaines où l'IA excelle pour l'optimisation et la prédiction. Bien qu'une présence physique pour la supervision et la coordination d'équipes soit nécessaire, les tâches d'analyse, de décision et de gestion de l'information sont prépondérantes et hautement transformables par l'IA, augmentant significativement la productivité des travailleurs."
+  },
+  {
+    "slug": "N1304-directeur-directrice-logistique",
+    "title": "Directeur / Directrice logistique",
+    "exposure": 7,
+    "rationale": "Le rôle de Directeur logistique implique une forte composante d'analyse de données, de planification stratégique et d'optimisation des processus, des domaines où l'IA excelle. L'IA peut automatiser l'analyse des flux, la prévision de la demande et la gestion des stocks, rendant le directeur beaucoup plus productif. Cependant, le jugement humain, le leadership d'équipe et les négociations complexes avec les partenaires conservent une importance capitale."
+  },
+  {
+    "slug": "N1305-ingenieur-ingenieure-logistique",
+    "title": "Ingénieur / Ingénieure logistique",
+    "exposure": 7,
+    "rationale": "Ce métier est fortement axé sur l'analyse de données, l'optimisation des processus et la planification stratégique, des domaines où l'IA excelle. L'utilisation de logiciels spécialisés et la gestion des flux d'informations sont centrales, permettant à l'IA d'automatiser de nombreuses tâches d'analyse et de prédiction. Le jugement humain, la collaboration et la supervision des opérations physiques restent importants, mais l'IA augmentera considérablement la productivité de l'ingénieur logistique."
+  },
+  {
+    "slug": "N2101-personnel-navigant-commercial-pnc",
+    "title": "Personnel Navigant Commercial - PNC -",
+    "exposure": 2,
+    "rationale": "Le métier de Personnel Navigant Commercial est intrinsèquement lié à la présence physique, à l'interaction humaine en temps réel et à la gestion de situations imprévisibles, notamment en matière de sécurité et d'urgence. L'IA ne peut pas remplacer la présence humaine essentielle pour la sécurité des passagers, les premiers secours ou la gestion des conflits à bord. Seules des tâches périphériques comme la gestion des stocks ou la rédaction de rapports pourraient être marginalement assistées par l'IA."
+  },
+  {
+    "slug": "N2102-pilote-de-ligne",
+    "title": "Pilote de ligne",
+    "exposure": 2,
+    "rationale": "Le pilotage d'un aéronef est une tâche fondamentalement physique et en temps réel, exigeant une présence humaine constante, une dextérité manuelle et une prise de décision complexe face à des situations imprévisibles. Bien que l'IA puisse assister pour la planification ou l'optimisation, elle ne touche pas le cœur du métier qui est la gestion et le contrôle direct de l'appareil dans un environnement physique et à hauts risques."
+  },
+  {
+    "slug": "N2201-agent-agente-d-escale-commerciale-aeroportuaire-aec",
+    "title": "Agent / Agente d'Escale Commerciale aéroportuaire -AEC-",
+    "exposure": 5,
+    "rationale": "Ce métier combine une forte composante d'interaction humaine directe et de présence physique en environnement aéroportuaire, difficilement automatisable par l'IA. Cependant, une part significative des tâches liées au traitement de l'information, à la coordination logistique, à la vérification documentaire et à la gestion des flux peut être fortement optimisée ou assistée par l'IA, rendant les agents plus productifs et transformant les processus opérationnels."
+  },
+  {
+    "slug": "N2202-controleur-aerien-controleuse-aerienne",
+    "title": "Contrôleur aérien / Contrôleuse aérienne",
+    "exposure": 6,
+    "rationale": "Le métier de contrôleur aérien repose fortement sur l'analyse de données numériques (radars, logiciels de gestion de trafic) et la communication, des domaines où l'IA peut apporter une aide significative pour l'optimisation et la prédiction. Cependant, le cœur du métier implique une prise de décision humaine critique en temps réel, la gestion de situations d'urgence imprévisibles et une communication directe avec les pilotes, où la responsabilité et le jugement humain restent essentiels pour la sécurité."
+  },
+  {
+    "slug": "N2203-agent-agente-de-piste",
+    "title": "Agent / Agente de piste",
+    "exposure": 2,
+    "rationale": "Ce métier est majoritairement physique et s'effectue en extérieur, impliquant la manipulation d'engins lourds, le chargement/déchargement et l'assistance directe aux aéronefs. Bien que certaines tâches périphériques comme la consignation d'activités ou l'interprétation de documents techniques puissent être assistées par l'IA, le cœur du métier nécessite une présence physique, une habileté manuelle et une interaction en temps réel dans un environnement complexe et imprévisible, limitant fortement l'automatisation par l'IA."
+  },
+  {
+    "slug": "N2204-agent-agente-de-trafic-aerien",
+    "title": "Agent / Agente de trafic aérien",
+    "exposure": 6,
+    "rationale": "Ce métier combine une forte composante intellectuelle et numérique (préparation des vols, calculs de masse et centrage, analyse météorologique, gestion des dossiers) avec une présence physique et une coordination humaine essentielle sur la piste. L'IA peut significativement optimiser les tâches de traitement de l'information et de planification, augmentant la productivité des agents. Cependant, le jugement humain en temps réel, la gestion des imprévus et la coordination directe avec les équipes au sol et les équipages restent cruciaux pour la sécurité et l'efficacité des opérations."
+  },
+  {
+    "slug": "N2205-chef-cheffe-d-escale",
+    "title": "Chef / Cheffe d'escale",
+    "exposure": 5,
+    "rationale": "Ce métier combine une supervision opérationnelle physique et en temps réel d'un site aéroportuaire avec des tâches de gestion, d'analyse de données et de planification. Bien que l'IA puisse optimiser la logistique, l'affectation des ressources et l'analyse des performances, le cœur du rôle exige une présence humaine constante, un jugement critique face à l'imprévu et un management direct des équipes dans un environnement complexe et réglementé."
+  },
+  {
+    "slug": "N2206-pilote-de-drone",
+    "title": "Pilote de drone",
+    "exposure": 7,
+    "rationale": "Le métier de pilote de drone combine des tâches numériques (planification de vol, analyse de données et d'images, utilisation de logiciels) avec des opérations physiques en temps réel (pilotage du drone, gestion des conditions météorologiques et de sécurité). L'IA peut déjà optimiser la planification, automatiser des vols routiniers et analyser les données collectées, rendant les pilotes plus productifs. Cependant, le jugement humain reste essentiel pour les situations complexes, imprévisibles ou créatives, ainsi que pour la sécurité des opérations dans le monde physique."
+  },
+  {
+    "slug": "N2207-agent-agente-d-accompagnement-du-transport",
+    "title": "Agent / Agente d'accompagnement du transport",
+    "exposure": 2,
+    "rationale": "Ce métier est fortement ancré dans l'interaction humaine directe et la présence physique, notamment pour l'assistance aux personnes à mobilité réduite et la gestion des situations d'urgence. Bien que l'IA puisse aider pour des tâches périphériques comme la planification d'itinéraires ou la fourniture d'informations, le cœur du métier (accompagnement, sécurité, assistance physique et relationnelle) reste difficilement automatisable et nécessite une adaptabilité humaine."
+  },
+  {
+    "slug": "N2208-controleur-controleuse-de-la-circulation-et-de-la-defense-aerienne",
+    "title": "Contrôleur / Contrôleuse de la circulation et de la défense aérienne",
+    "exposure": 5,
+    "rationale": "Le métier de contrôleur aérien implique une surveillance intensive de systèmes numériques et une analyse de données où l'IA peut apporter une aide significative pour la prédiction et la détection d'anomalies. Cependant, le cœur du rôle repose sur la prise de décisions critiques en temps réel sous haute pression, la gestion d'urgences imprévisibles et la responsabilité directe de la sécurité physique, nécessitant un jugement humain nuancé et une adaptabilité difficilement automatisables par l'IA."
+  },
+  {
+    "slug": "N3101-officier-officiere-de-port",
+    "title": "Officier / Officière de port",
+    "exposure": 6,
+    "rationale": "Ce métier combine une forte présence physique et des interactions humaines en temps réel pour la supervision des opérations maritimes et la gestion des urgences. Cependant, une part significative du travail implique l'analyse de données, la planification logistique, l'optimisation des infrastructures portuaires et le contrôle réglementaire, des domaines où l'IA peut apporter une aide substantielle pour accroître la productivité et l'efficacité."
+  },
+  {
+    "slug": "N3102-marin",
+    "title": "Marin",
+    "exposure": 2,
+    "rationale": "Le métier de marin est intrinsèquement lié à la présence physique, à la manipulation d'équipements lourds et à la prise de décisions en temps réel dans un environnement maritime imprévisible. Bien que l'IA puisse optimiser la navigation ou la maintenance prédictive, le cœur des tâches (manœuvres, entretien physique, gestion des urgences) reste manuel et exige un jugement humain constant."
+  },
+  {
+    "slug": "N3103-matelot-de-la-navigation-fluviale",
+    "title": "Matelot de la navigation fluviale",
+    "exposure": 2,
+    "rationale": "Ce métier est principalement physique et interpersonnel, impliquant la conduite et la maintenance d'un bateau, ainsi que la sécurité des passagers dans un environnement réel et imprévisible. Bien que l'IA puisse aider pour des tâches périphériques comme la planification ou la gestion documentaire, elle ne touche pas le cœur des compétences manuelles, de la présence physique et du jugement humain nécessaires à la navigation et aux manœuvres."
+  },
+  {
+    "slug": "N3104-conducteur-conductrice-de-navigation-fluviale",
+    "title": "Conducteur / Conductrice de navigation fluviale",
+    "exposure": 2,
+    "rationale": "Le cœur de ce métier réside dans la conduite et la manœuvre physique d'un bateau sur des voies navigables, nécessitant une présence constante, une habileté manuelle et un jugement humain en temps réel face à des environnements imprévisibles. Bien que l'IA puisse optimiser la planification ou la maintenance, elle n'impacte pas les aspects fondamentaux de la navigation, de la sécurité et du commandement d'équipage, qui restent fortement ancrés dans le monde physique."
+  },
+  {
+    "slug": "N3201-responsable-d-exploitation-transport-maritime",
+    "title": "Responsable d'exploitation transport maritime",
+    "exposure": 5,
+    "rationale": "Ce métier combine des tâches intellectuelles d'organisation, de planification et d'analyse de données, où l'IA peut apporter une aide significative pour l'optimisation et le traitement de l'information. Cependant, il implique également une forte composante de supervision opérationnelle en temps réel, de gestion d'équipes humaines et de négociation dans un environnement physique complexe (port, navires), ce qui nécessite une présence humaine, un jugement et des compétences interpersonnelles difficiles à automatiser."
+  },
+  {
+    "slug": "N3202-responsable-d-exploitation-transport-fluvial",
+    "title": "Responsable d'exploitation transport fluvial",
+    "exposure": 6,
+    "rationale": "Ce métier implique une part significative de planification, d'optimisation des itinéraires, d'analyse de données et de gestion administrative, des tâches où l'IA peut apporter une productivité accrue et une aide précieuse. Cependant, le rôle exige également une forte composante humaine pour le management des équipages, la gestion des relations clients/partenaires, la supervision physique des opérations de transport et la gestion des imprévus en environnement réel, ce qui limite l'automatisation complète par l'IA."
+  },
+  {
+    "slug": "N3203-ouvrier-ouvriere-de-manutention-portuaire",
+    "title": "Ouvrier / Ouvrière de manutention portuaire",
+    "exposure": 3,
+    "rationale": "Ce métier est principalement physique, impliquant la manipulation d'engins lourds et de marchandises dans un environnement portuaire dynamique. Bien que l'IA puisse optimiser la planification logistique, la gestion des stocks et la détection d'anomalies, le cœur du travail nécessite une présence humaine, une dextérité manuelle et un jugement en temps réel pour la sécurité et la manipulation physique des cargaisons."
+  },
+  {
+    "slug": "N3204-chef-cheffe-d-equipe-de-manutention-portuaire",
+    "title": "Chef / Cheffe d'équipe de manutention portuaire",
+    "exposure": 4,
+    "rationale": "Ce métier implique la supervision et la coordination d'opérations physiques complexes dans un environnement portuaire dynamique et potentiellement dangereux. Le rôle exige un fort leadership humain, la gestion d'équipe, la formation et un jugement en temps réel pour assurer la sécurité et l'efficacité. Bien que l'IA puisse optimiser la planification et les tâches administratives, le cœur du métier reste ancré dans l'interaction humaine et la gestion du monde physique."
+  },
+  {
+    "slug": "N3205-assistant-assistante-d-exploitation-du-transport-fluvial",
+    "title": "Assistant / Assistante d'exploitation du transport fluvial",
+    "exposure": 7,
+    "rationale": "Ce métier implique une forte composante de planification, d'optimisation logistique, de gestion documentaire et de coordination, des tâches où l'IA excelle. L'utilisation de logiciels spécifiques et la possibilité de télétravail soulignent son caractère numérique. Cependant, la nécessité de gérer des situations d'urgence, de superviser des opérations physiques et d'assurer une coordination humaine complexe maintient un besoin de jugement et d'interaction humaine."
+  },
+  {
+    "slug": "N4101-conducteur-conductrice-de-poids-lourd",
+    "title": "Conducteur / Conductrice de poids lourd",
+    "exposure": 5,
+    "rationale": "Le métier de conducteur de poids lourd combine une composante physique majeure (conduite, chargement/déchargement) avec des tâches de planification, de conformité et de communication. Bien que la présence physique reste essentielle pour de nombreuses opérations, l'IA impacte déjà la conduite via les systèmes d'assistance (ADAS) et a un potentiel transformateur élevé avec le développement des véhicules autonomes, ainsi que pour l'optimisation des itinéraires et l'écoconduite."
+  },
+  {
+    "slug": "N4102-conducteur-conductrice-de-transport-de-particuliers",
+    "title": "Conducteur / Conductrice de transport de particuliers",
+    "exposure": 4,
+    "rationale": "Le cœur de ce métier est le transport physique de personnes, nécessitant une présence humaine et une interaction directe avec les passagers. Bien que l'IA puisse optimiser les itinéraires (GPS) et gérer les paiements, la conduite en environnement réel et la gestion des imprévus restent des tâches humaines. L'avènement des véhicules autonomes représente une menace directe à long terme pour la composante 'conduite', mais l'aspect service client et la gestion des situations complexes maintiennent une exposition modérée."
+  },
+  {
+    "slug": "N4103-conducteur-conductrice-de-bus",
+    "title": "Conducteur / Conductrice de bus",
+    "exposure": 3,
+    "rationale": "Le cœur du métier de conducteur de bus repose sur la conduite physique d'un véhicule dans des environnements réels et imprévisibles, ainsi que sur l'interaction humaine directe pour la sécurité et le service aux passagers. Bien que l'IA puisse optimiser les itinéraires, la billetterie ou l'information voyageur, elle ne peut pas remplacer la présence physique, le jugement humain en temps réel face aux aléas de la route et la gestion des situations complexes avec les passagers."
+  },
+  {
+    "slug": "N4104-coursier-coursiere",
+    "title": "Coursier / Coursière",
+    "exposure": 2,
+    "rationale": "Le métier de coursier est principalement physique, nécessitant la conduite d'un véhicule, la manipulation de colis et une interaction humaine directe lors des livraisons. Bien que l'IA puisse optimiser les itinéraires et la logistique, elle ne peut pas automatiser la présence physique, la conduite en environnement réel ni la manipulation des objets. L'essentiel du travail reste ancré dans le monde physique, limitant son exposition à l'IA."
+  },
+  {
+    "slug": "N4105-conducteur-livreur-conductrice-livreuse",
+    "title": "Conducteur-livreur / Conductrice-livreuse",
+    "exposure": 3,
+    "rationale": "Le cœur de ce métier repose sur la conduite physique d'un véhicule, la manutention de marchandises et l'interaction humaine directe avec les clients. Bien que l'IA puisse optimiser les itinéraires, la gestion des documents numériques et la traçabilité, elle ne peut pas remplacer la présence physique, la dextérité manuelle ou la capacité à naviguer dans des environnements réels complexes et imprévisibles pour la livraison finale."
+  },
+  {
+    "slug": "N4106-commis-coursier-commise-coursiere-en-douane",
+    "title": "Commis coursier / Commise coursière en douane",
+    "exposure": 4,
+    "rationale": "Ce métier combine des tâches physiques de transport et de livraison de documents avec des activités administratives de vérification et de formalités douanières. L'IA peut assister significativement dans la vérification des documents, l'optimisation des itinéraires et la rédaction de rapports, mais la composante physique de coursier et la nécessité d'interactions humaines en temps réel pour gérer les imprévus et les procédures complexes limitent son exposition globale."
+  },
+  {
+    "slug": "N4107-conducteur-livreur-conductrice-livreuse-de-beton-pret-a-l-emploi",
+    "title": "Conducteur livreur / Conductrice livreuse de béton prêt à l'emploi",
+    "exposure": 3,
+    "rationale": "Ce métier est principalement physique, centré sur la conduite d'un poids lourd spécialisé (camion toupie) et la livraison de béton sur des chantiers. Bien que l'IA puisse optimiser les itinéraires et assister dans les tâches administratives de suivi, le cœur du travail exige une présence physique, des compétences manuelles et un jugement humain pour la conduite en conditions réelles et la gestion du produit sur site. L'IA n'impacte pas directement l'acte de conduite ou la manipulation du béton."
+  },
+  {
+    "slug": "N4108-conducteur-accompagnateur-conductrice-accompagnatrice-de-personnes-a-mobilite-reduite",
+    "title": "Conducteur accompagnateur / Conductrice accompagnatrice de personnes à mobilité réduite",
+    "exposure": 2,
+    "rationale": "Ce métier est principalement physique et interpersonnel, nécessitant une présence humaine constante pour la conduite, l'assistance physique directe (montée/descente, installation) et la gestion des besoins spécifiques des personnes à mobilité réduite. Bien que l'IA puisse optimiser les itinéraires ou aider à la rédaction de rapports, le cœur du métier, qui implique l'empathie, les gestes de premiers secours et l'interaction humaine en temps réel, reste largement à l'abri de l'automatisation."
+  },
+  {
+    "slug": "N4109-conducteur-conductrice-d-autocar-ligne-reguliere",
+    "title": "Conducteur / Conductrice d'autocar ligne régulière",
+    "exposure": 2,
+    "rationale": "Ce métier est principalement physique et interpersonnel, nécessitant la conduite d'un véhicule lourd dans des environnements réels et imprévisibles, ainsi que la gestion de la sécurité et du confort des passagers. Bien que l'IA puisse assister pour la navigation ou la billetterie, le cœur de l'activité (conduite, réaction aux aléas, interaction humaine) requiert une présence et un jugement humains essentiels, limitant fortement l'exposition directe à l'automatisation."
+  },
+  {
+    "slug": "N4110-releveur-releveuse-de-compteurs",
+    "title": "Releveur / Releveuse de compteurs",
+    "exposure": 5,
+    "rationale": "Ce métier exige une présence physique sur le terrain, des déplacements et des interactions humaines directes pour la relève des compteurs et la sensibilisation des usagers. Cependant, la tâche principale de collecte de données routinière est fortement impactée par l'automatisation via les compteurs intelligents (IoT/IA), réduisant le besoin de relevés manuels. L'IA peut également optimiser les itinéraires et aider à l'analyse des données collectées."
+  },
+  {
+    "slug": "N4111-conducteur-conductrice-super-poids-lourd-de-l-armee",
+    "title": "Conducteur / Conductrice super poids lourd de l'armée",
+    "exposure": 3,
+    "rationale": "Le cœur de ce métier est la conduite et la maintenance de véhicules lourds dans des environnements physiques, souvent imprévisibles et dangereux, typiques des opérations militaires. Bien que l'IA puisse aider à la navigation, à l'optimisation des itinéraires et à la rédaction de rapports, elle ne peut pas remplacer la présence humaine, l'habileté manuelle et le jugement en temps réel nécessaires pour opérer dans de telles conditions. L'exposition reste faible car les tâches principales sont ancrées dans le monde physique."
+  },
+  {
+    "slug": "N4112-chauffeur-chauffeuse-vtc",
+    "title": "Chauffeur / Chauffeuse VTC",
+    "exposure": 4,
+    "rationale": "Le métier de Chauffeur VTC combine une forte composante physique (conduite, maintenance du véhicule) et interpersonnelle (relation client, sécurité des passagers) qui limite l'automatisation directe par l'IA. Cependant, l'IA assiste déjà significativement pour l'optimisation des itinéraires et la gestion du trafic, et peut améliorer la communication client. L'avènement des véhicules autonomes représente une menace transformative à long terme, mais le rôle actuel exige encore une présence humaine et des compétences de conduite."
+  },
+  {
+    "slug": "N4113-conducteur-routier-international-conductrice-routiere-internationale",
+    "title": "Conducteur routier international / Conductrice routière internationale",
+    "exposure": 3,
+    "rationale": "Le cœur de ce métier est la conduite physique d'un poids lourd à travers des environnements internationaux variés et imprévisibles, nécessitant une présence humaine constante. Bien que l'IA puisse optimiser les itinéraires, gérer certaines formalités administratives ou assister à la conduite, les tâches de chargement/déchargement, la gestion des imprévus sur la route et les interactions humaines aux frontières ou avec les clients restent essentielles et difficilement automatisables."
+  },
+  {
+    "slug": "N4114-conducteur-livreur-avitailleur-conductrice-livreuse-avitailleuse-en-carburant",
+    "title": "Conducteur livreur avitailleur / Conductrice livreuse avitailleuse en carburant",
+    "exposure": 3,
+    "rationale": "Ce métier est principalement physique, impliquant la conduite de poids lourds et la manipulation de produits dangereux pour l'avitaillement. Bien que l'IA puisse optimiser les itinéraires et gérer les tâches administratives (suivi, facturation), le cœur du travail nécessite une présence physique, des compétences manuelles et une prise de décision en temps réel dans des environnements imprévisibles, notamment pour la sécurité."
+  },
+  {
+    "slug": "N4115-conducteur-conductrice-de-vehicules-super-lourds",
+    "title": "Conducteur / Conductrice de véhicules Super Lourds",
+    "exposure": 3,
+    "rationale": "Le cœur de ce métier est la conduite physique d'un véhicule lourd dans des environnements réels et imprévisibles, ainsi que des opérations de chargement/déchargement. Bien que l'IA puisse optimiser les itinéraires, la gestion des documents et assister à la conduite (ADAS), elle ne remplace pas l'interaction humaine en temps réel avec le véhicule et son environnement. L'exposition reste faible car les tâches principales nécessitent une présence physique et une habileté manuelle."
+  },
+  {
+    "slug": "N4116-conducteur-conductrice-de-transport-routier-de-marchandises-dangereuses",
+    "title": "Conducteur / Conductrice de transport routier de marchandises dangereuses",
+    "exposure": 2,
+    "rationale": "Ce métier est principalement physique, exigeant une présence humaine constante pour la conduite d'un poids lourd transportant des marchandises dangereuses dans des environnements imprévisibles. Bien que l'IA puisse assister pour la navigation, la planification et la gestion documentaire, elle ne peut pas remplacer le jugement humain, l'habileté manuelle et la capacité à réagir aux situations d'urgence en temps réel. L'automatisation complète de la conduite de véhicules lourds, surtout avec des matières dangereuses, reste un défi majeur et lointain."
+  },
+  {
+    "slug": "N4117-conducteur-conductrice-d-attelage",
+    "title": "Conducteur / Conductrice d'attelage",
+    "exposure": 1,
+    "rationale": "Le métier de conducteur d'attelage est intrinsèquement physique, manuel et interpersonnel, impliquant la conduite d'animaux vivants dans des environnements réels et souvent imprévisibles. Les tâches principales, telles que le soin des chevaux, le harnachement, la conduite de l'attelage et la sécurité des passagers, nécessitent une présence physique constante, une habileté manuelle et un jugement humain en temps réel. L'IA n'a qu'un impact marginal sur les aspects périphériques comme la planification, sans toucher au cœur du métier."
+  },
+  {
+    "slug": "N4118-conducteur-conductrice-enlevement-de-dechets",
+    "title": "Conducteur / Conductrice enlèvement de déchets",
+    "exposure": 2,
+    "rationale": "Le cœur de ce métier est la conduite d'un véhicule lourd dans des environnements réels et imprévisibles, ainsi que la manipulation physique des déchets. Ces tâches nécessitent une présence humaine, une dextérité manuelle et une adaptation en temps réel que l'IA ne peut pas encore remplacer efficacement. L'IA pourrait optimiser les itinéraires ou aider à la gestion administrative, mais cela ne représente qu'une petite partie des responsabilités."
+  },
+  {
+    "slug": "N4119-conducteur-conductrice-de-tramway",
+    "title": "Conducteur / Conductrice de tramway",
+    "exposure": 2,
+    "rationale": "Le métier de conducteur de tramway est principalement physique et nécessite une présence humaine constante pour la conduite d'un véhicule en environnement urbain dynamique. Les compétences clés impliquent la vigilance, l'adaptation en temps réel aux conditions de circulation et la gestion de la sécurité des passagers. Bien que l'IA puisse assister pour des tâches périphériques comme la surveillance des systèmes ou l'optimisation des itinéraires, elle ne peut pas remplacer la prise de décision humaine critique et l'interaction physique requises pour le cœur de ce métier."
+  },
+  {
+    "slug": "N4120-chauffeur-livreur-preparateur-chauffeuse-livreuse-preparatrice-de-commandes",
+    "title": "Chauffeur-livreur préparateur / Chauffeuse-livreuse préparatrice de commandes",
+    "exposure": 3,
+    "rationale": "Ce métier implique une forte composante physique (conduite, chargement/déchargement, manutention) et interpersonnelle (interaction client). Bien que l'IA puisse optimiser les itinéraires de livraison et assister dans la gestion administrative, le cœur du métier nécessite une présence physique et des compétences manuelles qui sont difficilement automatisables par l'IA actuelle. L'automatisation de la conduite est un facteur futur, mais les autres tâches physiques et relationnelles maintiennent l'exposition à un niveau faible."
+  },
+  {
+    "slug": "N4121-aide-livreur-aide-livreuse",
+    "title": "Aide-livreur / Aide-livreuse",
+    "exposure": 5,
+    "rationale": "Le métier d'aide-livreur combine des tâches physiques de manutention et de présence sur le terrain avec des activités de planification d'itinéraires, de navigation et de gestion administrative. L'IA peut significativement optimiser les aspects liés au traitement de l'information (itinéraires, suivi des livraisons, documentation), rendant le travail plus efficace, mais la composante physique et l'interaction humaine directe restent essentielles."
+  },
+  {
+    "slug": "N4122-convoyeur-convoyeuse-de-vehicules-ou-materiels-lourds",
+    "title": "Convoyeur / Convoyeuse de véhicules ou matériels lourds",
+    "exposure": 3,
+    "rationale": "Le cœur de ce métier est la conduite physique de véhicules lourds et la gestion de convois dans des environnements réels et imprévisibles, nécessitant une présence humaine constante, une habileté manuelle et un jugement en temps réel. Bien que l'IA puisse optimiser les itinéraires, aider à la communication ou à la gestion documentaire, elle ne remplace pas les tâches fondamentales de conduite, de sécurisation du chargement et d'interaction physique."
+  },
+  {
+    "slug": "N4123-conducteur-livreur-installateur-conductrice-livreuse-installatrice",
+    "title": "Conducteur livreur installateur / Conductrice livreuse installatrice",
+    "exposure": 3,
+    "rationale": "Ce métier implique une forte composante physique (conduite, manutention, installation) et une interaction humaine directe chez le client. Bien que l'IA puisse optimiser les itinéraires et aider à la gestion administrative, elle ne peut pas remplacer la présence physique, l'habileté manuelle pour l'installation, ni l'interaction en temps réel dans des environnements variés. L'exposition à l'IA reste donc faible, se concentrant sur des tâches périphériques."
+  },
+  {
+    "slug": "N4124-conducteur-conductrice-de-taxi-moto",
+    "title": "Conducteur / Conductrice de taxi moto",
+    "exposure": 2,
+    "rationale": "Le cœur de ce métier repose sur la conduite physique d'un deux-roues motorisé dans un environnement réel et imprévisible, ainsi que sur l'interaction humaine directe pour assurer la sécurité et le confort des passagers. Bien que l'IA puisse optimiser les itinéraires ou faciliter les paiements, elle ne peut pas remplacer la présence physique, l'habileté manuelle et le jugement humain nécessaires pour la conduite et la gestion des situations en temps réel."
+  },
+  {
+    "slug": "N4125-conducteur-conductrice-de-transport-routier-d-animaux-vivants",
+    "title": "Conducteur / Conductrice de transport routier d'animaux vivants",
+    "exposure": 2,
+    "rationale": "Ce métier est principalement physique, impliquant la conduite d'un véhicule lourd et la manipulation d'animaux vivants. Bien que l'IA puisse optimiser les itinéraires et assister à la gestion des documents, le cœur du travail nécessite une présence humaine constante, une habileté manuelle et un jugement en temps réel pour assurer le bien-être des animaux et réagir aux imprévus sur la route. L'automatisation complète de ces tâches est très complexe et lointaine."
+  },
+  {
+    "slug": "N4126-conducteur-conductrice-de-transport-routier-en-convoi-exceptionnel",
+    "title": "Conducteur / Conductrice de transport routier en convoi exceptionnel",
+    "exposure": 2,
+    "rationale": "Ce métier est principalement physique et nécessite une présence humaine constante pour la conduite d'un véhicule lourd en convoi exceptionnel, l'adaptation aux conditions routières imprévisibles et la supervision des opérations de manutention. Bien que l'IA puisse aider à l'optimisation des itinéraires ou à la gestion administrative, le cœur du travail exige une dextérité manuelle, un jugement humain en temps réel et des interactions physiques complexes, rendant l'exposition à l'IA faible."
+  },
+  {
+    "slug": "N4127-conducteur-conductrice-de-car-tourisme",
+    "title": "Conducteur / Conductrice de car tourisme",
+    "exposure": 2,
+    "rationale": "Ce métier est principalement physique et interpersonnel, centré sur la conduite d'un véhicule lourd et la gestion de la sécurité et du confort des passagers en temps réel. Bien que l'IA puisse optimiser les itinéraires ou aider à la gestion administrative, le cœur du métier (conduite, interaction humaine directe, gestion des imprévus physiques) reste largement hors de portée de l'automatisation actuelle."
+  },
+  {
+    "slug": "N4128-conducteur-conductrice-de-navette-de-moins-de-9-personnes",
+    "title": "Conducteur / Conductrice de navette de moins de 9 personnes",
+    "exposure": 2,
+    "rationale": "Le cœur de ce métier est le transport physique de personnes et l'interaction humaine directe dans un environnement réel et imprévisible. Bien que l'IA puisse aider à l'optimisation des itinéraires ou à la gestion administrative, elle ne peut pas remplacer la conduite physique, la gestion des passagers en temps réel et la réponse aux situations d'urgence. L'exposition reste faible en raison de la forte composante physique et relationnelle."
+  },
+  {
+    "slug": "N4129-conducteur-conductrice-de-corbillard",
+    "title": "Conducteur / Conductrice de corbillard",
+    "exposure": 2,
+    "rationale": "Le cœur de ce métier est la conduite physique d'un véhicule spécialisé et la manutention de charges, ainsi qu'une interaction humaine sensible et empathique avec les familles endeuillées. Ces aspects physiques et interpersonnels sont difficilement automatisables par l'IA. Bien que l'IA puisse optimiser des tâches périphériques comme la planification d'itinéraires, elle n'impacte pas les compétences fondamentales de présence humaine et de dextérité physique."
+  },
+  {
+    "slug": "N4130-conducteur-conductrice-de-voiture-radar-a-conduite-externalisee",
+    "title": "Conducteur / Conductrice de voiture radar à conduite externalisée",
+    "exposure": 7,
+    "rationale": "Le cœur de ce métier, la conduite d'un véhicule pour la collecte de données, est directement menacé par les avancées rapides de l'IA dans les véhicules autonomes. Bien qu'une présence physique soit requise aujourd'hui, les tâches de navigation, d'optimisation d'itinéraire et de reporting sont numériques et facilement automatisables, rendant le rôle du conducteur très susceptible à une transformation majeure par l'IA."
+  },
+  {
+    "slug": "N4131-chauffeur-chauffeuse-de-direction",
+    "title": "Chauffeur / Chauffeuse de direction",
+    "exposure": 3,
+    "rationale": "Le métier de chauffeur de direction repose principalement sur la conduite physique d'un véhicule et une interaction humaine personnalisée (service, discrétion, confidentialité). Bien que l'IA puisse optimiser les itinéraires et assister dans des tâches administratives, le cœur du métier nécessite une présence humaine en temps réel dans un environnement physique imprévisible et une capacité à fournir un service client de haute qualité qui est difficilement automatisable par l'IA à ce jour."
+  },
+  {
+    "slug": "N4132-controleur-controleuse-de-bus",
+    "title": "Contrôleur / Contrôleuse de bus",
+    "exposure": 2,
+    "rationale": "Le métier de contrôleur de bus repose fortement sur la présence physique, l'interaction humaine en temps réel et la gestion de situations imprévisibles (conflits, sécurité des passagers). Bien que certaines tâches comme la vente de titres de transport puissent être numérisées, le cœur du métier exige des compétences interpersonnelles et une capacité d'adaptation humaine que l'IA ne peut pas remplacer facilement."
+  },
+  {
+    "slug": "N4201-responsable-d-agence-transport-routier-de-marchandises",
+    "title": "Responsable d'agence transport routier de marchandises",
+    "exposure": 7,
+    "rationale": "Ce métier implique une forte composante de planification, d'analyse de données et d'optimisation logistique, des domaines où l'IA excelle et peut considérablement augmenter la productivité. Cependant, la gestion d'équipes, la résolution de conflits, la négociation commerciale et la gestion des imprévus dans un environnement physique nécessitent un jugement humain et des compétences interpersonnelles qui limitent l'automatisation complète par l'IA."
+  },
+  {
+    "slug": "N4202-responsable-d-exploitation-transport-routier-de-personnes",
+    "title": "Responsable d'exploitation transport routier de personnes",
+    "exposure": 7,
+    "rationale": "Ce métier implique une forte composante intellectuelle et numérique, notamment pour l'optimisation des itinéraires, la planification des chauffeurs et l'analyse des performances, des tâches hautement améliorables par l'IA. L'IA peut rendre le responsable d'exploitation significativement plus productif en automatisant et en optimisant ces processus. Cependant, les aspects de management d'équipes, de résolution de conflits et de gestion des relations clients complexes nécessitent encore un jugement humain et une interaction directe, empêchant une automatisation complète du poste."
+  },
+  {
+    "slug": "N4203-agent-agente-d-exploitation-en-transport-routier-de-marchandises",
+    "title": "Agent / Agente d'exploitation en transport routier de marchandises",
+    "exposure": 7,
+    "rationale": "Ce métier est principalement intellectuel et numérique, axé sur la planification, l'optimisation des flux et la gestion de données, des domaines où l'IA excelle et peut augmenter considérablement la productivité. Bien que la gestion des aléas et les interactions humaines complexes nécessitent un jugement humain, une grande partie des tâches de coordination, de suivi et d'optimisation peut être transformée par l'IA."
+  },
+  {
+    "slug": "N4204-agent-agente-d-exploitation-transport-routier-de-personnes",
+    "title": "Agent / Agente d'exploitation transport routier de personnes",
+    "exposure": 6,
+    "rationale": "Ce métier implique une part importante de planification, d'optimisation des ressources et de traitement de données, des tâches pour lesquelles l'IA excelle (optimisation d'itinéraires, gestion des plannings, régulation du trafic). Cependant, il nécessite également une forte interaction humaine (avec les conducteurs, les usagers) et la gestion en temps réel d'aléas complexes et imprévisibles, qui demandent un jugement humain. L'IA augmentera considérablement la productivité de l'agent, mais ne remplacera pas entièrement les aspects relationnels et la prise de décision face à l'imprévu."
+  },
+  {
+    "slug": "N4301-conducteur-conductrice-de-train",
+    "title": "Conducteur / Conductrice de train",
+    "exposure": 3,
+    "rationale": "Le métier de conducteur de train est intrinsèquement lié à la présence physique et à l'opération d'une machine complexe dans un environnement réel et potentiellement imprévisible. Bien que l'IA puisse optimiser la signalisation, la planification ou la maintenance prédictive, la conduite, la surveillance active et la gestion des incidents et urgences nécessitent un jugement humain et une intervention physique directe, rendant l'exposition globale à l'IA relativement faible."
+  },
+  {
+    "slug": "N4302-controleur-controleuse-des-transports-en-commun",
+    "title": "Contrôleur / Contrôleuse des transports en commun",
+    "exposure": 3,
+    "rationale": "Ce métier est fortement ancré dans la présence physique et l'interaction humaine directe avec le public. Les tâches clés comme la gestion des conflits, la sécurité des passagers et l'assistance nécessitent un jugement humain, de l'empathie et une adaptabilité en temps réel dans des environnements imprévisibles. Bien que l'IA puisse optimiser certaines tâches administratives ou d'analyse de données, elle ne peut pas remplacer la composante essentielle d'interaction physique et de gestion des situations imprévues."
+  },
+  {
+    "slug": "N4303-conducteur-conductrice-d-engins-de-manoeuvre-du-reseau-ferre",
+    "title": "Conducteur / Conductrice d'engins de man½uvre du réseau ferré",
+    "exposure": 2,
+    "rationale": "Ce métier est principalement physique et opérationnel, nécessitant la conduite et la manœuvre d'engins lourds dans un environnement ferroviaire complexe et imprévisible. Les compétences clés impliquent une présence humaine en temps réel, un jugement critique pour la sécurité et la gestion des urgences, des aspects difficiles à automatiser par l'IA. L'IA pourrait assister pour des tâches périphériques comme la planification ou la maintenance prédictive, mais le cœur du métier reste manuel et exige une interaction directe avec le monde physique."
+  },
+  {
+    "slug": "N4304-responsable-d-equipe-d-agents-de-conduite-du-reseau-ferre",
+    "title": "Responsable d'équipe d'agents de conduite du réseau ferré",
+    "exposure": 4,
+    "rationale": "Ce métier implique un fort composant de management humain, de supervision de la sécurité et de gestion de crise en temps réel dans un environnement physique complexe. Bien que l'IA puisse optimiser les plannings, analyser les performances et aider à la formation, le jugement humain, les compétences interpersonnelles et la présence physique pour la gestion des équipes et des incidents restent essentiels. L'IA augmentera la productivité sur les tâches administratives et d'analyse, mais ne transformera pas le cœur du métier de leadership et de responsabilité opérationnelle."
+  },
+  {
+    "slug": "N4305-conducteur-conductrice-de-metro",
+    "title": "Conducteur / Conductrice de métro",
+    "exposure": 2,
+    "rationale": "Ce métier est principalement physique et nécessite une présence humaine constante pour la conduite d'un matériel roulant guidé et la gestion de la sécurité des passagers. Bien que l'IA puisse assister pour la surveillance ou la communication, le cœur du métier implique des actions physiques, une réactivité en temps réel face aux imprévus et une interaction directe dans un environnement physique complexe, rendant l'exposition à l'automatisation par l'IA faible."
+  },
+  {
+    "slug": "N4401-aiguilleur-aiguilleure-du-rail",
+    "title": "Aiguilleur / Aiguilleure du rail",
+    "exposure": 6,
+    "rationale": "Ce métier implique la surveillance et la coordination de systèmes complexes en temps réel via des interfaces numériques. L'IA peut optimiser le trafic, prédire les incidents et automatiser des ajustements routiniers, rendant l'opérateur plus productif. Cependant, la gestion des situations d'urgence et la prise de décisions critiques en matière de sécurité nécessitent un jugement humain irremplaçable, empêchant une automatisation complète."
+  },
+  {
+    "slug": "N4402-conducteur-conductrice-de-remontees-mecaniques",
+    "title": "Conducteur / Conductrice de remontées mécaniques",
+    "exposure": 2,
+    "rationale": "Ce métier est principalement physique et interpersonnel, exigeant une présence humaine constante pour la supervision des installations, la sécurité des usagers et la gestion des situations d'urgence dans un environnement extérieur imprévisible. Bien que l'IA puisse aider à la surveillance ou à la maintenance prédictive, le cœur du travail – la manœuvre des systèmes, l'intervention rapide et l'interaction directe avec le public – reste fortement ancré dans le monde physique et nécessite un jugement humain en temps réel."
+  },
+  {
+    "slug": "N4403-operateur-operatrice-ferroviaire",
+    "title": "Opérateur / Opératrice ferroviaire",
+    "exposure": 3,
+    "rationale": "Ce métier est principalement physique et manuel, impliquant des opérations d'attelage, de manœuvre de wagons et d'inspection du matériel roulant dans un environnement ferroviaire réel. Bien que l'IA puisse aider à l'optimisation des plannings ou à l'analyse de données techniques, le cœur du travail nécessite une présence humaine, une habileté manuelle et un jugement en temps réel pour des questions de sécurité et de coordination physique, ce qui limite fortement son exposition à l'automatisation par l'IA."
   }
 ]
