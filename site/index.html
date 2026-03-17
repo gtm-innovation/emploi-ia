@@ -182,6 +182,59 @@ canvas#canvas {
   cursor: default;
 }
 
+#sidebar-toggle {
+  display: none;
+  position: fixed;
+  bottom: 12px;
+  right: 12px;
+  z-index: 40;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: rgba(18,18,26,0.9);
+  border: 1px solid rgba(255,255,255,0.3);
+  color: #fff;
+  font-size: 20px;
+  backdrop-filter: blur(8px);
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.5);
+}
+
+@media (max-width: 700px) {
+  :root { --sidebar-w: 0px; }
+  #sidebar {
+    position: fixed;
+    top: auto; left: 0; right: 0; bottom: 0;
+    width: 100%;
+    height: auto;
+    max-height: 0;
+    padding: 0;
+    overflow: hidden;
+    transition: max-height 0.3s, padding 0.3s;
+    border-right: none;
+    border-top: 1px solid rgba(255,255,255,0.12);
+    z-index: 30;
+  }
+  #sidebar.open {
+    max-height: 70vh;
+    padding: 16px 18px;
+    overflow-y: auto;
+  }
+  #sidebar-toggle {
+    display: flex;
+  }
+  #tooltip {
+    max-width: calc(100vw - 32px);
+    left: 16px !important;
+    right: 16px !important;
+    bottom: 16px !important;
+    top: auto !important;
+    pointer-events: auto;
+  }
+}
+
 #tooltip {
   position: fixed;
   pointer-events: none;
@@ -275,6 +328,7 @@ canvas#canvas {
   </div>
 </div>
 
+<button id="sidebar-toggle" aria-label="Statistiques">&#9776;</button>
 <canvas id="canvas"></canvas>
 
 <div id="tooltip">
@@ -587,16 +641,23 @@ function showTooltip(d, mx, my) {
   tt.querySelector(".tt-rationale").textContent =
     d.exposure_rationale || "";
 
-  const pad = 16;
-  let tx = mx + pad;
-  let ty = my - pad;
-  if (tx + 380 > window.innerWidth) tx = mx - 380 - pad;
-  if (ty < 10) ty = my + pad;
-  if (ty + 200 > window.innerHeight) ty = my - 200;
+  if (isMobile) {
+    // On mobile, position at bottom of screen via CSS
+    tt.style.left = "";
+    tt.style.top = "";
+    tt.classList.add("visible");
+  } else {
+    const pad = 16;
+    let tx = mx + pad;
+    let ty = my - pad;
+    if (tx + 380 > window.innerWidth) tx = mx - 380 - pad;
+    if (ty < 10) ty = my + pad;
+    if (ty + 200 > window.innerHeight) ty = my - 200;
 
-  tt.style.left = tx + "px";
-  tt.style.top = ty + "px";
-  tt.classList.add("visible");
+    tt.style.left = tx + "px";
+    tt.style.top = ty + "px";
+    tt.classList.add("visible");
+  }
 }
 
 function hideTooltip() {
@@ -771,7 +832,10 @@ function computeStats() {
 
 // ── Events ─────────────────────────────────────────────────────────────
 
+const isMobile = "ontouchstart" in window;
+
 canvas.addEventListener("mousemove", (e) => {
+  if (isMobile) return;
   const hit = hitTest(e.clientX, e.clientY);
   if (hit !== hovered) {
     hovered = hit;
@@ -779,21 +843,49 @@ canvas.addEventListener("mousemove", (e) => {
   }
   if (hovered) {
     showTooltip(hovered, e.clientX, e.clientY);
-    canvas.style.cursor = "default";
   } else {
     hideTooltip();
-    canvas.style.cursor = "default";
   }
 });
 
-canvas.addEventListener("click", () => {
-  // No external link for FAP groups
-});
-
 canvas.addEventListener("mouseleave", () => {
+  if (isMobile) return;
   hovered = null;
   hideTooltip();
   draw();
+});
+
+// Touch: tap to show tooltip, tap elsewhere to dismiss
+canvas.addEventListener("touchstart", (e) => {
+  const touch = e.touches[0];
+  const hit = hitTest(touch.clientX, touch.clientY);
+  if (hit === hovered && hovered != null) {
+    // Second tap on same tile — dismiss
+    hovered = null;
+    hideTooltip();
+    draw();
+  } else {
+    hovered = hit;
+    draw();
+    if (hovered) {
+      showTooltip(hovered, touch.clientX, touch.clientY);
+    } else {
+      hideTooltip();
+    }
+  }
+  e.preventDefault();
+}, { passive: false });
+
+// Dismiss tooltip when tapping on it (mobile)
+document.getElementById("tooltip").addEventListener("click", () => {
+  hovered = null;
+  hideTooltip();
+  draw();
+});
+
+// Sidebar toggle (mobile)
+document.getElementById("sidebar-toggle").addEventListener("click", () => {
+  document.getElementById("sidebar").classList.toggle("open");
 });
 
 function resize() {
