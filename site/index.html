@@ -174,10 +174,57 @@ body {
   border-radius: 2px;
 }
 
+.methodology p {
+  font-size: 11px;
+  color: var(--fg2);
+  line-height: 1.5;
+  margin-top: 4px;
+}
+.methodology strong {
+  color: var(--fg);
+}
+
+#controls {
+  position: fixed;
+  top: 0;
+  left: var(--sidebar-w);
+  right: 0;
+  height: 44px;
+  background: rgba(10,10,15,0.92);
+  backdrop-filter: blur(8px);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 0 14px;
+  z-index: 15;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+}
+#controls input, #controls select {
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.10);
+  color: var(--fg);
+  font-size: 13px;
+  padding: 6px 10px;
+  border-radius: 6px;
+  outline: none;
+  font-family: inherit;
+}
+#controls input {
+  flex: 1;
+  min-width: 0;
+  max-width: 300px;
+}
+#controls input::placeholder { color: var(--fg2); }
+#controls input:focus { border-color: rgba(255,255,255,0.25); }
+#controls select {
+  max-width: 280px;
+  cursor: pointer;
+}
+
 canvas#canvas {
   display: block;
   position: fixed;
-  top: 0;
+  top: 44px;
   left: var(--sidebar-w);
   cursor: default;
 }
@@ -224,6 +271,19 @@ canvas#canvas {
   }
   #sidebar-toggle {
     display: flex;
+  }
+  #controls {
+    flex-direction: column;
+    height: auto;
+    padding: 8px 10px;
+    gap: 6px;
+  }
+  #controls input, #controls select {
+    max-width: 100%;
+    width: 100%;
+  }
+  canvas#canvas {
+    top: 80px;
   }
   #tooltip {
     max-width: calc(100vw - 32px);
@@ -326,9 +386,23 @@ canvas#canvas {
     <canvas id="gradientLegend" width="80" height="8"></canvas>
     <span>Élevée</span>
   </div>
+
+  <div class="stat-section methodology">
+    <h3>Méthodologie</h3>
+    <p>Chaque famille professionnelle (FAP 2021) regroupe plusieurs métiers ROME 4.0. Pour chaque métier, un score d'exposition à l'IA (0-10) a été attribué par <strong>Gemini Flash</strong> en analysant les compétences et tâches décrites dans la fiche ROME.</p>
+    <p>Le score affiché est la <strong>moyenne pondérée</strong> des métiers de la famille. La surface de chaque tuile est proportionnelle au nombre de <strong>projets de recrutement BMO 2025</strong>. Les salaires médians proviennent de la <strong>DARES</strong>.</p>
+  </div>
 </div>
 
 <button id="sidebar-toggle" aria-label="Statistiques">&#9776;</button>
+
+<div id="controls">
+  <input type="text" id="searchInput" placeholder="Rechercher un métier…" autocomplete="off" spellcheck="false">
+  <select id="sectorFilter">
+    <option value="">Tous les secteurs</option>
+  </select>
+</div>
+
 <canvas id="canvas"></canvas>
 
 <div id="tooltip">
@@ -449,20 +523,54 @@ function worstAspect(row, rowSum, side, totalArea, availableExtent) {
 // ── Rendering ──────────────────────────────────────────────────────────
 
 let data = [];
+let filteredData = [];
 let rects = [];
 let hovered = null;
 
 const canvas = document.getElementById("canvas");
 const ctx = canvas.getContext("2d");
+const searchInput = document.getElementById("searchInput");
+const sectorFilter = document.getElementById("sectorFilter");
 let dpr = window.devicePixelRatio || 1;
 
 const MARGIN = 12;
 const GAP = 1.5;
 
+function applyFilters() {
+  const query = searchInput.value.trim().toLowerCase();
+  const sector = sectorFilter.value;
+  filteredData = data.filter(d => {
+    if (sector && d.category !== sector) return false;
+    if (query && !d.title.toLowerCase().includes(query) && !(d.category||"").toLowerCase().includes(query)) return false;
+    return true;
+  });
+  layout();
+  draw();
+}
+
+function populateSectorFilter() {
+  const cats = [...new Set(data.map(d => d.category))].sort((a, b) => a.localeCompare(b, 'fr'));
+  sectorFilter.textContent = "";
+  const allOpt = document.createElement("option");
+  allOpt.value = "";
+  allOpt.textContent = "Tous les secteurs (" + cats.length + ")";
+  sectorFilter.appendChild(allOpt);
+  for (const cat of cats) {
+    const opt = document.createElement("option");
+    opt.value = cat;
+    opt.textContent = cat;
+    sectorFilter.appendChild(opt);
+  }
+}
+
+searchInput.addEventListener("input", applyFilters);
+sectorFilter.addEventListener("change", applyFilters);
+
 function layout() {
   const sidebarW = parseInt(getComputedStyle(document.documentElement).getPropertyValue('--sidebar-w'));
+  const controlsH = document.getElementById("controls").offsetHeight;
   const w = (window.innerWidth - sidebarW);
-  const h = window.innerHeight;
+  const h = window.innerHeight - controlsH;
 
   canvas.width = w * dpr;
   canvas.height = h * dpr;
@@ -475,7 +583,7 @@ function layout() {
   const th = h - MARGIN * 2;
 
   const byCategory = {};
-  for (const d of data) {
+  for (const d of filteredData) {
     const cat = d.category;
     if (!byCategory[cat]) byCategory[cat] = [];
     byCategory[cat].push(d);
@@ -531,27 +639,55 @@ function draw() {
       ctx.strokeRect(rx, ry, rw, rh);
     }
 
-    const minW = 50;
-    const minH = 18;
+    const minW = 40;
+    const minH = 16;
     if (rw > minW && rh > minH) {
       ctx.save();
       ctx.beginPath();
-      ctx.rect(rx + 4, ry + 2, rw - 8, rh - 4);
+      ctx.rect(rx + 3, ry + 2, rw - 6, rh - 4);
       ctx.clip();
 
-      const fontSize = Math.min(13, Math.max(9, Math.min(rw / 10, rh / 3)));
+      const pad = 5;
+      const fontSize = Math.min(13, Math.max(8, Math.min(rw / 10, rh / 3)));
+      const lineHeight = fontSize + 2;
       ctx.font = `500 ${fontSize}px -apple-system, system-ui, sans-serif`;
       ctx.fillStyle = isHovered ? "#fff" : "rgba(255,255,255,0.85)";
       ctx.textBaseline = "top";
-      ctx.fillText(r.title, rx + 5, ry + 4);
 
-      if (rh > 34 && rw > 60) {
+      // Word-wrap title
+      const maxTextW = rw - pad * 2;
+      const maxLines = Math.max(1, Math.floor((rh - 8) / lineHeight));
+      const words = r.title.split(/\s+/);
+      const lines = [];
+      let currentLine = words[0] || "";
+      for (let wi = 1; wi < words.length; wi++) {
+        const test = currentLine + " " + words[wi];
+        if (ctx.measureText(test).width <= maxTextW) {
+          currentLine = test;
+        } else {
+          lines.push(currentLine);
+          currentLine = words[wi];
+          if (lines.length >= maxLines) break;
+        }
+      }
+      if (lines.length < maxLines) lines.push(currentLine);
+
+      // Draw title lines
+      let textY = ry + 4;
+      for (let li = 0; li < lines.length; li++) {
+        ctx.fillText(lines[li], rx + pad, textY);
+        textY += lineHeight;
+      }
+
+      // Draw info line if there's room
+      const infoY = textY + 1;
+      if (infoY + fontSize < ry + rh - 2 && rw > 50) {
         const expStr = r.exposure != null ? (Number.isInteger(r.exposure) ? r.exposure : r.exposure.toFixed(1)) : "";
         const info = (expStr ? expStr + "/10" : "") +
                      (r.jobs ? " \u00b7 " + formatNumber(r.jobs) + " recrutements" : "");
         ctx.font = `400 ${Math.max(8, fontSize - 2)}px -apple-system, system-ui, sans-serif`;
         ctx.fillStyle = "rgba(255,255,255,0.5)";
-        ctx.fillText(info, rx + 5, ry + 4 + fontSize + 2);
+        ctx.fillText(info, rx + pad, infoY);
       }
 
       ctx.restore();
@@ -561,8 +697,9 @@ function draw() {
 
 function hitTest(mx, my) {
   const sidebarW = parseInt(getComputedStyle(document.documentElement).getPropertyValue('--sidebar-w'));
+  const controlsH = document.getElementById("controls").offsetHeight;
   const cx = mx - sidebarW;
-  const cy = my;
+  const cy = my - controlsH;
   for (let i = rects.length - 1; i >= 0; i--) {
     const r = rects[i];
     if (cx >= r.rx && cx < r.rx + r.rw && cy >= r.ry && cy < r.ry + r.rh) {
@@ -912,6 +1049,8 @@ fetch("data.json")
   .then(r => r.json())
   .then(d => {
     data = d;
+    filteredData = data;
+    populateSectorFilter();
     computeStats();
     drawGradientLegend();
     resize();
