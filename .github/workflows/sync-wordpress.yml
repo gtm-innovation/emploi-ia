@@ -1,85 +1,85 @@
 name: Sync WordPress
 
 on:
-  push:
-    branches: [main]
+  push:
+    branches: [master]
 
 jobs:
-  sync:
-    runs-on: ubuntu-latest
+  sync:
+    runs-on: ubuntu-latest
 
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 2
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
 
-      - name: Detect changed files
-        id: changed
-        run: |
-          CHANGED=$(git diff --name-only HEAD~1 HEAD)
-          echo "Changed files: $CHANGED"
+      - name: Detect changed files
+        id: changed
+        run: |
+          CHANGED=$(git diff --name-only HEAD~1 HEAD)
+          echo "Changed files: $CHANGED"
 
-          if echo "$CHANGED" | grep -q "^data\.json$"; then
-            echo "data_changed=true" >> $GITHUB_OUTPUT
-          else
-            echo "data_changed=false" >> $GITHUB_OUTPUT
-          fi
+          if echo "$CHANGED" | grep -q "^site/data\.json$"; then
+            echo "data_changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "data_changed=false" >> $GITHUB_OUTPUT
+          fi
 
-          if echo "$CHANGED" | grep -qv "^data\.json$"; then
-            echo "ui_changed=true" >> $GITHUB_OUTPUT
-            echo "$CHANGED" | grep -v "^data\.json$" > /tmp/ui_files.txt
-          else
-            echo "ui_changed=false" >> $GITHUB_OUTPUT
-          fi
+          if echo "$CHANGED" | grep -qv "^site/data\.json$"; then
+            echo "ui_changed=true" >> $GITHUB_OUTPUT
+            echo "$CHANGED" | grep -v "^site/data\.json$" > /tmp/ui_files.txt
+          else
+            echo "ui_changed=false" >> $GITHUB_OUTPUT
+          fi
 
-      # ── Sync data.json to production ───────────────────────────────────────
-      - name: Sync data to production
-        if: steps.changed.outputs.data_changed == 'true'
-        run: |
-          curl -X POST https://moneyradar.org/wp-json/moneyradar/v1/update-emploi-ia \
-            -H "X-Sync-Token: ${{ secrets.EMPLOI_IA_SYNC_SECRET }}" \
-            -H "Content-Type: application/json" \
-            --fail --silent --show-error
-          echo ":white_check_mark: Production synced"
+      # ── Sync data.json to production ───────────────────────────────────────
+      - name: Sync data to production
+        if: steps.changed.outputs.data_changed == 'true'
+        run: |
+          curl -X POST https://moneyradar.org/wp-json/moneyradar/v1/update-emploi-ia \
+            -H "X-Sync-Token: ${{ secrets.EMPLOI_IA_SYNC_SECRET }}" \
+            -H "Content-Type: application/json" \
+            --fail --silent --show-error
+          echo "✅ Production synced"
 
-      # ── Sync data.json to staging ───────────────────────────────────────────
-      - name: Sync data to staging
-        if: steps.changed.outputs.data_changed == 'true'
-        run: |
-          curl -X POST https://staging.moneyradar.org/wp-json/moneyradar/v1/update-emploi-ia \
-            -H "X-Sync-Token: ${{ secrets.EMPLOI_IA_SYNC_SECRET }}" \
-            -H "Content-Type: application/json" \
-            --fail --silent --show-error
-          echo ":white_check_mark: Staging synced"
+      # ── Sync data.json to staging ───────────────────────────────────────────
+      - name: Sync data to staging
+        if: steps.changed.outputs.data_changed == 'true'
+        run: |
+          curl -X POST https://staging.moneyradar.org/wp-json/moneyradar/v1/update-emploi-ia \
+            -H "X-Sync-Token: ${{ secrets.EMPLOI_IA_SYNC_SECRET }}" \
+            -H "Content-Type: application/json" \
+            --fail --silent --show-error
+          echo "✅ Staging synced"
 
-      # ── Open a GitHub issue when UI files change ────────────────────────────
-      - name: Notify UI changes via GitHub issue
-        if: steps.changed.outputs.ui_changed == 'true'
-        uses: actions/github-script@v6
-        with:
-          script: |
-            const fs = require('fs');
-            const changedFiles = fs.readFileSync('/tmp/ui_files.txt', 'utf8').trim();
+      # ── Open a GitHub issue when UI files change ────────────────────────────
+      - name: Notify UI changes via GitHub issue
+        if: steps.changed.outputs.ui_changed == 'true'
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs');
+            const changedFiles = fs.readFileSync('/tmp/ui_files.txt', 'utf8').trim();
 
-            await github.rest.issues.create({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              title: `:warning: UI changes detected — WordPress template needs manual update`,
-              body: [
-                `## UI Changes Detected`,
-                ``,
-                `Commit: ${context.sha.substring(0, 7)}`,
-                `Pushed by: @${context.actor}`,
-                ``,
-                `The following non-data files changed:`,
-                `\`\`\``,
-                changedFiles,
-                `\`\`\``,
-                ``,
-                `**Action required:** Update the WordPress template at https://moneyradar.org/emploi-ia/`,
-                ``,
-                `cc @davidjacimovic98`,
-              ].join('\n'),
-              labels: ['wordpress-sync'],
-              assignees: ['davidjacimovic98'],
-            });
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `⚠️ UI changes detected — WordPress template needs manual update`,
+              body: [
+                `## UI Changes Detected`,
+                ``,
+                `Commit: ${context.sha.substring(0, 7)}`,
+                `Pushed by: @${context.actor}`,
+                ``,
+                `The following non-data files changed:`,
+                `\`\`\``,
+                changedFiles,
+                `\`\`\``,
+                ``,
+                `**Action required:** Update the WordPress template at https://moneyradar.org/emploi-ia/`,
+                ``,
+                `cc @davidjacimovic98`,
+              ].join('\n'),
+              labels: ['wordpress-sync'],
+              assignees: ['davidjacimovic98'],
+            });
