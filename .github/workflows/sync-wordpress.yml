@@ -4,6 +4,9 @@ on:
   push:
     branches: [master]
 
+permissions:
+  issues: write
+
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -39,9 +42,8 @@ jobs:
           curl -X POST https://moneyradar.org/wp-json/moneyradar/v1/update-emploi-ia \
             -H "X-Sync-Token: ${{ secrets.EMPLOI_IA_SYNC_SECRET }}" \
             -H "Content-Type: application/json" \
-            --silent --show-error -v 2>&1 || true
-          echo "✅ Production sync attempted"
-
+            --fail --silent --show-error
+          echo "✅ Production synced"
 
       # ── Sync data.json to staging ───────────────────────────────────────────
       - name: Sync data to staging
