@@ -1,9 +1,8 @@
 import { useRef, useEffect } from 'react'
 import { Canvas, useFrame, useThree } from '@react-three/fiber'
-import { Environment, Float, MeshDistortMaterial } from '@react-three/drei'
+import { Float, MeshDistortMaterial } from '@react-three/drei'
 import { gsap } from 'gsap'
 import { ScrollTrigger } from 'gsap/ScrollTrigger'
-import * as THREE from 'three'
 
 gsap.registerPlugin(ScrollTrigger)
 
@@ -114,15 +113,15 @@ export default function HeroScene({ onReady }) {
         onReady?.()
       }}
     >
-      <ambientLight intensity={0.4} />
-      <directionalLight position={[3, 5, 3]} intensity={1.2} />
-      <pointLight position={[-3, -3, -3]} intensity={0.5} color="#8b6f47" />
+      <ambientLight intensity={0.6} />
+      <directionalLight position={[3, 5, 3]} intensity={1.5} color="#fff5e8" />
+      <directionalLight position={[-3, -2, -3]} intensity={0.4} color="#4a3520" />
+      <pointLight position={[0, 3, 2]} intensity={0.8} color="#e8c89a" />
+      <pointLight position={[-3, -3, -3]} intensity={0.6} color="#8b6f47" />
 
       <Particles />
       <OrganicSphere scrollProgress={scrollProgress} />
       <ScrollCamera scrollProgress={scrollProgress} />
-
-      <Environment preset="sunset" />
     </Canvas>
   )
 }
