@@ -1,163 +1,156 @@
 .hero {
-  position: relative;
-  min-height: 100svh;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  align-items: center;
+  background: var(--yellow);
   overflow: hidden;
-  padding: 0 clamp(2rem, 8vw, 8rem);
-  background: var(--bg);
 }
 
-.content {
-  position: relative;
-  z-index: 2;
+.grid {
   display: flex;
   flex-direction: column;
-  gap: 1.5rem;
-  max-width: 520px;
 }
 
-.eyebrow {
-  font-family: var(--font-body);
-  font-size: 0.75rem;
-  font-weight: 500;
-  letter-spacing: 0.2em;
-  text-transform: uppercase;
-  color: var(--accent);
+/* === HEAD === */
+.head {
+  order: 1;
+  min-height: 46vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 26px 26px 16px;
+  text-align: center;
 }
 
-.title {
-  font-family: var(--font-display);
-  font-size: clamp(2.8rem, 5vw, 5rem);
+.logo {
+  width: 124px;
+  height: 124px;
+  border-radius: 50%;
+  background: var(--grape);
+  margin: 0 auto 16px;
+  position: relative;
+  display: grid;
+  place-items: center;
+  box-shadow: 0 13px 0 var(--shadow);
+  animation: pop .7s cubic-bezier(.3, 1.4, .5, 1) both;
+}
+
+@keyframes pop {
+  from { transform: scale(.6); opacity: 0; }
+  to   { transform: scale(1);  opacity: 1; }
+}
+
+.logoNm {
+  font-family: 'Caveat', cursive;
   font-weight: 700;
-  line-height: 1.05;
-  color: var(--fg);
-  letter-spacing: -0.02em;
+  font-size: 22px;
+  color: var(--yellow);
+  transform: rotate(-6deg);
+  white-space: nowrap;
 }
 
-.title em {
-  font-style: italic;
-  font-weight: 400;
-  color: var(--accent);
+.logoEst {
+  position: absolute;
+  bottom: 24px;
+  font-size: 8px;
+  letter-spacing: .25em;
+  color: var(--yellow);
+  opacity: .8;
+  font-weight: 600;
 }
 
-.subtitle {
-  font-size: clamp(1rem, 1.5vw, 1.15rem);
-  line-height: 1.7;
-  color: var(--fg-muted);
-  max-width: 400px;
+.eyebrow { color: var(--terra-deep); }
+
+.h1 {
+  font-size: clamp(32px, 7vw, 72px);
+  color: var(--grape-deep);
+  margin: 4px 0 8px;
+}
+
+.scrollcue {
+  margin-top: 14px;
+  font-size: 28px;
+  color: var(--grape);
+  animation: bob 1.6s ease-in-out infinite;
+  line-height: 1;
+}
+@keyframes bob {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(9px); }
+}
+
+/* === MEDIA (phone frame) === */
+.media {
+  order: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px 0;
+}
+
+.phoneFrame {
+  width: min(220px, 56vw);
+  aspect-ratio: 9/16;
+  border-radius: 28px;
+  overflow: hidden;
+  border: 6px solid var(--grape);
+  box-shadow: 0 18px 0 var(--shadow);
+  background: var(--grape-deep);
+}
+
+/* === FOOT === */
+.foot {
+  order: 3;
+  padding: 24px 26px 80px;
+  text-align: center;
+}
+
+.lead {
+  max-width: 44ch;
+  margin: 0 auto;
+  font-size: 18px;
+  font-weight: 500;
+  color: var(--grape);
+  line-height: 1.6;
 }
 
 .cta {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.6rem;
-  padding: 0.9rem 2rem;
-  background: var(--accent);
-  color: #fff;
-  font-size: 0.9rem;
-  font-weight: 500;
-  letter-spacing: 0.04em;
-  text-decoration: none;
-  border-radius: 2px;
-  width: fit-content;
-  transition: background 0.25s ease, transform 0.2s ease;
-}
-
-.cta:hover {
-  background: var(--accent-dark);
-  transform: translateY(-1px);
-}
-
-.arrow {
-  display: inline-block;
-  transition: transform 0.2s ease;
-}
-
-.cta:hover .arrow {
-  transform: translateX(4px);
-}
-
-.canvas {
-  position: relative;
-  width: 100%;
-  height: 100svh;
   display: flex;
-  align-items: center;
+  gap: 14px;
   justify-content: center;
+  flex-wrap: wrap;
+  margin: 26px 0 14px;
 }
 
-/* Fallback : forme géométrique CSS si WebGL non dispo */
-.fallback {
-  width: 100%;
-  height: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.hours {
+  font-weight: 600;
+  color: var(--terra-deep);
 }
 
-.fallbackShape {
-  width: min(420px, 70vw);
-  height: min(420px, 70vw);
-  border-radius: 60% 40% 55% 45% / 45% 55% 40% 60%;
-  background: radial-gradient(
-    135deg at 35% 35%,
-    #e8d5c0 0%,
-    #c8a882 40%,
-    #8b6f47 80%,
-    #3d2b1f 100%
-  );
-  animation: morphBlob 8s ease-in-out infinite;
-  box-shadow: 0 0 80px rgba(200, 168, 130, 0.25);
-}
-
-@keyframes morphBlob {
-  0%   { border-radius: 60% 40% 55% 45% / 45% 55% 40% 60%; }
-  25%  { border-radius: 45% 55% 40% 60% / 60% 40% 55% 45%; }
-  50%  { border-radius: 50% 50% 60% 40% / 40% 60% 50% 50%; }
-  75%  { border-radius: 55% 45% 45% 55% / 55% 45% 60% 40%; }
-  100% { border-radius: 60% 40% 55% 45% / 45% 55% 40% 60%; }
-}
-
-/* Indicateur de scroll */
-.scroll {
-  position: absolute;
-  bottom: 2.5rem;
-  left: 50%;
-  transform: translateX(-50%);
-  display: flex;
-  justify-content: center;
-}
-
-.scroll span {
-  display: block;
-  width: 1px;
-  height: 60px;
-  background: linear-gradient(to bottom, var(--accent), transparent);
-  animation: scrollLine 2s ease-in-out infinite;
-  transform-origin: top;
-}
-
-@keyframes scrollLine {
-  0%   { transform: scaleY(0); opacity: 0; }
-  50%  { transform: scaleY(1); opacity: 1; }
-  100% { transform: scaleY(1); opacity: 0; }
-}
-
-@media (max-width: 768px) {
-  .hero {
-    grid-template-columns: 1fr;
-    grid-template-rows: auto 50svh;
-    padding: 6rem 1.5rem 2rem;
-    gap: 2rem;
+/* === DESKTOP === */
+@media (min-width: 881px) {
+  .grid {
+    display: grid;
+    grid-template-columns: 1.05fr .95fr;
+    grid-template-areas: "head media" "foot media";
+    align-items: center;
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 56px 26px 64px;
+    column-gap: 54px;
+    row-gap: 8px;
+    min-height: 86vh;
   }
+  .head  { grid-area: head;  order: 0; align-items: flex-start; text-align: left; padding: 0; min-height: 0; }
+  .media { grid-area: media; order: 0; }
+  .foot  { grid-area: foot;  order: 0; text-align: left; padding: 0; }
 
-  .canvas {
-    height: 50svh;
-  }
+  .logo { margin: 0 0 18px; }
+  .lead { margin: 0 0 6px; }
+  .cta  { justify-content: flex-start; }
+  .hours { text-align: left; }
+  .scrollcue { display: none; }
 
-  .title {
-    font-size: clamp(2.2rem, 8vw, 3rem);
+  .phoneFrame {
+    width: 100%;
+    max-width: 300px;
   }
 }

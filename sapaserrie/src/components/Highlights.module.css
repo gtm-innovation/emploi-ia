@@ -1,0 +1,19 @@
+.high { background: var(--yellow); padding: 80px 0; }
+.head { text-align: center; margin-bottom: 46px; }
+.eyebrow { color: var(--terra-deep); }
+.h2 { font-size: clamp(28px, 4.4vw, 46px); color: var(--grape-deep); margin-top: 6px; }
+
+.rings { display: flex; gap: 24px; justify-content: center; flex-wrap: wrap; }
+.ring { width: 220px; text-align: center; }
+.circ {
+  width: 180px; height: 180px; border-radius: 50%;
+  margin: 0 auto 16px;
+  display: grid; place-items: center;
+  font-size: 62px;
+  border: 6px solid var(--grape);
+  box-shadow: 0 14px 0 var(--shadow);
+  transition: .3s; cursor: pointer;
+}
+.circ:hover { transform: translateY(-9px) rotate(4deg); }
+.rt { font-size: 20px; color: var(--grape-deep); }
+.rd { font-size: 15px; font-weight: 500; color: var(--terra-deep); margin-top: 5px; padding: 0 8px; }

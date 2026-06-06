@@ -1,22 +1,13 @@
 import { Suspense, lazy, useRef, useState, useEffect } from 'react'
 import styles from './Hero.module.css'
 
-// Chargement lazy : Three.js ne s'initialise qu'à l'intersection
 const HeroScene = lazy(() => import('./HeroScene'))
-
-const WEBGL_TIMEOUT_MS = 4000
 
 function supportsWebGL() {
   try {
-    const canvas = document.createElement('canvas')
-    return !!(
-      canvas.getContext('webgl2') ||
-      canvas.getContext('webgl') ||
-      canvas.getContext('experimental-webgl')
-    )
-  } catch {
-    return false
-  }
+    const c = document.createElement('canvas')
+    return !!(c.getContext('webgl2') || c.getContext('webgl'))
+  } catch { return false }
 }
 
 export default function Hero() {
@@ -25,79 +16,70 @@ export default function Hero() {
   const [useFallback, setUseFallback] = useState(false)
   const [sceneReady, setSceneReady] = useState(false)
 
-  // Démarrage lazy : seulement quand la section entre dans le viewport
   useEffect(() => {
-    if (!supportsWebGL()) {
-      setUseFallback(true)
-      return
-    }
-
-    const observer = new IntersectionObserver(
-      ([entry]) => {
-        if (entry.isIntersecting) {
-          setShow3D(true)
-          observer.disconnect()
-        }
-      },
-      { threshold: 0.01 }
-    )
-
+    if (!supportsWebGL()) { setUseFallback(true); return }
+    const observer = new IntersectionObserver(([e]) => {
+      if (e.isIntersecting) { setShow3D(true); observer.disconnect() }
+    }, { threshold: 0.01 })
     if (sectionRef.current) observer.observe(sectionRef.current)
     return () => observer.disconnect()
   }, [])
 
-  // Fallback si la scène met trop longtemps à charger
   useEffect(() => {
     if (!show3D) return
-    const timer = setTimeout(() => {
-      if (!sceneReady) setUseFallback(true)
-    }, WEBGL_TIMEOUT_MS)
-    return () => clearTimeout(timer)
+    const t = setTimeout(() => { if (!sceneReady) setUseFallback(true) }, 4000)
+    return () => clearTimeout(t)
   }, [show3D, sceneReady])
 
   return (
-    <section ref={sectionRef} className={styles.hero}>
-      {/* Contenu textuel — rendu immédiatement, jamais bloqué par le 3D */}
-      <div className={styles.content}>
-        <p className={styles.eyebrow}>Artisanat d'exception</p>
-        <h1 className={styles.title}>
-          La nature,<br />
-          <em>sublimée à la main.</em>
-        </h1>
-        <p className={styles.subtitle}>
-          Chaque pièce Sapaserrie est un objet unique, né d'un dialogue
-          entre la matière brute et le geste maîtrisé.
-        </p>
-        <a href="#collections" className={styles.cta}>
-          Découvrir les collections
-          <span className={styles.arrow}>→</span>
-        </a>
-      </div>
+    <header className={styles.hero} id="top" ref={sectionRef}>
+      <div className={styles.grid}>
+        <div className={styles.head}>
+          <div className={styles.logo}>
+            <span className={styles.logoNm}>Sapaserrie</span>
+            <span className={styles.logoEst}>EST. 2015</span>
+          </div>
+          <p className={`${styles.eyebrow} eyebrow`}>Rooted in Indonesia · Locally Sourced</p>
+          <h1 className={styles.h1}>cookie, coffee<br />&amp; a mindful space</h1>
+          <div className={styles.scrollcue} aria-hidden="true">⌄</div>
+        </div>
 
-      {/* Zone 3D — rendue séparément, sans bloquer le FCP */}
-      <div className={styles.canvas} aria-hidden="true">
-        {useFallback ? (
-          <HeroFallback />
-        ) : show3D ? (
-          <Suspense fallback={<HeroFallback />}>
-            <HeroScene onReady={() => setSceneReady(true)} />
-          </Suspense>
-        ) : (
-          <HeroFallback />
-        )}
-      </div>
+        <div className={styles.media} aria-hidden="true">
+          <div className={styles.phoneFrame}>
+            {useFallback ? (
+              <CookieFallback />
+            ) : show3D ? (
+              <Suspense fallback={<CookieFallback />}>
+                <HeroScene onReady={() => setSceneReady(true)} />
+              </Suspense>
+            ) : (
+              <CookieFallback />
+            )}
+          </div>
+        </div>
 
-      <div className={styles.scroll}>
-        <span />
+        <div className={styles.foot}>
+          <p className={styles.lead}>A mindful little space for cookies &amp; coffee, handmade in Kuta, Bali since 2015.</p>
+          <div className={styles.cta}>
+            <a className="btn btn-p" href="https://linktr.ee/sapaserriebali" target="_blank" rel="noopener">Order now</a>
+            <a className="btn btn-o" href="#visit">Visit us</a>
+          </div>
+          <p className={styles.hours}>Open daily 8am–7pm · Kuta, Bali</p>
+        </div>
       </div>
-    </section>
+    </header>
   )
 }
 
-function HeroFallback() {
+function CookieFallback() {
   return (
-    <div className={styles.fallback}>
-      <div className={styles.fallbackShape} />
+    <div style={{
+      width: '100%', height: '100%',
+      display: 'flex', alignItems: 'center', justifyContent: 'center',
+      fontSize: 96, animation: 'spin 8s linear infinite',
+    }}>
+      🍪
+      <style>{`@keyframes spin { from { transform: rotate(0deg) } to { transform: rotate(360deg) } }`}</style>
     </div>
   )
 }

@@ -1,64 +1,7 @@
-.footer {
-  border-top: 1px solid var(--border);
-  padding: clamp(3rem, 6vw, 5rem) clamp(2rem, 8vw, 8rem) 2.5rem;
-}
-
-.inner {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  gap: 2rem;
-  margin-bottom: 3rem;
-  max-width: 1200px;
-  margin: 0 auto 3rem;
-}
-
-.logo {
-  font-family: var(--font-display);
-  font-size: 1.6rem;
-  font-weight: 700;
-  letter-spacing: -0.02em;
-  color: var(--fg);
-  margin-bottom: 0.4rem;
-}
-
-.tagline {
-  font-size: 0.85rem;
-  color: var(--fg-muted);
-}
-
-.nav {
-  display: flex;
-  gap: 2.5rem;
-}
-
-.nav a {
-  font-size: 0.85rem;
-  color: var(--fg-muted);
-  text-decoration: none;
-  transition: color 0.2s;
-}
-
-.nav a:hover {
-  color: var(--fg);
-}
-
-.bottom {
-  border-top: 1px solid var(--border);
-  padding-top: 1.5rem;
-  text-align: center;
-  font-size: 0.75rem;
-  color: var(--fg-muted);
-}
-
-@media (max-width: 600px) {
-  .inner {
-    flex-direction: column;
-    gap: 2rem;
-  }
-
-  .nav {
-    flex-wrap: wrap;
-    gap: 1.5rem;
-  }
-}
+.footer { background: var(--grape-deep); color: rgba(255,255,255,.7); padding: 56px 0 40px; text-align: center; }
+.flogo { font-family: 'Caveat', cursive; font-weight: 700; font-size: 38px; color: var(--yellow); transform: rotate(-3deg); display: inline-block; }
+.tag { font-weight: 500; margin: 8px 0 20px; color: rgba(255,255,255,.8); }
+.social { display: flex; gap: 14px; justify-content: center; margin-bottom: 22px; flex-wrap: wrap; }
+.social a { text-decoration: none; font-weight: 600; color: var(--yellow); background: rgba(255,255,255,.08); border-radius: 999px; padding: 9px 18px; font-size: 14px; transition: .25s; }
+.social a:hover { background: var(--yellow); color: var(--grape-deep); }
+.copy { font-size: 13px; color: rgba(255,255,255,.45); line-height: 1.7; }

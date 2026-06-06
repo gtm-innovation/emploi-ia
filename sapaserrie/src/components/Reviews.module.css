@@ -1,0 +1,26 @@
+.rev { background: var(--cream); padding: 84px 0; }
+.head { text-align: center; margin-bottom: 46px; }
+.eyebrow { color: var(--terra); }
+.h2 { font-size: clamp(28px, 4.4vw, 46px); color: var(--grape-deep); margin-top: 6px; }
+
+.cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; }
+.card {
+  background: #fff; border-radius: 26px; padding: 30px 26px;
+  box-shadow: 0 14px 34px rgba(124,42,142,.09);
+  position: relative;
+}
+.card::before {
+  content: "\201C";
+  position: absolute; top: 6px; left: 20px;
+  font-family: 'Fredoka', sans-serif; font-size: 80px;
+  color: var(--yellow-deep); opacity: .5; line-height: 1;
+}
+.stars { color: var(--yellow-deep); font-size: 18px; letter-spacing: 2px; margin-bottom: 10px; }
+.quote { font-size: 16px; font-weight: 500; line-height: 1.6; color: #5c3f64; margin-bottom: 18px; position: relative; }
+.who { display: flex; align-items: center; gap: 12px; }
+.av { width: 42px; height: 42px; border-radius: 50%; display: grid; place-items: center; font-family: 'Fredoka', sans-serif; font-weight: 600; color: #fff; font-size: 18px; }
+.name { font-family: 'Fredoka', sans-serif; font-weight: 600; color: var(--grape-deep); font-size: 16px; display: block; }
+.sub { color: #9a7aa2; font-size: 13px; }
+
+@media (max-width: 880px) { .cards { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 600px) { .cards { grid-template-columns: 1fr; } }
