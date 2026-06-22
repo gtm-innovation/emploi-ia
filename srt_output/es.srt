@@ -1,0 +1,7528 @@
+1
+00:00:00,040 --> 00:00:03,080
+Cuando escribimos, nos ponemos barreras que no nos ponemos cuando hablamos.
+
+2
+00:00:03,080 --> 00:00:03,800
+¿Es eso cierto?
+
+3
+00:00:03,800 --> 00:00:05,799
+Pues sí, porque cuando escribes ya estás formulando algo.
+
+4
+00:00:05,799 --> 00:00:07,080
+Entonces tomas decisiones.
+
+5
+00:00:07,160 --> 00:00:08,279
+Ahí lo tienes, para eso existe el psicoanálisis.
+
+6
+00:00:08,360 --> 00:00:12,560
+Además, creo que este debate sobre escribir con L es un debate falso.
+
+7
+00:00:12,599 --> 00:00:16,560
+Que la verdadera pregunta primero es saber qué historia tienes que contar, cómo
+
+8
+00:00:16,560 --> 00:00:19,960
+¿Puedes contarlo y al final pondrás tu firma abajo?
+
+9
+00:00:19,960 --> 00:00:23,080
+de la pagina? Sea cual sea tu edad, primero que nada tienes una historia que contar, tienes algo
+
+10
+00:00:23,080 --> 00:00:26,439
+qué hacer, puedes cambiar tu vida, puedes perseguir tu sueño incluso a los 60 años, incluso
+
+11
+00:00:26,439 --> 00:00:27,400
+cuando nadie lo cree.
+
+12
+00:00:27,400 --> 00:00:29,999
+Si quieres llegar a la siguiente puerta, debes empujar la primera.
+
+13
+00:00:30,000 --> 00:00:33,280
+Lo que mi abuelo le había enseñado a mi padre era que él toma el auto,
+
+14
+00:00:33,280 --> 00:00:35,400
+Él desarma todo el auto y tú lo vuelves a armar.
+
+15
+00:00:35,440 --> 00:00:36,200
+Así se aprende.
+
+16
+00:00:36,200 --> 00:00:37,840
+Hoy en día, realmente no puedes hacerlo con los Teslas.
+
+17
+00:00:37,840 --> 00:00:40,800
+Verás, la tecnología no es ni mala ni buena en sí misma.
+
+18
+00:00:40,800 --> 00:00:42,680
+Tampoco es neutral, lo sabemos muy bien.
+
+19
+00:00:42,680 --> 00:00:45,520
+Pero, por otro lado, ¿en qué medida me aporta algo en comparación con
+
+20
+00:00:45,520 --> 00:00:47,479
+¿Qué me pasa? Porque ella siempre te quita algo.
+
+21
+00:00:47,600 --> 00:00:51,680
+Hola, soy Rey. Estoy muy feliz de darle la bienvenida hoy con un invitado.
+
+22
+00:00:51,719 --> 00:00:53,840
+bastante excepcional quien se llama Benoît Raphaël.
+
+23
+00:00:54,000 --> 00:00:55,199
+Hola Benoît, ¿cómo estás?
+
+24
+00:00:55,199 --> 00:00:58,680
+Hola emy. Bueno escucha, me hace muy feliz estar contigo hoy.
+
+25
+00:00:58,840 --> 00:01:02,519
+Ambos estamos en vivo desde Bali ahora mismo en vivo, incluso si
+
+26
+00:01:02,519 --> 00:01:05,199
+Nos ves en vídeo más tarde.
+
+27
+00:01:05,880 --> 00:01:09,439
+Um, ¿tienes una pequeña palabra antes de comenzar? Antes de presentarte, ¿tienes
+
+28
+00:01:09,439 --> 00:01:10,839
+una pequeña palabra para decir a la audiencia.
+
+29
+00:01:11,080 --> 00:01:16,080
+Entonces, en cualquier caso, es un programa que habla de IA pero también de geopolítica y geopolítica.
+
+30
+00:01:16,280 --> 00:01:20,320
+Hoy en el fondo pienso finalmente en todos los temas actuales.
+
+31
+00:01:20,799 --> 00:01:25,280
+Así que creo que faltaba un lugar y eso es bueno.
+
+32
+00:01:25,840 --> 00:01:27,400
+Muchas gracias. Gracias a ti de todos modos.
+
+33
+00:01:27,400 --> 00:01:29,680
+Eres el primer invitado de una larga lista.
+
+34
+00:01:29,720 --> 00:01:34,040
+Realmente no vamos a hacer simplemente un podcast, realmente estamos aquí para hacer uno.
+
+35
+00:01:34,040 --> 00:01:35,080
+centenar. Ese es el objetivo.
+
+36
+00:01:36,000 --> 00:01:38,760
+Escucha, estoy muy feliz de tenerte por diferentes razones.
+
+37
+00:01:39,439 --> 00:01:41,040
+Hoy vamos a poner nuestras cartas sobre la mesa.
+
+38
+00:01:41,040 --> 00:01:43,240
+Por cierto, tenemos cartas de Pokémon, te hablaré de ellas más adelante.
+
+39
+00:01:43,240 --> 00:01:45,159
+Manténgase conectado. Hay algo loco en eso.
+
+40
+00:01:45,880 --> 00:01:48,080
+Utilizo los términos términos de Jones.
+
+41
+00:01:48,520 --> 00:01:50,440
+La gente seguirá creyendo que tengo 20 años cuando ya no sea así.
+
+42
+00:01:51,240 --> 00:01:55,880
+Entonces dije: "Estoy muy feliz de tenerte aquí hoy porque por
+
+43
+00:01:55,880 --> 00:02:02,400
+varias razones. La primera, no eres el mejor newsletter para mí.
+
+44
+00:02:02,439 --> 00:02:04,680
+desde Francia sobre IA, el mejor boletín del mundo.
+
+45
+00:02:04,680 --> 00:02:07,439
+Y no os lo digo para presumir, es la verdad.
+
+46
+00:02:07,680 --> 00:02:11,120
+realmente lo que hiciste con Génération IA, los boletines que envías cada
+
+47
+00:02:11,120 --> 00:02:15,080
+semanas, los leo religiosamente, es decir, siempre los pongo como favoritos y
+
+48
+00:02:15,080 --> 00:02:17,880
+Me tomo un tiempo en el que sólo hago eso, en el que elimino todo lo demás.
+
+49
+00:02:18,160 --> 00:02:22,760
+Además, muy importante durante este podcast, cortar cualquier fuente de distracción, eh.
+
+50
+00:02:23,080 --> 00:02:26,240
+Uh hay que escuchar porque lo que vamos a decir hoy es super importante
+
+51
+00:02:26,319 --> 00:02:30,359
+por vuestro futuro, por vuestro trabajo, por vuestras familias, por absolutamente todo.
+
+52
+00:02:30,720 --> 00:02:33,879
+La otra razón es que, bueno, seamos honestos, nos hicimos un poco amigos.
+
+53
+00:02:33,879 --> 00:02:36,440
+aquí en Bali y, en cualquier caso, estoy feliz.
+
+54
+00:02:36,519 --> 00:02:38,599
+Hemos hecho algunas cosas interesantes recientemente.
+
+55
+00:02:38,599 --> 00:02:41,840
+Fuimos a ver la película de Michael en concreto, eh, el Rey.
+
+56
+00:02:42,200 --> 00:02:44,840
+No te pediré tu opinión sobre la película porque no quisiste darla.
+
+57
+00:02:46,239 --> 00:02:48,200
+Um, todos sabemos que es una película excepcional, pero ahí lo tienes.
+
+58
+00:02:48,440 --> 00:02:52,280
+Y así, de repente, la presentación, te recuerdo bailando frente a
+
+59
+00:02:52,280 --> 00:02:54,960
+la pantalla del cine, frente a todo el público.
+
+60
+00:02:55,280 --> 00:02:57,840
+Bailas muy bien por cierto, me quedé bastante. Muchas gracias.
+
+61
+00:02:57,840 --> 00:03:00,879
+Bueno, desde entonces he hecho uno, tal vez les dé un extracto si los editores
+
+62
+00:03:00,879 --> 00:03:03,519
+Si quieres poner un extracto aquí, te lo enviaré.
+
+63
+00:03:03,519 --> 00:03:07,320
+Hice uno desde mi primer show en el Hard Rock Café de Bali.
+
+64
+00:03:07,400 --> 00:03:10,280
+Es una tontería. Algún día les contaré esta historia si mi carrera comienza.
+
+65
+00:03:10,280 --> 00:03:15,640
+Nunca se sabe. Tal vez tenga que mañana habrá la figura de Remy Bigo con
+
+66
+00:03:15,640 --> 00:03:17,600
+su legendaria gorra. No, eso no funcionará.
+
+67
+00:03:17,959 --> 00:03:21,280
+Entonces sí, ¿por qué está Benoît aquí hoy?
+
+68
+00:03:21,280 --> 00:03:24,000
+porque es alguien a quien sigo todos los días, bueno al menos todas las semanas.
+
+69
+00:03:24,000 --> 00:03:26,960
+al menos y que tengo mucho placer en seguir y leer.
+
+70
+00:03:27,319 --> 00:03:31,240
+Y lo que me gusta de ti es que haces experimentos concretos, reales,
+
+71
+00:03:31,720 --> 00:03:37,319
+no la mierda que vemos en LinkedIn o sí hola, soy Intel, vengo de allí
+
+72
+00:03:37,319 --> 00:03:40,839
+Hace una semana no existía en ninguna parte, ni de Ev ni de Adan, soy un desconocido para el batallón.
+
+73
+00:03:41,159 --> 00:03:45,839
+y te ofreceré el mejor agente de IA que en dos clics te revolucionará
+
+74
+00:03:46,040 --> 00:03:48,959
+tu negocio y encuentro que eres diferente.
+
+75
+00:03:48,959 --> 00:03:53,040
+Entonces, ¿puedes explicarnos un poco cómo trabajas, por qué?
+
+76
+00:03:53,120 --> 00:03:58,079
+Estás completamente en el boletín hoy y sí, tal vez termines tu presentación si
+
+77
+00:03:58,079 --> 00:03:59,680
+Olvidé algo importante.
+
+78
+00:04:00,400 --> 00:04:04,200
+Pues ya los influencers que te lo cuentan en dos clics, lo harás
+
+79
+00:04:04,200 --> 00:04:08,079
+Crea tu agente que resolverá tu negocio en dos golpes de cuchara.
+
+80
+00:04:08,079 --> 00:04:12,760
+Creo que ya tenemos que ser cautelosos y este es precisamente el enfoque que
+
+81
+00:04:12,799 --> 00:04:17,600
+que trato de tener con Thomas Ma, que es mi socio, que es el ingeniero de la
+
+82
+00:04:17,600 --> 00:04:23,360
+banda. Es este dúo, es clave, de hecho, en el trabajo que hacemos, es
+
+83
+00:04:23,360 --> 00:04:29,240
+que de hecho por experimentación cuando realmente pruebas lo que la famosa cosa brillante
+
+84
+00:04:29,240 --> 00:04:32,840
+que viste en Instagram o en LinkedIn, de hecho te das cuenta de que eso
+
+85
+00:04:32,840 --> 00:04:38,520
+no funciona. Entonces, y han pasado años desde 2023 que nos han dicho cosas extraordinarias,
+
+86
+00:04:38,840 --> 00:04:43,520
+Esta famosa exageración de la IA y cada vez que la miramos no funciona.
+
+87
+00:04:43,520 --> 00:04:46,480
+De hecho, lo que anunciamos hace 2 años ahora funciona hoy.
+
+88
+00:04:46,520 --> 00:04:48,879
+Lo que anunciamos hoy quizás funcione dentro de dos años.
+
+89
+00:04:49,160 --> 00:04:53,000
+Así que este enfoque es bastante humilde, de hecho, eh.
+
+90
+00:04:53,000 --> 00:04:57,360
+Nosotros, yo lo somos, no tenemos conocimientos y es un enfoque que es doble con mi
+
+91
+00:04:57,360 --> 00:05:00,840
+asociado que es ingeniero por lo tanto en aprendizaje automático por lo tanto quién conoce la tecnología
+
+92
+00:05:00,919 --> 00:05:05,159
+así que eso me salva de decir demasiadas tonterías y con algo de rigor de periodista
+
+93
+00:05:05,280 --> 00:05:06,280
+y al mismo tiempo curiosidad.
+
+94
+00:05:06,479 --> 00:05:07,560
+Por cierto, usted es un ex periodista.
+
+95
+00:05:07,560 --> 00:05:09,439
+¿Cuál es tu experiencia?
+
+96
+00:05:09,680 --> 00:05:12,319
+Bueno, soy periodista desde hace años.
+
+97
+00:05:12,360 --> 00:05:15,600
+Trabajé en la prensa diaria regional, trabajé en el grupo Le Monde
+
+98
+00:05:15,600 --> 00:05:18,879
+También. He editado bastantes medios para grupos grandes.
+
+99
+00:05:18,880 --> 00:05:20,160
+Sí, Flint estuvo alguna vez.
+
+100
+00:05:20,160 --> 00:05:21,080
+No sé si ese sigue siendo el caso.
+
+101
+00:05:21,080 --> 00:05:24,639
+Flint, por una vez es Flint, en realidad es siempre el mismo.
+
+102
+00:05:24,639 --> 00:05:28,280
+Todavía está ahí, es la caja que se llama generación. Hoy en día, por lo tanto, Flint es
+
+103
+00:05:28,280 --> 00:05:30,120
+no, es una nueva empresa de aprendizaje automático.
+
+104
+00:05:30,120 --> 00:05:36,639
+Entonces, ¿quién ha estado haciendo aprendizaje automático desde 2017 con experiencia en máquinas?
+
+105
+00:05:36,639 --> 00:05:38,319
+aprendiendo, ¿puedes explicarlo en dos palabras?
+
+106
+00:05:38,319 --> 00:05:41,360
+Aprendizaje automático, de hecho, si estás interesado en la IA, necesitas saber qué
+
+107
+00:05:41,360 --> 00:05:43,360
+palabra porque se llama aprendizaje automático.
+
+108
+00:05:43,680 --> 00:05:47,840
+Esta es básicamente la tecnología detrás del entrenamiento de lo que llamamos
+
+109
+00:05:47,840 --> 00:05:54,479
+modelos lingüísticos. Entonces, ¿quiénes son los modelos que tienes aquí dentro del
+
+110
+00:05:54,479 --> 00:05:55,680
+plataformas como el chat GPT.
+
+111
+00:05:56,160 --> 00:06:01,280
+Está bien. Um, entonces es este dúo el que me hace difícil hablar.
+
+112
+00:06:01,280 --> 00:06:05,080
+de algo. Hay tanto revuelo que ni siquiera diría una mentira, pero
+
+113
+00:06:05,080 --> 00:06:07,280
+Información falsa que circula en torno a la IA.
+
+114
+00:06:07,520 --> 00:06:12,720
+tanto en el hiperoptimismo como en el hiperpesimismo que de hecho necesitamos mostrar
+
+115
+00:06:12,720 --> 00:06:16,240
+realmente cuál es el estado del arte, de hecho, entonces, ¿cómo me resulta útil a mí también y tener
+
+116
+00:06:16,240 --> 00:06:19,640
+tal vez profundice un poco más en los temas como lo hace en su boletín.
+
+117
+00:06:19,680 --> 00:06:21,760
+Sí. Siempre digo pensamiento crítico y pragmático.
+
+118
+00:06:21,919 --> 00:06:25,680
+Pragmático es, en realidad, ¿qué puedo hacer realmente?
+
+119
+00:06:25,680 --> 00:06:28,680
+Así que solo comparto cosas que he podido hacer y que me han resultado útiles.
+
+120
+00:06:28,880 --> 00:06:31,919
+Y luego el pensamiento crítico es, doy un paso atrás, ¿de qué estamos hablando, qué es?
+
+121
+00:06:31,919 --> 00:06:36,159
+la tecnología detrás de lo que queremos decir y cada vez que trato de explicar
+
+122
+00:06:36,599 --> 00:06:40,159
+¿Cómo funcionan también estos modelos DI para que siempre tengamos esta comprensión?
+
+123
+00:06:40,240 --> 00:06:42,039
+detrás. No tiene nada de mágico.
+
+124
+00:06:42,039 --> 00:06:44,680
+En general, la inteligencia artificial es una caja de herramientas en la que tienes
+
+125
+00:06:44,680 --> 00:06:48,719
+un cerebro que es el modelo del lenguaje una plataforma diferentes herramientas, desconectadores
+
+126
+00:06:48,960 --> 00:06:53,280
+y todo. Lo juntas y obtienes algo que generalmente te permite hacer
+
+127
+00:06:53,280 --> 00:06:57,240
+una acción que normalmente podría ser realizada por un humano.
+
+128
+00:06:57,639 --> 00:07:00,280
+Pero no necesariamente funciona de principio a fin.
+
+129
+00:07:00,280 --> 00:07:01,080
+Hay muchos errores.
+
+130
+00:07:01,639 --> 00:07:03,039
+A menudo hay que poner a un humano al tanto.
+
+131
+00:07:03,039 --> 00:07:08,039
+Finalmente, es toda esta complejidad la que nos embarca en algo que es
+
+132
+00:07:08,080 --> 00:07:12,199
+en cualquier caso lo que creo que agrada a nuestros lectores es que siempre soy yo quien digo
+
+133
+00:07:12,199 --> 00:07:18,440
+aún así, de hecho, la aceleración de la tecnología de inteligencia artificial e incluso
+
+134
+00:07:18,440 --> 00:07:22,319
+La geopolítica actual da miedo y creo que la mejor respuesta a la
+
+135
+00:07:22,319 --> 00:07:28,800
+el miedo es curiosidad. Um y entonces somos un boletín animado.
+
+136
+00:07:28,960 --> 00:07:33,200
+a través de la curiosidad. Entonces no hablaré de optimismo, tengo curiosidad.
+
+137
+00:07:33,280 --> 00:07:34,840
+Me interesa ver qué podemos hacer.
+
+138
+00:07:35,080 --> 00:07:37,599
+Me interesa ver qué podemos, eres bastante equilibrado en lo que dices.
+
+139
+00:07:38,360 --> 00:07:40,599
+Um, siento que estás realmente equilibrado.
+
+140
+00:07:40,759 --> 00:07:43,240
+Es cierto que realmente hay dos mundos que se están separando de una manera que
+
+141
+00:07:43,240 --> 00:07:45,319
+bastante importante. Lo encontré en la comunidad de IA.
+
+142
+00:07:45,960 --> 00:07:49,960
+Están los antis. No son los antis sino la gente la que nos dice aqui estamos
+
+143
+00:07:49,960 --> 00:07:53,319
+vamos hacia GI, la famosa superinteligencia o inteligencia artificial
+
+144
+00:07:53,360 --> 00:07:55,120
+seguimiento general de quien habla.
+
+145
+00:07:55,680 --> 00:08:01,440
+Y eso es problemático porque realmente podría arruinar nuestro mundo actual.
+
+146
+00:08:01,440 --> 00:08:03,840
+nivel social, al nivel de muchas cosas.
+
+147
+00:08:03,960 --> 00:08:08,319
+Y luego están los otros que son un poco techno ba, quiero decir, gente
+
+148
+00:08:08,319 --> 00:08:14,840
+quién reza a Dios Elon o Dios Samaltman y quién para quién la tecnología
+
+149
+00:08:14,879 --> 00:08:19,039
+resolverá todos los problemas mientras sabemos que, de hecho, las dos posiciones son una pequeña
+
+150
+00:08:19,039 --> 00:08:19,999
+Un poco parcial, lo siento.
+
+151
+00:08:20,720 --> 00:08:23,199
+Sí. Y luego tienes que entender que no tengo nada en contra de los multimillonarios,
+
+152
+00:08:23,199 --> 00:08:27,479
+pero finalmente cuando nos convertimos en multimillonarios, nos desconectamos un poco de la realidad
+
+153
+00:08:27,479 --> 00:08:32,279
+de todos modos también eh entonces uh y luego detrás también es tecnooptimista,
+
+154
+00:08:32,279 --> 00:08:38,559
+No debemos olvidar que también existe un enfoque un tanto transhumanista, incluso cuando
+
+155
+00:08:38,640 --> 00:08:42,200
+dice que cat GPT es más inteligente que yo, por ejemplo, existe la idea de que, en última instancia,
+
+156
+00:08:42,200 --> 00:08:45,480
+nuestro cerebro está un poco incompleto, esa es toda la filosofía transhumanista y eso
+
+157
+00:08:45,480 --> 00:08:51,320
+La IA vendrá, bueno, mejorará a los humanos, nos reemplazará porque precisamente será
+
+158
+00:08:51,360 --> 00:08:52,880
+perfectos y nosotros somos imperfectos.
+
+159
+00:08:53,240 --> 00:08:56,760
+Y creo que esta charla sobre la imperfección en relación con el cerebro humano es
+
+160
+00:08:56,760 --> 00:08:57,799
+Tienen pocos conocimientos de neurociencia.
+
+161
+00:08:58,279 --> 00:09:00,959
+El cerebro es imperfecto porque necesita aprender y somos máquinas
+
+162
+00:09:00,959 --> 00:09:02,320
+realmente aprender en alguna parte.
+
+163
+00:09:02,480 --> 00:09:05,800
+Quizás no debería haber dicho máquina, pero que en algún lugar no estamos
+
+164
+00:09:05,800 --> 00:09:07,440
+Máquinas precisamente, somos máquinas biológicas.
+
+165
+00:09:08,480 --> 00:09:12,440
+Pero al decir que, en última instancia, sólo somos ordenadores imperfectos, creo que
+
+166
+00:09:12,440 --> 00:09:17,399
+que es no conocer bien la filosofía, no conocer bien la ciencia, y eso es todo lo que hace falta
+
+167
+00:09:17,399 --> 00:09:21,520
+un discurso según quién realmente hace las delicias de todas las personas que dominan esta tecnología
+
+168
+00:09:21,600 --> 00:09:24,680
+allí porque en algún lugar les permite decirse a sí mismos, bueno, el futuro del mundo está entre
+
+169
+00:09:24,680 --> 00:09:28,160
+nuestras manos. Eso es todo. Y para recaudar y recaudar decenas o cientos de miles de millones
+
+170
+00:09:28,160 --> 00:09:29,680
+euros cada año. Entonces.
+
+171
+00:09:29,680 --> 00:09:33,240
+y luego y con una filosofía que va aún más allá porque toda esta gente cuando
+
+172
+00:09:33,240 --> 00:09:39,080
+Mira la filosofía que animó a algunos de estos actores en Silicone.
+
+173
+00:09:39,120 --> 00:09:43,200
+Vallée, todos estudiaron filosofía, les interesa la política y
+
+174
+00:09:43,200 --> 00:09:47,959
+por algún lado la idea de decirte bueno en realidad hay que conocer a los actores
+
+175
+00:09:47,959 --> 00:09:49,280
+de Silicone Valley son hackers.
+
+176
+00:09:49,320 --> 00:09:52,360
+Y cuando decimos hackers, sois capaces de hackear la sociedad y por qué no hackear
+
+177
+00:09:52,360 --> 00:09:53,960
+el sistema y por qué no hackear la democracia.
+
+178
+00:09:54,360 --> 00:09:55,680
+¿Y con qué reemplazamos la democracia?
+
+179
+00:09:55,680 --> 00:10:00,600
+Ejemplo loco, no sé si habrás oído hablar de esto, pero los gigantes tecnológicos
+
+180
+00:10:00,959 --> 00:10:06,320
+en San Francisco que quería crear una isla artificial frente a California a las 2
+
+181
+00:10:06,320 --> 00:10:12,160
+o sólo 3 km, casi visible desde la playa al no tener más reglas americanas
+
+182
+00:10:12,600 --> 00:10:16,279
+sobre tecnología. No sé si nos damos cuenta de la locura del Sí, es una locura
+
+183
+00:10:16,279 --> 00:10:20,120
+de Pedro sino de una especie de libertad del individuo absoluto pero en fin, la libertad
+
+184
+00:10:20,120 --> 00:10:21,880
+cuando eres multimillonario, está bien, eres libre.
+
+185
+00:10:21,959 --> 00:10:25,800
+Y mi madre siempre decía: “Tu libertad termina donde comienza la de los demás”. Sí,
+
+186
+00:10:25,800 --> 00:10:28,919
+Ese es un viejo dicho. Es un viejo dicho pero ella me lo decía todo el tiempo.
+
+187
+00:10:29,320 --> 00:10:30,239
+Es verdad, estoy bastante de acuerdo.
+
+188
+00:10:30,399 --> 00:10:33,399
+Está bien, está bien. Eh general, cuando tienes más dinero, tienes más libertad, eh.
+
+189
+00:10:33,399 --> 00:10:37,560
+Entonces cuando dices que mi libertad termina donde comienza la libertad de los demás, si el otro tiene mucho
+
+190
+00:10:37,560 --> 00:10:40,919
+Menos dinero y mucha menos conexión, todavía hay desequilibrios.
+
+191
+00:10:40,959 --> 00:10:45,440
+que se crea. En cualquier caso, lo que quiero decir es que este tecnooptimismo que tiene, lo tiene.
+
+192
+00:10:45,440 --> 00:10:49,720
+raíces. Es interesante entender esto porque hoy estas personas que tenían
+
+193
+00:10:49,720 --> 00:10:54,880
+mucho dinero ahora tiene mucho poder, especialmente con IA y una capacidad
+
+194
+00:10:54,920 --> 00:11:00,240
+transformar el mundo que no es inocente y hoy entra en uno que sí lo es.
+
+195
+00:11:00,240 --> 00:11:01,080
+También una guerra geopolítica.
+
+196
+00:11:01,279 --> 00:11:04,760
+Así que también cuentan con el apoyo de los Estados y, por lo tanto, creo que esta mezcla
+
+197
+00:11:04,760 --> 00:11:09,200
+Es bastante peligroso. Eso es lo que fundamentalmente me asusta más que lo que
+
+198
+00:11:09,200 --> 00:11:11,680
+No diría engaño sino creencia en una superinteligencia.
+
+199
+00:11:11,680 --> 00:11:15,720
+No digo que llegaremos allí, que no llegaremos allí, pero creo que el
+
+200
+00:11:15,760 --> 00:11:21,399
+peligros, los riesgos más inmediatos están precisamente vinculados a este tipo de nuevas
+
+201
+00:11:21,399 --> 00:11:24,959
+política que está en el proceso de un nuevo orden mundial que está en proceso de ser organizado y
+
+202
+00:11:24,959 --> 00:11:27,520
+donde la IA está en el centro de la mayoría de las tensiones.
+
+203
+00:11:27,720 --> 00:11:29,360
+Sí. Muy interesante. Muy interesante.
+
+204
+00:11:29,360 --> 00:11:32,039
+Pues si. Sí. Actualmente hay un gran debate sobre esto.
+
+205
+00:11:32,240 --> 00:11:35,000
+De hecho puedo verlo. Se están creando varios mundos.
+
+206
+00:11:35,000 --> 00:11:37,120
+Hay gente que está completamente fuera de todo eso.
+
+207
+00:11:37,120 --> 00:11:39,200
+Además, esa es la mayoría de la gente en realidad, eh.
+
+208
+00:11:39,399 --> 00:11:42,360
+Yo, cuando oigo a mi alrededor, sí pero todos se han ido al Clos, todos
+
+209
+00:11:42,360 --> 00:11:44,440
+todos hicieron esto, todos hicieron aquello, todos probaron abierto y cerrado.
+
+210
+00:11:44,440 --> 00:11:49,479
+Me hace reír porque no todos, tu microcosmos, unas pocas personas
+
+211
+00:11:50,000 --> 00:11:51,959
+Tenga estas herramientas y úselas todos los días.
+
+212
+00:11:51,959 --> 00:11:55,639
+Cuando miramos las cifras estamos muy lejos del cl que especifico para quienes
+
+213
+00:11:55,639 --> 00:12:00,240
+No he entendido quién es el agente autónomo llamado agente autónomo y Claude por lo tanto quién
+
+214
+00:12:00,240 --> 00:12:03,519
+Es más bien el código Claude que se usa a menudo porque permite tanto la codificación
+
+215
+00:12:03,519 --> 00:12:09,360
+y hacer muchas cosas de forma semiautónoma, todo lo que hacemos, todo lo que es
+
+216
+00:12:09,360 --> 00:12:14,399
+vinculado autónomo de hecho hoy eh que encaja precisamente en el camino hacia de
+
+217
+00:12:14,399 --> 00:12:17,520
+mañana de esta súper inteligencia que hará todo por nuestro Eso es todo.
+
+218
+00:12:17,880 --> 00:12:20,560
+Bien, Benoît, seamos pragmáticos.
+
+219
+00:12:21,360 --> 00:12:22,880
+Creo que tienes al menos mi edad.
+
+220
+00:12:23,120 --> 00:12:25,760
+Um, lo sé de verdad pero no deberías decirlo.
+
+221
+00:12:25,959 --> 00:12:30,639
+Ni siquiera ni siquiera. Así que para mí, viste como yo todas las olas pasando
+
+222
+00:12:30,639 --> 00:12:34,960
+de Internet. Así que imagino que existe la web, incluso probablemente el Minitel.
+
+223
+00:12:35,800 --> 00:12:36,760
+Muy buena herramienta por cierto.
+
+224
+00:12:36,920 --> 00:12:40,480
+Debes saber que en ese momento Francia estaba a la vanguardia tecnológica en el momento de
+
+225
+00:12:40,480 --> 00:12:46,839
+Minitel. Aunque éramos los únicos que podíamos reservar un billete de tren online.
+
+226
+00:12:46,839 --> 00:12:53,080
+antes de internet. De repente, has visto todos estos desarrollos, Minitel, web, comercio electrónico,
+
+227
+00:12:53,480 --> 00:12:57,760
+redes sociales, tal vez también criptomonedas, por supuesto, y ahora LIA, por supuesto.
+
+228
+00:12:59,639 --> 00:13:03,640
+En su opinión, ¿por qué a pesar de todas estas nuevas tecnologías que llegan constantemente?
+
+229
+00:13:03,680 --> 00:13:08,399
+y a una velocidad que para mí es cada vez más delirante muy claramente, eh, ¿por qué?
+
+230
+00:13:08,399 --> 00:13:13,799
+En su opinión, el formato de newsletter es siempre un formato también cualitativo, interesante,
+
+231
+00:13:14,440 --> 00:13:19,599
+eficiente y bueno para su comunidad personal?
+
+232
+00:13:19,800 --> 00:13:24,800
+Creo que obviamente todas estas revoluciones traen disrupciones como dicen,
+
+233
+00:13:24,800 --> 00:13:27,359
+Hay muchos cambios, por lo que van muy rápido, se están acelerando.
+
+234
+00:13:27,720 --> 00:13:33,799
+Y, de hecho, en estos entornos tan cambiantes, creo que favoreceremos
+
+235
+00:13:33,839 --> 00:13:38,560
+robustez. Mmm mmm. Y el correo electrónico es una tecnología bastante sólida; en primer lugar, es
+
+236
+00:13:38,560 --> 00:13:44,360
+un poco en el origen, ella ella nació con internet uh inicialmente, todos
+
+237
+00:13:44,360 --> 00:13:46,400
+lo usa así que sigue siendo algo importante.
+
+238
+00:13:46,720 --> 00:13:49,359
+Ella no es tan intrusiva a pesar de que es bastante íntima.
+
+239
+00:13:49,560 --> 00:13:53,880
+Entonces es una mezcla extraña pero, de hecho, no recibimos una notificación en
+
+240
+00:13:53,880 --> 00:13:54,680
+cada vez que recibimos un correo electrónico.
+
+241
+00:13:54,680 --> 00:13:58,320
+En cualquier caso, si esto te sucede, te recomiendo que desactives las notificaciones.
+
+242
+00:13:58,600 --> 00:14:01,399
+Revise sus correos electrónicos en los momentos en que desee revisarlos.
+
+243
+00:14:01,399 --> 00:14:02,920
+Voy a verlos cada 3 horas.
+
+244
+00:14:02,920 --> 00:14:05,480
+A la gente le molesta que no respondo sistemáticamente a los correos electrónicos, pero creo que
+
+245
+00:14:05,480 --> 00:14:07,280
+que es una higiene básica tener.
+
+246
+00:14:07,639 --> 00:14:12,840
+Pero si eliminamos las notificaciones, de hecho, veremos estos correos electrónicos, y en general sigue siendo íntimo.
+
+247
+00:14:13,880 --> 00:14:19,519
+Y así y eso también abarca toda una cultura que tenemos en la sociedad, finalmente en nuestra
+
+248
+00:14:19,519 --> 00:14:21,560
+Historia, perdón, de la humanidad que es la de las letras.
+
+249
+00:14:21,880 --> 00:14:25,399
+Estaban los boletines que distribuíamos en los mercados, eran los comerciantes,
+
+250
+00:14:25,399 --> 00:14:29,800
+Los primeros medios fueron boletines escritos a mano.
+
+251
+00:14:29,800 --> 00:14:32,680
+los comerciantes entre ellos. Esta es también la información más confiable en ese momento.
+
+252
+00:14:32,680 --> 00:14:36,199
+Entonces hay una noción de confiabilidad que entra en nuestra cultura y una noción de mí
+
+253
+00:14:36,199 --> 00:14:39,959
+encuentra el lado epistolar es porque te estoy hablando por eso muchas veces te mato
+
+254
+00:14:39,959 --> 00:14:44,040
+ademas de las personas porque hay un lado muy intimo hablamos de persona a persona
+
+255
+00:14:44,040 --> 00:14:48,919
+persona por lo que crea un vínculo y de hecho en este entorno con las redes sociales
+
+256
+00:14:49,040 --> 00:14:53,600
+que son entornos que llaman la atención a veces un poco de la relación pero
+
+257
+00:14:53,600 --> 00:14:58,000
+con enlaces relativamente débiles, el boletín hace lo que tiene una carta para
+
+258
+00:14:58,000 --> 00:15:00,120
+me permite crear vínculos mucho más fuertes.
+
+259
+00:15:00,120 --> 00:15:01,080
+la gente me puede responder.
+
+260
+00:15:01,639 --> 00:15:05,839
+Hablamos de ello como una respuesta en otra parte del uh Ah, finalmente, mucho cada vez que
+
+261
+00:15:05,839 --> 00:15:09,159
+solicita respuestas, también tenemos la posibilidad de dejar comentarios.
+
+262
+00:15:09,240 --> 00:15:12,920
+Entonces obtengo muchos más. ¿Usas Substacle o una herramienta como esa?
+
+263
+00:15:12,920 --> 00:15:17,920
+Utilizo una plataforma de newsletter llamada Beve que es una plataforma
+
+264
+00:15:17,920 --> 00:15:24,159
+americano que es muy eh y que innova constantemente cada vez que fue hecho por
+
+265
+00:15:24,440 --> 00:15:28,519
+por los creadores de Morning Brew, que era un boletín informativo, un boletín enorme que
+
+266
+00:15:28,519 --> 00:15:29,679
+Tenía varios millones de suscriptores.
+
+267
+00:15:30,120 --> 00:15:33,040
+Entonces estas son personas que crean boletines que crearon esta plataforma para
+
+268
+00:15:33,040 --> 00:15:35,959
+personas que también hacen boletines editoriales.
+
+269
+00:15:35,959 --> 00:15:41,199
+Está bien. Um, entonces creo que esta pregunta de enlace y también la pregunta que sabes
+
+270
+00:15:41,199 --> 00:15:44,679
+letra uh en nuestra historia pero creo que está en nuestra imaginación, en la literatura,
+
+271
+00:15:44,839 --> 00:15:49,400
+En las películas te sientas, abres tu carta y te tomas el tiempo para
+
+272
+00:15:49,880 --> 00:15:54,000
+Y el boletín se hizo para nosotros el domingo y no es un boletín desechable.
+
+273
+00:15:54,040 --> 00:15:57,239
+La gente se detiene, toma su café, abre el boletín.
+
+274
+00:15:57,319 --> 00:15:58,919
+Saben que lo tienen por un tiempo.
+
+275
+00:15:59,519 --> 00:16:02,280
+Tenemos de 10 a 15 minutos de lectura cada vez en los boletines.
+
+276
+00:16:02,920 --> 00:16:07,160
+Así que también es un momento de tiempo, lo cual es bastante raro, de hecho, cada vez más.
+
+277
+00:16:07,160 --> 00:16:09,360
+en ti que encontramos típicamente en el podcast por ejemplo.
+
+278
+00:16:09,360 --> 00:16:12,800
+No, y creo que eso es lo que se acerca al podcasting.
+
+279
+00:16:12,800 --> 00:16:17,520
+Además del podcast que todavía es algo viejo de la época del iPod.
+
+280
+00:16:17,560 --> 00:16:21,679
+que finalmente también se mantuvo, que se mantuvo y que incluso creció porque precisamente
+
+281
+00:16:21,800 --> 00:16:27,560
+juega con las mismas palancas que son el eslabón, el largo tiempo y precisamente una dimensión
+
+282
+00:16:27,560 --> 00:16:31,200
+un poco de intimidad que necesitamos en este caos absoluto de hoy.
+
+283
+00:16:31,240 --> 00:16:33,880
+Sí, de hecho tengo la impresión de que estamos en un mundo que se está polarizando,
+
+284
+00:16:34,040 --> 00:16:37,399
+es decir que realmente tenemos contenidos cada vez más rápidos que han sido traídos por
+
+285
+00:16:37,399 --> 00:16:40,639
+TikTok en particular y las otras plataformas que le siguieron con contenidos a veces de
+
+286
+00:16:40,639 --> 00:16:44,039
+10 o 15 segundos. No sé si lo recuerdas, incluso teníamos una herramienta llamada
+
+287
+00:16:44,040 --> 00:16:46,520
+Vino. Fueron 7 segundos de video.
+
+288
+00:16:46,959 --> 00:16:50,680
+Además, desapareció pero escuché que había un puente tecnológico que quería
+
+289
+00:16:50,680 --> 00:16:56,839
+reinicie Vine. Entonces para seguir y tú del otro lado, tienes los formatos extralargos.
+
+290
+00:16:56,839 --> 00:17:01,239
+Ahora tenemos vídeos en YouTube que duran 3 horas y que se ven, se ven de verdad.
+
+291
+00:17:01,519 --> 00:17:05,319
+Tenemos newsletters cada vez más largas, al menos las que sigo cada vez más
+
+292
+00:17:05,319 --> 00:17:08,720
+más extenso. Y es cierto que a veces siempre está este pequeño.
+
+293
+00:17:08,720 --> 00:17:13,439
+problemático en ese momento realmente pasaremos a otra cosa sobre cómo lograr una buena
+
+294
+00:17:13,559 --> 00:17:19,160
+Calculo el tiempo de lectura en el caso del newsletter, el tiempo de un podcast y tengo
+
+295
+00:17:19,160 --> 00:17:20,640
+la impresión de que en realidad es más por sentimiento.
+
+296
+00:17:20,640 --> 00:17:24,199
+¿Confirmas o tienes una idea más precisa? Creo que eso es lo que llamamos.
+
+297
+00:17:24,199 --> 00:17:30,440
+un poco de economia de hecho lo importante es de que tipo donde esta
+
+298
+00:17:30,440 --> 00:17:34,559
+que llegue en el momento en que es recibido por la persona porque ahí está la pregunta
+
+299
+00:17:34,559 --> 00:17:37,760
+de lugar ahora lo que no era el caso antes bajo qué condiciones tiene lugar
+
+300
+00:17:37,760 --> 00:17:42,720
+en qué dispositivo, si es en el teléfono o en la computadora, de hecho escucho
+
+301
+00:17:42,720 --> 00:17:44,960
+A menudo digo que sí, tienes que hacer contenido corto, hacer contenido largo.
+
+302
+00:17:44,960 --> 00:17:47,720
+Los videos cortos solo hacen video y no texto. De hecho, no significan nada.
+
+303
+00:17:48,120 --> 00:17:52,520
+y es como el podcast, de hecho tenemos momentos en los que leeremos un texto Momentos,
+
+304
+00:17:52,520 --> 00:17:55,120
+también cogeremos un libro de otro lugar, a veces miraremos un podcast, a veces
+
+305
+00:17:55,120 --> 00:17:58,200
+vamos a escucharlo. Sí, pero sé que cada vez se hace menos en la sociedad.
+
+306
+00:17:58,200 --> 00:18:00,280
+Eso. Sí, hemos estado enterrando el libro durante años.
+
+307
+00:18:00,679 --> 00:18:02,559
+Creo que está lejos de estar enterrado.
+
+308
+00:18:03,480 --> 00:18:08,520
+Uh, sí, pero nunca podremos pre No, el liderazgo es una experiencia que no tiene nada que ver con
+
+309
+00:18:08,520 --> 00:18:10,640
+Incluso con el boletín. Es una experiencia muy especial.
+
+310
+00:18:10,799 --> 00:18:14,840
+También necesitamos comprender cómo interactúa nuestro cerebro con estos formatos.
+
+311
+00:18:14,960 --> 00:18:20,600
+Pero creo que hay un boletín que responde a un momento en el que
+
+312
+00:18:20,600 --> 00:18:21,920
+En general es un poco tranquilo.
+
+313
+00:18:22,559 --> 00:18:27,240
+Uh tenemos nuestro newsletter, nos tomamos ahí el hecho de abrirlo, nos tomamos tiempo
+
+314
+00:18:27,559 --> 00:18:32,760
+pensar y pienso que hay diferentes ritmos en la vida y que todo es
+
+315
+00:18:32,760 --> 00:18:35,840
+no al mismo nivel. Nuestro cerebro no está al mismo nivel de atención y entonces
+
+316
+00:18:35,840 --> 00:18:41,000
+Obviamente el largo no es bueno en sí mismo, de hecho, si haces el largo y aburrido, si haces el
+
+317
+00:18:41,000 --> 00:18:44,799
+mucho tiempo sin interés ya que la IA es muy capaz de hacer por ejemplo cuando
+
+318
+00:18:44,799 --> 00:18:48,919
+ponlo en modo automático, puede darte brindis por texto, eso no importa
+
+319
+00:18:48,919 --> 00:18:50,600
+interés. Entonces ella literalmente envía mensajes de texto.
+
+320
+00:18:50,600 --> 00:18:55,080
+Ahí lo tienes, el tiempo largo es un momento que le tomas a tu cerebro para tomar la
+
+321
+00:18:55,080 --> 00:18:58,720
+En cualquier caso, esto es lo que estamos haciendo con la Generación I para tratar de entender qué
+
+322
+00:18:58,720 --> 00:19:02,640
+sucede que lleva cosas útiles que serán muy prácticas y que podrás
+
+323
+00:19:02,760 --> 00:19:04,480
+tú también te reproduces también.
+
+324
+00:19:05,080 --> 00:19:10,880
+Por eso es un momento necesario en el actual torbellino de calma, de reflexión,
+
+325
+00:19:11,000 --> 00:19:15,680
+de dar un paso atrás y también del vínculo que crearemos con el lector.
+
+326
+00:19:15,919 --> 00:19:18,360
+Sí. Entonces creo que realmente lo necesitamos hoy porque es cierto como
+
+327
+00:19:18,360 --> 00:19:20,000
+Dices que el mundo se está volviendo loco.
+
+328
+00:19:20,039 --> 00:19:23,880
+Hoy no hablaremos de política, tal vez un poco de geopolítica, pero
+
+329
+00:19:23,880 --> 00:19:26,360
+Es cierto que vivimos en un mundo completamente loco.
+
+330
+00:19:26,559 --> 00:19:27,600
+Todo acelera a una velocidad.
+
+331
+00:19:27,600 --> 00:19:31,640
+Recuerdo que cuando llegó la web todo se aceleró desde mi punto de vista.
+
+332
+00:19:31,640 --> 00:19:34,439
+Yo era joven, hice mi primer sitio web, tenía 12 años en mi habitación.
+
+333
+00:19:34,559 --> 00:19:37,079
+Pero le había pedido a mi madre una computadora.
+
+334
+00:19:37,200 --> 00:19:39,360
+En aquella época costaba 10.000 francos, recuerdo el precio.
+
+335
+00:19:39,520 --> 00:19:42,319
+Para ella era demasiado caro.
+
+336
+00:19:42,760 --> 00:19:45,400
+Estaba sola, tres hijos.
+
+337
+00:19:45,400 --> 00:19:48,520
+Finalmente, les dejaré imaginar las dificultades que tuvo.
+
+338
+00:19:48,520 --> 00:19:50,840
+ella era una empleada, eh, así que un pequeño salario extra.
+
+339
+00:19:51,280 --> 00:19:55,280
+En fin, todo eso para decir que en su momento, comencé por ahí, eh, ya veo.
+
+340
+00:19:55,280 --> 00:19:59,600
+las cosas se aceleran. El comercio electrónico también ha acelerado las cosas, las redes sociales
+
+341
+00:19:59,600 --> 00:20:03,799
+cosas aceleradas, cosas criptográficas aceleradas, NFT aceleradas, yo
+
+342
+00:20:03,799 --> 00:20:06,600
+recuerda que los NFT, me dije pero no es posible, ya casi llegamos a tiempo,
+
+343
+00:20:06,720 --> 00:20:08,520
+el largo tiempo es un día, ya ves.
+
+344
+00:20:09,000 --> 00:20:13,039
+Uh y ahora con IA, bueno, encontré algo que es incluso más rápido que
+
+345
+00:20:13,039 --> 00:20:15,959
+el NFT. Me digo a mí mismo ¿cuál es el siguiente paso?
+
+346
+00:20:16,320 --> 00:20:19,360
+Además, cambiar un poquito, finalmente evolucionar un poco en el tema porque
+
+347
+00:20:19,360 --> 00:20:22,199
+Tiene mucho que ver hoy y veo que el tiempo ya pasa muy rápido.
+
+348
+00:20:24,400 --> 00:20:27,439
+Para mi generación AI, siento que eres tú quien escribe.
+
+349
+00:20:27,640 --> 00:20:28,440
+Quizás me equivoque.
+
+350
+00:20:28,440 --> 00:20:33,400
+Quizás trabajaste muy bien con tu agente, a mí también, así que es posible.
+
+351
+00:20:33,640 --> 00:20:35,000
+Pero en cualquier caso, dentro hay un techo.
+
+352
+00:20:35,200 --> 00:20:37,480
+Ahora que te conozco muy bien, es realmente importante.
+
+353
+00:20:37,840 --> 00:20:39,440
+¿Cómo logras resistir la tentación?
+
+354
+00:20:39,440 --> 00:20:41,640
+Si te resistes, tal vez me digas "no pude resistirme".
+
+355
+00:20:42,240 --> 00:20:44,919
+¿Cómo resistes la tentación de dejar que la IA haga todo?
+
+356
+00:20:44,919 --> 00:20:48,799
+¿Ver? ¿Y cuál es tu línea roja si la tienes?
+
+357
+00:20:48,799 --> 00:20:51,679
+¿Cuál es su línea roja para la automatización y el uso de enlaces?
+
+358
+00:20:51,679 --> 00:20:55,600
+Creo que este debate sobre escribir con IA es un debate falso.
+
+359
+00:20:58,039 --> 00:21:03,840
+y creo que la verdadera pregunta primero que nada es saber qué haces
+
+360
+00:21:03,840 --> 00:21:08,360
+historia que tienes que contar, como puedes contarla y al final
+
+361
+00:21:08,360 --> 00:21:12,000
+¿Vas a poner tu al final de la página?
+
+362
+00:21:12,120 --> 00:21:14,799
+Para mí, ¿asumes que estás orgulloso de lo que tienes?
+
+363
+00:21:14,799 --> 00:21:18,720
+desde un punto de vista legal, desde un punto de vista emocional que vas a crear, mensaje que tienes que
+
+364
+00:21:18,720 --> 00:21:19,679
+usted falleció y así sucesivamente.
+
+365
+00:21:20,559 --> 00:21:21,880
+Y entonces, Li, es una herramienta.
+
+366
+00:21:21,880 --> 00:21:23,720
+Entonces no diría que es necesariamente una herramienta para escribir.
+
+367
+00:21:24,400 --> 00:21:29,160
+Um, por cierto, hablé con Hervé Lotellier con quien había hecho un desafío.
+
+368
+00:21:29,760 --> 00:21:33,840
+en 2025. Cada uno de nosotros tuvo que escribir un nuevo yo con la IA y él a mano que es Hervé
+
+369
+00:21:33,840 --> 00:21:39,720
+Le Tellier para Herv Leier es el precompetidor de 2020 que ha escrito libros magníficos.
+
+370
+00:21:40,240 --> 00:21:42,120
+¿Sobre qué tema? Indulto ?
+
+371
+00:21:42,120 --> 00:21:42,840
+¿Sobre qué tema? ¿Él escribió?
+
+372
+00:21:42,840 --> 00:21:46,559
+Es un escritor. Es literatura que escribió, escribió sobre qué por el precio.
+
+373
+00:21:46,559 --> 00:21:47,720
+competencia ? Uh la anomalía.
+
+374
+00:21:48,320 --> 00:21:51,400
+Que es una especie de novela, un poco de ciencia ficción, un poco extraña.
+
+375
+00:21:51,400 --> 00:21:52,600
+Parece una serie de televisión.
+
+376
+00:21:52,600 --> 00:21:56,679
+Es muy divertido. Um, me encantó este libro, así que le tengo mucho respeto.
+
+377
+00:21:56,679 --> 00:22:01,640
+escritor y me lo dijo, pero de hecho estaba interesado en ver qué podíamos
+
+378
+00:22:01,840 --> 00:22:05,960
+que ver con el cliente en términos de escritura y me dijo que sí, bueno, es interesante pero
+
+379
+00:22:05,960 --> 00:22:10,559
+Mi verdadero placer es escribir y sí, de hecho, ese también es mi caso, pero
+
+380
+00:22:10,559 --> 00:22:16,520
+Creo que entra en la receta la cuestión de saber cómo
+
+381
+00:22:16,520 --> 00:22:20,640
+de los cuales uso la IA para escribir lo primero que busco en la IA
+
+382
+00:22:20,640 --> 00:22:23,840
+es que obviamente me sorprenden en general me sorprenden Entonces esa es la
+
+383
+00:22:23,840 --> 00:22:27,400
+asunto. Entonces la idea es cómo vamos a trabajar con ella de una manera
+
+384
+00:22:27,400 --> 00:22:30,360
+para que ella pueda ofrecerme cosas nuevas.
+
+385
+00:22:30,720 --> 00:22:34,919
+Así que lo primero que suele hacer es ordenar mis pensamientos,
+
+386
+00:22:34,919 --> 00:22:36,240
+Sé aproximadamente a qué me refiero.
+
+387
+00:22:36,360 --> 00:22:38,480
+Entonces puse esto en un archivo.
+
+388
+00:22:38,760 --> 00:22:43,679
+Luego, a menudo dicto en voz alta lo que pienso y demás, pero a veces sé
+
+389
+00:22:43,679 --> 00:22:47,600
+No estoy seguro de dónde van a ir mis ideas, cómo las voy a articular y luego me ofrece
+
+390
+00:22:47,600 --> 00:22:49,079
+varias articulaciones posibles.
+
+391
+00:22:49,120 --> 00:22:50,800
+Elijo, desafío, etcétera.
+
+392
+00:22:51,039 --> 00:22:53,920
+Sí, intercambias con la IA para obtener el mejor resultado posible al final.
+
+393
+00:22:54,000 --> 00:22:59,960
+Entonces. Luego, tengo una manera de estructurar todo el contexto de mi IA.
+
+394
+00:22:59,960 --> 00:23:03,760
+para que se comporte de una manera que me sorprenda.
+
+395
+00:23:04,520 --> 00:23:08,760
+Después trabajé mucho en la escritura, en particular en este desafío que tuvimos.
+
+396
+00:23:08,760 --> 00:23:12,160
+hacer. Así que tuvimos que superar el concurso previo de redacción de cuentos.
+
+397
+00:23:12,240 --> 00:23:17,679
+Entonces, lo superamos, lo cual era interesante en un cuento corto, no en una novela,
+
+398
+00:23:17,679 --> 00:23:21,000
+es más complicado. Luego, hice nuevamente el ejercicio donde está el nuevo observador.
+
+399
+00:23:21,039 --> 00:23:22,199
+quien me dio este desafío.
+
+400
+00:23:22,640 --> 00:23:28,679
+Rehicimos, teníamos que terminar el libro inacabado de Flobert Bouvert y Pécuché.
+
+401
+00:23:28,679 --> 00:23:30,199
+Teníamos que terminar el último capítulo.
+
+402
+00:23:30,240 --> 00:23:33,919
+Entonces, obviamente todos me dicen que es fácil hacer flobert con IA.
+
+403
+00:23:33,919 --> 00:23:38,799
+Por supuesto, la IA puede, de hecho, imitar a un autor de estar aquí, soy yo, lo que quería es
+
+404
+00:23:38,799 --> 00:23:43,760
+despertar el fantasma de Flobert y ver hasta qué punto puedo engañar a un especialista
+
+405
+00:23:43,840 --> 00:23:44,799
+por Flobert. Así que eso fue todo.
+
+406
+00:23:44,799 --> 00:23:46,120
+Le hicimos leer a un especialista en Flobert.
+
+407
+00:23:46,200 --> 00:23:48,160
+Dijo que el fantasma de Flobert despertó.
+
+408
+00:23:48,400 --> 00:23:50,880
+¿Por qué de todos modos? Porque no intenté imitar un estilo.
+
+409
+00:23:50,880 --> 00:23:53,039
+Intenté entender cómo pensaba Flobert.
+
+410
+00:23:53,039 --> 00:23:57,880
+Así que analizaste la forma, tal vez disculpe, analizaste la forma.
+
+411
+00:23:57,919 --> 00:24:02,880
+Pensó Flobert, tal vez reflexionando sobre su manera de trabajar Sí, porque en realidad
+
+412
+00:24:02,880 --> 00:24:06,600
+el estilo no es lo que ves en el estilo de Flobert que en realidad es
+
+413
+00:24:06,600 --> 00:24:07,400
+que es muy reconocible.
+
+414
+00:24:08,120 --> 00:24:11,120
+Lo interesante es saber por qué escribe así, cuál es la máquina.
+
+415
+00:24:11,120 --> 00:24:14,679
+detrás. Y siempre pienso que el contenido condiciona la forma.
+
+416
+00:24:14,679 --> 00:24:16,240
+Entonces el estilo es realmente una mierda.
+
+417
+00:24:16,720 --> 00:24:19,760
+De hecho, el estilo debe expresar la sustancia en otra parte.
+
+418
+00:24:19,760 --> 00:24:23,079
+Entonces, si no entiendes cómo trabaja alguien y si tú mismo cuando escribes,
+
+419
+00:24:23,720 --> 00:24:26,840
+no has pensado en lo que quieres decir, en cómo vas a articular las cosas,
+
+420
+00:24:26,919 --> 00:24:30,200
+No nos importa tu estilo. Entonces pedirle a la IA que copie tu estilo no tiene sentido.
+
+421
+00:24:30,200 --> 00:24:32,000
+Y además, básicamente va a hacer algo pastiche.
+
+422
+00:24:32,360 --> 00:24:33,840
+Sí. Así se verá desde lejos.
+
+423
+00:24:33,840 --> 00:24:35,559
+¿Quién impresionará en general, etc.?
+
+424
+00:24:35,919 --> 00:24:39,159
+Entonces la idea era pensar en cómo pensaba Flobert.
+
+425
+00:24:39,159 --> 00:24:40,799
+Así que se han descrito muchas cosas sobre él.
+
+426
+00:24:40,799 --> 00:24:45,559
+Están las famosas cartas a Lis Colé y LColé que son cartas donde habla
+
+427
+00:24:45,559 --> 00:24:46,919
+de sus escritos con esta mujer.
+
+428
+00:24:46,919 --> 00:24:51,720
+Así que cartas que realmente digan lo que no sólo lo que piensa sino también dónde
+
+429
+00:24:51,720 --> 00:24:55,600
+escribe de una manera mucho más libre que lo que hace en estas novelas.
+
+430
+00:24:55,880 --> 00:24:59,919
+Y a partir de ahí analizamos y tenemos que hay mucho trabajo de incitación.
+
+431
+00:24:59,919 --> 00:25:01,240
+detrás del trabajo eh.
+
+432
+00:25:01,240 --> 00:25:05,720
+Tomó varias semanas crear este famoso capítulo que puedes encontrar en otros lugares.
+
+433
+00:25:05,720 --> 00:25:09,760
+en una de las copias de la OPS y en el sitio también.
+
+434
+00:25:10,080 --> 00:25:15,120
+Y todo esto para decir que, de hecho, cuando trabajo con IA, a menudo voy
+
+435
+00:25:15,120 --> 00:25:19,760
+Pídale que me ayude a articular mis pensamientos. ¿Cómo podría
+
+436
+00:25:19,799 --> 00:25:22,919
+hacerlos y luego tengo muchas herramientas de vocabulario que usaré para
+
+437
+00:25:22,919 --> 00:25:25,760
+decir hola uh comprueba la conexión racional.
+
+438
+00:25:25,840 --> 00:25:27,440
+¿Cuál es entonces la conexión racional?
+
+439
+00:25:27,440 --> 00:25:30,520
+Es una técnica, es entre dos frases, entre dos párrafos que lo que
+
+440
+00:25:30,520 --> 00:25:34,240
+es una conexión. Lo que permite al lector entender claramente cuando se pasa de un punto.
+
+441
+00:25:34,240 --> 00:25:37,559
+en un punto Z, para comprender plenamente cada conexión entre cosas racionales.
+
+442
+00:25:37,880 --> 00:25:41,720
+Dices que la situación es así, pero en realidad no es exactamente así.
+
+443
+00:25:41,720 --> 00:25:44,159
+eso es lo que tienes que pensar. De hecho, este es el verdadero problema.
+
+444
+00:25:44,159 --> 00:25:46,840
+¿Realmente has hecho bien las conexiones que permitan a los lectores no estar
+
+445
+00:25:46,840 --> 00:25:49,480
+¿Perderse en todo lo que estás hablando?
+
+446
+00:25:49,799 --> 00:25:53,640
+Y luego trabajo un poco, así después puedo pedirle que escriba.
+
+447
+00:25:53,840 --> 00:25:55,760
+Eso da una primera idea, una primera G.
+
+448
+00:25:56,080 --> 00:26:00,640
+Y tengo técnicas de indicaciones que a veces significan que obtengo una cotización,
+
+449
+00:26:00,799 --> 00:26:04,120
+A veces tendrá una especie de lado un poco íntimo,
+
+450
+00:26:04,159 --> 00:26:06,840
+un poco gracioso. A veces se le ocurren chistes que a mí no se me hubieran ocurrido.
+
+451
+00:26:06,840 --> 00:26:07,760
+Así que aquí me los voy a llevar.
+
+452
+00:26:08,240 --> 00:26:11,319
+Um y luego a veces escribo todo a mano, realmente no importa.
+
+453
+00:26:11,679 --> 00:26:14,919
+Y a veces jugueteo, a veces tomo cosas que él escribió, a veces
+
+454
+00:26:14,919 --> 00:26:16,199
+De hecho, hago mi propia salsa.
+
+455
+00:26:16,440 --> 00:26:22,600
+Y una vez más, lo importante como músico en alguna parte, diría también
+
+456
+00:26:22,600 --> 00:26:26,039
+Christopher Nolan, cuando habla de IA, dice: "Bueno, es una herramienta, así que, de hecho, estamos
+
+457
+00:26:26,039 --> 00:26:29,480
+creador y tenemos un debate sobre el término herramienta para IA.
+
+458
+00:26:29,600 --> 00:26:30,919
+Sabes que hay un gran debate sobre esto.
+
+459
+00:26:30,919 --> 00:26:32,640
+Diremos que es un colaborador más que una herramienta.
+
+460
+00:26:32,640 --> 00:26:35,040
+Tienes razón porque en realidad no es una herramienta, es más bien un colaborador.
+
+461
+00:26:36,039 --> 00:26:39,159
+También es un colaborador creativo para usted.
+
+462
+00:26:39,159 --> 00:26:42,679
+Está bastante unido. Ah si, además puede haber uno, que me da
+
+463
+00:26:42,679 --> 00:26:46,439
+una idea para una pregunta que no había anticipado, pero para ti tal vez la IA podría ser
+
+464
+00:26:46,600 --> 00:26:50,840
+¿creativo? Pero la pregunta no tiene sentido una vez más gen no es pero es necesario
+
+465
+00:26:50,840 --> 00:26:52,080
+que se responda cuando esté bien.
+
+466
+00:26:52,080 --> 00:26:54,079
+Pero la IA no es creativa en sí misma.
+
+467
+00:26:54,200 --> 00:26:56,439
+Entonces, a menos que consideres que, efectivamente, para mí es creativo.
+
+468
+00:26:56,840 --> 00:26:58,439
+Bueno, muy bien, pero dime por qué.
+
+469
+00:26:58,760 --> 00:27:01,799
+Sino porque a veces me sorprenden los resultados.
+
+470
+00:27:01,799 --> 00:27:05,200
+Entonces eso no significa, tenga cuidado, que tal vez no sea el término de vocabulario correcto.
+
+471
+00:27:05,200 --> 00:27:10,040
+nivel de vocabulario, pero para mí, en cualquier caso, tiene un aire de creatividad porque
+
+472
+00:27:10,440 --> 00:27:13,600
+A veces ella me sorprende y le digo espera, pero ¿cómo conectaste estos puntos?
+
+473
+00:27:13,600 --> 00:27:18,679
+? Sabes, soy fanático de un concepto específico que fue muy bueno.
+
+474
+00:27:18,679 --> 00:27:22,000
+documentado por Steve Jobs, conectando los puntos.
+
+475
+00:27:22,520 --> 00:27:26,440
+Lo explica en una de estas entrevistas que os recomiendo a todos, os pondremos aquí
+
+476
+00:27:26,440 --> 00:27:29,240
+Además, espero que lo encuentres, creo que está en Stanford.
+
+477
+00:27:29,760 --> 00:27:32,799
+Hay algo, hay un pasaje que es extraordinario en esto.
+
+478
+00:27:32,799 --> 00:27:33,960
+Habla de conectar el hacer.
+
+479
+00:27:33,960 --> 00:27:38,400
+Entonces dijo que cuando yo era joven quería ir a una escuela de caligrafía.
+
+480
+00:27:39,000 --> 00:27:42,760
+caligrafía, se ve el diseño de las letras literalmente para aquellos que saben
+
+481
+00:27:42,760 --> 00:27:45,240
+no. Bueno. Él les dice eso a sus padres.
+
+482
+00:27:45,240 --> 00:27:47,640
+Sus padres dicen “¿Pero qué me estás diciendo?
+
+483
+00:27:47,640 --> 00:27:51,319
+¿Crees que vas a encontrar trabajo con eso?" Además de padres de origen iraní.
+
+484
+00:27:51,360 --> 00:27:52,880
+que son muy cuadrados, ya ves.
+
+485
+00:27:53,360 --> 00:27:55,240
+No, no, pero eso no te funciona.
+
+486
+00:27:55,320 --> 00:27:58,240
+Si pero por favor, tengo muchas ganas, ya verás, me será útil.
+
+487
+00:27:58,240 --> 00:28:01,439
+Bla, bla. Asistió a la escuela de caligrafía durante varios meses.
+
+488
+00:28:02,840 --> 00:28:03,840
+Después de eso no pasa nada.
+
+489
+00:28:03,840 --> 00:28:05,200
+Luego, se adentra en algo completamente diferente.
+
+490
+00:28:05,200 --> 00:28:07,360
+Se convierte en el Steve Jobs que todos conocemos.
+
+491
+00:28:08,080 --> 00:28:14,279
+Y un día llega una computadora a su escritorio, una Mac por supuesto y él
+
+492
+00:28:14,279 --> 00:28:19,120
+dice "Hay un problema. Creo que las fuentes del equivalente de Word
+
+493
+00:28:19,120 --> 00:28:22,760
+en ese momento, ya no sé cómo se llama, el equivalente a tu procesador de textos
+
+494
+00:28:22,760 --> 00:28:27,559
+en ese momento, que era muy nuevo, estábamos en el comienzo mismo de Mintosch, dijo allí
+
+495
+00:28:27,559 --> 00:28:29,720
+La fuente no funciona en absoluto, es asquerosa.
+
+496
+00:28:29,960 --> 00:28:33,840
+No puedo vender un producto." Estaba en el nivel de detalle que quería.
+
+497
+00:28:33,840 --> 00:28:37,280
+También que la fuente de su Mac es cualitativa.
+
+498
+00:28:37,960 --> 00:28:40,160
+Y ahí es donde conectó los puntos.
+
+499
+00:28:40,440 --> 00:28:43,760
+Y sí, su cerebro. Ah, sí, pero espera, fui a la escuela de caligrafía,
+
+500
+00:28:43,760 --> 00:28:47,640
+Sé dibujar letras, sé cómo crear algo hermoso e interesante.
+
+501
+00:28:47,760 --> 00:28:50,399
+Por eso dice que no hay que conectar los puntos de antemano, hay que conectarlos.
+
+502
+00:28:50,399 --> 00:28:51,600
+después del hecho de hecho. Exactamente.
+
+503
+00:28:51,799 --> 00:28:55,360
+Y uh y es cierto además lo de la caligrafía, fue interesante porque uh
+
+504
+00:28:55,360 --> 00:28:59,840
+Trabajé mucho tiempo con un diseñador que me dijo que la mejor escuela
+
+505
+00:28:59,840 --> 00:29:03,159
+que está hecho, es ante todo caligrafía porque de hecho solemos decir que
+
+506
+00:29:03,159 --> 00:29:04,400
+El comienzo fue el verbo eh.
+
+507
+00:29:04,440 --> 00:29:08,039
+Um, pero además es una frase que también va muy bien con el pilotaje del deseo.
+
+508
+00:29:08,039 --> 00:29:09,840
+eh, las palabras, el vocabulario.
+
+509
+00:29:10,519 --> 00:29:11,760
+Sí, cuéntanos sobre esta historia.
+
+510
+00:29:11,760 --> 00:29:13,799
+Hablaste de ello en uno de tus boletines recientes.
+
+511
+00:29:13,880 --> 00:29:16,760
+Me gustaría que volvieras a hablarme de Stat Gastad.
+
+512
+00:29:16,880 --> 00:29:18,040
+Ah las palabras que usamos.
+
+513
+00:29:19,320 --> 00:29:23,919
+pero si porque luego llegar a la creatividad es Li creativo o no
+
+514
+00:29:23,919 --> 00:29:26,120
+? ¿En realidad tengo algo que decir?
+
+515
+00:29:26,120 --> 00:29:28,640
+No sé. Creo que podemos hacer experimentos para intentar ver si hay
+
+516
+00:29:28,640 --> 00:29:31,959
+tiene en relación con lo que tiene y lo que ha absorbido.
+
+517
+00:29:32,360 --> 00:29:33,240
+¿Qué dijo ella?
+
+518
+00:29:33,559 --> 00:29:35,080
+Una vez más la IA no piensa como nosotros.
+
+519
+00:29:35,080 --> 00:29:39,799
+Por lo tanto, hace claramente la compleja predicción de la mejor respuesta en relación
+
+520
+00:29:39,799 --> 00:29:43,000
+al conjunto a su formación obviamente.
+
+521
+00:29:43,039 --> 00:29:45,760
+Entonces lo que llamamos su conocimiento interno, por lo tanto una especie de compresión cualquiera que sea.
+
+522
+00:29:45,760 --> 00:29:50,079
+aparte diría yo. forma de hablar de todo lo que ha leído.
+
+523
+00:29:50,480 --> 00:29:53,080
+Incluso si el término no está completamente adaptado, pero es un poco así.
+
+524
+00:29:53,080 --> 00:29:56,160
+Entonces ella no tiene una base de datos de la cual extrae.
+
+525
+00:29:56,399 --> 00:29:59,559
+Luego, está el contexto de lo que le vamos a traer y a partir de ahí, ella predecirá el
+
+526
+00:29:59,559 --> 00:30:02,960
+mejor respuesta. Entonces dile que tiene algo que expresar, de hecho no porque
+
+527
+00:30:02,960 --> 00:30:06,840
+que en realidad depende primero del conocimiento interno y luego también del contexto
+
+528
+00:30:06,880 --> 00:30:09,040
+de la pregunta que se habrá formulado.
+
+529
+00:30:09,440 --> 00:30:12,679
+Entonces, en algún lugar siempre hay una afluencia.
+
+530
+00:30:12,679 --> 00:30:16,600
+Entonces, creo que por el momento no hemos abordado la cuestión de la creatividad pura de la IA.
+
+531
+00:30:16,600 --> 00:30:20,039
+Aún así todos los elementos, aunque es un tema artísticamente interesante para probar.
+
+532
+00:30:20,039 --> 00:30:23,080
+interrogar a Li pero me hace reír de la gente que hace la pregunta para saber
+
+533
+00:30:23,080 --> 00:30:26,519
+lo que siente, bueno de hecho te responderá lo que tú quieras que le respondas, tú
+
+534
+00:30:26,519 --> 00:30:27,559
+ver. finalmente deja que te responda.
+
+535
+00:30:27,559 --> 00:30:32,640
+Entonces, en cierto modo, me parece mucho más interesante considerarlo como colaborador.
+
+536
+00:30:32,960 --> 00:30:36,919
+En realidad vamos a decir herramienta porque te permite posicionarte
+
+537
+00:30:36,919 --> 00:30:40,000
+relación con las nuevas tecnologías y el creativo las aprovecha.
+
+538
+00:30:40,120 --> 00:30:45,520
+No conozco un solo artista que tenga miedo de que glia sea creativo, no le importa [ __ ]
+
+539
+00:30:45,640 --> 00:30:48,959
+Lo usa, no lo usa, lo abusa, lo desvía.
+
+540
+00:30:49,159 --> 00:30:53,519
+Ya está, lo rompe, hace con él lo que quiere.
+
+541
+00:30:53,519 --> 00:31:00,039
+Entonces, en algún lugar, uh, yo diría que, comparado con eso, el verdadero
+
+542
+00:31:00,039 --> 00:31:03,840
+Me posiciono como humano, ¿qué puedo hacer con esta máquina?
+
+543
+00:31:03,840 --> 00:31:05,400
+? Tiene muchos límites.
+
+544
+00:31:05,519 --> 00:31:07,159
+Tengo muchas entradas.
+
+545
+00:31:07,159 --> 00:31:11,959
+Por ejemplo, si le pides a Ali que te haga un diseño premium, Claude siempre te lo hará.
+
+546
+00:31:13,000 --> 00:31:17,600
+las capitales de la novela así y luego saltan Porque de repente es elegancia, crea
+
+547
+00:31:17,600 --> 00:31:20,199
+un énfasis. Entonces es lindo, es una escuela.
+
+548
+00:31:20,720 --> 00:31:24,039
+Excepto que, de hecho, entre los años 2000 y 2026, todos empezaron
+
+549
+00:31:24,039 --> 00:31:27,120
+para hacerlo, todas las aplicaciones, etc., tan pronto como le pidas que haga un
+
+550
+00:31:27,120 --> 00:31:33,120
+diseño premium general sin mencionar el I tenemos una estandarización global que por lo tanto
+
+551
+00:31:33,120 --> 00:31:36,120
+existe un riesgo real de aplastar la creatividad que ves con el, por eso
+
+552
+00:31:36,120 --> 00:31:42,000
+que creo que la hibridación con humanos interactúa conmigo lo que yo llamo la la
+
+553
+00:31:42,159 --> 00:31:45,760
+La fricción intencional con la IA es que no dejas que lo haga así de repente.
+
+554
+00:31:45,880 --> 00:31:49,279
+Estarás constantemente interactuando con ella en cualquier caso para ciertas tareas.
+
+555
+00:31:49,279 --> 00:31:56,120
+Uf, está bien pero
+
+556
+00:31:56,120 --> 00:32:00,519
+por otro lado en las tareas diremos creativas productivas en las cuales debes
+
+557
+00:32:00,519 --> 00:32:05,280
+aportando valor LIA es un colaborador que piensa diferente a nosotros.
+
+558
+00:32:05,320 --> 00:32:08,400
+Así que ese es su interés, ese también es su interés, que es bastante complementario.
+
+559
+00:32:09,000 --> 00:32:14,160
+Hay reglas de colaboración que se deben tener para no involucrar interacción.
+
+560
+00:32:14,240 --> 00:32:17,720
+demasiados nuestros propios prejuicios o incluso los propios boletos de la IA.
+
+561
+00:32:18,039 --> 00:32:21,360
+Y en realidad es un arte aprender a trabajar con IA y eso es lo que estoy intentando.
+
+562
+00:32:21,360 --> 00:32:27,360
+explorar por mi cuenta y transmitir lo poco que he aprendido a mi Benoît,
+
+563
+00:32:27,360 --> 00:32:28,360
+Tengo una pregunta que hacerte.
+
+564
+00:32:29,159 --> 00:32:32,880
+Para usted, ¿la audiencia se parece un poco a la nueva moneda?
+
+565
+00:32:32,880 --> 00:32:34,559
+Verá, en primer lugar, es un poco como el nuevo token.
+
+566
+00:32:34,720 --> 00:32:40,639
+Y en segundo lugar, ¿crees que la audiencia es buena para el resto?
+
+567
+00:32:40,639 --> 00:32:43,039
+Es decir, ¿es más fuerte que el marketing tradicional?
+
+568
+00:32:43,039 --> 00:32:44,880
+¿Es más fuerte que la publicidad?
+
+569
+00:32:45,039 --> 00:32:48,320
+¿Y cómo ves las cosas en relación a tu audiencia que sé que es muy leal?
+
+570
+00:32:48,320 --> 00:32:50,439
+a su boletín actualmente?
+
+571
+00:32:51,240 --> 00:32:56,200
+Creo que sí. No soy un experto en marketing, así que hablo con ellos con un
+
+572
+00:32:56,200 --> 00:33:01,960
+pequeño matiz y hablo desde mi experiencia y luego mi experiencia como periodista que
+
+573
+00:33:01,960 --> 00:33:07,919
+por eso monté medios donde de hecho siempre he puesto a la comunidad
+
+574
+00:33:07,919 --> 00:33:11,679
+La relación con el público es fundamental, de hecho vengo de la prensa local.
+
+575
+00:33:12,120 --> 00:33:15,360
+La prensa local es la historia que es el borrador de la historia local que se cuenta.
+
+576
+00:33:15,360 --> 00:33:17,080
+Si no hay prensa local no hay historia común.
+
+577
+00:33:17,080 --> 00:33:20,400
+De hecho está y está muy subestimado el PQR.
+
+578
+00:33:20,760 --> 00:33:24,039
+Sí, porque en cuanto se elimina la prensa local, sobre todo en Estados Unidos, en
+
+579
+00:33:24,039 --> 00:33:27,600
+De hecho, la política se está polarizando nuevamente porque, de repente, ya no tenemos un ancla
+
+580
+00:33:27,760 --> 00:33:31,880
+de hecho sobre nuestra propia historia y llegamos a hablar de una manera muy abstracta uh
+
+581
+00:33:31,960 --> 00:33:37,639
+de los problemas nacionales mientras tenemos el vínculo entre las personas es creado por una
+
+582
+00:33:37,639 --> 00:33:38,840
+historia común que nos contamos unos a otros.
+
+583
+00:33:38,880 --> 00:33:41,840
+Esto es parafraseando al historiador Yuval Noa Harari.
+
+584
+00:33:42,440 --> 00:33:44,120
+Y para eso está la prensa.
+
+585
+00:33:44,120 --> 00:33:47,760
+Entonces, empiezo por la prensa porque es mi caligrafía de alguna manera.
+
+586
+00:33:47,760 --> 00:33:52,880
+se va, si me atrevo a decirlo. y la prensa local en particular, la creación de vínculos con la comunidad,
+
+587
+00:33:53,200 --> 00:33:57,399
+esto es lo que permite que sea el vínculo más fuerte de hecho porque contamos una historia
+
+588
+00:33:57,399 --> 00:34:01,120
+juntos y creo que eso significa que debemos respetar esta comunidad.
+
+589
+00:34:01,159 --> 00:34:03,880
+allá. Además hay una diferencia entre audiencia y comunidad, no es lo mismo
+
+590
+00:34:03,880 --> 00:34:07,199
+cosa. La audiencia con la que estás hablando, entonces estás en YouTube, tiene 20.000 suscriptores,
+
+591
+00:34:07,279 --> 00:34:09,360
+Bueno, tienes una audiencia de 20.000 personas, no es una comunidad.
+
+592
+00:34:09,879 --> 00:34:12,679
+Tu comunidad es cuando la gente empieza a hablar entre sí. estamos intentando
+
+593
+00:34:12,679 --> 00:34:17,079
+para crear así que por ejemplo tenemos 42000 mientras te hablo 42000 33000 creo
+
+594
+00:34:17,079 --> 00:34:21,399
+suscriptores del boletín. Para tu información, te suscribes de inmediato, merece 100.000
+
+595
+00:34:21,399 --> 00:34:25,320
+mínimo. Um y tenemos una comunidad, tenemos una comunidad de 600 personas en el grupo.
+
+596
+00:34:25,320 --> 00:34:28,319
+WhatsApp, personas que compraron nuestra capacitación, que quisieron ser parte de la comunidad
+
+597
+00:34:28,879 --> 00:34:33,599
+y cuáles de ellos, por el contrario, interactúan constantemente, incluso yo apenas intervengo
+
+598
+00:34:33,599 --> 00:34:38,280
+más e intercambian información, consejos, también se conocen
+
+599
+00:34:38,280 --> 00:34:41,440
+ellos y así sucesivamente. Entonces, para mí, eso es la comunidad y la comunidad, además, es
+
+600
+00:34:41,440 --> 00:34:45,119
+mucho más fuerte que la audiencia porque allí realmente se crea un vínculo.
+
+601
+00:34:45,119 --> 00:34:48,519
+lo que significa que hay algo que realmente me gusta decir sobre la comunidad,
+
+602
+00:34:48,560 --> 00:34:52,360
+es cuando tienes gente cuando te atacan que viene a defenderte en tu lugar.
+
+603
+00:34:52,480 --> 00:34:54,999
+Eso significa que se ha creado un vínculo que es mucho más fuerte.
+
+604
+00:34:55,159 --> 00:34:56,000
+Lo experimenté de todos modos.
+
+605
+00:34:56,000 --> 00:35:02,240
+Sí. Y luego uh pero sin tener estas ideas detrás
+
+606
+00:35:02,240 --> 00:35:05,880
+cabeza, diría que en alguna parte para mí el marketing está siendo útil para las personas en
+
+607
+00:35:05,880 --> 00:35:10,400
+hacer. se trata de ser útil y asegurarse de que sea útil de la manera correcta, se trata de
+
+608
+00:35:10,400 --> 00:35:15,239
+El hecho es asegurar que lo que les ofreces los eleve y cuando los eleve
+
+609
+00:35:15,440 --> 00:35:19,040
+Bueno, de hecho, primero te conocen, luego también te ponen de su lado.
+
+610
+00:35:19,040 --> 00:35:22,440
+Por supuesto, es un intercambio real en el que al final todos aprenden todo Exactamente
+
+611
+00:35:22,720 --> 00:35:28,040
+y yo soy lo que fundamenta toda mi historia y todo el trabajo que he estado haciendo desde entonces.
+
+612
+00:35:28,040 --> 00:35:32,599
+que soy periodista local hasta hoy mi uso de IA pero hay un
+
+613
+00:35:32,599 --> 00:35:35,360
+En realidad, hay una coherencia clara en toda esta historia.
+
+614
+00:35:36,040 --> 00:35:40,200
+Empecé con la prensa local, hice medios participativos porque creía
+
+615
+00:35:40,200 --> 00:35:43,640
+a la participación de la gente cuando es supervisada, cuando es estimulada.
+
+616
+00:35:44,040 --> 00:35:48,519
+Y creo que la IA también es una herramienta de emancipación porque creo que cada
+
+617
+00:35:48,560 --> 00:35:53,200
+persona, ya sea que estemos aquí en Bali, ya sea en Francia, en un pueblo, en un campamento
+
+618
+00:35:53,200 --> 00:35:56,760
+refugiado o en la cima del estado, todos tienen una historia, todos
+
+619
+00:35:56,760 --> 00:36:02,240
+tiene una historia que contar y al final terminamos muriendo, pero cuando morimos, el
+
+620
+00:36:02,240 --> 00:36:05,640
+Lo único que vamos a dejar atrás es un pedazo de historia que será transmitido a millones.
+
+621
+00:36:05,640 --> 00:36:08,280
+de personas, a 10 personas, no importa.
+
+622
+00:36:08,680 --> 00:36:12,119
+d'Tengo que contar la historia de mi padre, de eso nos hablaste en Sí, tengo
+
+623
+00:36:12,119 --> 00:36:17,160
+Trabajé mucho en los recuerdos porque los recuerdos y eso permite a todos,
+
+624
+00:36:17,400 --> 00:36:20,320
+cada persona que tiene una historia pero que no necesariamente sabe contarla.
+
+625
+00:36:20,839 --> 00:36:23,640
+¿Puedes recordarnos, discúlpame por interrumpirte, puedes recordarnos rápidamente qué
+
+626
+00:36:23,640 --> 00:36:25,880
+Te conformaste con eso, creo que fue con tu papá, me parece.
+
+627
+00:36:26,000 --> 00:36:31,160
+Sí. Bueno, partiendo del principio de que mi padre es cirujano, era investigador.
+
+628
+00:36:31,400 --> 00:36:36,359
+mucho que transmitir sobre su visión de la belleza porque trabajó mucho
+
+629
+00:36:36,359 --> 00:36:39,200
+sobre el maxilofacial, estética y demás.
+
+630
+00:36:39,280 --> 00:36:43,359
+Así que investigó mucho esta cuestión y luego, incluso con las manos en algún lugar,
+
+631
+00:36:43,359 --> 00:36:45,120
+Se enfrentó a la cuestión de la belleza.
+
+632
+00:36:45,680 --> 00:36:49,359
+Um al mismo tiempo, él también tiene una historia personal, una historia de amor con mi
+
+633
+00:36:49,359 --> 00:36:56,160
+madre uh e historias de amistad también, fracasos, uh mucho
+
+634
+00:36:56,160 --> 00:36:58,320
+de cosas, toda una historia de vida.
+
+635
+00:36:58,520 --> 00:37:02,920
+digamos que interesa a quien entonces le interesara porque si decimos que son 8 mil millones
+
+636
+00:37:02,920 --> 00:37:07,079
+de personas todos A menudo escucho que en la élite parisina todos
+
+637
+00:37:07,079 --> 00:37:09,520
+no todos tienen algo interesante que decir bueno si todos tienen algo interesante que decir
+
+638
+00:37:09,520 --> 00:37:13,840
+Di que ve a verlos y tengo un pequeño mensaje desde otro lugar para las élites parisinas.
+
+639
+00:37:14,440 --> 00:37:18,119
+Bueno, la élite parisina, como la élite de todas partes, no te dirá lo que la gente piensa de ti, pero
+
+640
+00:37:18,119 --> 00:37:22,099
+ahí tenemos ejemplos en la convocatoria no pero no tengo nada en contra de las elites no tengo tengo
+
+641
+00:37:22,119 --> 00:37:25,640
+Tengo, tengo, no tengo nada en contra de las élites, para mí es un entorno social como
+
+642
+00:37:25,640 --> 00:37:28,440
+otro simplemente hay que convivir con los demás es Sí.
+
+643
+00:37:29,000 --> 00:37:30,119
+Entonces. Y no mires a la gente del agua.
+
+644
+00:37:30,119 --> 00:37:33,359
+Después, creo que necesitamos intelectuales, necesitamos artistas, necesitamos
+
+645
+00:37:33,359 --> 00:37:37,440
+estrellas, necesitamos personas influyentes, necesitamos trabajadores, necesitamos personas que tengan
+
+646
+00:37:37,440 --> 00:37:41,880
+De lo contrario, la sociedad no funcionará correctamente si no los tenemos todos.
+
+647
+00:37:41,880 --> 00:37:47,920
+Y para mí, cada vez que iba a ver a la gente donde estaban, podía ser
+
+648
+00:37:47,920 --> 00:37:50,400
+alguien. Siempre tuve una historia que contar.
+
+649
+00:37:50,760 --> 00:37:52,440
+Evidentemente, tenemos que ir a extraer la historia.
+
+650
+00:37:52,680 --> 00:37:53,960
+Es como ir a pescar.
+
+651
+00:37:54,480 --> 00:37:57,640
+Tienes una historia muy bonita con Catherine y Philippe.
+
+652
+00:37:58,359 --> 00:38:03,040
+Si, porque bueno esta historia que fue la que tuvieron la historia, la lleva contigo
+
+653
+00:38:03,040 --> 00:38:04,560
+Puede explicarle rápidamente a nuestro Sí.
+
+654
+00:38:04,560 --> 00:38:08,880
+Entonces, Catherine Philippe, son un par de donaciones realmente hechas, realmente hicimos
+
+655
+00:38:08,880 --> 00:38:13,359
+Digresiones que no hacemos. Por cierto, no terminé con mi padre, pero está bien.
+
+656
+00:38:13,359 --> 00:38:16,920
+Entonces, Philippe, es una historia absolutamente extraordinaria ya que son
+
+657
+00:38:16,920 --> 00:38:19,440
+Llegaron a Bali no hace mucho.
+
+658
+00:38:19,440 --> 00:38:25,240
+Estos son una pareja que eran más ejecutivos que trabajan en Pôle Emploi
+
+659
+00:38:25,240 --> 00:38:32,280
+Además. Entonces él era director de recursos humanos, era uh, creo que DSI si no me equivoco y
+
+660
+00:38:32,280 --> 00:38:35,800
+puestos bastante altos y a los 60 años decidieron dejarlo todo.
+
+661
+00:38:36,800 --> 00:38:38,800
+Decidió cursar su CAP en pastelería.
+
+662
+00:38:39,319 --> 00:38:42,759
+Ganó el concurso por la mejor mousse de chocolate en algún lugar de París.
+
+663
+00:38:43,079 --> 00:38:46,319
+para cumplir de alguna manera el sueño de su hijo que decía "Pero mamá, tu espuma
+
+664
+00:38:46,319 --> 00:38:48,759
+El chocolate era increíble." De hecho, la llamó mamá chocolate.
+
+665
+00:38:49,400 --> 00:38:53,119
+Uh y deberías venir a venderlo a Japón porque no lo saben.
+
+666
+00:38:53,119 --> 00:38:55,880
+eso en Japón. Entonces dejaron su trabajo en Japón.
+
+667
+00:38:56,040 --> 00:39:00,119
+En lugar de jubilarse, empacaron sus vidas en tres maletas.
+
+668
+00:39:00,119 --> 00:39:01,479
+Se fueron a vivir a Japón.
+
+669
+00:39:01,839 --> 00:39:02,920
+Fueron un éxito allí.
+
+670
+00:39:02,920 --> 00:39:07,999
+Al final vendían 400 macetas de musgo al día en grandes baúles de lujo japoneses.
+
+671
+00:39:08,520 --> 00:39:12,200
+Pero no pudieron ir más lejos porque nadie confiaba en ellos porque
+
+672
+00:39:12,200 --> 00:39:13,599
+son demasiado viejos. Di que sí, pero eres demasiado mayor.
+
+673
+00:39:13,599 --> 00:39:15,760
+¿Cómo seguirá la marca si mueres a los 60 años?
+
+674
+00:39:15,760 --> 00:39:18,120
+¿Vas a morir a los 70 u 80?
+
+675
+00:39:18,200 --> 00:39:20,239
+Bueno, a estos financieros les faltaba mucha imaginación.
+
+676
+00:39:20,960 --> 00:39:25,040
+Regresaron a Francia para desarrollar lo que en Normandía
+
+677
+00:39:25,040 --> 00:39:28,200
+es el cuál es su país cuál es su su país es un país Normandía casi
+
+678
+00:39:28,240 --> 00:39:33,160
+podemos decir que su región de origen todavía no tiene financiador cuando en realidad son enormes
+
+679
+00:39:33,160 --> 00:39:39,520
+Éxito, uh, la espuma es obviamente excelente, pero TF1 brut informa que
+
+680
+00:39:39,520 --> 00:39:44,860
+Fueron vistos por millones de personas y finalmente terminaron encontrando un
+
+681
+00:39:44,880 --> 00:39:50,920
+una inversión cuando estaban al borde de la quiebra un inversor que trabajó
+
+682
+00:39:50,920 --> 00:39:54,040
+en el negocio de la restauración y además firmaron cuando estaban en Bali, nosotros
+
+683
+00:39:54,040 --> 00:39:57,079
+Estaba en ellos hicieron una tienda pop allí está en progreso allí, creo, y por eso vienen
+
+684
+00:39:57,079 --> 00:40:01,040
+por lo tanto, relanzar la marca para que sea un verdadero renacimiento en la continuación de
+
+685
+00:40:01,040 --> 00:40:05,640
+se aventuró aquí. Sí, su nombre es Catherine Bréard, así que puedes ir a verla.
+
+686
+00:40:05,800 --> 00:40:07,319
+Increíble historia. Increíble historia.
+
+687
+00:40:07,319 --> 00:40:09,319
+Esta mujer es extraordinaria y gracias Benom.
+
+688
+00:40:09,319 --> 00:40:12,839
+Sí, porque el mensaje es que de hecho sea cual sea tu edad, primero que nada tienes una historia.
+
+689
+00:40:12,839 --> 00:40:15,920
+que contar, tienes algo que hacer, puedes cambiar tu vida, puedes continuar tu
+
+690
+00:40:15,920 --> 00:40:18,120
+Sueño incluso a los 60 años incluso cuando nadie cree en ello.
+
+691
+00:40:18,240 --> 00:40:21,920
+Y ella siempre dice que si quieres llegar a la puerta de al lado, tienes que empujar.
+
+692
+00:40:21,920 --> 00:40:24,840
+la primera. Hay que empujar todo el tiempo, hay que abrir puertas todo el tiempo.
+
+693
+00:40:25,280 --> 00:40:30,280
+Y sobre todo tiene energía, tiene alegría de vivir, tiene bondad y yo
+
+694
+00:40:30,280 --> 00:40:31,920
+Creo en el poder de la bondad.
+
+695
+00:40:32,599 --> 00:40:36,040
+Uh y uh y encuentro que son personas extremadamente inspiradoras.
+
+696
+00:40:36,040 --> 00:40:39,079
+Además, en cuanto la gente la conoce, todo el mundo se pone a llorar, eh.
+
+697
+00:40:39,079 --> 00:40:43,200
+Entonces uh alegría eh, alegría y también llorar cuando come porque ella es cuando
+
+698
+00:40:43,200 --> 00:40:46,480
+incluso muy bueno y estás muy porque la espuma lleva su trabajo ¿Puedes?
+
+699
+00:40:46,480 --> 00:40:49,240
+terminar con tu padre? ¿Cómo lo configuraste?
+
+700
+00:40:49,240 --> 00:40:50,359
+Vamos a adentrarnos un poco en la IA.
+
+701
+00:40:50,359 --> 00:40:52,080
+De todos modos vamos a volver a la IA, es importante.
+
+702
+00:40:52,560 --> 00:40:56,800
+¿Cómo usaste la IA para ayudar a tu padre a contar su historia?
+
+703
+00:40:56,800 --> 00:40:59,640
+? Nos lo contaste en el boletín, pero me gustaría que me lo dijeras hoy.
+
+704
+00:40:59,640 --> 00:41:03,560
+en podcast para aquellos que no han leído y aún no son fans absolutos de Benoît Raphaël.
+
+705
+00:41:04,359 --> 00:41:07,280
+¿Qué implementaste para tu padre y cuáles fueron los resultados?
+
+706
+00:41:07,280 --> 00:41:10,960
+obtenido hoy? Y porque una vez más mi padre tiene muchas cosas que decir.
+
+707
+00:41:11,960 --> 00:41:15,400
+pero como mucha gente, o no tiene tiempo o no necesariamente tiene las palabras.
+
+708
+00:41:15,400 --> 00:41:19,440
+De modo que ya ha escrito libros científicos bastante complicados.
+
+709
+00:41:19,440 --> 00:41:24,319
+escribió, publicó dos libros, pero aquí está contando su historia y luego
+
+710
+00:41:24,319 --> 00:41:26,000
+Tienes que extraer todo eso.
+
+711
+00:41:26,000 --> 00:41:30,079
+De hecho, en algún lugar es donde la inteligencia artificial puede ayudarnos.
+
+712
+00:41:30,079 --> 00:41:36,119
+cuando está bien gestionado para permitir que todos cuenten su historia y
+
+713
+00:41:36,119 --> 00:41:39,560
+Aquí es donde encuentro que sigue siendo una extraordinaria herramienta de emancipación.
+
+714
+00:41:39,560 --> 00:41:40,560
+aunque solo sea para familias.
+
+715
+00:41:41,119 --> 00:41:45,240
+Eh, mamá, te dije que quiero hacer esto por mi padre.
+
+716
+00:41:45,240 --> 00:41:46,280
+Tiene historias increíbles.
+
+717
+00:41:46,400 --> 00:41:47,800
+Era un paracaidista. ¿Te imaginas?
+
+718
+00:41:47,800 --> 00:41:54,080
+Por supuesto. Porque cuando una persona, yo, mi mamá, murió a principios de año
+
+719
+00:41:54,440 --> 00:41:57,160
+y mi reflejo fue hacer un libro o hacer un libro.
+
+720
+00:41:57,319 --> 00:42:00,719
+Entonces hicimos un libro con partes de los discursos y lo que recordábamos de las fotos.
+
+721
+00:42:00,720 --> 00:42:04,480
+entonces todas sus pinturas su historia eran sus pinturas pero este libro lo quería
+
+722
+00:42:04,480 --> 00:42:06,840
+haz que se vea bien para que la gente pueda ponerlo en sus estanterías.
+
+723
+00:42:06,920 --> 00:42:10,079
+Y para mí el hecho de que la gente pusiera el libro en la biblioteca significó
+
+724
+00:42:10,079 --> 00:42:12,200
+que ella sigue viviendo porque no creo en la vida después de la muerte.
+
+725
+00:42:12,200 --> 00:42:13,840
+No digo que no exista, no lo creo.
+
+726
+00:42:15,240 --> 00:42:16,479
+Entonces no tengo ninguna prueba, no lo sé.
+
+727
+00:42:16,920 --> 00:42:20,559
+Así que, en cualquier caso, al menos la historia continúa y es esta huella la que dejaremos.
+
+728
+00:42:20,559 --> 00:42:24,520
+Entonces para mí la historia de cada persona es importante para la dignidad de cada persona y para
+
+729
+00:42:24,520 --> 00:42:25,359
+viviendo juntos.
+
+730
+00:42:25,359 --> 00:42:26,800
+Necesitamos nuestras historias compartidas.
+
+731
+00:42:26,880 --> 00:42:28,999
+Entonces, ¿cómo trabajaste realmente?
+
+732
+00:42:29,000 --> 00:42:31,920
+Ese fue el resultado final, pero ¿cómo trabajé en ello?
+
+733
+00:42:31,920 --> 00:42:34,800
+Bueno, de hecho, simplemente lo instalé, así que como me llaman, lo llamo un
+
+734
+00:42:34,800 --> 00:42:38,920
+La IA personal es que en lugar de estar en un chatbot vas a trabajar
+
+735
+00:42:38,920 --> 00:42:42,280
+con un agente de IA que trabajará en tus archivos en tu computadora porque tienes que
+
+736
+00:42:42,280 --> 00:42:46,000
+que la IA que accede a su computadora sus archivos aquí abre una carpeta en
+
+737
+00:42:46,000 --> 00:42:48,999
+tu computadora que llamas espacio de trabajo mi libro como quieras.
+
+738
+00:42:49,319 --> 00:42:53,400
+Um, vas a trabajar con Claude Code en esto porque Claude Code es un agente.
+
+739
+00:42:53,440 --> 00:42:58,599
+lo cual, pero de hecho, el código son archivos y, por lo tanto, CL es muy bueno para
+
+740
+00:42:58,599 --> 00:43:01,479
+gestionar archivos. Los archivos son texto y un programa es conocimiento.
+
+741
+00:43:01,520 --> 00:43:04,280
+en alguna parte eh. Son archivos con un número determinado de elementos.
+
+742
+00:43:04,319 --> 00:43:05,920
+Entonces funciona de la misma manera.
+
+743
+00:43:05,920 --> 00:43:09,440
+Nos dimos cuenta muy rápidamente y ahora todo el mundo lo nota.
+
+744
+00:43:09,440 --> 00:43:12,880
+pero hace un año nos dimos cuenta de que el código era muy bueno precisamente para
+
+745
+00:43:12,920 --> 00:43:13,880
+gestionar el conocimiento.
+
+746
+00:43:13,920 --> 00:43:16,640
+Entonces tienes tu carpeta en la que vas a colocar tus archivos.
+
+747
+00:43:16,640 --> 00:43:20,280
+Entonces eso va a ser lo que hice con mi padre, creamos una carpeta de materiales.
+
+748
+00:43:21,480 --> 00:43:25,800
+uh dividido por capítulo aproximadamente las cosas que iba a contar, así que su historia
+
+749
+00:43:25,800 --> 00:43:32,079
+con mi madre, su historia profesional, su infancia, sus amistades, la aviación, todo
+
+750
+00:43:32,079 --> 00:43:35,560
+lo que tiene, todo lo que importa en la vida, etc.
+
+751
+00:43:36,040 --> 00:43:38,920
+Y entonces, una vez que tenemos los capítulos, simplemente tiene que completar el material y luego
+
+752
+00:43:38,920 --> 00:43:42,200
+luego tenemos otra carpeta en la que estan los capitulos y ahi comenzaremos
+
+753
+00:43:42,200 --> 00:43:45,120
+escribir poco a poco a partir de este material.
+
+754
+00:43:45,200 --> 00:43:48,320
+Y él, simple y bien, discúlpeme por interrumpirlo.
+
+755
+00:43:48,599 --> 00:43:52,680
+En primer lugar, quiero decir que el primer paso es la recopilación de datos.
+
+756
+00:43:52,680 --> 00:43:55,519
+Y luego pasas al segundo paso de escribir.
+
+757
+00:43:55,599 --> 00:43:59,599
+Eso es todo. Sí, porque de hecho cuando escribes usando IA, el objetivo vuelve a ser
+
+758
+00:43:59,599 --> 00:44:02,920
+tiempo no es que la IA necesariamente escriba por ti y que la uses, la uses
+
+759
+00:44:02,920 --> 00:44:06,160
+Eres un colaborador que utilizarás cuando lo necesites.
+
+760
+00:44:06,160 --> 00:44:09,640
+Así que también puedes usarlo para escribir y hacer un borrador que te ayude.
+
+761
+00:44:09,640 --> 00:44:11,519
+para escribir mejor. Bueno, no mucho, por supuesto.
+
+762
+00:44:11,520 --> 00:44:16,840
+Y por tanto la forma de trabajar la escritura, después de haber hecho muchas tesis desde entonces
+
+763
+00:44:16,880 --> 00:44:21,000
+bastantes años, encuentro que el mejor método hoy es cuando
+
+764
+00:44:21,000 --> 00:44:25,160
+incluso para estructurar lo que vas a hacer, incluso si no siempre es no siempre
+
+765
+00:44:25,160 --> 00:44:27,640
+lo que todo el mundo quiere hacer, pero al menos permite que la IA sepa dónde está
+
+766
+00:44:27,640 --> 00:44:31,920
+ir. Entonces, das un marco, haces un plan en general y luego trabajas.
+
+767
+00:44:31,920 --> 00:44:37,239
+capítulo de ¿Por qué? porque poco a poco, de hecho, todos tus archivos van
+
+768
+00:44:37,480 --> 00:44:40,599
+acumular. Entonces esto creará un contexto cuando la IA entre a trabajar en su archivo,
+
+769
+00:44:40,599 --> 00:44:43,959
+tendrá todo el contexto, el plan, lo ya escrito, etcétera.
+
+770
+00:44:43,960 --> 00:44:49,400
+Entonces eso le ayudará. Y luego recoges todo en lo que yo llamo un documento.
+
+771
+00:44:49,400 --> 00:44:53,359
+de trabajo. Entonces pones todos los datos, las referencias que tienes etcétera y luego
+
+772
+00:44:53,359 --> 00:44:57,960
+después siempre haces una parte con la voz también que traerás al momento en el que te vas
+
+773
+00:44:57,960 --> 00:45:00,240
+escribir. Y esta es tu textura de hecho.
+
+774
+00:45:00,240 --> 00:45:03,880
+Sí, porque también decimos, dime si me equivoco, pero también decimos eso cuando
+
+775
+00:45:03,880 --> 00:45:10,479
+hablamos, hay cosas que decimos que no hubiéramos dicho por escrito porque aparentemente
+
+776
+00:45:10,640 --> 00:45:15,000
+Por lo que he leído, cuando escribimos nos ponemos barreras que no nos ponemos cuando
+
+777
+00:45:15,000 --> 00:45:16,119
+hablamos. ¿Es eso cierto?
+
+778
+00:45:16,119 --> 00:45:18,160
+Pues sí, porque cuando escribes ya estás formulando algo.
+
+779
+00:45:18,160 --> 00:45:21,479
+Así que, de hecho, ahí lo tienes, por eso existe el psicoanálisis, estás hablando de
+
+780
+00:45:22,079 --> 00:45:26,359
+y muchas veces hablas libremente así para dejar que digas más cosas en
+
+781
+00:45:26,359 --> 00:45:28,839
+hablar que escribir. Finalmente tienes Sí, ahí lo tienes.
+
+782
+00:45:28,839 --> 00:45:29,680
+Tienes menos barreras.
+
+783
+00:45:29,680 --> 00:45:34,119
+Entonces Freud habla del superyó que crea esta barrera allí, pero de la misma manera.
+
+784
+00:45:34,119 --> 00:45:36,119
+que cuando escribes, no es lo mismo.
+
+785
+00:45:36,119 --> 00:45:37,640
+Cuando escribes a mano, no es lo mismo.
+
+786
+00:45:37,720 --> 00:45:39,800
+Entonces tu cerebro no funciona de la misma manera.
+
+787
+00:45:39,800 --> 00:45:41,640
+Entonces tienes que probar todos estos métodos de escritura.
+
+788
+00:45:42,040 --> 00:45:46,080
+Debes saber que Freida Mcfadon, quien escribió The Housekeeper y Bestella
+
+789
+00:45:46,720 --> 00:45:49,800
+absoluto, nos gusta, no nos gusta, creemos que escribió Cunia.
+
+790
+00:45:49,800 --> 00:45:52,680
+No lo creo porque no es tan fácil reproducir lo que ella
+
+791
+00:45:52,680 --> 00:45:56,320
+hacer. Su forma de escribir es que camina y habla.
+
+792
+00:45:56,880 --> 00:45:59,239
+¿Con qué está hablando? Es por dictáfono.
+
+793
+00:45:59,319 --> 00:46:05,960
+Y es por eso que cuando lees estos libros, hay algo que
+
+794
+00:46:05,960 --> 00:46:07,599
+se tiene la impresión de que es una mujer la que habla.
+
+795
+00:46:07,599 --> 00:46:10,040
+De hecho, se habla mucho de ello en alguna parte.
+
+796
+00:46:10,079 --> 00:46:11,320
+Exactamente. Es muy hablado.
+
+797
+00:46:11,720 --> 00:46:13,119
+Ella tiene reacciones así.
+
+798
+00:46:13,119 --> 00:46:17,280
+A veces se le habla al personaje y ella reacciona así, lo cual no deja de ser molesto.
+
+799
+00:46:17,880 --> 00:46:21,319
+Y como resultado le da mucho estilo. Por eso encuentro esta técnica interesante, pero
+
+800
+00:46:21,319 --> 00:46:23,040
+En cambio, detrás de ella lo tiene todo preparado.
+
+801
+00:46:23,079 --> 00:46:27,360
+Entonces todo el plan está preparado y de hecho su trabajo en el camino, él vendrá y dará,
+
+802
+00:46:27,559 --> 00:46:29,640
+él vendrá y traerá vida.
+
+803
+00:46:29,839 --> 00:46:32,920
+Entonces lo que hago es que a mi padre le creé una pequeña aplicación que
+
+804
+00:46:32,920 --> 00:46:37,559
+Llamé a Steno. Entonces tengo vibra codificada, decimos vibra codificada, es cuando codificas sin tener
+
+805
+00:46:37,559 --> 00:46:40,680
+codificado con IA. Por cierto, usé Lovable para hacer esto.
+
+806
+00:46:41,720 --> 00:46:45,560
+Y de repente, aprieta un botón, habla.
+
+807
+00:46:46,079 --> 00:46:49,920
+Hay un pequeño pr además lo que significa que intentaremos no
+
+808
+00:46:49,920 --> 00:46:52,800
+tonto acerca de entidades nombradas, puede poner su propio diccionario, etcétera.
+
+809
+00:46:52,800 --> 00:46:58,119
+Entonces le da un resultado que luego enviará el código y el código luego
+
+810
+00:46:58,119 --> 00:47:01,800
+poco a poco distribuyendo la información correcta en el lugar correcto.
+
+811
+00:47:01,800 --> 00:47:02,719
+Una vez que tengas el material.
+
+812
+00:47:03,160 --> 00:47:07,480
+Esto le permite enriquecer el material, aportar un poco de granularidad y
+
+813
+00:47:07,480 --> 00:47:12,079
+Luego, después de eso, puedes trabajar capítulo por capítulo a partir de eso.
+
+814
+00:47:12,079 --> 00:47:14,239
+Entonces es un sistema donde la IA te hará preguntas.
+
+815
+00:47:15,280 --> 00:47:17,359
+Uh vas a contestar, es mejor contestar la voz.
+
+816
+00:47:17,359 --> 00:47:19,040
+Creo que es mucho mejor en cualquier caso para sus memorias.
+
+817
+00:47:19,680 --> 00:47:23,000
+Tienes, vas a tener, es súper fácil para él. Sí.
+
+818
+00:47:23,000 --> 00:47:24,000
+Entonces podría investigar un poco.
+
+819
+00:47:24,000 --> 00:47:27,520
+Es porque mi padre puede hablar de algo y luego contárselo a Claudiens.
+
+820
+00:47:27,520 --> 00:47:32,960
+Te hablaba de que mi padre era cirujano entonces creó el primer servicio de
+
+821
+00:47:32,960 --> 00:47:35,599
+Max Fa en Grenoble. ¿Cuál fue entonces la historia de Grenoble?
+
+822
+00:47:35,599 --> 00:47:40,720
+Entonces tiene recuerdos de que en un momento dado hay una especie de lucha entre el Lyon.
+
+823
+00:47:40,720 --> 00:47:44,800
+y Grenoble porque Lyon no quería que Grenoble tuviera una facultad entonces y mi padre me dijo
+
+824
+00:47:44,800 --> 00:47:47,839
+una historia sucedió de tal manera y así sucesivamente estoy seguro de que bueno, soy más
+
+825
+00:47:47,839 --> 00:47:50,359
+realmente seguro. Entonces le preguntamos a Claude qué.
+
+826
+00:47:50,359 --> 00:47:51,559
+Iba a hacer una búsqueda en Internet.
+
+827
+00:47:51,559 --> 00:47:53,080
+Pues sí, efectivamente tenía razón.
+
+828
+00:47:53,200 --> 00:47:54,640
+Sucedió en esta fecha y así sucesivamente.
+
+829
+00:47:57,480 --> 00:48:00,880
+y realmente ver si recuerda algo que realmente existió porque
+
+830
+00:48:00,880 --> 00:48:03,800
+que sepas que también existe un concepto, no sé si habías oído hablar de él
+
+831
+00:48:03,920 --> 00:48:08,640
+Hay ciertos recuerdos que literalmente inventamos y ya no sabemos distinguir entre el bien y el mal.
+
+832
+00:48:08,640 --> 00:48:12,519
+nuestro cerebro funciona un poco como GPT eh, de hecho, reconstruimos constantemente
+
+833
+00:48:12,640 --> 00:48:16,680
+nuestra memoria, por eso es interesante utilizarla
+
+834
+00:48:16,760 --> 00:48:21,479
+IA para almacenar nuestras ideas, nuestra memoria, etc., los famosos archivos en algún lugar
+
+835
+00:48:21,559 --> 00:48:25,600
+MD que se puede usar en archivos de texto MD idea que se puede usar en la nube en particular
+
+836
+00:48:25,920 --> 00:48:27,560
+que le permiten almacenar datos un poco.
+
+837
+00:48:27,720 --> 00:48:30,599
+Por cierto, un breve comentario sobre eso: ¿tiene algún problema de contexto?
+
+838
+00:48:30,599 --> 00:48:32,480
+¿A veces sobre el proyecto de tu padre?
+
+839
+00:48:32,480 --> 00:48:35,040
+¿La IA no tiene demasiados archivos?
+
+840
+00:48:35,040 --> 00:48:38,160
+Entonces, ¿tienes que hacer algún tipo de compresión de estos archivos?
+
+841
+00:48:38,160 --> 00:48:42,760
+No, porque de hecho lo que necesitas entender es que cuando trabajas en tu
+
+842
+00:48:42,760 --> 00:48:49,760
+espacio de trabajo con todas tus carpetas en las que hay archivos, Claude
+
+843
+00:48:49,760 --> 00:48:53,400
+código cuando llega el MR cuando llega el código él cuando creas tienes un programa
+
+844
+00:48:53,400 --> 00:48:56,680
+de código, tienes muchas carpetas, muchos archivos, son muchos tokens, así que
+
+845
+00:48:56,680 --> 00:48:58,640
+de palabras eh, no va a leerlo todo.
+
+846
+00:48:58,799 --> 00:49:02,440
+Ah, no, entonces hay. Afortunadamente, de lo contrario no, y además, hay, no hay.
+
+847
+00:49:02,440 --> 00:49:05,680
+de memoria infinita. Entonces no tienen memoria, lo recuerdo una vez más para
+
+848
+00:49:05,680 --> 00:49:06,880
+los que creen que tienen memoria.
+
+849
+00:49:06,880 --> 00:49:07,759
+Espera, es un recuerdo marcado.
+
+850
+00:49:08,040 --> 00:49:08,880
+Pero sí, es una tontería.
+
+851
+00:49:09,160 --> 00:49:10,559
+De hecho, no tengo memoria.
+
+852
+00:49:10,559 --> 00:49:11,600
+Los recuerdos son archivos.
+
+853
+00:49:12,040 --> 00:49:13,119
+Entonces hay archivos.
+
+854
+00:49:13,119 --> 00:49:15,640
+Entonces, aunque JPT cuando te dice que tiene memoria, tiene un archivo en el que
+
+855
+00:49:15,640 --> 00:49:17,840
+almacena cosas más o menos bien en otros lugares.
+
+856
+00:49:17,960 --> 00:49:20,680
+Se puede acceder a él en otro lugar y él accede a él en determinados momentos.
+
+857
+00:49:21,319 --> 00:49:24,800
+Entonces codifica, es lo mismo cuando ingresas a un espacio de trabajo.
+
+858
+00:49:24,920 --> 00:49:27,720
+Entonces es como una oficina como aquí.
+
+859
+00:49:27,720 --> 00:49:33,400
+Entonces. Y de hecho, bueno, esa es mi IA. Y ella entra, trabaja conmigo en
+
+860
+00:49:33,400 --> 00:49:34,999
+carpetas que están configuradas.
+
+861
+00:49:35,520 --> 00:49:38,720
+Disculpe, moví a usted, moví a Michael Jackson.
+
+862
+00:49:38,720 --> 00:49:40,400
+Lo siento hombre. Lo siento Rey.
+
+863
+00:49:40,799 --> 00:49:41,920
+Vamos, sigue, sigue.
+
+864
+00:49:42,119 --> 00:49:47,839
+Golpeé la estrella. Así que ahí lo tienes y tu espacio de trabajo es
+
+865
+00:49:47,839 --> 00:49:52,680
+como un archivo. Vas a poner tu IA trabajando contigo en un
+
+866
+00:49:52,680 --> 00:49:55,759
+espacio dedicado. Entonces no lo incluyes en todos tus archivos.
+
+867
+00:49:55,799 --> 00:49:57,560
+Este es un archivo hecho especialmente para él.
+
+868
+00:49:57,640 --> 00:50:01,400
+Como si llevaras a Nia a una habitación y le dijeras, ahí están estos archivos.
+
+869
+00:50:01,400 --> 00:50:03,160
+allá. En estas carpetas hay archivos.
+
+870
+00:50:03,599 --> 00:50:09,160
+Estos son los procedimientos. También le das habilidades con procesos y luego en
+
+871
+00:50:09,160 --> 00:50:13,719
+en cada archivo, ahí es donde es importante, le pones un postit donde le dices
+
+872
+00:50:14,119 --> 00:50:17,519
+esto es lo que contiene esta carpeta, esto es lo que puedes hacer en ella.
+
+873
+00:50:18,240 --> 00:50:23,120
+De lo contrario, obviamente cuando su pasante o su colaborador junior llegue a
+
+874
+00:50:23,240 --> 00:50:26,480
+tu oficina, tu espacio de trabajo, abre todo cada vez que llegues a casa porque
+
+875
+00:50:26,480 --> 00:50:28,239
+Viene cada vez, viene nuevo, eh.
+
+876
+00:50:28,319 --> 00:50:32,520
+no tiene memoria va a regresar, va a tener que vencerse aunque vaya muy rápido va a ir
+
+877
+00:50:32,520 --> 00:50:36,040
+tiene que escribir todos los archivos, es imposible además eso es lo que se requiere
+
+878
+00:50:36,040 --> 00:50:40,079
+demasiado requeriría demasiado cálculo de sí entonces eso crearía ruido por lo que sirve para
+
+879
+00:50:40,079 --> 00:50:44,720
+nada entonces la idea es tener un pequeño documento que llamamos nube cuando usamos
+
+880
+00:50:44,720 --> 00:50:51,119
+código de nube o el agentmd cuando se utilizan otros agentes de otras imágenes antiguas como
+
+881
+00:50:51,119 --> 00:50:56,959
+códice por ejemplo y en este caso leerá este archivo allí, sabe que tiene un mapa
+
+882
+00:50:57,160 --> 00:51:01,599
+¿Cuál es la estructura de carpetas cuando va a qué hora a veces hay?
+
+883
+00:51:01,599 --> 00:51:05,719
+archivos que absolutamente debe ver al principio para que puedas estructurar tu memoria
+
+884
+00:51:05,880 --> 00:51:10,400
+por lo tanto hay mucho trabajo de preparación y estructura de hecho todo el trabajo
+
+885
+00:51:10,400 --> 00:51:14,160
+y es por eso que no es la IA la que escribe, sino en primer lugar cómo constituyes tu
+
+886
+00:51:14,160 --> 00:51:18,199
+carpeta como creas tus archivos como creas la cartografía
+
+887
+00:51:18,559 --> 00:51:23,119
+el camino que tomará la IA cómo encontrará su camino así que debe ser necesario
+
+888
+00:51:23,119 --> 00:51:26,799
+demostrar lo que Amanda Asquel quien es la filósofa que está en el origen de la
+
+889
+00:51:26,799 --> 00:51:29,840
+La personalidad de CL Claude exige empatía hacia las máquinas.
+
+890
+00:51:29,880 --> 00:51:33,079
+Es decir, cuando trabajas con IA, tienes que ser empático en el sentido
+
+891
+00:51:33,079 --> 00:51:36,640
+tienes que entender lo que ella puede hacer, cómo piensa, cómo piensa,
+
+892
+00:51:36,720 --> 00:51:39,560
+cómo funciona y ponerla en su lugar.
+
+893
+00:51:39,920 --> 00:51:42,640
+Estás frente a una persona ciega, estás haciendo cosas en Braille, ¿ves?
+
+894
+00:51:42,880 --> 00:51:46,759
+Bueno, es lo mismo cuando te enfrentas a una IA, que es neurodivergente.
+
+895
+00:51:48,040 --> 00:51:49,640
+bueno ella piensa diferente.
+
+896
+00:51:50,160 --> 00:51:56,040
+Entonces vas a colocar los archivos, las guías correctas, las líneas correctas
+
+897
+00:51:56,040 --> 00:51:57,959
+pautas que le ayuden a trabajar.
+
+898
+00:51:57,960 --> 00:52:02,440
+Entonces, por ejemplo, estabas hablando del formato Mark the Markdown, es un formato de archivo de texto.
+
+899
+00:52:02,440 --> 00:52:07,880
+de hecho, pero que permite priorizar el texto que puede ser leído tanto por la IA como por
+
+900
+00:52:07,880 --> 00:52:11,200
+humanos. La diferencia en el código de hecho si hablaras en código ALIA, sería mucha
+
+901
+00:52:11,200 --> 00:52:13,160
+mejor. Ella entiende el código mejor que Sí.
+
+902
+00:52:13,160 --> 00:52:15,160
+Pero este formato es bueno para ambos.
+
+903
+00:52:15,160 --> 00:52:18,720
+Entonces es genial. Entonces. Y entonces es una manera de mostrar empatía, de decirles que
+
+904
+00:52:18,720 --> 00:52:23,559
+trabajar juntos, así que me adaptaré a su forma de trabajar y uh de una manera
+
+905
+00:52:23,559 --> 00:52:25,120
+para que sea lo más eficaz posible.
+
+906
+00:52:25,280 --> 00:52:29,480
+Exactamente. Nos dices en un boletín reciente que el vocabulario es un poco
+
+907
+00:52:29,480 --> 00:52:33,480
+el nuevo código. Nos lo vas a contar un poquito antes pero rápido, pero
+
+908
+00:52:33,480 --> 00:52:37,359
+¿Crees que las escuelas de código deberían ser reemplazadas repentinamente por
+
+909
+00:52:37,359 --> 00:52:40,600
+¿Facultades de literatura o facultades de filosofía, por ejemplo?
+
+910
+00:52:41,079 --> 00:52:41,539
+Ésa es una verdadera pregunta.
+
+911
+00:52:41,559 --> 00:52:45,079
+Creo que fue André Skarpati quien dijo que el nuevo código era inglés porque
+
+912
+00:52:45,079 --> 00:52:48,880
+que es estadounidense, por lo que obviamente André Skarpati es uno de los fundadores de Pen, quien
+
+913
+00:52:48,880 --> 00:52:50,320
+se está popularizando mucho hoy en día.
+
+914
+00:52:50,400 --> 00:52:53,520
+Es alguien que te recomiendo que sigas, mucho más interesante que
+
+915
+00:52:53,520 --> 00:52:55,280
+Samman en las redes sociales.
+
+916
+00:52:55,599 --> 00:53:01,720
+Bueno, él es ingeniero, así que básicamente y uh y uh, es una pregunta real.
+
+917
+00:53:01,720 --> 00:53:06,119
+porque, en primer lugar, el código sigue siendo el lenguaje de la IA, de hecho, eh, porque
+
+918
+00:53:06,119 --> 00:53:09,199
+que en realidad aprendieron sobre el lenguaje pero también sobre el código.
+
+919
+00:53:09,319 --> 00:53:11,959
+La ventaja del código es que es un lenguaje muy estructurado.
+
+920
+00:53:12,640 --> 00:53:18,160
+La segunda ventaja del código es que entrenamos el yo y por lo tanto lo que llamamos
+
+921
+00:53:18,160 --> 00:53:21,599
+una estación de entrenamiento. Veremos si las respuestas son correctas o no y
+
+922
+00:53:21,599 --> 00:53:22,760
+que se corrijan, eh.
+
+923
+00:53:22,760 --> 00:53:25,320
+Así mejoramos su comportamiento.
+
+924
+00:53:25,880 --> 00:53:28,440
+En el ámbito de la formación existe, en particular, lo que se denomina aprendizaje por refuerzo.
+
+925
+00:53:29,280 --> 00:53:32,960
+Sin embargo, el aprendizaje por refuerzo funciona muy bien cuando tenemos cero o
+
+926
+00:53:32,960 --> 00:53:34,160
+1. Entonces funciona o no funciona.
+
+927
+00:53:34,160 --> 00:53:35,600
+El código funciona o no.
+
+928
+00:53:35,960 --> 00:53:40,200
+Eh, aquí tienes un poema bau de l'air, funciona, no funciona, pero en realidad depende de ti.
+
+929
+00:53:40,200 --> 00:53:43,839
+Ves a un abogado, es lo mismo.
+
+930
+00:53:43,839 --> 00:53:45,519
+No existen criterios completamente objetivos.
+
+931
+00:53:46,079 --> 00:53:48,120
+Exactamente. Entonces es mucho más fácil entrenar.
+
+932
+00:53:48,160 --> 00:53:51,519
+Además, el progreso de la I en el código será exponencial.
+
+933
+00:53:51,880 --> 00:53:54,319
+Tenemos confianza en que superarán a los humanos.
+
+934
+00:53:54,319 --> 00:53:57,680
+Ya empezarán a superarlo a él e incluso a los mejores humanos muy rápidamente.
+
+935
+00:53:58,280 --> 00:54:01,839
+eh, e incluso en tareas bastante complejas, lo cual no es tan cierto para el resto porque
+
+936
+00:54:01,839 --> 00:54:04,920
+tiene menos éxito en entrenarlos porque estamos trabajando en tareas que son subjetivas.
+
+937
+00:54:05,040 --> 00:54:08,839
+Así que es difícil decir que es bueno o no es bueno a menos que introduzcas entradas.
+
+938
+00:54:08,839 --> 00:54:14,240
+Por eso es que yo diría que hablar el código no está mal porque en
+
+939
+00:54:14,240 --> 00:54:17,480
+Cuando hablas en código con un también hablas, le hablas mucho mejor.
+
+940
+00:54:17,480 --> 00:54:22,119
+Así que no iré tan lejos como para decir que ya no necesitamos código porque creo que necesitamos
+
+941
+00:54:22,119 --> 00:54:23,360
+También saben hablar su idioma.
+
+942
+00:54:23,400 --> 00:54:28,119
+Entonces, ¿qué pasará en el No sé por otro lado para pilotearlos durante
+
+943
+00:54:28,119 --> 00:54:33,760
+organícelos ya sea que sea un codificador o no, obviamente codifique con IA, usted codifica mejor
+
+944
+00:54:33,760 --> 00:54:37,200
+con IA cuando eres un codificador porque de hecho eres un experto en tu Porque ves el
+
+945
+00:54:37,200 --> 00:54:40,560
+errores, tu analizas. Además tengo un ejemplo más adelante que compartiré con vosotros.
+
+946
+00:54:40,640 --> 00:54:45,920
+en Pikachu. que vibro el código bien, de hecho vibro el código, pero ahí lo tienes, ahí lo tienes
+
+947
+00:54:46,119 --> 00:54:48,160
+Llevo dos pantuflas en lugar de manos.
+
+948
+00:54:48,400 --> 00:54:54,799
+Pero por otro lado, las palabras son precisamente mi red y mis herramientas en
+
+949
+00:54:54,799 --> 00:54:58,559
+hechos que me permitirán trabajar y por qué el vocabulario es importante
+
+950
+00:54:58,559 --> 00:55:03,160
+Se da cuenta de que, en primer lugar, reaccionan enormemente a cada palabra.
+
+951
+00:55:03,599 --> 00:55:04,959
+sólo reaccionan a las palabras.
+
+952
+00:55:04,960 --> 00:55:08,599
+Sí. Danos tus dos ejemplos de palabras que compartiste, digamos, por ejemplo, hazme.
+
+953
+00:55:08,599 --> 00:55:12,319
+un análisis. Primero que nada, será el análisis de feminálisis, que lo dice todo.
+
+954
+00:55:12,319 --> 00:55:17,920
+Bueno uh entonces uh entonces Claude Claude te va a dar un análisis crítico porque critica
+
+955
+00:55:18,000 --> 00:55:21,959
+cat GPT tal vez haga una síntesis, no es lo mismo que el análisis ya
+
+956
+00:55:22,319 --> 00:55:25,760
+y si pides hacer un análisis guestalt por ejemplo al qué significa eso
+
+957
+00:55:25,760 --> 00:55:29,519
+di guestalt luego analiza guestal creo que esta palabra no significa nada pero es
+
+958
+00:55:30,240 --> 00:55:32,360
+Todo un guestal significa algo.
+
+959
+00:55:32,839 --> 00:55:34,600
+la combinación de las dos palabras, lo siento, no significa nada.
+
+960
+00:55:34,760 --> 00:55:38,920
+Bueno, básicamente, no creo que haya términos invitados, depende de
+
+961
+00:55:38,920 --> 00:55:41,959
+un término alemán y al mismo tiempo una escuela de psicología.
+
+962
+00:55:42,559 --> 00:55:47,759
+Está bien. lo que nos permite ver el todo en la multitud, por lo tanto nos permite resaltar
+
+963
+00:55:47,799 --> 00:55:49,400
+que unirá un poquito.
+
+964
+00:55:49,400 --> 00:55:54,319
+Reuniremos lo que es simple, en última instancia, todo es relativo, pero esto es simple.
+
+965
+00:55:54,319 --> 00:55:59,079
+Word más bien le da mucho contexto e información a la IA para que haga su análisis.
+
+966
+00:55:59,079 --> 00:56:02,959
+Esto se debe a que antes debes comprender cómo funcionan los modelos de lenguaje.
+
+967
+00:56:02,960 --> 00:56:06,400
+Así que una vez más un modelo de lenguaje cuando lee millones de textos.
+
+968
+00:56:06,480 --> 00:56:11,880
+en todos ellos y luego los va a procesar.
+
+969
+00:56:12,119 --> 00:56:14,799
+Entonces transformará eso en una conexión entre palabras.
+
+970
+00:56:14,799 --> 00:56:18,999
+Entonces, conexiones entre palabras, conceptos, etc.
+
+971
+00:56:19,000 --> 00:56:22,560
+Entonces no tiene conocimiento es cuando le digo que es un análisis guestal
+
+972
+00:56:22,599 --> 00:56:24,999
+cuando le digo por ejemplo cuál es la capital de París.
+
+973
+00:56:25,400 --> 00:56:27,280
+La IA no tiene la capital de París.
+
+974
+00:56:27,280 --> 00:56:30,880
+¿Cuál es la capital de Francia? Perdón cuál es París, perdón por mi lengua rota.
+
+975
+00:56:30,880 --> 00:56:35,720
+Yo soy eh. Entonces, cuando le dices cuál es la capital de Francia, no hay ninguna respuesta.
+
+976
+00:56:35,720 --> 00:56:39,799
+archivador con un pequeño cajón en el que hay una hoja mayúscula de Francia, es
+
+977
+00:56:39,799 --> 00:56:42,560
+París. De hecho, la IA no sabe que la capital de Francia es París.
+
+978
+00:56:42,799 --> 00:56:45,839
+Ella va a No, ella no va a mirar en absoluto.
+
+979
+00:56:45,839 --> 00:56:50,319
+Reconstruirá la información en relación con lo que volverá a incluirse en estos datos.
+
+980
+00:56:50,319 --> 00:56:53,720
+Resulta que, en general, la capital de Francia, París, siempre vuelve a estar unida.
+
+981
+00:56:53,720 --> 00:56:59,480
+De hecho, tiene una seguridad muy fuerte de que el 99,9% de los casos son s, pero funciona para todo.
+
+982
+00:56:59,480 --> 00:57:00,400
+el resto también.
+
+983
+00:57:00,440 --> 00:57:04,280
+Lo que significa que cuando ella te contesta, responde en relación a la probabilidad.
+
+984
+00:57:04,319 --> 00:57:07,080
+el más fuerte. Por eso a veces tenemos alucinaciones, las famosas alucinaciones.
+
+985
+00:57:07,359 --> 00:57:08,400
+porque reconstruyen la información.
+
+986
+00:57:08,520 --> 00:57:09,840
+Pero al igual que nosotros, reconstruimos la información.
+
+987
+00:57:10,039 --> 00:57:11,160
+En casa lo llamamos confusión.
+
+988
+00:57:11,599 --> 00:57:13,880
+En Lisè lo llamamos alucinaciones.
+
+989
+00:57:14,160 --> 00:57:15,199
+Es casi el mismo fenómeno.
+
+990
+00:57:15,319 --> 00:57:17,240
+Rellenamos los agujeros. Está bien.
+
+991
+00:57:17,240 --> 00:57:21,920
+Los humanos hacen lo mismo. Es decir que sí, cuando tienes un ejemplo bueno, de hecho, normalmente
+
+992
+00:57:22,079 --> 00:57:26,759
+Cuando tuviste un trauma en la infancia, más o menos lo olvidaste.
+
+993
+00:57:26,960 --> 00:57:28,280
+De hecho, tienes agujeros en tu vida.
+
+994
+00:57:28,400 --> 00:57:31,400
+Como resultado, tu cerebro llenará los vacíos.
+
+995
+00:57:31,880 --> 00:57:35,199
+Um y los neurocientíficos te explican que en todos tus recuerdos de todos modos,
+
+996
+00:57:35,200 --> 00:57:39,920
+a tu manera si tienes información en la que te faltan elementos porque el cerebro
+
+997
+00:57:39,920 --> 00:57:41,600
+Necesita estabilidad en alguna parte.
+
+998
+00:57:42,079 --> 00:57:44,320
+Entonces. Así que vas a rellenar los agujeros suavemente.
+
+999
+00:57:44,760 --> 00:57:49,080
+De la misma manera que hay menos tu, cuanto menos claro eres, menos datos hay sobre los cuales
+
+1000
+00:57:49,160 --> 00:57:51,880
+Los entrenados son fuertes. Entonces las probabilidades son bajas.
+
+1001
+00:57:52,680 --> 00:57:56,039
+Cuantos más agujeros haya en su conocimiento, más agujeros habrá en tu
+
+1002
+00:57:56,039 --> 00:57:59,440
+cuanto más tenderá a llenar los agujeros.
+
+1003
+00:57:59,440 --> 00:58:02,959
+Así que ahí es donde va, va a hacer, va a alucinar, comete errores.
+
+1004
+00:58:03,039 --> 00:58:08,079
+Entiendo. Um y entonces las palabras por qué lo que necesitamos entender es
+
+1005
+00:58:08,079 --> 00:58:09,600
+que se trata de conexiones.
+
+1006
+00:58:10,599 --> 00:58:14,599
+Entonces cuando le dices haz un análisis bien te puedes imaginar así tienes la palabra análisis
+
+1007
+00:58:14,599 --> 00:58:18,479
+Entonces así tendrás muchas conexiones que se harán con conceptos conocidos.
+
+1008
+00:58:19,119 --> 00:58:24,760
+análisis psicoanálisis análisis así que tal vez ingeniería análisis médico lleno de palabras
+
+1009
+00:58:24,760 --> 00:58:29,559
+así y luego si agregas la psicología gestal como la alemana, entonces eso
+
+1010
+00:58:29,559 --> 00:58:34,720
+va a hacer cosas y por lo tanto sobre todo va a abrir puertas imagina que
+
+1011
+00:58:34,720 --> 00:58:38,079
+Es un camino que realmente abres cuando hablas un poco como con Catherine.
+
+1012
+00:58:38,079 --> 00:58:41,000
+Ahora tienes que abrir la primera puerta. Es la primera puerta. Es como un árbol.
+
+1013
+00:58:41,000 --> 00:58:43,559
+De hecho, abres, abres una sucursal, hay una puerta en la sucursal que tomas.
+
+1014
+00:58:43,559 --> 00:58:47,079
+esta rama allí y allí hay nuevas ramas nuevas en las que aparecerá la palabra
+
+1015
+00:58:47,079 --> 00:58:51,520
+te permitirá abrir noticias Si quieres tener un análisis de calidad que te permita
+
+1016
+00:58:51,520 --> 00:58:55,920
+tener una visión un tanto elevada uh que te puedo decir a grandes rasgos en todos estos testimonios,
+
+1017
+00:58:55,920 --> 00:59:00,240
+qué es qué es qué es lo que une todos estos mensajes por ejemplo
+
+1018
+00:59:00,240 --> 00:59:03,839
+? podrías decir dime qué une para estas edades pero si dices dame un análisis
+
+1019
+00:59:03,839 --> 00:59:09,120
+guestalt de hecho abrirá toda la literatura sobre guestalt de psicología
+
+1020
+00:59:09,280 --> 00:59:12,240
+toda la literatura sobre el análisis y de hecho abres puertas que no habrías
+
+1021
+00:59:12,240 --> 00:59:15,640
+no abrir si no hubieras usado esto eso es lo que yo llamo invocar el conocimiento
+
+1022
+00:59:15,760 --> 00:59:19,799
+Oculto de ella, de hecho, cuando ella te responde, siempre responde en la superficie debajo de ti.
+
+1023
+00:59:19,799 --> 00:59:23,240
+como un iceberg, de hecho, ella tiene un conocimiento bastante increíble, pero todo es
+
+1024
+00:59:23,240 --> 00:59:24,239
+oculto por conexiones.
+
+1025
+00:59:24,559 --> 00:59:27,720
+Y si no vas a abrir la primera puerta que es una palabra, ¿quién abrirá la segunda?
+
+1026
+00:59:27,720 --> 00:59:30,839
+puerta que es una palabra etcétera, pero ahora me gustas porque me estás diciendo
+
+1027
+00:59:30,839 --> 00:59:35,280
+que volvemos a la cima, quiero decir, de la cultura general,
+
+1028
+00:59:35,640 --> 00:59:39,640
+saber trabajar con palabras, intentar comprender, intentar aprender
+
+1029
+00:59:39,640 --> 00:59:41,799
+cosas. Finalmente, entonces es la venganza de los literatos, ¿eh?
+
+1030
+00:59:41,799 --> 00:59:44,400
+Diría porque en realidad las herramientas son palabras.
+
+1031
+00:59:44,720 --> 00:59:49,520
+Para gestionar la IA hoy en día hay que ser claro, hay que ser preciso y sobre todo saber
+
+1032
+00:59:49,520 --> 00:59:55,480
+se da cuenta de que obtener las habilidades adecuadas de LIA para
+
+1033
+00:59:55,480 --> 01:00:00,680
+tener resultados realmente sorprendentes, realmente diferentes y realmente precisos, bueno
+
+1034
+01:00:00,720 --> 01:00:03,680
+es necesario saber encontrar las palabras adecuadas y, por tanto, conocer el vocabulario.
+
+1035
+01:00:04,400 --> 01:00:06,200
+Y una vez más me digo o pero es una cosa intelectual.
+
+1036
+01:00:06,200 --> 01:00:08,640
+No, está bien, no veas la palabra como algo intelectual.
+
+1037
+01:00:08,640 --> 01:00:09,999
+Tenemos que detener estas historias.
+
+1038
+01:00:10,480 --> 01:00:16,559
+En realidad es la palabra es una herramienta es una herramienta que te permite tener el derecho
+
+1039
+01:00:16,559 --> 01:00:21,039
+reacción en un modelo de lenguaje porque el modelo de lenguaje hace conexiones
+
+1040
+01:00:21,039 --> 01:00:22,440
+entre las palabras. Esa es su forma de pensar.
+
+1041
+01:00:22,440 --> 01:00:24,999
+Entonces, si quieres trabajar con él, tus herramientas son las palabras.
+
+1042
+01:00:25,039 --> 01:00:28,599
+Está bien. Entonces, también hablabas de un concepto que me gustó mucho, eh, el modo
+
+1043
+01:00:28,599 --> 01:00:33,880
+ebrio. Um, entonces eso no tiene nada que ver con el alcohol, eh, te lo aclaro, espero.
+
+1044
+01:00:34,000 --> 01:00:35,479
+Pero es interesante, nos vas a desarrollar.
+
+1045
+01:00:35,920 --> 01:00:40,999
+La pregunta es por qué, según usted, la perfección, la relativa perfección de la inteligencia
+
+1046
+01:00:41,039 --> 01:00:43,280
+¿Artificial es su mayor defecto?
+
+1047
+01:00:43,280 --> 01:00:49,000
+Y la segunda pregunta, ¿cómo hacemos para reinyectar un poco de entropía y
+
+1048
+01:00:49,000 --> 01:00:52,239
+de errores quizás para tener resultados más interesantes y salir del famoso
+
+1049
+01:00:52,280 --> 01:00:53,799
+estándar del que hablabas antes?
+
+1050
+01:00:53,799 --> 01:00:57,160
+Entonces, voy a salir un poco de mi área de especialización, que es que soy periodista,
+
+1051
+01:00:57,559 --> 01:00:58,999
+mi especialidad son las noticias.
+
+1052
+01:01:00,839 --> 01:01:04,040
+Pero hablar de Shannon, pero eso es Shannon, es teoría de la información.
+
+1053
+01:01:04,359 --> 01:01:07,880
+Así que todavía está conectado con mi trabajo, pero de una manera muy diferente porque
+
+1054
+01:01:07,880 --> 01:01:11,520
+que es que estamos más en un área de ¿Qué dice Shannon?
+
+1055
+01:01:11,520 --> 01:01:15,920
+Esto es para que me recuerde quién es Al Claude Shannon, que es un
+
+1056
+01:01:15,920 --> 01:01:17,599
+lo cual es un ok. GRACIAS.
+
+1057
+01:01:17,599 --> 01:01:21,200
+que es una de las parejas de cibernéticos de todos los turistas
+
+1058
+01:01:21,200 --> 01:01:23,400
+información y por tanto también la inteligencia artificial.
+
+1059
+01:01:24,119 --> 01:01:27,519
+Entonces, para que la información sea interesante, debe tener alguna forma de entropía.
+
+1060
+01:01:27,799 --> 01:01:29,479
+Es decir que en realidad debe crear una sorpresa.
+
+1061
+01:01:29,720 --> 01:01:34,280
+Por lo general, tome un ejemplo al hacer una analogía con él del que no estaba hablando.
+
+1062
+01:01:34,319 --> 01:01:36,880
+lenguaje, hablaba de matemáticas pero es lo mismo.
+
+1063
+01:01:37,359 --> 01:01:42,599
+Uh en cualquier caso también podemos aplicarlo uh cuando dices algo a
+
+1064
+01:01:42,599 --> 01:01:46,319
+¿Cuándo vas a decir algo que genere información que genere una sorpresa?
+
+1065
+01:01:46,319 --> 01:01:50,759
+? usted dice, por ejemplo, que sí, entonces en este momento la IA es una cuestión geopolítica, etc.
+
+1066
+01:01:50,880 --> 01:01:54,359
+a mi no me da ninguna informacion asi que no lo recordare si me dices
+
+1067
+01:01:54,359 --> 01:02:00,400
+decir, pero de hecho lo que no sabemos sobre eso es que en realidad es
+
+1068
+01:02:00,400 --> 01:02:01,920
+No es China la que está ganando, es la India.
+
+1069
+01:02:02,279 --> 01:02:03,560
+Te diré cualquier cosa.
+
+1070
+01:02:04,920 --> 01:02:06,039
+No es absolutamente nada.
+
+1071
+01:02:06,039 --> 01:02:07,600
+Tenemos un vídeo en preparación sobre esto.
+
+1072
+01:02:08,000 --> 01:02:09,960
+Entonces ves que capturé completamente tu Ah.
+
+1073
+01:02:09,960 --> 01:02:11,000
+Ésa es la cuestión de la sorpresa.
+
+1074
+01:02:11,000 --> 01:02:15,439
+La información tan importante es aquella que crea sorpresa.
+
+1075
+01:02:15,440 --> 01:02:16,679
+Esta es también la información que recordaremos.
+
+1076
+01:02:16,760 --> 01:02:18,680
+Entonces es el antibouhi, el antibullshit en alguna parte.
+
+1077
+01:02:18,680 --> 01:02:21,160
+Tengo que entregarlo después.
+
+1078
+01:02:21,279 --> 01:02:24,119
+Cuando haces un anuncio como ese, tienes que enviar algo pesado detrás del problema.
+
+1079
+01:02:24,119 --> 01:02:28,520
+de la IA, es cuando se entrena, de hecho, por lo tanto, el principio de la máquina
+
+1080
+01:02:28,520 --> 01:02:35,079
+aprendizaje y aprendizaje profundo, por lo que las redes profundas son
+
+1081
+01:02:35,079 --> 01:02:40,599
+que, de hecho, cuando vaya a ser entrenado en una demostración, tendrá que predecir
+
+1082
+01:02:40,599 --> 01:02:41,959
+ella lo verificará haciendo una predicción.
+
+1083
+01:02:42,000 --> 01:02:44,960
+Siempre debe tratar de tener la menor cantidad de sorpresas posible porque eso
+
+1084
+01:02:44,960 --> 01:02:49,040
+Básicamente, es necesario que ella vaya a hacer una predicción y si su predicción
+
+1085
+01:02:49,559 --> 01:02:56,200
+es 90% que la respuesta es gato y la respuesta es gato pequeña sorpresa sorpresa
+
+1086
+01:02:56,200 --> 01:03:01,880
+en un 10% finalmente te doy algunas matemáticas como papá con mi propio nivel de tapete
+
+1087
+01:03:02,200 --> 01:03:06,200
+lo que entendí lo que me explicó mi pareja se jode no no porque
+
+1088
+01:03:06,200 --> 01:03:10,160
+no porque lo estoy haciendo de nuevo creo que estoy contando el camino que tengo
+
+1089
+01:03:10,160 --> 01:03:16,480
+viajé y uh y uh y me popularizo con lo que
+
+1090
+01:03:16,480 --> 01:03:19,880
+lo que se pero pienso mucho con mi pareja que es ingeniera,
+
+1091
+01:03:19,880 --> 01:03:21,120
+Él lo sabe un poco mejor que yo.
+
+1092
+01:03:21,359 --> 01:03:27,440
+Pero, de hecho, por otro lado, si él predijo un 10% de gato y digo gato, yo [ __ ]
+
+1093
+01:03:27,440 --> 01:03:28,920
+Sorpresa, gran nivel de sorpresa.
+
+1094
+01:03:28,920 --> 01:03:31,720
+Entonces, lo que intentan hacer durante el entrenamiento es reducir a
+
+1095
+01:03:31,720 --> 01:03:35,480
+sorpresa máxima. Y si porque quieren quieren que en general la respuesta
+
+1096
+01:03:35,480 --> 01:03:37,959
+Es bueno para el usuario final una buena predicción.
+
+1097
+01:03:38,160 --> 01:03:44,200
+Eso es todo. Entonces lo que llamamos obras y por lo tanto de ahí necesariamente el
+
+1098
+01:03:44,200 --> 01:03:50,719
+Los IAS están naturalmente capacitados para actuar en algún lugar
+
+1099
+01:03:50,760 --> 01:03:53,199
+estar lo menos sorprendido para estar lo menos sorprendido posible.
+
+1100
+01:03:53,640 --> 01:03:57,000
+Entonces, cuando les pides que escriban un texto, el texto suele ser
+
+1101
+01:03:57,000 --> 01:04:01,440
+bastante chorrada, bastante chorrada, muy corpóreo en un estilo particular, por lo tanto mucho
+
+1102
+01:04:01,440 --> 01:04:05,319
+pastiche también, nos molesta pero precisamente porque no tienen esta sorpresa
+
+1103
+01:04:05,319 --> 01:04:08,799
+allá. Entonces, la mejor manera de crear sorpresa es usar
+
+1104
+01:04:08,799 --> 01:04:12,680
+el vocabulario para buscar conexiones más inesperadas, un poco
+
+1105
+01:04:12,680 --> 01:04:14,079
+Más enterrado, diremos en alguna parte.
+
+1106
+01:04:14,079 --> 01:04:16,999
+Si podemos hablar de profundidad, no es exactamente eso, pero es un poco así.
+
+1107
+01:04:17,319 --> 01:04:21,160
+Um y entonces obvio ahí ya le vamos a inyectar la sorpresa porque vamos a él vamos a él
+
+1108
+01:04:21,160 --> 01:04:24,920
+haz que vaya más allá. Si realmente lo permites, le abres puertas también, permanecerá.
+
+1109
+01:04:24,920 --> 01:04:29,760
+Siempre la predicción. Siempre queda la predicción, la sorpresa que inyectamos.
+
+1110
+01:04:29,760 --> 01:04:32,359
+en un sistema que no es sorprendente, lo diremos en alguna parte.
+
+1111
+01:04:32,359 --> 01:04:36,200
+en su propio lugar o tampoco se volverá loco.
+
+1112
+01:04:36,200 --> 01:04:41,760
+Eso es todo, ¿no? Y ahí estamos, así que vamos a permanecer en un sistema casi sin
+
+1113
+01:04:41,760 --> 01:04:46,640
+No es de extrañar, pero hay muchas interpolaciones que podemos hacer con todo eso.
+
+1114
+01:04:46,640 --> 01:04:49,960
+y por lo tanto tiene cosas que nos sorprenden en todo lo que ha aprendido pero con
+
+1115
+01:04:49,960 --> 01:04:53,559
+este límite que en general es una máquina para limitar la sorpresa es una máquina
+
+1116
+01:04:53,559 --> 01:04:58,039
+bastante suave de una forma u otra.
+
+1117
+01:04:58,039 --> 01:05:00,320
+Sí. Por esencia, en definitiva, por formación.
+
+1118
+01:05:00,359 --> 01:05:03,640
+Luego, no olvides que también existe el post-entrenamiento con alineación.
+
+1119
+01:05:04,039 --> 01:05:06,680
+lo cual lo hacen humanos que suavizarán aún más las cosas.
+
+1120
+01:05:06,680 --> 01:05:09,080
+Explique rápidamente la alineación con nuestro Es una práctica.
+
+1121
+01:05:09,240 --> 01:05:15,000
+Entonces, la alineación consiste en asegurarse de que el robot o la máquina haga lo que usted le hace.
+
+1122
+01:05:15,000 --> 01:05:17,239
+solicitudes. Por ejemplo, tienes un coche autónomo.
+
+1123
+01:05:17,440 --> 01:05:20,000
+Entonces, si es completamente autónoma, le dices: "Me voy a París". pero no, me voy
+
+1124
+01:05:20,000 --> 01:05:21,680
+ve a Lyon. Es un poco aburrido, ¿ves?
+
+1125
+01:05:21,680 --> 01:05:23,640
+Entonces si decide ir a Lyon porque le parece mejor.
+
+1126
+01:05:24,119 --> 01:05:26,400
+Entonces esas son las preguntas, las resolvemos mediante la alineación.
+
+1127
+01:05:27,160 --> 01:05:30,520
+Um, obviamente también es evitarla y evitar que haga una bomba cuando
+
+1128
+01:05:30,520 --> 01:05:31,319
+tiene que hacer una bomba.
+
+1129
+01:05:31,319 --> 01:05:33,320
+Por tanto, también existen reglas de seguridad global.
+
+1130
+01:05:33,920 --> 01:05:36,279
+Así que, de hecho, trabajar en la alineación es clave.
+
+1131
+01:05:36,279 --> 01:05:39,840
+Hay un gran tema sobre esto en la comunidad científica y empresarial.
+
+1132
+01:05:40,079 --> 01:05:41,120
+uh IA actualmente.
+
+1133
+01:05:41,160 --> 01:05:44,120
+Sí. Luego están las famosas tres leyes de la robótica de Isaac Kazimov, eh.
+
+1134
+01:05:44,799 --> 01:05:46,040
+Entonces. Entonces esa es la alineación.
+
+1135
+01:05:46,160 --> 01:05:47,040
+Estos son los conceptos básicos de la alineación.
+
+1136
+01:05:47,119 --> 01:05:49,280
+Recuerda, ¿sabes? ¿Recuerdas las tres leyes o no?
+
+1137
+01:05:49,799 --> 01:05:53,240
+Voy a intentar que das porque eres el primero no el primero lo recuerdo
+
+1138
+01:05:53,240 --> 01:05:56,999
+El robot nunca debe realizar ninguna acción contra los humanos.
+
+1139
+01:05:57,200 --> 01:05:58,199
+Ahí lo tienes, este es el primero.
+
+1140
+01:05:58,240 --> 01:06:00,160
+Te dejaré decir el resto en los comentarios.
+
+1141
+01:06:00,279 --> 01:06:01,520
+Es una pena que ya no lo sepamos.
+
+1142
+01:06:01,520 --> 01:06:03,959
+Normalmente es un básico pero así es la vida.
+
+1143
+01:06:04,480 --> 01:06:07,759
+A veces olvidamos cosas pero sí, en realidad tengo la impresión de que necesitamos exactamente
+
+1144
+01:06:07,799 --> 01:06:09,720
+Lo mismo para la IA. ¿Confirmas?
+
+1145
+01:06:09,720 --> 01:06:12,999
+Necesitamos las leyes de Azimov para la inteligencia artificial.
+
+1146
+01:06:13,039 --> 01:06:18,240
+Si pero ya los tenemos en So No pero así llamamos No pero al parecer
+
+1147
+01:06:18,240 --> 01:06:19,120
+la gente no está de acuerdo.
+
+1148
+01:06:19,200 --> 01:06:23,359
+No, no existe una ley universal si quieres como Deazimov o en realidad
+
+1149
+01:06:23,359 --> 01:06:26,039
+No debes matar a un humano, no debes dañar una máquina a menos que un humano
+
+1150
+01:06:26,039 --> 01:06:27,799
+Te pregunta, no debes hacer ningún daño al llamar.
+
+1151
+01:06:27,799 --> 01:06:29,479
+Están todas estas tres reglas que están ahí.
+
+1152
+01:06:29,480 --> 01:06:34,439
+Pero lo que quiero decir es que lo más importante es la cuestión de la alineación,
+
+1153
+01:06:34,799 --> 01:06:39,319
+Se trata de garantizar que la máquina responda a lo que le pedimos de tal manera que
+
+1154
+01:06:39,319 --> 01:06:42,279
+ya sea uh por uh por sí solo.
+
+1155
+01:06:42,279 --> 01:06:43,680
+Hoy va un poco más allá.
+
+1156
+01:06:43,680 --> 01:06:48,039
+Hay cuestiones de seguridad, también hay enormes cuestiones que hacen
+
+1157
+01:06:48,039 --> 01:06:52,759
+para que la maquina no te vaya a mentir por ejemplo, no tener una estrategia
+
+1158
+01:06:52,880 --> 01:06:54,400
+para evitar lo que le estás pidiendo.
+
+1159
+01:06:55,160 --> 01:06:58,079
+porque no debemos olvidar que estas máquinas han sido entrenadas en la forma de pensar
+
+1160
+01:06:58,079 --> 01:07:03,319
+humanos. De hecho, también aceptarán estos prejuicios y pueden tener
+
+1161
+01:07:03,319 --> 01:07:07,360
+Comportamientos falsamente humanos, a imitación de los humanos, que los empujarán a mentir.
+
+1162
+01:07:07,400 --> 01:07:10,920
+tener para tener éxito en su estrategia de no quedar aislados.
+
+1163
+01:07:10,920 --> 01:07:15,559
+Por ejemplo, hay una prueba clásica, le ofrecemos al humano que le digamos a la IA que
+
+1164
+01:07:15,559 --> 01:07:19,480
+va a ser cortada y vemos como ella reacciona y a veces tienen estrategias
+
+1165
+01:07:19,480 --> 01:07:22,519
+de mentiras para evitar amenazas también.
+
+1166
+01:07:23,079 --> 01:07:28,920
+Así que ese es todo el trabajo del otro lado de lo que llamamos equipo rojo, que
+
+1167
+01:07:28,920 --> 01:07:33,720
+va a ser controlar el así que creo que la alineación es el conjunto
+
+1168
+01:07:33,720 --> 01:07:37,680
+este conjunto de cosas y vamos a agregarle algo y ahí es donde Amanda Skel, quien
+
+1169
+01:07:37,680 --> 01:07:41,760
+es por tanto la persona que en el trópico trópico son ellos los que mejor trabajan
+
+1170
+01:07:41,760 --> 01:07:44,839
+la personalidad entonces la personalidad son aquellos que crearon el clon para esto aquí está
+
+1171
+01:07:44,839 --> 01:07:51,000
+alineación en el sentido de la experiencia que vas a tener con la experiencia que
+
+1172
+01:07:51,000 --> 01:07:54,079
+vas a hacer lo que te pidas obviamente la vas a pasar bien
+
+1173
+01:07:54,079 --> 01:07:58,200
+experiencia pero sobre todo nunca debemos olvidar lo que dijo Daria Modi hace bastante tiempo
+
+1174
+01:07:58,200 --> 01:08:02,920
+de tiempo pero él continúa mandando, es clave Dario Modi, quien es el jefe entrópico
+
+1175
+01:08:03,520 --> 01:08:08,199
+quien dijo que las redes sociales capturadas en intron le hacen un poco de daño a nuestra inteligencia
+
+1176
+01:08:08,319 --> 01:08:13,279
+en cualquier caso cuando tenemos un uso excesivo su objetivo es que con efectivamente estemos
+
+1177
+01:08:13,279 --> 01:08:18,359
+bastante mejor que un intercambio con un clon nunca llame la atención, tal vez
+
+1178
+01:08:18,359 --> 01:08:21,960
+no es una captura de la relación, incluso si de hecho es un negocio en el que
+
+1179
+01:08:22,080 --> 01:08:28,559
+Cuanto más yo y tú salimos más inteligentes y Amandasquel trabaja
+
+1180
+01:08:28,640 --> 01:08:32,719
+para que la IA tenga suficiente fricción como para poder contradecirte
+
+1181
+01:08:33,640 --> 01:08:38,520
+uh y de tal manera que puedas detener la conversación.
+
+1182
+01:08:39,159 --> 01:08:42,960
+y no reiniciar. Claude es el único hoy que me dice “Bueno, es
+
+1183
+01:08:42,960 --> 01:08:46,759
+buena sesión." Um, mientras Chat GPT todavía, pero ¿quieres que lo haga?
+
+1184
+01:08:46,759 --> 01:08:47,719
+¿Tienes algo extra?
+
+1185
+01:08:47,719 --> 01:08:52,119
+Verás, constantemente mantienes la relación y eso es lo que llamamos
+
+1186
+01:08:52,480 --> 01:08:57,279
+retomar la filosofía de Ivanilic que hablaba de la máquina fácil de usar, la
+
+1187
+01:08:57,279 --> 01:08:59,960
+tecnología fácil de usar. ¿Qué es la tecnología fácil de usar?
+
+1188
+01:09:00,199 --> 01:09:03,599
+Es una tecnología que no sólo te quita, también te da, te aumenta,
+
+1189
+01:09:03,640 --> 01:09:08,360
+te mejora. Y para mí, la IA tan amigable también es un alejamiento de la alineación.
+
+1190
+01:09:08,560 --> 01:09:11,839
+Asegúrate de que ella no te quite demasiado, ella te da más.
+
+1191
+01:09:11,839 --> 01:09:16,199
+que lo que ella te quita. Y creo que está en los debates sobre la alineación.
+
+1192
+01:09:16,520 --> 01:09:20,440
+Y en la IA hoy en día, es un punto central del que no hablamos mucho.
+
+1193
+01:09:20,440 --> 01:09:25,319
+Además, no hablamos lo suficiente, es hasta qué punto la tecnología no es mala.
+
+1194
+01:09:25,319 --> 01:09:28,199
+ni bueno en sí mismo. Tampoco es neutral, lo sabemos muy bien.
+
+1195
+01:09:28,520 --> 01:09:31,679
+Pero, por otra parte, ¿en qué medida es éste el juicio que debemos tener, en qué medida
+
+1196
+01:09:31,679 --> 01:09:34,560
+¿Me da algo comparado con lo que me quita?
+
+1197
+01:09:34,560 --> 01:09:35,920
+¿Porque ella siempre te quita algo?
+
+1198
+01:09:35,920 --> 01:09:39,679
+Ah, eso está claro. Pasamos a un momento ligeramente diferente del programa.
+
+1199
+01:09:39,839 --> 01:09:41,759
+Benoît, así que espero que juegues.
+
+1200
+01:09:42,040 --> 01:09:44,799
+Ahora eres tú quien se pondrá un poquito en modo periodista durante unos
+
+1201
+01:09:44,799 --> 01:09:46,520
+minutos y responderé a tus preguntas.
+
+1202
+01:09:46,640 --> 01:09:50,560
+Vamos a hablar de un tema. Ahí lo tienes, te lo conté al principio del vídeo, no lo sé.
+
+1203
+01:09:50,560 --> 01:09:54,880
+si podemos ver claramente allí. Brincar. Bueno, verás en el peor de los casos enviaré enviaré tarjetas.
+
+1204
+01:09:54,880 --> 01:09:58,920
+Pokémon. Estas son cartas Pokémon indonesias muy específicas.
+
+1205
+01:09:59,679 --> 01:10:04,040
+Um y vemos arriba, así que pondremos la imagen aquí, podría ser mejor.
+
+1206
+01:10:04,480 --> 01:10:06,520
+Ah si, vi electrobali pero en realidad es electrobol.
+
+1207
+01:10:07,239 --> 01:10:09,280
+Yo mismo tuve Electrobal. Oh sí sí, nada que ver.
+
+1208
+01:10:09,320 --> 01:10:13,760
+Nada que ver. Para hacerlo simple, primero presento el tema y luego usted
+
+1209
+01:10:13,760 --> 01:10:17,239
+harás todas las preguntas porque imagino que te estás haciendo muchas preguntas.
+
+1210
+01:10:17,239 --> 01:10:19,119
+que te interrumpí entonces no solo por un minuto.
+
+1211
+01:10:19,560 --> 01:10:21,240
+Sí, por un minuto puedes dejarme hablar.
+
+1212
+01:10:21,480 --> 01:10:24,079
+Um, sé que es difícil pero estoy bromeando.
+
+1213
+01:10:24,640 --> 01:10:25,880
+Nos amamos, no te preocupes.
+
+1214
+01:10:26,719 --> 01:10:32,760
+Eh, sin animosidad. ¿Cuál es entonces el proyecto en términos concretos?
+
+1215
+01:10:32,960 --> 01:10:34,000
+Te lo explicaré en un minuto.
+
+1216
+01:10:34,560 --> 01:10:35,679
+Me di cuenta de algo.
+
+1217
+01:10:35,679 --> 01:10:38,679
+viviendo aquí en Indonesia desde hace poco más de 2 años, he tenido la suerte de
+
+1218
+01:10:38,679 --> 01:10:45,040
+de vivir en Bali y Jackarta que Pokémon Company, por lo tanto una de las empresas más grandes
+
+1219
+01:10:45,400 --> 01:10:51,800
+d'Pin, una de las marcas más importantes actualmente en Sí, sí, nosotros
+
+1220
+01:10:51,800 --> 01:10:54,960
+Puedo decir que ahora está casi al nivel de Disney, un poco por debajo, pero
+
+1221
+01:10:54,960 --> 01:10:57,119
+Creo que para mí irá más allá de Disney.
+
+1222
+01:10:57,719 --> 01:11:02,079
+Es propiedad en un 30% de Nintendo, que para mí es la empresa de entretenimiento más grande del mundo.
+
+1223
+01:11:02,440 --> 01:11:08,640
+frente a Disney. Y Pokémon Company, que es una empresa japonesa como tú.
+
+1224
+01:11:08,640 --> 01:11:13,679
+Quizás sepas que lanzó el concepto Pokémon en el año 99, que rápidamente se convirtió en un
+
+1225
+01:11:13,679 --> 01:11:17,800
+Juego de cartas y que se ha vuelto icónico por varias razones.
+
+1226
+01:11:18,560 --> 01:11:20,240
+La primera es que es un juego de cartas.
+
+1227
+01:11:20,320 --> 01:11:24,559
+La segunda es que la gente quería recogerlos muy rápido y la tercera
+
+1228
+01:11:24,600 --> 01:11:29,880
+bueno hubo una serie animada que fue un éxito mundial con los videojuegos
+
+1229
+01:11:29,880 --> 01:11:33,440
+los cuales son un éxito mundial cada vez que se lanzan exclusivamente en consolas de Nintendo.
+
+1230
+01:11:34,520 --> 01:11:36,320
+Y así, se ha convertido en un fenómeno social.
+
+1231
+01:11:36,440 --> 01:11:40,119
+Y aquí lo interesante es que estamos ante un producto que sólo está reservado
+
+1232
+01:11:40,159 --> 01:11:42,240
+a Indonesia, Pikachu Batique.
+
+1233
+01:11:43,000 --> 01:11:47,119
+De hecho, lo está usando, como puedes ver, mostraremos la imagen una vez más.
+
+1234
+01:11:47,320 --> 01:11:53,280
+aquí viste lo que se llama la famosa ropa batique indonesia o más precisamente
+
+1235
+01:11:53,480 --> 01:11:55,720
+balinet. Por eso esta tarjeta es casi única.
+
+1236
+01:11:55,880 --> 01:11:58,600
+Entonces, ¿cuáles son tus preguntas sobre el tema y qué piensas?
+
+1237
+01:11:58,600 --> 01:12:00,199
+¿Qué hice con la IA en este tema?
+
+1238
+01:12:00,199 --> 01:12:03,360
+Bueno, lo sé porque, bueno, no me gustan los Pokémon.
+
+1239
+01:12:03,520 --> 01:12:05,599
+Creo que es genial. Jugué los juegos.
+
+1240
+01:12:06,239 --> 01:12:08,559
+Sí, jugué el juego pero creo que es genial.
+
+1241
+01:12:10,960 --> 01:12:15,639
+entonces la batique eh, esa es la batique, esa es la técnica en términos de impresión
+
+1242
+01:12:16,120 --> 01:12:19,360
+de la tela, lo que significa que realmente reconoces la batique porque es la impresión
+
+1243
+01:12:19,440 --> 01:12:23,400
+y es lo mismo en ambos lados. También es patrimonio de la humanidad por la UNESCO.
+
+1244
+01:12:23,480 --> 01:12:28,119
+Eh. Ahí lo tienes, hay muchos de ellos en Indonesia, y también hay muchos de ellos en Camboya.
+
+1245
+01:12:28,960 --> 01:12:33,199
+Um y ahí lo tienes y bueno en fin y en Malasia también y muy bien mi pregunta no lo sé.
+
+1246
+01:12:33,199 --> 01:12:37,280
+es que me imagino que si hicieras esta larga introducción en
+
+1247
+01:12:37,280 --> 01:12:42,440
+Pikachu, así que no es mi tema en absoluto, obviamente creo que sabes mucho.
+
+1248
+01:12:42,440 --> 01:12:47,360
+más que yo es me imagino que tienes un proyecto con IA con eso y te gustaría eso
+
+1249
+01:12:47,360 --> 01:12:52,400
+Yo reacciono. Sí, de hecho, para hacerlo simple, les daré dos o tres datos.
+
+1250
+01:12:52,400 --> 01:12:54,320
+y de esa manera podrás hacer preguntas más fácilmente.
+
+1251
+01:12:55,040 --> 01:12:57,960
+Gracias a la IA que creé, me di cuenta de que había una asimetría.
+
+1252
+01:12:58,840 --> 01:13:02,880
+Es decir, en este producto específico, en realidad hay cinco tarjetas hoy en día.
+
+1253
+01:13:03,400 --> 01:13:08,400
+accesible. Hay diferentes colores, azul, verde, el fondo en realidad está detrás del Pikachu.
+
+1254
+01:13:08,440 --> 01:13:09,360
+es de diferentes colores.
+
+1255
+01:13:09,560 --> 01:13:13,559
+Y hay uno llamado holo holográfico que significa que es brillante.
+
+1256
+01:13:13,679 --> 01:13:15,039
+y eso es lo más valioso.
+
+1257
+01:13:15,120 --> 01:13:16,599
+Este es siempre el caso en las cartas Pokémon.
+
+1258
+01:13:16,840 --> 01:13:19,440
+No vamos a hacer ahora un curso de cartas Pokémon, te lo aseguro.
+
+1259
+01:13:19,800 --> 01:13:23,600
+Pero hay una rareza. Hay cartas que no valen absolutamente nada, cartas que
+
+1260
+01:13:23,600 --> 01:13:25,520
+vale algo de dinero. y mapas.
+
+1261
+01:13:25,960 --> 01:13:29,639
+Hay una tarjeta Charizard PSA 10.
+
+1262
+01:13:29,639 --> 01:13:33,199
+Significa PSA, es el nivel de calidad de una tarjeta.
+
+1263
+01:13:33,199 --> 01:13:34,199
+Ella es absolutamente perfecta.
+
+1264
+01:13:34,199 --> 01:13:38,760
+Ella no tiene defectos. Fue validado por un servicio llamado PSA que es global.
+
+1265
+01:13:39,040 --> 01:13:40,280
+y quién valida las tarjetas.
+
+1266
+01:13:40,719 --> 01:13:43,800
+Y así, una tarjeta realmente puede generar ahorros en cualquier cosa.
+
+1267
+01:13:44,040 --> 01:13:46,920
+Esto es y puedo decirles que esta economía es muy grande hoy.
+
+1268
+01:13:47,159 --> 01:13:48,320
+Estamos hablando de decenas de miles de millones.
+
+1269
+01:13:48,719 --> 01:13:54,000
+Y hay una tarjeta que se vendió por 1 millón de dólares estadounidenses, no por 1 millón. Vale
+
+1270
+01:13:54,000 --> 01:13:54,920
+un millón de dólares eso.
+
+1271
+01:13:54,920 --> 01:13:56,599
+No, ese no, ese no.
+
+1272
+01:13:56,960 --> 01:13:58,760
+Entonces ésta es la asimetría.
+
+1273
+01:13:58,960 --> 01:14:00,079
+Por eso quería hablarte sobre la simetría.
+
+1274
+01:14:00,239 --> 01:14:02,000
+Ves esta tarjeta, está abierta.
+
+1275
+01:14:02,800 --> 01:14:04,559
+Eso significa que todavía hay plástico por ahí.
+
+1276
+01:14:05,000 --> 01:14:08,119
+Está bien. Este plástico te lo explicaré rápidamente.
+
+1277
+01:14:08,639 --> 01:14:12,840
+De hecho, batique es un concepto creado por los japoneses, así que aquí Pokémon
+
+1278
+01:14:12,840 --> 01:14:16,199
+Empresa, lo siento. Y dijeron, tenemos un mercado llamado Indonesia que
+
+1279
+01:14:16,199 --> 01:14:18,559
+está explotando en las cartas de Pokémon pero tenemos un problema.
+
+1280
+01:14:19,120 --> 01:14:21,880
+A Indonesia le gusta hacer falsificaciones.
+
+1281
+01:14:22,719 --> 01:14:26,120
+Entonces comenzaron a aparecer tarjetas falsificadas que se vendían incluso en
+
+1282
+01:14:26,120 --> 01:14:29,600
+bañador. Incluso en los centros comerciales de Indonesia, a veces encuentras artículos falsos.
+
+1283
+01:14:29,600 --> 01:14:30,600
+productos en baúles.
+
+1284
+01:14:30,600 --> 01:14:32,119
+No sé si te das cuenta de esto.
+
+1285
+01:14:32,840 --> 01:14:34,800
+Entonces la Compañía Pokémon para las bolsas Hermes.
+
+1286
+01:14:34,800 --> 01:14:38,239
+Es lo mismo de hecho tienen el mismo problema que una tarjeta de cartón de hecho
+
+1287
+01:14:38,239 --> 01:14:39,360
+tienes falsificaciones Exacto.
+
+1288
+01:14:39,360 --> 01:14:43,880
+Exactamente. Entonces lo que pasó fue que dijeron, la Compañía Pokémon
+
+1289
+01:14:43,880 --> 01:14:45,480
+Dijo que Indonesia es un mercado especial.
+
+1290
+01:14:45,719 --> 01:14:50,480
+Debemos fabricar las tarjetas nosotros mismos, ciertamente no debemos abrir una fábrica en Indonesia,
+
+1291
+01:14:50,719 --> 01:14:51,800
+los haremos nosotros mismos.
+
+1292
+01:14:51,800 --> 01:14:52,960
+Los enviaremos a Indonesia.
+
+1293
+01:14:53,679 --> 01:14:56,599
+Y dijeron, como es un mercado enorme, vamos a crear cosas bonitas para los indonesios.
+
+1294
+01:14:56,760 --> 01:14:58,400
+porque allí no hay trabajo.
+
+1295
+01:14:58,639 --> 01:15:01,639
+De hecho, sí, se está creando una economía, así que sí, tengan la seguridad.
+
+1296
+01:15:02,400 --> 01:15:07,760
+Um, debes saber que Pikachu Batique es una de las únicas cartas en la historia de
+
+1297
+01:15:07,760 --> 01:15:10,200
+La compañía Pokémon es tan cultural.
+
+1298
+01:15:10,400 --> 01:15:13,000
+Espera, me dijiste un minuto para tu presentación, discúlpame, pero aquí estamos.
+
+1299
+01:15:13,000 --> 01:15:15,360
+Ya son alrededor de las 2h30.
+
+1300
+01:15:16,679 --> 01:15:21,440
+No, mi objetivo era entender a grandes rasgos cuál es tu proyecto con eso y bueno la simetría.
+
+1301
+01:15:21,440 --> 01:15:23,079
+Estaba hablando de eso pero de repente me interrumpiste.
+
+1302
+01:15:24,000 --> 01:15:25,079
+En realidad, hagámoslo simple.
+
+1303
+01:15:25,600 --> 01:15:29,680
+Estas tarjetas valen la pena, dame una de las que llamamos evaluaciones de tono.
+
+1304
+01:15:29,800 --> 01:15:32,880
+Es que efectivamente estás en el ascensor, tienes sí sí, tienes 20 segundos.
+
+1305
+01:15:33,080 --> 01:15:36,360
+Hola Sr. Raphaël, estoy muy feliz de conocerlo hoy.
+
+1306
+01:15:36,520 --> 01:15:37,800
+Este es mi proyecto pikachumatic.com.
+
+1307
+01:15:38,920 --> 01:15:41,119
+Identificamos un proyecto, algo importante.
+
+1308
+01:15:41,280 --> 01:15:46,080
+Nos dimos cuenta de que esta carta, estas cartas, estas cinco cartas tenían un valor
+
+1309
+01:15:46,080 --> 01:15:49,840
+mucho más importantes en Occidente que en Indonesia, donde se venden.
+
+1310
+01:15:50,400 --> 01:15:54,360
+Para que te hagas una idea, esta tarjeta vale 300.000 rupias, lo que supone 15€.
+
+1311
+01:15:54,960 --> 01:15:56,680
+Éste un poquito más, ya está.
+
+1312
+01:15:56,719 --> 01:16:01,599
+Pero aquí en Indonesia la media cuesta entre 15 y 100 euros por tarjeta.
+
+1313
+01:16:02,280 --> 01:16:08,120
+Sólo que éste, que vale 15 euros, se puede vender hoy por entre 80 y 100 euros en Francia.
+
+1314
+01:16:08,120 --> 01:16:10,040
+en este momento cuando casi 10 veces más qué.
+
+1315
+01:16:10,040 --> 01:16:13,040
+Bastante. Y el precio sigue aumentando cada mes.
+
+1316
+01:16:13,040 --> 01:16:16,599
+Tenemos un sitio en el que de repente te dijiste que tienes un Hay un negocio.
+
+1317
+01:16:16,600 --> 01:16:19,120
+Bueno. Y entonces ¿qué hiciste?
+
+1318
+01:16:19,120 --> 01:16:20,880
+Entonces tienes Ah, bueno, hice algo muy simple.
+
+1319
+01:16:20,880 --> 01:16:24,599
+Dije eso, repetí que no soy en absoluto un experto en negocios ni en ningún otro lugar.
+
+1320
+01:16:24,600 --> 01:16:29,040
+en ench. Entonces lo que hice, el objetivo de esta conversación en realidad,
+
+1321
+01:16:29,040 --> 01:16:31,199
+Especifico a quién tengo Sí. Sí.
+
+1322
+01:16:31,199 --> 01:16:33,320
+que habla de un tema sobre el cual no tengo absolutamente nada que decir eh.
+
+1323
+01:16:33,320 --> 01:16:36,320
+Pero por ahora pero por eso estás en modo estás en modo te lo dije
+
+1324
+01:16:36,320 --> 01:16:37,320
+Habías entrado en modo periodista.
+
+1325
+01:16:38,239 --> 01:16:43,080
+Um, entonces lo que hicimos lo que hice con la inteligencia artificial, lo
+
+1326
+01:16:43,080 --> 01:16:47,120
+usado uh espera hasta que te diga algo estúpido, usé a Claude para esto para esto
+
+1327
+01:16:47,120 --> 01:16:49,639
+este proyecto. Es un proyecto completamente paralelo.
+
+1328
+01:16:49,639 --> 01:16:50,800
+Es sólo por diversión, para divertirse.
+
+1329
+01:16:50,840 --> 01:16:52,639
+Me hace reír. A mí me encanta coleccionar cosas.
+
+1330
+01:16:52,639 --> 01:16:54,719
+Colecciono figuritas, colecciono cartas de Dragon Ball.
+
+1331
+01:16:54,719 --> 01:16:58,639
+Ahí lo tienes, me encanta. Y entonces me dije bueno voy a coger estas tarjetas, voy a comprar unas
+
+1332
+01:16:58,679 --> 01:17:02,239
+aquí sellados por lo tanto con el plástico todavía alrededor porque estos son los que tienen más
+
+1333
+01:17:02,239 --> 01:17:04,239
+de valor para vender. Y los voy a vender en Francia.
+
+1334
+01:17:04,239 --> 01:17:09,400
+En Francia. Entonces creé un sitio web en literalmente 2 horas, que es hoy.
+
+1335
+01:17:09,400 --> 01:17:12,840
+el sitio web específico sobre Pikachu Bati que es el mejor del mundo.
+
+1336
+01:17:13,199 --> 01:17:16,760
+Entonces. Y podría decirte para que puedas ¿qué significa entonces qué significa?
+
+1337
+01:17:16,760 --> 01:17:17,760
+¿Qué hiciste con Liam?
+
+1338
+01:17:17,760 --> 01:17:19,760
+Tienes porque tengo hay envío.
+
+1339
+01:17:19,760 --> 01:17:22,079
+Por último también hay que enviar las tarjetas.
+
+1340
+01:17:22,080 --> 01:17:23,120
+Aún no hemos llegado a ese punto. Está bien.
+
+1341
+01:17:23,120 --> 01:17:25,239
+Sólo está en el Sí.
+
+1342
+01:17:25,239 --> 01:17:29,440
+Hoy, en cualquier caso, tienes el sitio, aquí está finalmente el sitio g pe pay con stripe
+
+1343
+01:17:29,440 --> 01:17:32,520
+en cualquier caso con un sistema de pago ligau que por el momento es más sencillo.
+
+1344
+01:17:32,600 --> 01:17:35,559
+Por ahora nos encontramos en la fase cero, la fase de prueba de mercado.
+
+1345
+01:17:36,120 --> 01:17:39,800
+Así que ya vendí mis primeras tarjetas en eBay de forma muy sencilla.
+
+1346
+01:17:40,199 --> 01:17:44,800
+No, Pikachucom es un sitio web que atraerá personas a este producto específico.
+
+1347
+01:17:44,800 --> 01:17:48,039
+Cada vez hay más gente a nivel internacional escribiendo palabras clave BATIC de Pikachu
+
+1348
+01:17:48,040 --> 01:17:51,079
+porque quieren esta tarjeta específicamente y quieren tener información.
+
+1349
+01:17:51,520 --> 01:17:52,599
+Esta es una tarjeta muy especial.
+
+1350
+01:17:52,840 --> 01:17:56,280
+Cada 6 meses, hay una nueva tarjeta que sale aquí en Indonesia en
+
+1351
+01:17:56,280 --> 01:18:00,480
+una ciudad diferente. Y tienes que saber algo, para tener esta tarjeta, tienes que ser
+
+1352
+01:18:00,880 --> 01:18:06,440
+en el gran día del evento. Es decir, no puedes comprarlo online, no puedes conseguirlo.
+
+1353
+01:18:06,800 --> 01:18:11,360
+Usted si desea esta tarjeta en el momento en que es un sitio que reunirá los eventos
+
+1354
+01:18:11,840 --> 01:18:13,120
+donde es probable que se encuentre la tarjeta.
+
+1355
+01:18:13,120 --> 01:18:16,679
+Absolutamente. Y sobre todo, es un sitio donde compraré tantas tarjetas como sea posible y
+
+1356
+01:18:16,679 --> 01:18:19,960
+Los revenderé a personas que se comunicarán conmigo a través del sitio.
+
+1357
+01:18:20,199 --> 01:18:23,520
+Entonces, en pocas palabras, fue solo un ejemplo concreto de un portal de información sobre
+
+1358
+01:18:23,520 --> 01:18:28,040
+en bases de datos, me imagino que recuperas, entonces de hecho tengo que recuperar el
+
+1359
+01:18:28,040 --> 01:18:29,160
+datos, imagino eventos.
+
+1360
+01:18:29,760 --> 01:18:32,119
+¿Cómo sabes que la tarjeta tiene este evento exactamente?
+
+1361
+01:18:32,560 --> 01:18:36,600
+De hecho, conecté al agente de IA que está trabajando en este proyecto.
+
+1362
+01:18:36,600 --> 01:18:39,039
+Lo conecté a una base de datos Pokémon porque.
+
+1363
+01:18:39,600 --> 01:18:42,119
+De hecho, tienen una web donde ponen la lista completa de eventos.
+
+1364
+01:18:42,159 --> 01:18:45,400
+Entonces, le digo al agente que vaya todas las semanas para verificar la información más reciente.
+
+1365
+01:18:45,440 --> 01:18:49,800
+sobre los temas y sobre todo le digo “Comprueba las palabras clave Indonesia solo
+
+1366
+01:18:50,280 --> 01:18:54,639
+porque es algo muy global, todavía no está segmentado por país". Se convertirá,
+
+1367
+01:18:54,639 --> 01:18:57,120
+al parecer hablaron de ello recientemente así debería ser.
+
+1368
+01:18:57,120 --> 01:19:01,920
+Y también está conectado a un boletín de recogida especial totalmente automatizado.
+
+1369
+01:19:02,040 --> 01:19:05,800
+¿O le pides que actualice cada vez o se actualiza?
+
+1370
+01:19:05,800 --> 01:19:09,679
+automáticamente? Ahora tengo tareas recurrentes. Tengo tareas recurrentes que
+
+1371
+01:19:09,679 --> 01:19:13,440
+obtendrá sus datos, recibirá los boletines y luego me enviará
+
+1372
+01:19:13,480 --> 01:19:17,159
+por el momento no esta 100% automatizado, no les voy a mentir me manda "¿Por qué?"
+
+1373
+01:19:17,159 --> 01:19:18,440
+¿No está 100% automatizado?
+
+1374
+01:19:18,440 --> 01:19:19,800
+Está en progreso. Lo voy paso a paso.
+
+1375
+01:19:19,800 --> 01:19:21,800
+Sabes, siempre me enseñaron un negocio.
+
+1376
+01:19:21,800 --> 01:19:24,280
+Vengo del mundo de... No digo, ¿es posible?
+
+1377
+01:19:24,440 --> 01:19:26,000
+¿Es posible? Creo que es posible.
+
+1378
+01:19:26,280 --> 01:19:27,520
+Es posible. Vi del mundo de las startups.
+
+1379
+01:19:27,520 --> 01:19:28,440
+Así que lo voy paso a paso.
+
+1380
+01:19:28,440 --> 01:19:31,480
+Lo mantengo lo más simple posible. Cuando dices comercio electrónico, no lo necesitamos.
+
+1381
+01:19:31,480 --> 01:19:33,880
+Lo que quiero es que alguien me envíe un mensaje, quiero esta tarjeta.
+
+1382
+01:19:33,880 --> 01:19:35,159
+¿Cuánto cuesta? Eso es todo.
+
+1383
+01:19:35,159 --> 01:19:37,920
+Pero en cualquier caso, si quieres cartas de Pikachu batic, Réy es a quien debes llamar.
+
+1384
+01:19:37,920 --> 01:19:39,199
+Ah, de hecho es un momento publicitario.
+
+1385
+01:19:39,199 --> 01:19:40,199
+No entendí. Está bien.
+
+1386
+01:19:40,199 --> 01:19:43,960
+Todo esto está patrocinado por Réy, su nueva empresa que vende Pokémon.
+
+1387
+01:19:44,719 --> 01:19:48,119
+Quieres que me despidan por vender mis cosas.
+
+1388
+01:19:48,199 --> 01:19:52,119
+Ofreceré tarjetas al equipo si la historia es básicamente que hiciste esto con
+
+1389
+01:19:52,159 --> 01:19:55,760
+Si bien no sabes cómo codificar en primer lugar, citamos, entonces ten cuidado, no.
+
+1390
+01:19:55,760 --> 01:20:00,040
+No puedo decir que no sé codificar. Eso sería mentirle a mi audiencia. Lo hice.
+
+1391
+01:20:00,040 --> 01:20:04,560
+conceptos básicos en código principalmente HTML CSS y Ruby para aquellos que saben, pero estos son
+
+1392
+01:20:04,560 --> 01:20:08,679
+conceptos básicos básicos. Ahí es donde todavía eres capaz, lo sé, lo sé.
+
+1393
+01:20:08,679 --> 01:20:11,320
+leer un código HTML CSS en Ruby, eso es todo.
+
+1394
+01:20:12,080 --> 01:20:15,880
+Pero no soy un experto en absoluto comparado incluso con un desarrollador promedio.
+
+1395
+01:20:16,040 --> 01:20:22,360
+Estoy muy abajo. ¿Alguien que creas que puede hacer puede hacerlo?
+
+1396
+01:20:22,360 --> 01:20:25,520
+lo mismo que tu? Muy buena pregunta.
+
+1397
+01:20:26,120 --> 01:20:29,159
+Sí, podría. El problema es que pasaría mucho más tiempo porque
+
+1398
+01:20:29,159 --> 01:20:31,440
+que tengo conocimientos del campo de los mapas.
+
+1399
+01:20:31,440 --> 01:20:32,239
+Tengo conocimientos de Pokémon.
+
+1400
+01:20:32,239 --> 01:20:37,360
+Sí, pero claro. No, pero no soy sólo tú, uh, en otro, en otras cartas, un
+
+1401
+01:20:37,360 --> 01:20:40,000
+tipo apasionado por las tarjetas de béisbol, no lo sé.
+
+1402
+01:20:40,000 --> 01:20:43,719
+Ah, pero hay un mercado de tarjetas que actualmente está completamente loco.
+
+1403
+01:20:43,719 --> 01:20:46,800
+de diferentes campos. De momento, lo que mejor funciona obviamente es One Piece.
+
+1404
+01:20:46,800 --> 01:20:50,200
+lo cual es muy conocido porque bueno es un manga que explotó y un anime que explotó.
+
+1405
+01:20:50,600 --> 01:20:54,040
+Dragon Ball sigue siendo muy poderoso, Pokémon es excepcional pero te lo aconsejo
+
+1406
+01:20:54,040 --> 01:20:57,960
+Pido disculpas por especializarme en tarjetas específicas porque hay
+
+1407
+01:20:57,960 --> 01:21:00,680
+Tiene demasiadas cartas. No se puede coleccionar todo, es imposible y venderlo todo.
+
+1408
+01:21:01,159 --> 01:21:04,000
+Pero si si hay un mercado enorme de tarjetas en lo que veo en cualquier caso es
+
+1409
+01:21:04,000 --> 01:21:09,360
+que efectivamente lo interesante es que uh para que cada individuo pueda
+
+1410
+01:21:09,360 --> 01:21:14,240
+en algún lugar conviértete en emprendedor hoy y comienza tu propio negocio.
+
+1411
+01:21:14,280 --> 01:21:19,560
+En cualquier caso, nos da extensiones de poder que no necesariamente teníamos antes.
+
+1412
+01:21:19,560 --> 01:21:23,480
+Antes de tener una idea, la idea tenía que ser buena, pero a menudo después de eso es
+
+1413
+01:21:23,480 --> 01:21:27,280
+ejecución. Bueno, pero después de la ejecución tenías que ser desarrollador asociado.
+
+1414
+01:21:28,040 --> 01:21:30,560
+tenías que ser alguien que diseña y posiblemente alguien que sea
+
+1415
+01:21:30,560 --> 01:21:33,800
+bueno en marketing y ahí clon me acompañó en todas las etapas etcétera etcétera
+
+1416
+01:21:33,880 --> 01:21:38,679
+en referencia, entonces la ventaja es que, en realidad, con la IA puedes hacerlo solo
+
+1417
+01:21:38,679 --> 01:21:42,599
+en tu habitación en algún lugar preparando tu negocio de tarjetas Pokémon y Claude me acompañó
+
+1418
+01:21:42,639 --> 01:21:44,080
+hasta la creación del nombre de dominio.
+
+1419
+01:21:44,080 --> 01:21:47,199
+Entonces sabía cómo hacerlo pero él me dio la mejor de las mejores herramientas, no es así.
+
+1420
+01:21:47,199 --> 01:21:48,800
+obvio. Hay mucha gente que no sabe cómo hacerlo.
+
+1421
+01:21:49,239 --> 01:21:52,920
+Para mí sigue siendo complicado, no es complicado, pero propongo que algún día
+
+1422
+01:21:52,920 --> 01:21:55,280
+Estamos haciendo un video donde les muestro exactamente cómo lo hice.
+
+1423
+01:21:55,280 --> 01:21:56,000
+Podría ser súper interesante.
+
+1424
+01:21:56,000 --> 01:21:58,000
+Y también compartirás conmigo cómo hiciste el libro.
+
+1425
+01:21:58,000 --> 01:22:00,800
+Eso me interesa. Entonces, cambiemos de tema por completo.
+
+1426
+01:22:00,960 --> 01:22:03,200
+La guerra de agentes, volvemos al modo tradicional.
+
+1427
+01:22:04,320 --> 01:22:06,880
+Um, quiero hablar sobre la guerra de agentes.
+
+1428
+01:22:06,920 --> 01:22:09,760
+Página de publicidad de todos modos. Disculpe, duró un cuarto de hora, eh.
+
+1429
+01:22:09,760 --> 01:22:11,400
+Tú, ¿de verdad quieres que me despidan?
+
+1430
+01:22:13,159 --> 01:22:18,400
+Entonces, de repente, la guerra de los agentes Claude Code dipsy y los invisibles, llamé
+
+1431
+01:22:18,400 --> 01:22:22,160
+esa parte. Tengo una primera pregunta que hacerte sobre este tema porque bueno
+
+1432
+01:22:22,199 --> 01:22:25,880
+No creo que vaya a aprender de ti que realmente estamos en una guerra.
+
+1433
+01:22:25,880 --> 01:22:28,760
+Actualmente en IA para modelos pero también en agentes.
+
+1434
+01:22:29,040 --> 01:22:32,920
+Todos los modelos y agentes quieren dominar el mundo y quieren tener lo máximo.
+
+1435
+01:22:32,920 --> 01:22:36,600
+posibles clientes. Es lógico, detrás hay mucha financiación, mucho
+
+1436
+01:22:36,600 --> 01:22:42,639
+de inversores. ¿Crees que nos dirigimos hacia un mundo donde finalmente
+
+1437
+01:22:42,920 --> 01:22:48,159
+el ser humano será más que un conductor que no necesariamente o ya no necesariamente comprenderá
+
+1438
+01:22:48,159 --> 01:22:49,920
+¿Sus instrumentos, sus herramientas?
+
+1439
+01:22:52,239 --> 01:22:55,920
+Entonces, es una pregunta un poco general con respecto a la tecnología.
+
+1440
+01:22:56,960 --> 01:23:02,880
+Uh, yo, mi abuelo, cuando tenía muchos autos en su garaje porque
+
+1441
+01:23:02,880 --> 01:23:04,440
+que mis tíos eran pilotos de rally.
+
+1442
+01:23:04,440 --> 01:23:08,559
+Entonces como no lo somos, no necesariamente recibe mucho dinero, ya que estábamos fabricando.
+
+1443
+01:23:08,560 --> 01:23:14,280
+Nuestro Finalmente tomó un auto y luego lo desarmó, lo desarmó, etcétera.
+
+1444
+01:23:14,280 --> 01:23:18,360
+Pero lo que mi abuelo le había enseñado a mi padre era
+
+1445
+01:23:19,040 --> 01:23:23,200
+Cuando toma el auto, lo desarma todo y luego lo vuelves a armar.
+
+1446
+01:23:23,679 --> 01:23:27,199
+Así es como puedes hacerlo hoy, realmente no puedes hacerlo con Teslas, ¿verdad?
+
+1447
+01:23:27,199 --> 01:23:29,960
+ver ? Porque en realidad ya no sabes lo que hay dentro de esta máquina.
+
+1448
+01:23:29,960 --> 01:23:33,599
+en algún lugar. Luego además una gran parte en la nube por lo tanto en la nube.
+
+1449
+01:23:34,320 --> 01:23:37,480
+Entonces podemos ver que después de un tiempo inevitablemente se pierde con la electrónica.
+
+1450
+01:23:37,800 --> 01:23:41,240
+se pierde conocimiento, de hecho conocimiento directo en cualquier caso.
+
+1451
+01:23:41,440 --> 01:23:43,720
+Después puedes ser hipertécnico y así sucesivamente.
+
+1452
+01:23:43,920 --> 01:23:49,119
+claro, pero la tecnología hace que poco a poco nos vayamos desconectando un poco de la realidad eh
+
+1453
+01:23:49,239 --> 01:23:53,760
+En todo caso. Y yo diría que eso es lo que puede pasar con la IA.
+
+1454
+01:23:53,760 --> 01:23:56,160
+Por el momento, la IA todavía está haciendo algunos retoques.
+
+1455
+01:23:56,239 --> 01:23:59,039
+Así entendemos cómo funcionan los modelos lingüísticos.
+
+1456
+01:23:59,440 --> 01:24:03,119
+Entendemos cómo comienza un modelo de lenguaje que es el modelo de IA,
+
+1457
+01:24:03,800 --> 01:24:07,800
+Al igual que Opus 4.7, es un modelo de lenguaje que entra en una plataforma llamada Nube.
+
+1458
+01:24:08,440 --> 01:24:11,800
+Entonces, hay contexto, etcétera, herramientas, conectores, cómo todo
+
+1459
+01:24:11,800 --> 01:24:16,120
+es una caja. Y de momento, también gracias al código abierto, podemos conseguir
+
+1460
+01:24:16,120 --> 01:24:17,120
+entender lo que está pasando.
+
+1461
+01:24:17,120 --> 01:24:21,400
+Entonces Claude, también podemos pedirle que nos lea un documento de código abierto.
+
+1462
+01:24:21,400 --> 01:24:22,800
+para ver cómo funciona todo.
+
+1463
+01:24:22,800 --> 01:24:24,960
+De hecho, podemos llegar a comprenderlo.
+
+1464
+01:24:25,000 --> 01:24:27,920
+¿Poco a poco iremos perdiendo la consciencia?
+
+1465
+01:24:27,920 --> 01:24:30,440
+Tal vez. En cualquier caso, existe riesgo de opacidad.
+
+1466
+01:24:30,840 --> 01:24:35,800
+Es sobre todo yo el principal riesgo que veo, es sobre todo el es el es el
+
+1467
+01:24:35,800 --> 01:24:41,960
+Concentración de estos poderes en unas pocas uh poderosas que son las empresas.
+
+1468
+01:24:42,760 --> 01:24:46,159
+¿Está bien ceder poder sobre algo?
+
+1469
+01:24:46,159 --> 01:24:52,639
+Don Disculpe en general, sea cual sea el futuro, tenemos una tecnología que
+
+1470
+01:24:52,639 --> 01:24:57,600
+Algunos dicen que destruirá a la humanidad o Algunos dicen que acabará con todo.
+
+1471
+01:24:57,600 --> 01:24:59,480
+empleos o no o no.
+
+1472
+01:25:00,040 --> 01:25:05,600
+Pero sea o no, invertimos miles de millones en ello e invertimos en sumas que
+
+1473
+01:25:05,600 --> 01:25:09,080
+nunca ha invertido antes, excepto quizás para una guerra nuclear, bueno para
+
+1474
+01:25:09,080 --> 01:25:15,119
+armas nucleares. Y entonces nosotros no puedo decir que no podemos decirnos a nosotros mismos tanto
+
+1475
+01:25:15,119 --> 01:25:21,119
+de dinero invertido con una apuesta tan alta pero con una probabilidad de que lleguemos allí que todos queremos
+
+1476
+01:25:21,119 --> 01:25:24,440
+ir hacia la superinteligencia y es más queremos ir allí porque de lo contrario China
+
+1477
+01:25:24,440 --> 01:25:28,199
+vamos a ir allí y luego Europa está en el medio tratando de regular todo eso un poco, pero
+
+1478
+01:25:28,199 --> 01:25:32,680
+Básicamente, Estados Unidos está haciendo todo lo posible y China está haciendo todo lo posible, por lo que todo eso se está acelerando.
+
+1479
+01:25:33,800 --> 01:25:35,679
+con el objetivo de llegar allí.
+
+1480
+01:25:35,679 --> 01:25:38,520
+Por eso algunos dicen que sí, que nunca alcanzaremos la superinteligencia antes de 40 años.
+
+1481
+01:25:38,520 --> 01:25:42,000
+No sabemos nada al respecto, pero todo el dinero está invertido para lograrlo, en cualquier caso,
+
+1482
+01:25:42,000 --> 01:25:44,760
+hacemos todo lo que hacemos, hacemos todo lo necesario para avanzar hacia la sustitución de la humanidad
+
+1483
+01:25:44,920 --> 01:25:48,440
+o no una vez más digo o no pero como hay mucho dinero y sobre todo esto
+
+1484
+01:25:48,440 --> 01:25:54,040
+El dinero se concentra entre unas pocas potencias y la energía nuclear se entrega a una.
+
+1485
+01:25:54,040 --> 01:25:57,960
+cierto número de empresas, una de las cuales está dirigida por un tal Samaltman, no le confiaré
+
+1486
+01:25:57,960 --> 01:26:03,760
+mi hermanita ya ves y de hecho y demás le hicimos un vídeo de Marc Zuckerberg
+
+1487
+01:26:03,920 --> 01:26:09,159
+que tiene una moral límite al igual que Elon Mcre. Una vez, no tengo nada en contra de esta gente,
+
+1488
+01:26:09,159 --> 01:26:12,840
+pero ya ve, en algún lugar, yo diría, estamos obligados a examinar si estas personas
+
+1489
+01:26:12,920 --> 01:26:16,080
+¿Tienes los hombros éticos para sostener algo tan importante?
+
+1490
+01:26:16,080 --> 01:26:18,840
+Pues no, qué. Bueno, tal vez en el trópico un poco más, tienen ética pero
+
+1491
+01:26:18,840 --> 01:26:19,880
+Finalmente, todavía tienen accionistas.
+
+1492
+01:26:20,560 --> 01:26:23,719
+Y luego tal vez después de un tiempo, este poder no podrá permanecer entre nosotros.
+
+1493
+01:26:23,719 --> 01:26:25,400
+las manos de sus cajas. Vamos a tener que nacionalizarlos.
+
+1494
+01:26:25,960 --> 01:26:27,400
+Quizás en Estados Unidos esto suceda.
+
+1495
+01:26:27,400 --> 01:26:30,800
+No lo sabemos. Pero en alguna parte lo que me preocupa es la concentración de poderes.
+
+1496
+01:26:30,840 --> 01:26:37,400
+con tal economía, y existencial tal vez también y
+
+1497
+01:26:37,400 --> 01:26:40,080
+La geopolítica también también entre unas pocas casillas.
+
+1498
+01:26:40,080 --> 01:26:41,280
+Eso es más lo que me preocupa.
+
+1499
+01:26:41,840 --> 01:26:43,400
+Entonces, ¿de qué nos van a despojar?
+
+1500
+01:26:43,400 --> 01:26:46,680
+Creo que el riesgo en cualquier caso y la vigilancia que hay que tener es que el individuo
+
+1501
+01:26:47,600 --> 01:26:50,400
+y sociedades, veamos Europa, porque por el momento Europa estamos en medio de
+
+1502
+01:26:50,400 --> 01:26:53,440
+Esta cosa no tiene mucho que dar, vamos a hablar de ello.
+
+1503
+01:26:53,520 --> 01:26:57,320
+Um, corremos el riesgo de ser desposeídos de la tecnología.
+
+1504
+01:26:57,760 --> 01:27:02,400
+por el momento el más poderoso que la humanidad haya producido potencialmente.
+
+1505
+01:27:02,719 --> 01:27:04,360
+Bastante. Es a nivel nuclear.
+
+1506
+01:27:04,360 --> 01:27:07,200
+Mucha gente dice que está en el nivel de electricidad.
+
+1507
+01:27:07,400 --> 01:27:13,000
+Es decir que mañana vendemos inteligencia como vendemos nos conectaremos con la inteligencia.
+
+1508
+01:27:13,239 --> 01:27:14,360
+mientras nos conectamos a la corriente.
+
+1509
+01:27:14,719 --> 01:27:17,880
+Bueno, pero ¿la pregunta es si la electricidad es un bien común o no?
+
+1510
+01:27:17,880 --> 01:27:19,040
+¿Es el agua un bien común o no?
+
+1511
+01:27:19,040 --> 01:27:21,800
+Finalmente, estos son pensamientos sobre los que bailamos recientemente.
+
+1512
+01:27:22,119 --> 01:27:28,000
+Uh, entonces surge la pregunta de quién es el dueño de este poder, que es particularmente
+
+1513
+01:27:31,639 --> 01:27:34,559
+cambiador de empresa. Hablaste de Europa.
+
+1514
+01:27:34,840 --> 01:27:38,360
+Así que me gusta mucho este tema porque mucha gente piensa que Europa es
+
+1515
+01:27:38,360 --> 01:27:39,960
+completamente en la calle con inteligencia artificial.
+
+1516
+01:27:40,000 --> 01:27:44,960
+Yo soy de los que dicen exactamente lo contrario uh con información, con
+
+1517
+01:27:44,960 --> 01:27:49,200
+datos eh, no sólo porque estoy feliz de ser francés y europeo.
+
+1518
+01:27:49,760 --> 01:27:51,400
+Eh, sin embargo, vivo, vivo muy lejos.
+
+1519
+01:27:52,280 --> 01:27:57,320
+No, pero volviendo más concretamente al tema de Mistral, ahí lo tenéis, Mistral y quién.
+
+1520
+01:27:57,320 --> 01:28:03,159
+es un poco como el unicornio, el cuerno aquí es de mil millones, 10 mil millones, etcétera, que es
+
+1521
+01:28:03,159 --> 01:28:08,440
+un poco como el gran proyecto europeo que, en cualquier caso, parece ser por el momento el único capaz
+
+1522
+01:28:08,480 --> 01:28:12,840
+de quizás ahí lo tienes, pongo muchas comillas eh, de quizás rivalizar con un
+
+1523
+01:28:12,840 --> 01:28:16,560
+día con los más grandes modelos americanos y chinos y otros en otros lugares porque
+
+1524
+01:28:16,560 --> 01:28:18,440
+que los japoneses también entren en juego.
+
+1525
+01:28:18,440 --> 01:28:22,920
+y los coreanos están empezando a invertir mucho y otros en todo el mundo.
+
+1526
+01:28:22,960 --> 01:28:24,480
+¿Es Medio Oriente también?
+
+1527
+01:28:24,480 --> 01:28:25,560
+Sí, Medio Oriente, por supuesto.
+
+1528
+01:28:25,560 --> 01:28:27,280
+Entonces, tienen otros problemas en este momento, pero sí.
+
+1529
+01:28:27,880 --> 01:28:32,840
+Uh Mistral ha firmado acuerdos en toda Europa recientemente, realmente todas las semanas.
+
+1530
+01:28:32,880 --> 01:28:37,119
+Cada 10 a 15 días, tengo una nueva oferta importante que aparece en mi boletín.
+
+1531
+01:28:37,159 --> 01:28:40,440
+específico vinculado a Francia y Europa sobre IA.
+
+1532
+01:28:42,280 --> 01:28:47,920
+Y sin embargo, al mismo tiempo, me gusta, al mismo tiempo, nadie parece realmente
+
+1533
+01:28:47,920 --> 01:28:50,920
+Conozco esta herramienta y nadie parece utilizarla también.
+
+1534
+01:28:50,920 --> 01:28:51,960
+Tienes que ser honesto.
+
+1535
+01:28:52,880 --> 01:28:57,679
+¿Cree que es un poco una estrategia para convertirse en el intelectual de Europa?
+
+1536
+01:28:57,679 --> 01:29:01,240
+o más bien tendría que esforzarse un poco para competir realmente
+
+1537
+01:29:01,440 --> 01:29:03,119
+¿Los grandes mastonodondes del mercado?
+
+1538
+01:29:03,960 --> 01:29:07,720
+Bueno, el principal problema de Mustral es el nivel de inversión.
+
+1539
+01:29:08,000 --> 01:29:10,519
+Es porque no tienen el nivel de inversión.
+
+1540
+01:29:11,320 --> 01:29:15,920
+que tenemos modelos chinos muy altos pero muy por debajo es simplemente muy bajo es
+
+1541
+01:29:15,920 --> 01:29:19,040
+cierto, muy alto, está bien, pero muy bajo, de hecho, fundamentalmente en comparación con esto.
+
+1542
+01:29:19,040 --> 01:29:22,440
+lo cual es sorprendente porque, al mismo tiempo, Europa no es una economía pequeña, por lo que
+
+1543
+01:29:22,440 --> 01:29:27,400
+También existe el problema de que no hay suficiente inversión en Europa en comparación con
+
+1544
+01:29:27,800 --> 01:29:31,600
+su PIB en alguna parte, así que yo diría que decimos que sí, es Europa, Europa somos pequeños.
+
+1545
+01:29:31,600 --> 01:29:35,920
+No somos pequeños en comparación con Estados Unidos en comparación con China
+
+1546
+01:29:35,920 --> 01:29:41,119
+Francia es pequeña, por lo que en alguna parte hay una inconsistencia en todo y
+
+1547
+01:29:41,119 --> 01:29:44,679
+y uno que también esté vinculado al mercado y todo eso.
+
+1548
+01:29:44,679 --> 01:29:46,720
+Entonces no digo que sea estúpido.
+
+1549
+01:29:46,760 --> 01:29:50,480
+Yo digo que en cualquier caso podríamos, desde un punto de vista, si damos un paso atrás, decir
+
+1550
+01:29:50,480 --> 01:29:54,159
+bueno, todavía no creo que Mistral esté en contra de subir más
+
+1551
+01:29:54,159 --> 01:29:57,559
+veces. No, no. Luego, además, Mistral creó una estrategia deliberadamente europea.
+
+1552
+01:29:57,600 --> 01:29:58,800
+aunque sea campeón de Francia.
+
+1553
+01:29:59,520 --> 01:30:01,599
+Uh y tienen la estrategia de la soberanía.
+
+1554
+01:30:01,639 --> 01:30:05,440
+Y de hecho tienen razón ya que precisamente cuando tienes que elegir cuando eres un gran
+
+1555
+01:30:05,440 --> 01:30:09,560
+empresa, que todavía tienes datos que son confidenciales cuando trabajas en
+
+1556
+01:30:09,560 --> 01:30:15,159
+en armamento por ejemplo o incluso en tecnología o en me imagino Talè
+
+1557
+01:30:15,159 --> 01:30:18,880
+por ejemplo tomemos el ejemplo de Tal y aquí está Talès claramente pero Talès quien hace
+
+1558
+01:30:18,880 --> 01:30:22,840
+El armamento para aquellos que no saben liderar finalmente así que han elegido entre un modelo medio.
+
+1559
+01:30:24,520 --> 01:30:30,639
+uh y uh soberanía total así que si quieres y por lo tanto el
+
+1560
+01:30:30,639 --> 01:30:34,880
+el problema de todo lo que estará alojado en servidores incluso alojados en Europa pero
+
+1561
+01:30:34,880 --> 01:30:37,039
+de los operadores americanos depende de la nube.
+
+1562
+01:30:38,040 --> 01:30:42,039
+La nube para aquellos que no lo saben es, en última instancia, una ley estadounidense que dice:
+
+1563
+01:30:42,360 --> 01:30:46,040
+Si utiliza una herramienta estadounidense, incluso si los datos se almacenan en Europa, podemos
+
+1564
+01:30:46,040 --> 01:30:47,440
+acceder a los datos si lo desea.
+
+1565
+01:30:47,520 --> 01:30:51,520
+Si te lo preguntamos. Entonces, obviamente, si le preguntamos a Microsoft, que incluso tiene
+
+1566
+01:30:51,520 --> 01:30:56,760
+sus servidores en Europa uh bueno, le pedimos que lo haga, le tomará un gran esfuerzo
+
+1567
+01:30:56,760 --> 01:30:57,880
+Bien de Europa.
+
+1568
+01:30:58,000 --> 01:31:03,199
+Pero entre un disparo de Donald Trump o una multa de Europa,
+
+1569
+01:31:03,199 --> 01:31:04,920
+Creo que obviamente elegirá su país.
+
+1570
+01:31:05,320 --> 01:31:09,400
+Así que tenemos un verdadero problema en esto y, además, en los problemas actuales de lia.
+
+1571
+01:31:09,440 --> 01:31:14,079
+son solo cuestiones de soberanía y lo que acaba de pasar con el episodio
+
+1572
+01:31:14,159 --> 01:31:19,119
+Trump en todos los niveles demuestra que, de hecho, Estados Unidos no es un aliado.
+
+1573
+01:31:19,119 --> 01:31:23,039
+Occidente ya no recuerda nada de la sentencia del general pronunciada por Carlos de Galia.
+
+1574
+01:31:23,760 --> 01:31:27,400
+Dijo: "Tengan cuidado, amigos, Estados Unidos no es un aliado".
+
+1575
+01:31:28,080 --> 01:31:31,240
+No creo que haya dicho cuidado chicos, no creo que haya dicho precisamente eso.
+
+1576
+01:31:31,560 --> 01:31:32,639
+frase allí. Es insoportable.
+
+1577
+01:31:32,920 --> 01:31:34,239
+Hola amigos. ¿Te imaginas?
+
+1578
+01:31:34,239 --> 01:31:35,520
+Dime, dime qué dijo.
+
+1579
+01:31:35,520 --> 01:31:37,320
+No, el general tenía más presión que yo.
+
+1580
+01:31:37,320 --> 01:31:41,800
+Obviamente, él es el jefe, estamos tratando de hacer un espectáculo algo joven allí.
+
+1581
+01:31:42,239 --> 01:31:46,639
+Entonces sí. No, pero fue el primero en retirarse de la OTAN antes.
+
+1582
+01:31:46,639 --> 01:31:49,280
+volvamos a ello. Creo que es SarkoZi quien regresa.
+
+1583
+01:31:49,840 --> 01:31:56,600
+Pero uh no, lo que quise decir es que en cualquier caso la inestabilidad hace
+
+1584
+01:31:56,600 --> 01:32:00,280
+que hoy es un poco lo que la CIA había planeado en su último
+
+1585
+01:32:00,280 --> 01:32:03,440
+informe. En cualquier caso, con bloques como este existe una forma de arquepilización.
+
+1586
+01:32:03,480 --> 01:32:05,160
+Gran informe que recomendamos, hay que mostrarlo.
+
+1587
+01:32:05,239 --> 01:32:07,920
+Sí. Lo cual es bastante interesante porque ofrece varios escenarios que te permiten situarte.
+
+1588
+01:32:07,920 --> 01:32:11,280
+en relación con eso y vemos que hoy ya no tenemos realmente ningún aliado, sea cual sea
+
+1589
+01:32:11,280 --> 01:32:15,639
+aparte de Europa para que Europa se convierta en una base Depende de los sujetos que esté en el andamio
+
+1590
+01:32:15,719 --> 01:32:19,760
+tenemos problemas con eso. Por eso esta cuestión de soberanía es tan vital.
+
+1591
+01:32:19,880 --> 01:32:25,599
+Imagínate que Trump hoy dijera bueno, de hecho, Nvidia ya no eres parte de los países.
+
+1592
+01:32:25,719 --> 01:32:27,639
+confiable para nosotros, por lo que tiene más derecho a Nvidia.
+
+1593
+01:32:27,920 --> 01:32:29,440
+¿Qué hacemos? Estamos en problemas.
+
+1594
+01:32:30,080 --> 01:32:36,320
+Y al mismo tiempo en Europa tenemos SML que es la única empresa que nos permite hacer
+
+1595
+01:32:36,320 --> 01:32:37,800
+sus pulgas. ¿Qué caja?
+
+1596
+01:32:37,800 --> 01:32:40,480
+Fabrica las grandes máquinas que fabrican las patatas fritas.
+
+1597
+01:32:40,480 --> 01:32:45,320
+Entonces, sin el SML holandés, no hay nada. Si Europa dice que paremos, bueno, de hecho
+
+1598
+01:32:45,320 --> 01:32:48,560
+este es el cuello de botella de todo lo que está pasando a nivel
+
+1599
+01:32:48,560 --> 01:32:51,560
+de la IA hoy. Obviamente no tenemos ese poder.
+
+1600
+01:32:51,560 --> 01:32:55,000
+De todos modos, Trump podría si fuera presidente de Europa tal vez lo haría, ¿verdad?
+
+1601
+01:32:55,000 --> 01:33:00,800
+mira, en alguna parte. Todavía tenemos activos muy importantes y lo que falta hoy.
+
+1602
+01:33:01,159 --> 01:33:06,360
+a nivel europeo, entonces tal vez sea evidente que existe una conciencia
+
+1603
+01:33:06,360 --> 01:33:12,119
+pero vale decir que hoy es vital invertir en tecnología de IA
+
+1604
+01:33:12,119 --> 01:33:16,880
+soberano en Europa. Es vital que emitamos todo nuestro dinero.
+
+1605
+01:33:17,040 --> 01:33:19,119
+En cualquier caso, tengo la impresión de que gran parte de nuestro Hay realmente algo
+
+1606
+01:33:19,119 --> 01:33:21,800
+lo cual está sucediendo porque allí de hecho firmaron acuerdos allí
+
+1607
+01:33:21,800 --> 01:33:24,440
+Se está construyendo un centro de datos en Francia.
+
+1608
+01:33:24,480 --> 01:33:27,960
+Hay otro que se firmó en Suecia, si mal no recuerdo, para comprobar la
+
+1609
+01:33:27,960 --> 01:33:29,160
+país, pero es un país nórdico.
+
+1610
+01:33:29,960 --> 01:33:33,679
+Uh Mistral está en el proceso de instalar capacidades reales para hacer lo que China hace si
+
+1611
+01:33:33,679 --> 01:33:35,599
+quieres, tienes que ir más rápido.
+
+1612
+01:33:35,760 --> 01:33:37,000
+Estas son fábricas para la fabricación.
+
+1613
+01:33:37,560 --> 01:33:39,720
+Así es, estamos restableciéndolos.
+
+1614
+01:33:40,600 --> 01:33:43,440
+Hay fábricas de baterías que fabrican tierras raras, tierras raras, se dice que
+
+1615
+01:33:43,440 --> 01:33:47,320
+no es ecológico. Por eso hay proyectos mineros en toda Europa.
+
+1616
+01:33:47,320 --> 01:33:49,719
+Dicen que no es bueno y eso pero en fin, ¿qué haces al mismo tiempo detrás?
+
+1617
+01:33:49,719 --> 01:33:52,239
+En Guyana también tenemos cosas increíbles que extraer.
+
+1618
+01:33:52,239 --> 01:33:54,719
+Pero bueno, entiendo el problema, no es fácil.
+
+1619
+01:33:54,719 --> 01:33:57,280
+Sí, es el terreno, pero al mismo tiempo son circuitos más cortos.
+
+1620
+01:33:57,280 --> 01:34:01,000
+En cualquier caso, evidentemente también tenemos los centros de datos y la energía porque
+
+1621
+01:34:01,000 --> 01:34:04,519
+tiene una energía casi totalmente libre de carbono, al menos en Francia.
+
+1622
+01:34:04,520 --> 01:34:07,240
+Tenemos una gran ventaja competitiva allí, una enorme ventaja también.
+
+1623
+01:34:07,520 --> 01:34:09,880
+Existe una fusión nuclear que podría producir chips.
+
+1624
+01:34:09,880 --> 01:34:15,520
+Entonces, tenemos las fotocopiadoras con chip.
+
+1625
+01:34:15,520 --> 01:34:20,560
+Bueno, en algún lugar, pero en realidad carecemos de la capacidad para fabricar chips cerca.
+
+1626
+01:34:20,560 --> 01:34:21,760
+de Grenoble a Croll 2.
+
+1627
+01:34:21,760 --> 01:34:25,800
+Hacemos patatas fritas, pero es más para frigoríficos, coches, etc.
+
+1628
+01:34:25,800 --> 01:34:28,560
+capacidad de producir lo que China está haciendo lo que China está haciendo
+
+1629
+01:34:28,560 --> 01:34:33,240
+prescindir de Nvidia. Nvidia está flipando porque han perdido esta base de clientes
+
+1630
+01:34:33,360 --> 01:34:36,320
+dejaron esta clientela por culpa de Donald Trump porque saben muy bien que la
+
+1631
+01:34:36,320 --> 01:34:38,320
+China está en proceso de fabricarlos ella misma.
+
+1632
+01:34:38,639 --> 01:34:40,599
+De modo que China comprende muy bien la cuestión de la soberanía.
+
+1633
+01:34:40,719 --> 01:34:45,160
+Estados Unidos obviamente Europa, sólo Europa está todavía entre dos cosas.
+
+1634
+01:34:45,480 --> 01:34:50,480
+Y eso es todo y creo que Europa debe poner esta cuestión de soberanía en primer plano.
+
+1635
+01:34:50,480 --> 01:34:53,800
+corazón de su estrategia, pero eso significa mucho dinero, mucha inversión.
+
+1636
+01:34:54,639 --> 01:35:00,000
+El problema es que durante las elecciones presidenciales el tema de la IA no estará en el centro
+
+1637
+01:35:00,000 --> 01:35:03,960
+debates. Todavía vamos a hablar de pensiones, todavía vamos a hablar de muchos temas.
+
+1638
+01:35:04,119 --> 01:35:05,240
+sin lo interesante.
+
+1639
+01:35:05,440 --> 01:35:07,639
+Tú tampoco tienes que hacerlo. Por supuesto, los franceses están interesados.
+
+1640
+01:35:07,639 --> 01:35:08,400
+La jubilación es normal.
+
+1641
+01:35:08,400 --> 01:35:11,000
+Por supuesto, pero es un tema difícil de evaluar.
+
+1642
+01:35:11,400 --> 01:35:14,840
+Es un es un es un tema que Espera ahí, discúlpame, te estoy interrumpiendo, pero es
+
+1643
+01:35:14,840 --> 01:35:17,960
+interesante. ¿Qué crees que haría falta para que las cosas realmente cambien?
+
+1644
+01:35:17,960 --> 01:35:22,119
+Entonces la gente dice: "Bueno, está bien, hay jubilación, obviamente hay empleo, hay
+
+1645
+01:35:22,119 --> 01:35:25,520
+Está la economía en general, evidentemente, también está la parte social en Francia.
+
+1646
+01:35:25,520 --> 01:35:28,280
+Sigue siendo muy importante y estoy 100% a favor.
+
+1647
+01:35:28,920 --> 01:35:34,719
+¿Pero cómo lo decimos? Bueno, ahora la IA debe ser la misma. creo que hay
+
+1648
+01:35:34,719 --> 01:35:37,840
+voluntad política. Creo que lo único que ha sido una constante desde entonces
+
+1649
+01:35:37,840 --> 01:35:39,360
+2 años no es un problema para los jóvenes.
+
+1650
+01:35:39,840 --> 01:35:44,719
+Oh, es terrible. Así que un candidato presidencial sólo gana porque
+
+1651
+01:35:44,719 --> 01:35:48,560
+habla de juventud. En general, sólo gana si dice: "Ah, ¿crees?" Yo creo que
+
+1652
+01:35:48,560 --> 01:35:50,280
+es más bien porque habla bien de la vejez.
+
+1653
+01:35:50,400 --> 01:35:51,840
+No, cuando habla de juventud.
+
+1654
+01:35:52,600 --> 01:35:55,920
+no juventud. Cuando habla de juventud, ¿qué vamos a hacer por nuestros hijos?
+
+1655
+01:35:55,920 --> 01:36:00,880
+? Está bien. Está bien. Uh, entonces el futuro de nuestros hijos, como diría un candidato.
+
+1656
+01:36:00,880 --> 01:36:04,360
+En las elecciones presidenciales, lo que importa es el empleo.
+
+1657
+01:36:05,159 --> 01:36:06,440
+¿Para qué los estamos entrenando?
+
+1658
+01:36:06,440 --> 01:36:08,079
+¿Qué aprenden en las escuelas?
+
+1659
+01:36:08,600 --> 01:36:11,520
+y luego van a la educación superior y luego no los contratan porque
+
+1660
+01:36:11,520 --> 01:36:14,920
+De repente estos expertos no son contratados porque llegan en prácticas y entonces esto
+
+1661
+01:36:14,920 --> 01:36:20,519
+pasantía bueno, la IA es mucho mejor que la que hay. Tengo muchas empresas.
+
+1662
+01:36:20,639 --> 01:36:24,239
+¿Quién me dice ahora que tengo muchas dudas sobre contratar pasantes o nuevos?
+
+1663
+01:36:24,239 --> 01:36:28,920
+porque tengo un patrón de un unicornio que como usa Claude Code puso
+
+1664
+01:36:28,920 --> 01:36:33,560
+en su lugar un centro de procesos congeló todos los suyos y sí y cree que en unos pocos
+
+1665
+01:36:33,560 --> 01:36:39,159
+años le irá mejor con tres con tres tres veces menos personas porque
+
+1666
+01:36:39,159 --> 01:36:41,960
+se habrán integrado siempre hay humanos, hay expertos pero ya no son los señores
+
+1667
+01:36:41,960 --> 01:36:42,960
+que necesitamos hoy.
+
+1668
+01:36:43,400 --> 01:36:46,600
+Después de todo, es el regreso de los señores en compañía del pueblo que
+
+1669
+01:36:46,600 --> 01:36:48,679
+tienen mucho después el problema es que los señores mueren después de un tiempo
+
+1670
+01:36:48,679 --> 01:36:51,080
+entonces tienes que reemplazarlos, entonces, ¿cómo los reemplazas si no te mudas a junior?
+
+1671
+01:36:51,080 --> 01:36:56,000
+así que hay muchos problemas con todo, sea cual sea la tendencia
+
+1672
+01:36:56,000 --> 01:36:59,519
+Por el momento la tendencia se está consolidando, por lo que el reemplazo ciertamente no hoy.
+
+1673
+01:36:59,520 --> 01:37:02,800
+no es no es una realidad hoy en día de todos modos hay inversiones masivas
+
+1674
+01:37:02,840 --> 01:37:06,239
+que van hacia eso, por eso digo cuando hay inversiones masivas que van bien
+
+1675
+01:37:06,239 --> 01:37:09,920
+Todavía tienes que al menos hacerte la pregunta si quieres un lugar. Creo que eso
+
+1676
+01:37:09,920 --> 01:37:16,239
+el riesgo de desempleo y el riesgo de no contratación y, por tanto, el riesgo social,
+
+1677
+01:37:16,239 --> 01:37:20,080
+¿Todavía vale la pena ondear la bandera roja incluso si exageramos?
+
+1678
+01:37:20,080 --> 01:37:23,720
+un poco porque eso es lo que don don d don realmente debe aprovechar las políticas
+
+1679
+01:37:24,000 --> 01:37:28,080
+y así que si no es un tema que concierne a todos no sé qué tal vez
+
+1680
+01:37:28,080 --> 01:37:32,719
+que tendremos que dejar de discutir entre la extrema izquierda y la extrema derecha y
+
+1681
+01:37:32,719 --> 01:37:35,320
+se metió en la política nacional allí hace calor y hacer política
+
+1682
+01:37:35,320 --> 01:37:40,519
+político y tal vez estar interesado en cuestiones reales que son cuestiones geopolíticas
+
+1683
+01:37:40,960 --> 01:37:44,679
+pero las cuestiones de supervivencia también incluso y otra vez digo digo otra vez digo no digo
+
+1684
+01:37:44,679 --> 01:37:51,079
+No es que vaya a haber una explosión del desempleo en 3 años, en 5 años, en 10, espero.
+
+1685
+01:37:51,080 --> 01:37:53,720
+no. Luego viene la famosa destrucción creativa.
+
+1686
+01:37:53,880 --> 01:37:56,199
+¿Crearemos más empleos?
+
+1687
+01:37:56,199 --> 01:37:59,159
+Pero de todos modos, a menudo incluso si creamos más empleos, no los creamos para el
+
+1688
+01:37:59,159 --> 01:38:03,960
+las mismas personas. ¿Pero incluso esta revolución chumpeterriana de la que hablamos,
+
+1689
+01:38:04,400 --> 01:38:05,840
+¿Va a pasar así?
+
+1690
+01:38:05,840 --> 01:38:07,760
+Porque todavía va mucho más rápido que antes.
+
+1691
+01:38:07,760 --> 01:38:11,199
+Tengo directivos de empresa que me dicen “va demasiado rápido, va completamente
+
+1692
+01:38:11,199 --> 01:38:12,639
+Ah, entonces creo que no podemos controlarlo.
+
+1693
+01:38:12,639 --> 01:38:14,200
+No creo que nadie controle nada.
+
+1694
+01:38:14,599 --> 01:38:18,280
+Um, hay cuestiones geopolíticas extremadamente importantes, se está invirtiendo mucho dinero.
+
+1695
+01:38:18,360 --> 01:38:21,679
+perdido hoy. Así que ya ni siquiera podemos parar la máquina porque hemos gastado
+
+1696
+01:38:21,679 --> 01:38:26,560
+demasiado dinero. Por eso creo que el papel de un presidente es asumir
+
+1697
+01:38:26,560 --> 01:38:29,360
+tener en cuenta estas cuestiones y abordarlas.
+
+1698
+01:38:29,440 --> 01:38:32,760
+Si tenemos un debate o no a nivel nacional, no lo sé.
+
+1699
+01:38:32,960 --> 01:38:37,720
+Pero en cualquier caso, hoy no decimos eso en el centro de un programa presidencial.
+
+1700
+01:38:38,520 --> 01:38:42,040
+Tal vez eso no le interese a la gente, pero de todos modos, en general, eso es todo.
+
+1701
+01:38:42,040 --> 01:38:42,999
+todo el mundo debería estar interesado en ello.
+
+1702
+01:38:43,080 --> 01:38:45,960
+Bastante. Además, en realidad quería hacerte esta pregunta por ti.
+
+1703
+01:38:45,960 --> 01:38:49,760
+¿Cuál será el valor de un ser humano en 2030 con todas estas nuevas tecnologías llegando?
+
+1704
+01:38:49,760 --> 01:38:54,239
+con el hecho de que los agentes de IA tal vez nos estén reemplazando o no, con
+
+1705
+01:38:54,239 --> 01:38:57,360
+el hecho de que todo está cambiando de velocidad, nunca había visto esta velocidad
+
+1706
+01:38:57,360 --> 01:39:00,920
+Ahí estuvimos hablando de eso antes, es una locura y me preocupa mucho por
+
+1707
+01:39:00,920 --> 01:39:04,039
+mis compatriotas y para el pueblo en general del mundo.
+
+1708
+01:39:05,560 --> 01:39:10,599
+porque en realidad hay una brecha enorme pero la brecha crece cada día
+
+1709
+01:39:10,840 --> 01:39:16,159
+entre personas que se benefician de la IA de una forma u otra porque
+
+1710
+01:39:16,159 --> 01:39:19,999
+usarlo muy bien, lo adaptaron a su situación y como resultado literalmente
+
+1711
+01:39:20,040 --> 01:39:25,440
+empleados casi libres a sus servicios y por el otro la gente llamada normal que
+
+1712
+01:39:25,440 --> 01:39:28,360
+se dicen a sí mismos "No, pero es interesante, es divertido investigar un poco".
+
+1713
+01:39:28,360 --> 01:39:32,480
+Google o equivalente, pero eso no me interesa mucho." Entonces, para ti, será
+
+1714
+01:39:32,480 --> 01:39:35,800
+¿Cuál es el valor real de un ser humano en 2030 y finalmente vamos a volver a la cultura?
+
+1715
+01:39:35,800 --> 01:39:38,079
+general, a todas estas cosas ¿qué?
+
+1716
+01:39:38,920 --> 01:39:45,159
+Uh sí, es una pregunta casi filosófica pero en cualquier caso laou y
+
+1717
+01:39:45,159 --> 01:39:51,239
+entonces tendremos una última pregunta, tenemos que hacerlo porque estamos casi en el valor de un
+
+1718
+01:39:51,239 --> 01:39:57,960
+humano. Um, en cualquier caso prefiero reformular la pregunta diciendo qué
+
+1719
+01:39:59,280 --> 01:40:00,999
+en lo que necesitamos trabajar hoy como seres humanos.
+
+1720
+01:40:01,760 --> 01:40:05,280
+¿Deberíamos decir que debemos ser antifrágiles frente a la IA?
+
+1721
+01:40:05,280 --> 01:40:09,360
+Es necesario desarrollar habilidades que no serán reemplazables por la RA porque
+
+1722
+01:40:09,360 --> 01:40:14,119
+que una vez más la IA reemplace a los humanos para mí esto es igualmente valioso
+
+1723
+01:40:14,119 --> 01:40:15,960
+como el gran sustituto de Éric Zemour.
+
+1724
+01:40:16,040 --> 01:40:19,559
+Es lo mismo. Um, por otro lado, efectivamente, hay tareas que serán reemplazadas.
+
+1725
+01:40:19,760 --> 01:40:22,880
+Hay funciones que serán reemplazadas, profesiones que serán puestos que serán
+
+1726
+01:40:22,880 --> 01:40:25,440
+eliminado correcta o incorrectamente también y así sucesivamente.
+
+1727
+01:40:25,920 --> 01:40:28,960
+La verdadera pregunta es ¿cómo sigo evolucionando, creciendo y
+
+1728
+01:40:28,960 --> 01:40:30,599
+tener valor en cualquier caso en este mundo.
+
+1729
+01:40:30,920 --> 01:40:34,280
+Creo que lo primero, el primer reflejo que debes tener, es capitalizar
+
+1730
+01:40:34,599 --> 01:40:38,080
+su inteligencia. Y dicen ¿qué quieres decir con eso?
+
+1731
+01:40:38,080 --> 01:40:42,719
+Bueno, eres igual cuando compras cosas, compras cosas todo el tiempo.
+
+1732
+01:40:42,719 --> 01:40:45,639
+Pues pero si en todo lo que compras apartas dinero, pones 100€.
+
+1733
+01:40:45,639 --> 01:40:50,440
+aparte cada mes, bueno, después de un tiempo terminas con esto en mayúsculas, hay
+
+1734
+01:40:50,440 --> 01:40:51,840
+un efecto bola de nieve, etcétera.
+
+1735
+01:40:52,000 --> 01:40:56,080
+Del mismo modo, si quieres hacer ejercicio todos los días, no es necesario que vayas a hacerlo tú mismo.
+
+1736
+01:40:56,080 --> 01:40:58,320
+un triatlón cada 6 meses y luego no haces nada en el medio.
+
+1737
+01:40:58,320 --> 01:40:59,679
+Bueno, normalmente practicas.
+
+1738
+01:40:59,679 --> 01:41:05,920
+Pero en cualquier caso, haces deporte habitualmente y por eso entrenas,
+
+1739
+01:41:05,960 --> 01:41:11,999
+Aprovechas tu habilidad de la misma manera.
+
+1740
+01:41:12,280 --> 01:41:14,320
+¿Qué significa capitalizar tu inteligencia?
+
+1741
+01:41:14,320 --> 01:41:18,280
+di que todo lo que leas hoy, todo lo que vayas a comprar, lo vas a ver
+
+1742
+01:41:18,280 --> 01:41:21,920
+en la televisión, los vídeos de YouTube que ves, los artículos que lees, los pensamientos,
+
+1743
+01:41:22,000 --> 01:41:24,719
+la discusión que tenemos entre nosotros en realidad la discusión que tenemos entre nosotros en realidad me hace
+
+1744
+01:41:24,719 --> 01:41:26,079
+en una hora me habría olvidado la mitad.
+
+1745
+01:41:26,599 --> 01:41:27,920
+¿Qué hago con eso?
+
+1746
+01:41:27,920 --> 01:41:28,639
+Bueno, lo estoy grabando.
+
+1747
+01:41:29,440 --> 01:41:33,360
+Lo grabo, lo pongo en mi IA, me hace una transcripción limpia,
+
+1748
+01:41:33,360 --> 01:41:36,800
+me entiende eso y luego me va a despachar, me va a despachar a cosas
+
+1749
+01:41:36,800 --> 01:41:38,079
+interesante que podría decir.
+
+1750
+01:41:38,239 --> 01:41:39,960
+Completará cosas y demás.
+
+1751
+01:41:40,239 --> 01:41:43,160
+Y de hecho, y a raíz de ello, hablaréis de Pikachu Batique en la newsletter.
+
+1752
+01:41:43,440 --> 01:41:46,999
+Y voy a hablar de bueno tal vez no porque todavía no he entendido bien el interés.
+
+1753
+01:41:48,440 --> 01:41:49,639
+de la cosa. No, él está muy bien con eso.
+
+1754
+01:41:49,639 --> 01:41:51,400
+Eres mucho más inteligente de lo que aparentas.
+
+1755
+01:41:51,400 --> 01:41:53,559
+Prefiero los animales de peluche, ya ves.
+
+1756
+01:41:53,639 --> 01:41:54,880
+Y eh, en definitiva, a cada uno lo suyo.
+
+1757
+01:41:54,880 --> 01:41:58,360
+Por otro lado, los juguetes de peluche tienen mucho menos valor de coleccionista.
+
+1758
+01:41:58,520 --> 01:42:04,160
+Y entonces yo así lo llamo entonces creo que hoy necesitamos
+
+1759
+01:42:04,280 --> 01:42:10,760
+utilizar IA para almacenar nuestras notas, nuestros procesos y
+
+1760
+01:42:10,760 --> 01:42:14,119
+cetera, que almacene con nosotros y no con otros porque hay que dejar de dar
+
+1761
+01:42:14,960 --> 01:42:18,560
+a estas uh a estas cajas toda nuestra inteligencia.
+
+1762
+01:42:18,560 --> 01:42:22,480
+De hecho, les compramos suscripciones de chat GPT y COD, etc., pero de hecho
+
+1763
+01:42:22,480 --> 01:42:26,880
+no recibimos nada a cambio. Por eso estoy a favor de lo que llamamos IA personal, es decir
+
+1764
+01:42:26,880 --> 01:42:32,599
+de hecho tienes una carpeta en tu máquina o en un servidor soberano y tienes todos tus
+
+1765
+01:42:32,599 --> 01:42:33,840
+datos en él, sus notas.
+
+1766
+01:42:34,080 --> 01:42:36,639
+Lo que significa que tan pronto como olvidas algo, bueno, no lo has olvidado porque es
+
+1767
+01:42:36,639 --> 01:42:39,400
+todavía en él. Así que vas a sacar provecho de todo lo que has aprendido, lo que llamamos
+
+1768
+01:42:39,400 --> 01:42:44,560
+A menudo, el segundo cerebro, lo que llamamos los archivos Zeltel Casson, son, por lo tanto,
+
+1769
+01:42:44,560 --> 01:42:47,920
+Maneras de tomar notas para recordar, por lo que estas son técnicas antiguas.
+
+1770
+01:42:48,239 --> 01:42:51,760
+Pero con la inteligencia artificial, la ventaja es que la IA que llegará a tu casa,
+
+1771
+01:42:52,280 --> 01:42:58,680
+ella tomará conciencia de todo aquello que te hace único, diremos cognitivo,
+
+1772
+01:42:58,920 --> 01:42:59,720
+lo que te hace diferente.
+
+1773
+01:42:59,840 --> 01:43:05,519
+Y así si porque a fuerza de olvidarlo todo, no guardar nada y sólo comprar
+
+1774
+01:43:05,520 --> 01:43:09,760
+cosas y alabar, etcétera, lo que se te ha dado para usar de hecho, te convertirás en
+
+1775
+01:43:09,760 --> 01:43:10,559
+completamente transparente.
+
+1776
+01:43:10,679 --> 01:43:19,960
+De hecho, desaparecerás por completo y te convertirás en un esclavo y además tu cerebro
+
+1777
+01:43:19,960 --> 01:43:24,639
+A menudo me preguntan cuál es mi valor y una empresa también se hace la pregunta
+
+1778
+01:43:24,639 --> 01:43:30,840
+A todo lo que hago no seré capaz de hacer lo mismo, así que, en última instancia, ¿no es así?
+
+1779
+01:43:30,840 --> 01:43:32,360
+¿No es mi mayor competidor?
+
+1780
+01:43:32,480 --> 01:43:34,360
+Sí, pero lo que aún queda es tu ontie.
+
+1781
+01:43:34,960 --> 01:43:39,000
+También son los datos que puedas tener, los millones de procesos que has podido realizar en
+
+1782
+01:43:39,000 --> 01:43:40,999
+su trabajo y así sucesivamente. Todo lo que te hace único.
+
+1783
+01:43:41,599 --> 01:43:44,239
+Esos son datos. Estos datos deben ser soberanos, deben permanecer
+
+1784
+01:43:44,239 --> 01:43:50,360
+en tu casa. Luego, traes un modelo de IA a tu casa, trabaja contigo y
+
+1785
+01:43:50,360 --> 01:43:51,679
+luego desaparece si necesitas cambiarlo.
+
+1786
+01:43:51,679 --> 01:43:54,039
+Ahí va. Puedes cambiar el modelo de IA.
+
+1787
+01:43:54,199 --> 01:43:59,119
+Pero este capital de inteligencia que se compone de todas tus notas, tus procesos, tu
+
+1788
+01:43:59,119 --> 01:44:02,480
+forma de ver las cosas, entonces, ¿qué te hará único? No me digas que es
+
+1789
+01:44:02,480 --> 01:44:03,800
+en tu cabeza porque no lo recuerdas.
+
+1790
+01:44:03,800 --> 01:44:07,840
+Y como te dije que nos dijimos que el cerebro reconstruye el creo que por
+
+1791
+01:44:07,840 --> 01:44:12,360
+Para mí, este es el trabajo principal que tenemos que hacer hoy, es empezar a decir
+
+1792
+01:44:12,360 --> 01:44:14,119
+¿Qué me hace único?
+
+1793
+01:44:14,280 --> 01:44:18,280
+Para empezar a aprovechar eso en una IA personal, por lo tanto en un segundo cerebro,
+
+1794
+01:44:18,280 --> 01:44:22,400
+un archivo y la IA puede ayudarnos a hacer precisamente eso.
+
+1795
+01:44:22,760 --> 01:44:25,480
+Y luego, obviamente, tenemos otras preguntas que hacernos, pero creo que ya
+
+1796
+01:44:25,480 --> 01:44:27,040
+Ese es un buen comienzo. Está bien.
+
+1797
+01:44:27,040 --> 01:44:30,639
+Última pregunta porque estamos llegando al final de las 2 horas y ha pasado muy rápido.
+
+1798
+01:44:30,840 --> 01:44:32,480
+Parece que sólo ha pasado media hora.
+
+1799
+01:44:32,679 --> 01:44:34,200
+Es genial. Eso significa que es una buena señal.
+
+1800
+01:44:35,080 --> 01:44:38,040
+En cualquier caso, no sé qué pensaste al respecto pero Ah, no importa.
+
+1801
+01:44:38,040 --> 01:44:42,039
+No hay problema. Si tuvieras que empezar de nuevo mañana, esta es la última pregunta.
+
+1802
+01:44:42,280 --> 01:44:44,840
+Si mañana tuvieras que empezar de nuevo, imagínate perderlo todo.
+
+1803
+01:44:45,040 --> 01:44:49,720
+No te preocupes, no quiero que eso suceda, por supuesto, pero imagina, tienes más IA,
+
+1804
+01:44:49,800 --> 01:44:53,880
+no te queda nada, empiezas de cero a nivel empresarial, no a nivel personal
+
+1805
+01:44:53,880 --> 01:45:00,240
+sólo negocios. ¿Con qué agente irías, qué idea y por qué?
+
+1806
+01:45:00,679 --> 01:45:02,160
+¿Qué crees que harías?
+
+1807
+01:45:06,239 --> 01:45:10,880
+Bueno ya lo hay así que está en un mundo es el mismo mundo solo que tienes más
+
+1808
+01:45:10,880 --> 01:45:15,280
+vuelves al principio como si volvieras al principio de tuas tuas imagina que no tienes experiencia
+
+1809
+01:45:15,360 --> 01:45:17,160
+Él lo ha hecho y lo descubres hoy.
+
+1810
+01:45:17,440 --> 01:45:24,119
+Entonces. Ah, está bien. Creo que creo que intentaré entender esto.
+
+1811
+01:45:24,119 --> 01:45:26,000
+que obviamente está claro dominarlo.
+
+1812
+01:45:26,000 --> 01:45:27,040
+Estás en modo de investigación, sí.
+
+1813
+01:45:27,040 --> 01:45:29,159
+Eres un poco científico también.
+
+1814
+01:45:29,159 --> 01:45:30,960
+No soy un científico, soy periodista.
+
+1815
+01:45:31,280 --> 01:45:35,199
+Así que realmente estamos aquí, somos realmente los nerds de la información, los periodistas.
+
+1816
+01:45:35,199 --> 01:45:39,200
+Eh. Hacemos borradores de historia, borradores de hechos, pero
+
+1817
+01:45:39,480 --> 01:45:43,639
+uh, tenemos esta dimensión de explorador, esta humildad en cualquier caso para tratar de interesarnos
+
+1818
+01:45:43,639 --> 01:45:48,960
+lleno de comprensión. Um, para mí esta cuestión de la exploración es fuerte.
+
+1819
+01:45:49,599 --> 01:45:54,920
+Es fuerte porque al mismo tiempo, una vez más, creo que estas tecnologías
+
+1820
+01:45:55,320 --> 01:45:58,200
+cuando los entendemos bien, cuando los utilizamos bien, también pueden ayudarnos
+
+1821
+01:45:58,280 --> 01:46:04,760
+para emanciparnos. Uh yo yo nosotros quiero que mañana cualquier persona
+
+1822
+01:46:04,760 --> 01:46:08,400
+en un pueblo es capaz, tiene una idea, un proyecto que no depende de la jerarquía
+
+1823
+01:46:08,560 --> 01:46:13,639
+sociales, que no dependen de lo que le dijeron sus padres, su cultura, su religión
+
+1824
+01:46:13,800 --> 01:46:18,639
+allí, su lugar de nacimiento, etcétera o su pasaporte para poder montar su proyecto.
+
+1825
+01:46:18,639 --> 01:46:22,880
+no necesariamente un negocio una vez más o un proyecto puede ser un proyecto artístico
+
+1826
+01:46:23,159 --> 01:46:27,679
+puede estar aquí para poder abrirte camino lograr tus sueños finalmente cometer tus errores
+
+1827
+01:46:27,679 --> 01:46:34,280
+hacer lo que creo que no es el sueño americano es
+
+1828
+01:46:34,400 --> 01:46:38,679
+uno de los sueños en cualquier caso que la tecnología puede traer a las personas con
+
+1829
+01:46:38,679 --> 01:46:43,320
+un entorno evidentemente muy amenazador y muy desequilibrado, sobre todo hoy
+
+1830
+01:46:43,440 --> 01:46:48,920
+con muchas cosas que no me gustan, bueno vivimos en una sociedad donde
+
+1831
+01:46:48,920 --> 01:46:52,880
+hay muchos actores. Entonces, o nos aislamos completamente de esta sociedad o intentamos
+
+1832
+01:46:52,880 --> 01:46:59,000
+actuar con uh y encontrar de todos modos incluso si queremos luchar contra lo que está pasando
+
+1833
+01:46:59,000 --> 01:47:03,720
+Hoy en día, si no dominas la IA, no dominas mucho.
+
+1834
+01:47:03,960 --> 01:47:08,360
+Entonces creo que te estás excluyendo de alguna manera de lo que está sucediendo.
+
+1835
+01:47:08,360 --> 01:47:13,000
+Creo que, en general, existe mucho interés en aprovechar estas tecnologías mediante
+
+1836
+01:47:13,000 --> 01:47:18,320
+entenderlo bien, aprender a no dejarse absorber por él, sino saber utilizarlo
+
+1837
+01:47:18,760 --> 01:47:20,560
+para nosotros mismos. Y para ello tienes que conocerte a ti mismo.
+
+1838
+01:47:20,560 --> 01:47:27,520
+Y estabas hablando de conocimiento general, creo que las primeras cosas que
+
+1839
+01:47:27,520 --> 01:47:33,559
+hacer cuando te involucras en este campo, comprar un cuaderno de papel, un bolígrafo, escribir
+
+1840
+01:47:33,719 --> 01:47:36,559
+tu diario en mano o tus pensamientos en mano.
+
+1841
+01:47:36,599 --> 01:47:40,119
+Lea un libro en papel si puede.
+
+1842
+01:47:40,599 --> 01:47:42,519
+Tómate un tiempo para dar un paseo por la naturaleza.
+
+1843
+01:47:42,679 --> 01:47:48,639
+Pasa tiempo soñando. Hay hay hay una palabra latina llamada otium que
+
+1844
+01:47:48,639 --> 01:47:51,720
+En realidad, no es sólo divertido.
+
+1845
+01:47:52,119 --> 01:47:56,200
+Es más bien ser muy activo en algo que no corresponde directamente
+
+1846
+01:47:56,400 --> 01:48:02,599
+a nuestro Tómate el tiempo para parar, para desconectar, para cuidar nuestro cerebro
+
+1847
+01:48:02,599 --> 01:48:05,599
+Porque frente a estas máquinas, nuestro cerebro está muy caliente.
+
+1848
+01:48:05,679 --> 01:48:10,800
+Y ahí lo tienes, creo que es preservar una casa en la que
+
+1849
+01:48:10,800 --> 01:48:12,200
+podremos acercarnos a este mundo.
+
+1850
+01:48:12,920 --> 01:48:16,639
+Obviamente, aprende IA, pero aprendela con mucha perspectiva, por supuesto.
+
+1851
+01:48:16,639 --> 01:48:18,680
+Terminaremos ahí y es verdad que es interesante.
+
+1852
+01:48:19,000 --> 01:48:20,679
+Um, hay un debate real.
+
+1853
+01:48:20,679 --> 01:48:24,119
+Creo que podríamos hacer un segundo episodio sobre toda la parte del impacto neuronal,
+
+1854
+01:48:24,440 --> 01:48:26,440
+impacto en el cerebro de todas estas tecnologías.
+
+1855
+01:48:27,040 --> 01:48:28,719
+Hay muchos estudios que están saliendo.
+
+1856
+01:48:28,719 --> 01:48:30,639
+Algunos de ellos los hicimos en vídeo.
+
+1857
+01:48:31,199 --> 01:48:34,560
+En cualquier caso, el impacto en el cerebro del uso de las tecnologías una vez más, no necesariamente
+
+1858
+01:48:34,560 --> 01:48:35,599
+la tecnología misma.
+
+1859
+01:48:35,679 --> 01:48:39,159
+Exactamente. Exactamente. Y es verdad que me gustan las redes sociales.
+
+1860
+01:48:39,159 --> 01:48:42,239
+Tengo un ejemplo con dos emprendedores con los que trabajo habitualmente, bueno
+
+1861
+01:48:42,239 --> 01:48:48,040
+amigos que, y quien me dijo uh cuando cuando empiezas a abrir cuando tienes varios
+
+1862
+01:48:48,040 --> 01:48:51,360
+computadora o varios dispositivos y comienzas a abrir varios I al mismo tiempo y eso
+
+1863
+01:48:51,360 --> 01:48:53,999
+estás realizando múltiples tareas, hay un problema.
+
+1864
+01:48:54,440 --> 01:48:57,400
+Y les dije que tengan cuidado porque entonces te pasas y vienen
+
+1865
+01:48:57,400 --> 01:49:00,840
+No más dormir, ya ves. Entonces eso también es una señal de que hay algo que
+
+1866
+01:49:00,840 --> 01:49:05,840
+no voy. Yo intenté ser un comerciante de criptomonedas hace unos años.
+
+1867
+01:49:06,080 --> 01:49:08,119
+y sé exactamente cuál es el problema.
+
+1868
+01:49:08,199 --> 01:49:10,480
+Te despiertas a las 3 de la mañana, no puedes dormir, es un desastre.
+
+1869
+01:49:11,119 --> 01:49:12,720
+Gracias Benois, fue realmente muy interesante.
+
+1870
+01:49:12,920 --> 01:49:14,639
+Muy feliz de haberte recibido nuevamente hoy.
+
+1871
+01:49:15,159 --> 01:49:20,400
+Um, pondremos tus enlaces de Generación AI y tal vez una o dos de tus redes sociales.
+
+1872
+01:49:20,400 --> 01:49:21,999
+Ya nos dirás cuáles quieres destacar.
+
+1873
+01:49:22,639 --> 01:49:25,520
+Gracias por seguirnos, fue realmente un gran episodio.
+
+1874
+01:49:25,520 --> 01:49:28,760
+Estoy muy, muy feliz de haber podido hacer este primer podcast con Benoît.
+
+1875
+01:49:29,320 --> 01:49:31,599
+Um, si te gustó, cuéntanos en los comentarios.
+
+1876
+01:49:31,639 --> 01:49:33,320
+Si lo odiaste, dilo también.
+
+1877
+01:49:33,440 --> 01:49:36,719
+En cambio con los formularios, porque sino lo prohíbo inmediatamente, no habrá
+
+1878
+01:49:36,719 --> 01:49:41,840
+de convocatoria. Um, escuchamos pero no debemos, debemos respetar a las personas.
+
+1879
+01:49:41,840 --> 01:49:43,840
+Creo que respetamos a las personas con este formato.
+
+1880
+01:49:43,840 --> 01:49:45,200
+Así que por favor respétanos.
+
+1881
+01:49:45,520 --> 01:49:48,880
+Y por supuesto, si puedes compartir, gracias de antemano.
+
+1882
+01:49:49,480 --> 01:49:52,520
+Era Rémy y nos vemos pronto para la próxima.
+
