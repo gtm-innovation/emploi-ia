@@ -10,19 +10,24 @@ export const Headline: React.FC<{
 	const frame = useCurrentFrame();
 	const local = frame - delay;
 
-	const opacity = interpolate(local, [0, 14], [0, 1], {
+	const opacity = interpolate(local, [0, 18], [0, 1], {
 		extrapolateLeft: 'clamp',
 		extrapolateRight: 'clamp',
 	});
-	const scale = interpolate(local, [0, 14], [0.9, 1], {
+	const scale = interpolate(local, [0, 20], [0.92, 1], {
 		extrapolateLeft: 'clamp',
 		extrapolateRight: 'clamp',
 		easing: Easing.out(Easing.cubic),
 	});
-	const y = interpolate(local, [0, 14], [16, 0], {
+	const y = interpolate(local, [0, 20], [22, 0], {
 		extrapolateLeft: 'clamp',
 		extrapolateRight: 'clamp',
 		easing: Easing.out(Easing.cubic),
+	});
+	const blur = interpolate(local, [0, 18], [16, 0], {
+		extrapolateLeft: 'clamp',
+		extrapolateRight: 'clamp',
+		easing: Easing.out(Easing.quad),
 	});
 
 	return (
@@ -35,6 +40,7 @@ export const Headline: React.FC<{
 				opacity,
 				transform: `translateY(${y}px) scale(${scale})`,
 				transformOrigin: 'left center',
+				filter: `blur(${blur}px)`,
 			}}
 		>
 			{lines.map((l, i) => (

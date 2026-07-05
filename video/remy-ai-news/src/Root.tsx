@@ -1,6 +1,7 @@
 import React from 'react';
 import {Composition} from 'remotion';
 import {RemyReel} from './RemyReel';
+import {TOTAL_DURATION} from './timeline';
 
 export const Root: React.FC = () => {
 	return (
@@ -8,7 +9,7 @@ export const Root: React.FC = () => {
 			<Composition
 				id="RemyReel"
 				component={RemyReel}
-				durationInFrames={1830}
+				durationInFrames={TOTAL_DURATION}
 				fps={30}
 				width={1080}
 				height={1920}

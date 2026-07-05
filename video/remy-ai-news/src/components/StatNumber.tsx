@@ -1,5 +1,5 @@
 import React from 'react';
-import {useCurrentFrame, interpolate, Easing} from 'remotion';
+import {useCurrentFrame, useVideoConfig, interpolate, spring, Easing} from 'remotion';
 import {colors, fonts} from '../theme';
 
 export const StatNumber: React.FC<{
@@ -11,6 +11,7 @@ export const StatNumber: React.FC<{
 	fontSize?: number;
 }> = ({from = 0, to, durationInFrames, delay = 0, format, fontSize = 180}) => {
 	const frame = useCurrentFrame();
+	const {fps} = useVideoConfig();
 	const local = frame - delay;
 
 	const progress = interpolate(local, [0, durationInFrames], [0, 1], {
@@ -24,11 +25,13 @@ export const StatNumber: React.FC<{
 		extrapolateLeft: 'clamp',
 		extrapolateRight: 'clamp',
 	});
-	const scale = interpolate(local, [0, 10], [0.9, 1], {
-		extrapolateLeft: 'clamp',
-		extrapolateRight: 'clamp',
-		easing: Easing.out(Easing.cubic),
+
+	const bounce = spring({
+		frame: local,
+		fps,
+		config: {damping: 11, stiffness: 120, mass: 0.7},
 	});
+	const scale = interpolate(bounce, [0, 1], [0.75, 1]);
 
 	return (
 		<div
@@ -42,6 +45,7 @@ export const StatNumber: React.FC<{
 				transformOrigin: 'left center',
 				lineHeight: 1,
 				fontVariantNumeric: 'tabular-nums',
+				textShadow: `0 0 ${28 * opacity}px rgba(217,179,108,${0.35 * opacity})`,
 			}}
 		>
 			{format(value)}

@@ -1,15 +1,34 @@
 import React from 'react';
-import {AbsoluteFill, useCurrentFrame, interpolate} from 'remotion';
+import {
+	AbsoluteFill,
+	useCurrentFrame,
+	useVideoConfig,
+	interpolate,
+	Easing,
+} from 'remotion';
 import {colors, fonts} from '../theme';
 
 export const Background: React.FC<{
 	ghostNumber: string;
 	linesFadeInDuration?: number;
-}> = ({ghostNumber, linesFadeInDuration = 20}) => {
+	zoom?: number;
+}> = ({ghostNumber, linesFadeInDuration = 20, zoom = 1.07}) => {
 	const frame = useCurrentFrame();
+	const {durationInFrames} = useVideoConfig();
 	const linesOpacity = interpolate(frame, [0, linesFadeInDuration], [0, 1], {
 		extrapolateRight: 'clamp',
 	});
+
+	const kenBurnsScale = interpolate(frame, [0, durationInFrames], [1, zoom], {
+		extrapolateRight: 'clamp',
+		easing: Easing.linear,
+	});
+	const kenBurnsShiftX = interpolate(
+		frame,
+		[0, durationInFrames],
+		[0, -14],
+		{extrapolateRight: 'clamp'}
+	);
 
 	return (
 		<AbsoluteFill style={{backgroundColor: colors.bg}}>
@@ -18,6 +37,8 @@ export const Background: React.FC<{
 					justifyContent: 'flex-start',
 					alignItems: 'flex-end',
 					overflow: 'hidden',
+					transform: `scale(${kenBurnsScale}) translateX(${kenBurnsShiftX}px)`,
+					transformOrigin: 'top right',
 				}}
 			>
 				<div
@@ -39,7 +60,14 @@ export const Background: React.FC<{
 				width="100%"
 				height="100%"
 				viewBox="0 0 1080 1920"
-				style={{position: 'absolute', top: 0, left: 0, opacity: linesOpacity}}
+				style={{
+					position: 'absolute',
+					top: 0,
+					left: 0,
+					opacity: linesOpacity,
+					transform: `scale(${kenBurnsScale}) translateX(${kenBurnsShiftX}px)`,
+					transformOrigin: 'top right',
+				}}
 			>
 				<line
 					x1="760"

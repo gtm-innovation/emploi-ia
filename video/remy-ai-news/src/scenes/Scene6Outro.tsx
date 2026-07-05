@@ -2,8 +2,9 @@ import React from 'react';
 import {AbsoluteFill, useCurrentFrame, interpolate, Easing} from 'remotion';
 import {Background} from '../components/Background';
 import {colors, fonts} from '../theme';
+import {SCENE_DURATIONS} from '../timeline';
 
-const SCENE_DURATION = 270;
+const SCENE_DURATION = SCENE_DURATIONS[5];
 
 export const Scene6Outro: React.FC = () => {
 	const frame = useCurrentFrame();

@@ -1,5 +1,5 @@
 import React from 'react';
-import {useCurrentFrame, interpolate} from 'remotion';
+import {useCurrentFrame, interpolate, Easing} from 'remotion';
 import {colors, fonts} from '../theme';
 
 export const Footer: React.FC<{slideNumber: string; delay?: number}> = ({
@@ -10,6 +10,11 @@ export const Footer: React.FC<{slideNumber: string; delay?: number}> = ({
 	const opacity = interpolate(frame - delay, [0, 15], [0, 1], {
 		extrapolateLeft: 'clamp',
 		extrapolateRight: 'clamp',
+	});
+	const lineWidth = interpolate(frame - delay, [0, 24], [0, 100], {
+		extrapolateLeft: 'clamp',
+		extrapolateRight: 'clamp',
+		easing: Easing.out(Easing.cubic),
 	});
 
 	return (
@@ -25,6 +30,7 @@ export const Footer: React.FC<{slideNumber: string; delay?: number}> = ({
 			<div
 				style={{
 					borderTop: `1px solid rgba(217,179,108,0.25)`,
+					width: `${lineWidth}%`,
 					marginBottom: 24,
 				}}
 			/>
