@@ -4,11 +4,16 @@ import {EyebrowLabel} from '../components/EyebrowLabel';
 import {StatNumber} from '../components/StatNumber';
 import {BodyText} from '../components/BodyText';
 import {RadialProgress} from '../components/RadialProgress';
+import {MidSceneFlash} from '../components/MidSceneFlash';
 import {colors} from '../theme';
 
 export const Scene5Risk: React.FC = () => {
 	return (
-		<SceneLayout ghostNumber="05" slideNumber="05">
+		<SceneLayout
+			ghostNumber="05"
+			slideNumber="05"
+			overlay={<MidSceneFlash delay={78} />}
+		>
 			<EyebrowLabel text="THE RISK" color={colors.gold} />
 			<StatNumber
 				to={90}

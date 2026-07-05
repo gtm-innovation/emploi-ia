@@ -36,12 +36,13 @@ export const BodyText: React.FC<{
 					extrapolateRight: 'clamp',
 					easing: Easing.out(Easing.cubic),
 				});
-				const settled = interpolate(local, [10, 22], [0, 1], {
-					extrapolateLeft: 'clamp',
-					extrapolateRight: 'clamp',
-				});
+				// One settle-in flash on arrival, then rest at a quiet static
+				// glow — the stat number is the only element that keeps pulsing.
 				const glowPulse = w.emphasis
-					? settled * (0.35 + 0.35 * Math.sin(local * 0.06 + i))
+					? interpolate(local, [10, 20, 34], [0.9, 0.9, 0.25], {
+							extrapolateLeft: 'clamp',
+							extrapolateRight: 'clamp',
+					  })
 					: 0;
 				return (
 					<span

@@ -6,8 +6,14 @@ import {SCENE_DURATIONS} from '../timeline';
 
 const SCENE_DURATION = SCENE_DURATIONS[5];
 
+// Quick rolodex flip back through every scene's ghost number (01→06) —
+// a visual callback to the opening that rewards a rewatch/loop.
+const GHOST_SEQUENCE = ['01', '02', '03', '04', '05', '06'];
+
 export const Scene6Outro: React.FC = () => {
 	const frame = useCurrentFrame();
+	const ghostFlipIndex = Math.min(Math.floor(frame / 4), GHOST_SEQUENCE.length - 1);
+	const ghostNumber = GHOST_SEQUENCE[ghostFlipIndex];
 
 	const logoOpacity = interpolate(frame, [0, 18], [0, 1], {
 		extrapolateLeft: 'clamp',
@@ -43,7 +49,7 @@ export const Scene6Outro: React.FC = () => {
 
 	return (
 		<AbsoluteFill>
-			<Background ghostNumber="06" />
+			<Background ghostNumber={ghostNumber} />
 			<AbsoluteFill
 				style={{
 					justifyContent: 'center',

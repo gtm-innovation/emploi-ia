@@ -19,7 +19,12 @@ export const EyebrowLabel: React.FC<{
 	const opacity = interpolate(enter, [0, 1], [0, 1]);
 	const y = interpolate(enter, [0, 1], [10, 0]);
 
-	const dotPulse = 0.5 + 0.5 * Math.sin(local * 0.09);
+	// A single settle-in glow, not a forever pulse — the stat number is the
+	// one element per scene allowed to keep breathing.
+	const dotGlow = interpolate(local, [0, 16], [1, 0.35], {
+		extrapolateLeft: 'clamp',
+		extrapolateRight: 'clamp',
+	});
 
 	return (
 		<div
@@ -37,8 +42,8 @@ export const EyebrowLabel: React.FC<{
 					height: 10,
 					borderRadius: '50%',
 					backgroundColor: color,
-					opacity: 0.5 + dotPulse * 0.5,
-					boxShadow: `0 0 ${6 + dotPulse * 6}px ${color}`,
+					opacity: 0.6 + dotGlow * 0.4,
+					boxShadow: `0 0 ${4 + dotGlow * 8}px ${color}`,
 				}}
 			/>
 			<div

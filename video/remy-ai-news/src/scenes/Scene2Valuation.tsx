@@ -4,11 +4,16 @@ import {EyebrowLabel} from '../components/EyebrowLabel';
 import {StatNumber} from '../components/StatNumber';
 import {BodyText} from '../components/BodyText';
 import {ComparisonBars} from '../components/ComparisonBars';
+import {MidSceneFlash} from '../components/MidSceneFlash';
 import {colors} from '../theme';
 
 export const Scene2Valuation: React.FC = () => {
 	return (
-		<SceneLayout ghostNumber="02" slideNumber="02">
+		<SceneLayout
+			ghostNumber="02"
+			slideNumber="02"
+			overlay={<MidSceneFlash delay={78} />}
+		>
 			<EyebrowLabel text="WHY THEY'RE LEAVING" color={colors.gold} />
 			<StatNumber
 				to={965}

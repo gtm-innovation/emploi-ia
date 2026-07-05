@@ -20,11 +20,12 @@ export const RadialProgress: React.FC<{
 		extrapolateRight: 'clamp',
 		easing: Easing.out(Easing.cubic),
 	});
-	const settled = interpolate(local, [durationInFrames, durationInFrames + 10], [0, 1], {
-		extrapolateLeft: 'clamp',
-		extrapolateRight: 'clamp',
-	});
-	const glowPulse = settled * (0.5 + 0.5 * Math.sin(local * 0.06));
+	const glowPulse = interpolate(
+		local,
+		[durationInFrames, durationInFrames + 10, durationInFrames + 24],
+		[1, 1, 0.3],
+		{extrapolateLeft: 'clamp', extrapolateRight: 'clamp'}
+	);
 
 	const size = 380;
 	const r = 160;

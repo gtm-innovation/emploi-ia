@@ -22,7 +22,10 @@ export const TrendLine: React.FC<{
 		extrapolateRight: 'clamp',
 		easing: Easing.out(Easing.cubic),
 	});
-	const dotPulse = 0.6 + 0.4 * Math.sin(Math.max(local - 38, 0) * 0.08);
+	const dotPulse = interpolate(local, [38, 46, 58], [1, 1, 0.4], {
+		extrapolateLeft: 'clamp',
+		extrapolateRight: 'clamp',
+	});
 	const badgeOpacity = interpolate(local, [34, 44], [0, 1], {
 		extrapolateLeft: 'clamp',
 		extrapolateRight: 'clamp',
@@ -59,6 +62,11 @@ export const TrendLine: React.FC<{
 						<stop offset="0%" stopColor={colors.gold} stopOpacity={0.25} />
 						<stop offset="100%" stopColor={colors.gold} stopOpacity={0} />
 					</linearGradient>
+					<linearGradient id="trendStroke" x1="0" y1="0" x2="1" y2="0">
+						<stop offset="0%" stopColor={colors.goldBright} />
+						<stop offset="65%" stopColor={colors.gold} />
+						<stop offset="100%" stopColor={colors.white} />
+					</linearGradient>
 				</defs>
 				<path
 					d={`${PATH_D} L900,280 L0,280 Z`}
@@ -68,8 +76,8 @@ export const TrendLine: React.FC<{
 				<path
 					d={PATH_D}
 					fill="none"
-					stroke={colors.gray}
-					strokeWidth={3}
+					stroke="url(#trendStroke)"
+					strokeWidth={4}
 					pathLength={100}
 					strokeDasharray={100}
 					strokeDashoffset={100 - draw}

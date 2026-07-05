@@ -33,8 +33,11 @@ export const ComparisonBars: React.FC<{
 				});
 				const barWidth = (item.value / maxValue) * 100 * widthProgress;
 				const pulse = item.emphasis
-					? 0.6 + 0.4 * Math.sin(Math.max(local - 26, 0) * 0.05)
-					: 1;
+					? interpolate(local, [26, 34, 46], [1, 1, 0.35], {
+							extrapolateLeft: 'clamp',
+							extrapolateRight: 'clamp',
+					  })
+					: 0;
 
 				return (
 					<div key={item.label} style={{opacity}}>

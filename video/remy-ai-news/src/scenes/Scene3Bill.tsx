@@ -4,11 +4,16 @@ import {EyebrowLabel} from '../components/EyebrowLabel';
 import {StatNumber} from '../components/StatNumber';
 import {BodyText} from '../components/BodyText';
 import {TrendLine} from '../components/TrendLine';
+import {MidSceneFlash} from '../components/MidSceneFlash';
 import {colors} from '../theme';
 
 export const Scene3Bill: React.FC = () => {
 	return (
-		<SceneLayout ghostNumber="03" slideNumber="03">
+		<SceneLayout
+			ghostNumber="03"
+			slideNumber="03"
+			overlay={<MidSceneFlash delay={78} />}
+		>
 			<EyebrowLabel text="THE BILL" color={colors.gold} />
 			<StatNumber
 				to={-270}

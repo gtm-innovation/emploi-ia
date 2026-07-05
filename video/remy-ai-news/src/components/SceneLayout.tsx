@@ -8,7 +8,8 @@ export const SceneLayout: React.FC<{
 	slideNumber: string;
 	children: React.ReactNode;
 	showFooter?: boolean;
-}> = ({ghostNumber, slideNumber, children, showFooter = true}) => {
+	overlay?: React.ReactNode;
+}> = ({ghostNumber, slideNumber, children, showFooter = true, overlay}) => {
 	return (
 		<AbsoluteFill>
 			<Background ghostNumber={ghostNumber} />
@@ -27,6 +28,7 @@ export const SceneLayout: React.FC<{
 			>
 				{children}
 			</div>
+			{overlay}
 			{showFooter ? <Footer slideNumber={slideNumber} /> : null}
 		</AbsoluteFill>
 	);
