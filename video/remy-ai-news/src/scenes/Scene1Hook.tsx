@@ -7,21 +7,20 @@ import {colors} from '../theme';
 
 const ImpactBar: React.FC = () => {
 	const frame = useCurrentFrame();
-	const width = interpolate(frame, [26, 50], [0, 100], {
+	const width = interpolate(frame, [16, 32], [0, 100], {
 		extrapolateLeft: 'clamp',
 		extrapolateRight: 'clamp',
 		easing: Easing.out(Easing.cubic),
 	});
-	const pulse = 0.6 + 0.4 * Math.sin(Math.max(frame - 50, 0) * 0.08);
+	const pulse = 0.6 + 0.4 * Math.sin(Math.max(frame - 32, 0) * 0.08);
 
 	return (
 		<div
 			style={{
-				marginTop: 60,
-				height: 6,
+				height: 8,
 				width: '100%',
 				backgroundColor: 'rgba(255,255,255,0.05)',
-				borderRadius: 3,
+				borderRadius: 4,
 				overflow: 'hidden',
 			}}
 		>
@@ -30,7 +29,7 @@ const ImpactBar: React.FC = () => {
 					height: '100%',
 					width: `${width}%`,
 					background: `linear-gradient(90deg, ${colors.gold}, ${colors.goldBright})`,
-					boxShadow: `0 0 ${14 * pulse}px rgba(217,179,108,0.6)`,
+					boxShadow: `0 0 ${16 * pulse}px rgba(217,179,108,0.6)`,
 				}}
 			/>
 		</div>
@@ -41,16 +40,14 @@ export const Scene1Hook: React.FC = () => {
 	return (
 		<SceneLayout ghostNumber="01" slideNumber="01">
 			<EyebrowLabel text="AI NEWS · JULY 5" color={colors.gray} />
-			<div style={{marginTop: 28}}>
-				<Headline
-					fontSize={104}
-					delay={6}
-					lines={[
-						{text: 'Google just lost'},
-						{text: 'its brain.', color: colors.gold},
-					]}
-				/>
-			</div>
+			<Headline
+				fontSize={118}
+				delay={4}
+				lines={[
+					{text: 'Google just lost'},
+					{text: 'its brain.', color: colors.gold},
+				]}
+			/>
 			<ImpactBar />
 		</SceneLayout>
 	);

@@ -13,17 +13,17 @@ export const TrendLine: React.FC<{
 	const frame = useCurrentFrame();
 	const local = frame - delay;
 
-	const opacity = interpolate(local, [0, 14], [0, 1], {
+	const opacity = interpolate(local, [0, 10], [0, 1], {
 		extrapolateLeft: 'clamp',
 		extrapolateRight: 'clamp',
 	});
-	const draw = interpolate(local, [0, 55], [0, 100], {
+	const draw = interpolate(local, [0, 38], [0, 100], {
 		extrapolateLeft: 'clamp',
 		extrapolateRight: 'clamp',
 		easing: Easing.out(Easing.cubic),
 	});
-	const dotPulse = 0.6 + 0.4 * Math.sin(Math.max(local - 55, 0) * 0.08);
-	const badgeOpacity = interpolate(local, [50, 62], [0, 1], {
+	const dotPulse = 0.6 + 0.4 * Math.sin(Math.max(local - 38, 0) * 0.08);
+	const badgeOpacity = interpolate(local, [34, 44], [0, 1], {
 		extrapolateLeft: 'clamp',
 		extrapolateRight: 'clamp',
 	});
@@ -35,16 +35,16 @@ export const TrendLine: React.FC<{
 					display: 'flex',
 					justifyContent: 'space-between',
 					alignItems: 'baseline',
-					marginBottom: 14,
+					marginBottom: 18,
 					fontFamily: fonts.sans,
 				}}
 			>
-				<span style={{fontSize: 30, fontWeight: 700, color: colors.white}}>
+				<span style={{fontSize: 38, fontWeight: 700, color: colors.white}}>
 					{ticker}
 				</span>
 				<span
 					style={{
-						fontSize: 26,
+						fontSize: 32,
 						fontWeight: 700,
 						color: colors.gold,
 						opacity: badgeOpacity,
@@ -53,7 +53,7 @@ export const TrendLine: React.FC<{
 					{changeLabel}
 				</span>
 			</div>
-			<svg width="100%" height={280} viewBox="0 0 900 280" style={{overflow: 'visible'}}>
+			<svg width="100%" height={360} viewBox="0 0 900 280" style={{overflow: 'visible'}}>
 				<defs>
 					<linearGradient id="trendFade" x1="0" y1="0" x2="0" y2="1">
 						<stop offset="0%" stopColor={colors.gold} stopOpacity={0.25} />

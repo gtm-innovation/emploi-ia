@@ -15,25 +15,25 @@ export const ComparisonBars: React.FC<{
 	maxValue: number;
 	delay?: number;
 	stagger?: number;
-}> = ({items, maxValue, delay = 0, stagger = 14}) => {
+}> = ({items, maxValue, delay = 0, stagger = 9}) => {
 	const frame = useCurrentFrame();
 
 	return (
-		<div style={{display: 'flex', flexDirection: 'column', gap: 34}}>
+		<div style={{display: 'flex', flexDirection: 'column', gap: 40}}>
 			{items.map((item, i) => {
 				const local = frame - delay - i * stagger;
-				const opacity = interpolate(local, [0, 12], [0, 1], {
+				const opacity = interpolate(local, [0, 10], [0, 1], {
 					extrapolateLeft: 'clamp',
 					extrapolateRight: 'clamp',
 				});
-				const widthProgress = interpolate(local, [0, 40], [0, 1], {
+				const widthProgress = interpolate(local, [0, 26], [0, 1], {
 					extrapolateLeft: 'clamp',
 					extrapolateRight: 'clamp',
 					easing: Easing.out(Easing.cubic),
 				});
 				const barWidth = (item.value / maxValue) * 100 * widthProgress;
 				const pulse = item.emphasis
-					? 0.6 + 0.4 * Math.sin(Math.max(local - 40, 0) * 0.05)
+					? 0.6 + 0.4 * Math.sin(Math.max(local - 26, 0) * 0.05)
 					: 1;
 
 				return (
@@ -42,9 +42,9 @@ export const ComparisonBars: React.FC<{
 							style={{
 								display: 'flex',
 								justifyContent: 'space-between',
-								marginBottom: 10,
+								marginBottom: 14,
 								fontFamily: fonts.sans,
-								fontSize: 26,
+								fontSize: 34,
 								color: colors.gray,
 							}}
 						>
@@ -57,8 +57,8 @@ export const ComparisonBars: React.FC<{
 						</div>
 						<div
 							style={{
-								height: 22,
-								borderRadius: 11,
+								height: 32,
+								borderRadius: 16,
 								backgroundColor: 'rgba(255,255,255,0.06)',
 								overflow: 'hidden',
 							}}
@@ -67,7 +67,7 @@ export const ComparisonBars: React.FC<{
 								style={{
 									height: '100%',
 									width: `${barWidth}%`,
-									borderRadius: 11,
+									borderRadius: 16,
 									background: item.color,
 									boxShadow: item.emphasis
 										? `0 0 ${18 * pulse}px ${item.color}`

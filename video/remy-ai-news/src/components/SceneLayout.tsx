@@ -12,7 +12,19 @@ export const SceneLayout: React.FC<{
 	return (
 		<AbsoluteFill>
 			<Background ghostNumber={ghostNumber} />
-			<div style={{position: 'absolute', top: 230, left: 64, right: 64}}>
+			<div
+				style={{
+					position: 'absolute',
+					top: 100,
+					bottom: 220,
+					left: 64,
+					right: 64,
+					display: 'flex',
+					flexDirection: 'column',
+					justifyContent: 'center',
+					gap: 40,
+				}}
+			>
 				{children}
 			</div>
 			{showFooter ? <Footer slideNumber={slideNumber} /> : null}

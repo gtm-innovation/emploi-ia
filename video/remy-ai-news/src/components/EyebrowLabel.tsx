@@ -33,8 +33,8 @@ export const EyebrowLabel: React.FC<{
 		>
 			<div
 				style={{
-					width: 8,
-					height: 8,
+					width: 10,
+					height: 10,
 					borderRadius: '50%',
 					backgroundColor: color,
 					opacity: 0.5 + dotPulse * 0.5,
@@ -45,7 +45,7 @@ export const EyebrowLabel: React.FC<{
 				style={{
 					fontFamily: fonts.sans,
 					fontWeight: 700,
-					fontSize: 28,
+					fontSize: 34,
 					letterSpacing: 6,
 					textTransform: 'uppercase',
 					color,

@@ -10,35 +10,30 @@ export const Scene5Risk: React.FC = () => {
 	return (
 		<SceneLayout ghostNumber="05" slideNumber="05">
 			<EyebrowLabel text="THE RISK" color={colors.gold} />
-			<div style={{marginTop: 24}}>
-				<StatNumber
-					to={90}
-					durationInFrames={30}
-					delay={14}
-					fontSize={196}
-					format={(n) => `${Math.round(n)}%`}
-				/>
-			</div>
-			<div style={{marginTop: 36}}>
-				<BodyText
-					delay={62}
-					fontSize={42}
-					segments={[
-						{text: '90% of professionals', emphasis: true},
-						{
-							text: ' will move too late. I built the exact framework to turn this shift into an edge, not a threat.',
-						},
-					]}
-				/>
-			</div>
-			<div style={{marginTop: 64}}>
-				<RadialProgress
-					to={90}
-					durationInFrames={34}
-					delay={130}
-					captionLines={['MOVE', 'TOO LATE']}
-				/>
-			</div>
+			<StatNumber
+				to={90}
+				durationInFrames={20}
+				delay={8}
+				fontSize={216}
+				format={(n) => `${Math.round(n)}%`}
+			/>
+			<BodyText
+				delay={34}
+				fontSize={48}
+				staggerFrames={1.5}
+				segments={[
+					{text: '90% of professionals', emphasis: true},
+					{
+						text: ' will move too late. I built the exact framework to turn this shift into an edge, not a threat.',
+					},
+				]}
+			/>
+			<RadialProgress
+				to={90}
+				durationInFrames={24}
+				delay={78}
+				captionLines={['MOVE', 'TOO LATE']}
+			/>
 		</SceneLayout>
 	);
 };

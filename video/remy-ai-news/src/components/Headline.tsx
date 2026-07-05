@@ -14,21 +14,21 @@ export const Headline: React.FC<{
 	const enter = spring({
 		frame: local,
 		fps,
-		config: {damping: 14, stiffness: 110, mass: 0.9},
+		config: {damping: 13, stiffness: 160, mass: 0.7},
 	});
-	const opacity = interpolate(local, [0, 16], [0, 1], {
+	const opacity = interpolate(local, [0, 10], [0, 1], {
 		extrapolateLeft: 'clamp',
 		extrapolateRight: 'clamp',
 	});
 	const scale = interpolate(enter, [0, 1], [0.9, 1]);
 	const y = interpolate(enter, [0, 1], [26, 0]);
-	const blur = interpolate(local, [0, 18], [16, 0], {
+	const blur = interpolate(local, [0, 11], [16, 0], {
 		extrapolateLeft: 'clamp',
 		extrapolateRight: 'clamp',
 		easing: Easing.out(Easing.quad),
 	});
 
-	const settled = interpolate(local, [20, 30], [0, 1], {
+	const settled = interpolate(local, [14, 22], [0, 1], {
 		extrapolateLeft: 'clamp',
 		extrapolateRight: 'clamp',
 	});

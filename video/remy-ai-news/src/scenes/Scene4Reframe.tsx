@@ -8,28 +8,25 @@ export const Scene4Reframe: React.FC = () => {
 	return (
 		<SceneLayout ghostNumber="04" slideNumber="04">
 			<Headline
-				fontSize={92}
+				fontSize={104}
 				delay={4}
 				lines={[{text: 'Not an exodus.'}, {text: 'A forecast.'}]}
 			/>
-			<div style={{marginTop: 40}}>
-				<BodyText
-					delay={40}
-					fontSize={42}
-					staggerFrames={3}
-					segments={[
-						{text: 'The market is betting AI research '},
-						{text: 'decides who wins', emphasis: true},
-						{text: '. Whole professions are about to be rewritten.'},
-					]}
-				/>
-			</div>
-			<div style={{marginTop: 72}}>
-				<IconRow
-					delay={110}
-					items={['Accountants', 'Lawyers', 'Marketers', 'Doctors']}
-				/>
-			</div>
+			<BodyText
+				delay={26}
+				fontSize={48}
+				staggerFrames={2}
+				segments={[
+					{text: 'The market is betting AI research '},
+					{text: 'decides who wins', emphasis: true},
+					{text: '. Whole professions are about to be rewritten.'},
+				]}
+			/>
+			<IconRow
+				delay={70}
+				stagger={7}
+				items={['Accountants', 'Lawyers', 'Marketers', 'Doctors']}
+			/>
 		</SceneLayout>
 	);
 };

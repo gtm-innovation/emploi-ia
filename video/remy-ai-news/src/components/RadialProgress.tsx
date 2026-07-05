@@ -11,7 +11,7 @@ export const RadialProgress: React.FC<{
 	const frame = useCurrentFrame();
 	const local = frame - delay;
 
-	const opacity = interpolate(local, [0, 14], [0, 1], {
+	const opacity = interpolate(local, [0, 10], [0, 1], {
 		extrapolateLeft: 'clamp',
 		extrapolateRight: 'clamp',
 	});
@@ -26,9 +26,9 @@ export const RadialProgress: React.FC<{
 	});
 	const glowPulse = settled * (0.5 + 0.5 * Math.sin(local * 0.06));
 
-	const size = 300;
-	const r = 128;
-	const stroke = 18;
+	const size = 380;
+	const r = 160;
+	const stroke = 24;
 	const center = size / 2;
 
 	return (
@@ -65,7 +65,7 @@ export const RadialProgress: React.FC<{
 					textAnchor="middle"
 					fontFamily={fonts.sans}
 					fontWeight={700}
-					fontSize={20}
+					fontSize={24}
 					fill={colors.gray}
 					style={{textTransform: 'uppercase', letterSpacing: 1.5}}
 				>
@@ -73,7 +73,7 @@ export const RadialProgress: React.FC<{
 						<tspan
 							key={i}
 							x={center}
-							y={center - ((captionLines.length - 1) * 13) + i * 26}
+							y={center - ((captionLines.length - 1) * 16) + i * 32}
 						>
 							{line}
 						</tspan>

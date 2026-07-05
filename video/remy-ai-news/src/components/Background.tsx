@@ -1,12 +1,8 @@
 import React from 'react';
-import {
-	AbsoluteFill,
-	useCurrentFrame,
-	useVideoConfig,
-	interpolate,
-	Easing,
-} from 'remotion';
+import {AbsoluteFill, useCurrentFrame, interpolate, Easing} from 'remotion';
 import {colors, fonts} from '../theme';
+
+const KEN_BURNS_RAMP_FRAMES = 140;
 
 export const Background: React.FC<{
 	ghostNumber: string;
@@ -14,18 +10,19 @@ export const Background: React.FC<{
 	zoom?: number;
 }> = ({ghostNumber, linesFadeInDuration = 20, zoom = 1.07}) => {
 	const frame = useCurrentFrame();
-	const {durationInFrames} = useVideoConfig();
 	const linesOpacity = interpolate(frame, [0, linesFadeInDuration], [0, 1], {
 		extrapolateRight: 'clamp',
 	});
 
-	const kenBurnsScale = interpolate(frame, [0, durationInFrames], [1, zoom], {
-		extrapolateRight: 'clamp',
-		easing: Easing.linear,
-	});
+	const kenBurnsScale = interpolate(
+		frame,
+		[0, KEN_BURNS_RAMP_FRAMES],
+		[1, zoom],
+		{extrapolateRight: 'clamp', easing: Easing.linear}
+	);
 	const kenBurnsShiftX = interpolate(
 		frame,
-		[0, durationInFrames],
+		[0, KEN_BURNS_RAMP_FRAMES],
 		[0, -14],
 		{extrapolateRight: 'clamp'}
 	);

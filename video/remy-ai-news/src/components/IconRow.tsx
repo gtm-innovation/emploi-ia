@@ -6,12 +6,12 @@ export const IconRow: React.FC<{
 	items: string[];
 	delay?: number;
 	stagger?: number;
-}> = ({items, delay = 0, stagger = 10}) => {
+}> = ({items, delay = 0, stagger = 7}) => {
 	const frame = useCurrentFrame();
 	const {fps} = useVideoConfig();
 
 	return (
-		<div style={{display: 'flex', gap: 28, flexWrap: 'wrap'}}>
+		<div style={{display: 'flex', gap: 32, flexWrap: 'wrap'}}>
 			{items.map((label, i) => {
 				const local = frame - delay - i * stagger;
 				const enter = spring({
@@ -20,11 +20,11 @@ export const IconRow: React.FC<{
 					config: {damping: 10, stiffness: 140, mass: 0.6},
 				});
 				const scale = interpolate(enter, [0, 1], [0.4, 1]);
-				const opacity = interpolate(local, [0, 8], [0, 1], {
+				const opacity = interpolate(local, [0, 6], [0, 1], {
 					extrapolateLeft: 'clamp',
 					extrapolateRight: 'clamp',
 				});
-				const settled = interpolate(local, [18, 28], [0, 1], {
+				const settled = interpolate(local, [14, 22], [0, 1], {
 					extrapolateLeft: 'clamp',
 					extrapolateRight: 'clamp',
 				});
@@ -37,16 +37,16 @@ export const IconRow: React.FC<{
 							display: 'flex',
 							flexDirection: 'column',
 							alignItems: 'center',
-							gap: 12,
-							width: 130,
+							gap: 14,
+							width: 150,
 							opacity,
 							transform: `translateY(${bob}px) scale(${scale})`,
 						}}
 					>
 						<div
 							style={{
-								width: 84,
-								height: 84,
+								width: 112,
+								height: 112,
 								borderRadius: '50%',
 								border: `2px solid ${colors.gold}`,
 								display: 'flex',
@@ -54,9 +54,9 @@ export const IconRow: React.FC<{
 								justifyContent: 'center',
 								fontFamily: fonts.sans,
 								fontWeight: 800,
-								fontSize: 34,
+								fontSize: 44,
 								color: colors.gold,
-								boxShadow: `0 0 20px rgba(217,179,108,0.18)`,
+								boxShadow: `0 0 24px rgba(217,179,108,0.2)`,
 							}}
 						>
 							{label[0]}
@@ -65,7 +65,7 @@ export const IconRow: React.FC<{
 							style={{
 								fontFamily: fonts.sans,
 								fontWeight: 600,
-								fontSize: 22,
+								fontSize: 26,
 								color: colors.gray,
 								textAlign: 'center',
 							}}
