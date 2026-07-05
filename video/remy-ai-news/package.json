@@ -1,0 +1,23 @@
+{
+  "name": "remy-ai-news",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "remotion studio",
+    "build": "remotion render RemyReel out/remy-ai-news.mp4",
+    "still": "remotion still RemyReel out/still.png",
+    "upgrade": "remotion upgrade"
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.484",
+    "@remotion/cli": "4.0.484",
+    "@remotion/google-fonts": "4.0.484"
+  },
+  "devDependencies": {
+    "typescript": "5.6.3",
+    "@types/react": "18.3.11",
+    "@types/react-dom": "18.3.1"
+  }
+}
