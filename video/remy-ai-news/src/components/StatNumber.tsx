@@ -31,7 +31,17 @@ export const StatNumber: React.FC<{
 		fps,
 		config: {damping: 11, stiffness: 120, mass: 0.7},
 	});
-	const scale = interpolate(bounce, [0, 1], [0.75, 1]);
+	const settleWobble = interpolate(local, [durationInFrames, durationInFrames + 10], [0, 1], {
+		extrapolateLeft: 'clamp',
+		extrapolateRight: 'clamp',
+	});
+	const idlePulse = 0.5 + 0.5 * Math.sin(local * 0.07);
+	const scale =
+		interpolate(bounce, [0, 1], [0.75, 1]) +
+		settleWobble * idlePulse * 0.012;
+
+	const glowRadius = 22 + idlePulse * 16;
+	const glowAlpha = (0.3 + idlePulse * 0.22) * opacity;
 
 	return (
 		<div
@@ -45,7 +55,7 @@ export const StatNumber: React.FC<{
 				transformOrigin: 'left center',
 				lineHeight: 1,
 				fontVariantNumeric: 'tabular-nums',
-				textShadow: `0 0 ${28 * opacity}px rgba(217,179,108,${0.35 * opacity})`,
+				textShadow: `0 0 ${glowRadius}px rgba(217,179,108,${glowAlpha})`,
 			}}
 		>
 			{format(value)}

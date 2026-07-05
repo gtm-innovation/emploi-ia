@@ -10,6 +10,7 @@ import {Scene4Reframe} from './scenes/Scene4Reframe';
 import {Scene5Risk} from './scenes/Scene5Risk';
 import {Scene6Outro} from './scenes/Scene6Outro';
 import {ParticleField} from './components/ParticleField';
+import {TopProgressBar} from './components/TopProgressBar';
 import {SCENE_DURATIONS, TRANSITION_DURATION} from './timeline';
 
 const timing = linearTiming({durationInFrames: TRANSITION_DURATION});
@@ -49,6 +50,7 @@ export const RemyReel: React.FC = () => {
 				</TransitionSeries.Sequence>
 			</TransitionSeries>
 			<ParticleField />
+			<TopProgressBar />
 		</AbsoluteFill>
 	);
 };

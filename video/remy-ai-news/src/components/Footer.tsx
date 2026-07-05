@@ -16,6 +16,7 @@ export const Footer: React.FC<{slideNumber: string; delay?: number}> = ({
 		extrapolateRight: 'clamp',
 		easing: Easing.out(Easing.cubic),
 	});
+	const shimmerPulse = 0.5 + 0.5 * Math.sin((frame - delay) * 0.06);
 
 	return (
 		<div
@@ -47,6 +48,9 @@ export const Footer: React.FC<{slideNumber: string; delay?: number}> = ({
 						fontSize: 56,
 						color: colors.gold,
 						lineHeight: 1,
+						textShadow: `0 0 ${10 + shimmerPulse * 10}px rgba(217,179,108,${
+							0.25 + shimmerPulse * 0.25
+						})`,
 					}}
 				>
 					Remy

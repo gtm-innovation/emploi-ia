@@ -30,6 +30,16 @@ export const Background: React.FC<{
 		{extrapolateRight: 'clamp'}
 	);
 
+	const lineDrift = Math.sin(frame * 0.025) * 8;
+	const glowPulse = 0.55 + 0.45 * Math.sin(frame * 0.05);
+
+	const sparkT = ((frame * 1.4) % 260) / 260;
+	const spark1X = 760 + (1120 - 760) * sparkT;
+	const spark1Y = -40 + (720 - -40) * sparkT;
+	const sparkT2 = ((frame * 1.1 + 130) % 260) / 260;
+	const spark2X = 860 + (1220 - 860) * sparkT2;
+	const spark2Y = -40 + (640 - -40) * sparkT2;
+
 	return (
 		<AbsoluteFill style={{backgroundColor: colors.bg}}>
 			<AbsoluteFill
@@ -65,7 +75,7 @@ export const Background: React.FC<{
 					top: 0,
 					left: 0,
 					opacity: linesOpacity,
-					transform: `scale(${kenBurnsScale}) translateX(${kenBurnsShiftX}px)`,
+					transform: `scale(${kenBurnsScale}) translateX(${kenBurnsShiftX + lineDrift}px)`,
 					transformOrigin: 'top right',
 				}}
 			>
@@ -76,7 +86,7 @@ export const Background: React.FC<{
 					y2="720"
 					stroke={colors.gold}
 					strokeWidth={2}
-					opacity={0.55}
+					opacity={0.4 + 0.25 * glowPulse}
 				/>
 				<line
 					x1="860"
@@ -85,8 +95,12 @@ export const Background: React.FC<{
 					y2="640"
 					stroke={colors.gold}
 					strokeWidth={2}
-					opacity={0.3}
+					opacity={0.2 + 0.2 * glowPulse}
 				/>
+				<circle cx={spark1X} cy={spark1Y} r={10} fill={colors.goldBright} opacity={0.12} />
+				<circle cx={spark1X} cy={spark1Y} r={4} fill={colors.goldBright} opacity={0.85} />
+				<circle cx={spark2X} cy={spark2Y} r={8} fill={colors.goldBright} opacity={0.1} />
+				<circle cx={spark2X} cy={spark2Y} r={3} fill={colors.goldBright} opacity={0.7} />
 			</svg>
 
 			<AbsoluteFill

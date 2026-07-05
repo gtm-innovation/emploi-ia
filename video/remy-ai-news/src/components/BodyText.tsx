@@ -36,6 +36,13 @@ export const BodyText: React.FC<{
 					extrapolateRight: 'clamp',
 					easing: Easing.out(Easing.cubic),
 				});
+				const settled = interpolate(local, [10, 22], [0, 1], {
+					extrapolateLeft: 'clamp',
+					extrapolateRight: 'clamp',
+				});
+				const glowPulse = w.emphasis
+					? settled * (0.35 + 0.35 * Math.sin(local * 0.06 + i))
+					: 0;
 				return (
 					<span
 						key={i}
@@ -46,6 +53,9 @@ export const BodyText: React.FC<{
 							color: w.emphasis ? colors.white : colors.gray,
 							fontWeight: w.emphasis ? 700 : 400,
 							marginRight: '0.28em',
+							textShadow: w.emphasis
+								? `0 0 ${14 * glowPulse}px rgba(217,179,108,${glowPulse})`
+								: undefined,
 						}}
 					>
 						{w.word}
