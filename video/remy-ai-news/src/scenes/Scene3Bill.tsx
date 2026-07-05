@@ -3,6 +3,7 @@ import {SceneLayout} from '../components/SceneLayout';
 import {EyebrowLabel} from '../components/EyebrowLabel';
 import {StatNumber} from '../components/StatNumber';
 import {BodyText} from '../components/BodyText';
+import {TrendLine} from '../components/TrendLine';
 import {colors} from '../theme';
 
 export const Scene3Bill: React.FC = () => {
@@ -28,6 +29,9 @@ export const Scene3Bill: React.FC = () => {
 						{text: ' — the price of watching its best researchers walk out.'},
 					]}
 				/>
+			</div>
+			<div style={{marginTop: 76}}>
+				<TrendLine ticker="GOOGL" changeLabel="-7.2%" delay={130} />
 			</div>
 		</SceneLayout>
 	);

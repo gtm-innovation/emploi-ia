@@ -1,0 +1,85 @@
+import React from 'react';
+import {useCurrentFrame, interpolate, Easing} from 'remotion';
+import {colors, fonts} from '../theme';
+
+export const RadialProgress: React.FC<{
+	to: number;
+	durationInFrames: number;
+	delay?: number;
+	captionLines: string[];
+}> = ({to, durationInFrames, delay = 0, captionLines}) => {
+	const frame = useCurrentFrame();
+	const local = frame - delay;
+
+	const opacity = interpolate(local, [0, 14], [0, 1], {
+		extrapolateLeft: 'clamp',
+		extrapolateRight: 'clamp',
+	});
+	const progress = interpolate(local, [0, durationInFrames], [0, to], {
+		extrapolateLeft: 'clamp',
+		extrapolateRight: 'clamp',
+		easing: Easing.out(Easing.cubic),
+	});
+	const settled = interpolate(local, [durationInFrames, durationInFrames + 10], [0, 1], {
+		extrapolateLeft: 'clamp',
+		extrapolateRight: 'clamp',
+	});
+	const glowPulse = settled * (0.5 + 0.5 * Math.sin(local * 0.06));
+
+	const size = 300;
+	const r = 128;
+	const stroke = 18;
+	const center = size / 2;
+
+	return (
+		<div style={{opacity, display: 'flex', justifyContent: 'center'}}>
+			<svg width={size} height={size} viewBox={`0 0 ${size} ${size}`}>
+				<circle
+					cx={center}
+					cy={center}
+					r={r}
+					fill="none"
+					stroke="rgba(255,255,255,0.07)"
+					strokeWidth={stroke}
+				/>
+				<circle
+					cx={center}
+					cy={center}
+					r={r}
+					fill="none"
+					stroke={colors.gold}
+					strokeWidth={stroke}
+					strokeLinecap="round"
+					pathLength={100}
+					strokeDasharray={100}
+					strokeDashoffset={100 - progress}
+					transform={`rotate(-90 ${center} ${center})`}
+					style={{
+						filter: `drop-shadow(0 0 ${8 + glowPulse * 10}px rgba(217,179,108,${
+							0.4 + glowPulse * 0.3
+						}))`,
+					}}
+				/>
+				<text
+					x={center}
+					textAnchor="middle"
+					fontFamily={fonts.sans}
+					fontWeight={700}
+					fontSize={20}
+					fill={colors.gray}
+					style={{textTransform: 'uppercase', letterSpacing: 1.5}}
+				>
+					{captionLines.map((line, i) => (
+						<tspan
+							key={i}
+							x={center}
+							y={center - ((captionLines.length - 1) * 13) + i * 26}
+						>
+							{line}
+						</tspan>
+					))}
+				</text>
+			</svg>
+		</div>
+	);
+};

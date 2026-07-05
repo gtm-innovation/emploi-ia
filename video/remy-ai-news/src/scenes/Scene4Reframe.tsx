@@ -2,6 +2,7 @@ import React from 'react';
 import {SceneLayout} from '../components/SceneLayout';
 import {Headline} from '../components/Headline';
 import {BodyText} from '../components/BodyText';
+import {IconRow} from '../components/IconRow';
 
 export const Scene4Reframe: React.FC = () => {
 	return (
@@ -19,13 +20,14 @@ export const Scene4Reframe: React.FC = () => {
 					segments={[
 						{text: 'The market is betting AI research '},
 						{text: 'decides who wins', emphasis: true},
-						{text: '. '},
-						{text: 'Accountants,', emphasis: true},
-						{text: 'lawyers,', emphasis: true},
-						{text: 'marketers,', emphasis: true},
-						{text: 'doctors', emphasis: true},
-						{text: ' — all about to be rewritten.'},
+						{text: '. Whole professions are about to be rewritten.'},
 					]}
+				/>
+			</div>
+			<div style={{marginTop: 72}}>
+				<IconRow
+					delay={110}
+					items={['Accountants', 'Lawyers', 'Marketers', 'Doctors']}
 				/>
 			</div>
 		</SceneLayout>
