@@ -1,32 +1,27 @@
 import React from 'react';
-import {fonts} from '../theme';
+import {Img, staticFile} from 'remotion';
 
-// A CSS approximation of the brand's 3D chrome/gold-tube script logo:
-// a vertical gradient running dark-gold → bright-gold → white highlight →
-// bright-gold → dark-gold clipped to the text, mimicking the specular
-// band on a rounded metal tube.
+// The brand's real gold chrome script logo, rendered as an image asset
+// (public/remy-logo.webp) rather than a CSS approximation.
+const LOGO_ASPECT_RATIO = 700 / 328;
+
 export const RemyLogo: React.FC<{
 	fontSize: number;
 	style?: React.CSSProperties;
 }> = ({fontSize, style}) => {
+	const height = fontSize;
+	const width = height * LOGO_ASPECT_RATIO;
+
 	return (
-		<div
+		<Img
+			src={staticFile('remy-logo.webp')}
 			style={{
-				fontFamily: fonts.script,
-				fontSize,
-				lineHeight: 1,
-				display: 'inline-block',
-				background:
-					'linear-gradient(180deg, #6b4e14 0%, #caa542 22%, #fff8e0 46%, #fff8e0 56%, #caa542 80%, #6b4e14 100%)',
-				WebkitBackgroundClip: 'text',
-				backgroundClip: 'text',
-				color: 'transparent',
-				WebkitTextStroke: `${Math.max(1, fontSize * 0.004)}px rgba(80,55,10,0.5)`,
+				height,
+				width,
+				objectFit: 'contain',
 				filter: 'drop-shadow(0 3px 6px rgba(0,0,0,0.45))',
 				...style,
 			}}
-		>
-			Remy
-		</div>
+		/>
 	);
 };
