@@ -1,6 +1,7 @@
 import React from 'react';
 import {AbsoluteFill, useCurrentFrame, interpolate, Easing} from 'remotion';
 import {Background} from '../components/Background';
+import {RemyLogo} from '../components/RemyLogo';
 import {colors, fonts} from '../theme';
 import {SCENE_DURATIONS} from '../timeline';
 
@@ -93,18 +94,13 @@ export const Scene6Outro: React.FC = () => {
 				>
 					ASYMMETRIC INSIGHTS
 				</div>
-				<div
+				<RemyLogo
+					fontSize={190}
 					style={{
-						fontFamily: fonts.script,
-						fontSize: 190,
-						color: colors.gold,
-						lineHeight: 1,
 						opacity: logoOpacity,
 						transform: `scale(${logoScale})`,
 					}}
-				>
-					Remy
-				</div>
+				/>
 				<div
 					style={{
 						fontFamily: fonts.sans,

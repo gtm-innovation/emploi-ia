@@ -1,6 +1,7 @@
 import React from 'react';
 import {useCurrentFrame, interpolate, Easing} from 'remotion';
 import {colors, fonts} from '../theme';
+import {RemyLogo} from './RemyLogo';
 
 export const Footer: React.FC<{slideNumber: string; delay?: number}> = ({
 	slideNumber,
@@ -42,17 +43,7 @@ export const Footer: React.FC<{slideNumber: string; delay?: number}> = ({
 					alignItems: 'center',
 				}}
 			>
-				<div
-					style={{
-						fontFamily: fonts.script,
-						fontSize: 56,
-						color: colors.gold,
-						lineHeight: 1,
-						textShadow: `0 0 8px rgba(217,179,108,0.2)`,
-					}}
-				>
-					Remy
-				</div>
+				<RemyLogo fontSize={56} />
 				<div
 					style={{
 						fontFamily: fonts.sans,
