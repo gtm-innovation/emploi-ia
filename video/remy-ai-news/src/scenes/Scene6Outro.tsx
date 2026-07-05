@@ -47,9 +47,31 @@ export const Scene6Outro: React.FC = () => {
 		{extrapolateLeft: 'clamp', extrapolateRight: 'clamp'}
 	);
 
+	// A warm gold spotlight that blooms behind the logo as it lands, in
+	// brand tones rather than a stock light-leak's arbitrary hue.
+	const glowOpacity = interpolate(frame, [0, 30, 70, 100], [0, 0.3, 0.3, 0], {
+		extrapolateLeft: 'clamp',
+		extrapolateRight: 'clamp',
+	});
+
 	return (
 		<AbsoluteFill>
 			<Background ghostNumber={ghostNumber} />
+			<div
+				style={{
+					position: 'absolute',
+					left: '50%',
+					top: '40%',
+					width: 760,
+					height: 760,
+					transform: 'translate(-50%, -50%)',
+					background: `radial-gradient(circle, ${colors.goldBright} 0%, ${colors.gold} 35%, transparent 70%)`,
+					filter: 'blur(100px)',
+					opacity: glowOpacity,
+					mixBlendMode: 'screen',
+					pointerEvents: 'none',
+				}}
+			/>
 			<AbsoluteFill
 				style={{
 					justifyContent: 'center',

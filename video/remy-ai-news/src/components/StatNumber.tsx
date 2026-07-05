@@ -40,25 +40,38 @@ export const StatNumber: React.FC<{
 		interpolate(bounce, [0, 1], [0.75, 1]) +
 		settleWobble * idlePulse * 0.012;
 
-	const glowRadius = 22 + idlePulse * 16;
 	const glowAlpha = (0.3 + idlePulse * 0.22) * opacity;
+	const haloBlur = 22 + idlePulse * 16;
 
 	return (
-		<div
-			style={{
-				fontFamily: fonts.sans,
-				fontWeight: 800,
-				fontSize,
-				color: colors.white,
-				opacity,
-				transform: `scale(${scale})`,
-				transformOrigin: 'left center',
-				lineHeight: 1,
-				fontVariantNumeric: 'tabular-nums',
-				textShadow: `0 0 ${glowRadius}px rgba(217,179,108,${glowAlpha})`,
-			}}
-		>
-			{format(value)}
+		<div style={{position: 'relative', display: 'inline-block'}}>
+			{/* A real blurred light source behind the digits, not just a text-shadow approximation. */}
+			<div
+				style={{
+					position: 'absolute',
+					inset: '-25% -6%',
+					background: `radial-gradient(ellipse at center, rgba(217,179,108,${glowAlpha}) 0%, rgba(217,179,108,0) 70%)`,
+					filter: `blur(${haloBlur}px)`,
+					pointerEvents: 'none',
+				}}
+			/>
+			<div
+				style={{
+					position: 'relative',
+					fontFamily: fonts.sans,
+					fontWeight: 800,
+					fontSize,
+					color: colors.white,
+					opacity,
+					transform: `scale(${scale})`,
+					transformOrigin: 'left center',
+					lineHeight: 1,
+					fontVariantNumeric: 'tabular-nums',
+					textShadow: `0 0 ${haloBlur * 0.5}px rgba(217,179,108,${glowAlpha * 0.6})`,
+				}}
+			>
+				{format(value)}
+			</div>
 		</div>
 	);
 };
