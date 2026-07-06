@@ -1,6 +1,6 @@
 import React from 'react';
 import {useCurrentFrame, interpolate, Easing} from 'remotion';
-import {colors, fonts} from '../theme';
+import {colors, fonts, SAFE_ZONE} from '../theme';
 import {RemyLogo} from './RemyLogo';
 
 export const Footer: React.FC<{slideNumber: string; delay?: number}> = ({
@@ -23,8 +23,8 @@ export const Footer: React.FC<{slideNumber: string; delay?: number}> = ({
 		<div
 			style={{
 				position: 'absolute',
-				left: 64,
-				right: 64,
+				left: SAFE_ZONE.left,
+				right: SAFE_ZONE.right,
 				bottom: 90,
 				opacity,
 			}}

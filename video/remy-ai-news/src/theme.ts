@@ -26,3 +26,13 @@ export const fonts = {
 };
 
 export const GOLD_GRADIENT = `linear-gradient(135deg, ${colors.gold} 0%, ${colors.goldBright} 100%)`;
+
+// Keep-out margins so text/graphics never sit under Instagram/TikTok's
+// native Reels UI chrome: the like/comment/share/save icon rail runs down
+// the right edge, and captions/audio-title sit in the bottom strip.
+export const SAFE_ZONE = {
+	top: 100,
+	bottom: 220,
+	left: 64,
+	right: 220,
+};
