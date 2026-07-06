@@ -39,13 +39,13 @@ const ImpactBar: React.FC = () => {
 export const Scene1Hook: React.FC = () => {
 	return (
 		<SceneLayout ghostNumber="01" slideNumber="01">
-			<EyebrowLabel text="AI NEWS · JULY 5" color={colors.gray} />
+			<EyebrowLabel text="AI NEWS · JULY 6" color={colors.gray} />
 			<Headline
-				fontSize={118}
+				fontSize={110}
 				delay={4}
 				lines={[
-					{text: 'Google just lost'},
-					{text: 'its brain.', color: colors.gold},
+					{text: 'OpenAI is racing'},
+					{text: 'to Wall Street.', color: colors.gold},
 				]}
 			/>
 			<ImpactBar />

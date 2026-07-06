@@ -14,25 +14,25 @@ export const Scene3Bill: React.FC = () => {
 			slideNumber="03"
 			overlay={<MidSceneFlash delay={78} />}
 		>
-			<EyebrowLabel text="THE BILL" color={colors.gold} />
+			<EyebrowLabel text="MEANWHILE" color={colors.gold} />
 			<StatNumber
-				to={-270}
+				to={47}
 				durationInFrames={24}
 				delay={8}
 				fontSize={216}
-				format={(n) => `-$${Math.round(Math.abs(n))}B`}
+				format={(n) => `$${Math.round(n)}B`}
 			/>
 			<BodyText
 				delay={38}
 				fontSize={48}
 				staggerFrames={1.5}
 				segments={[
-					{text: 'Like losing your goalkeeper at halftime of a final. Alphabet '},
-					{text: 'lost that in two trading sessions', emphasis: true},
-					{text: ' — the price of watching its best researchers walk out.'},
+					{text: "Anthropic's annualized revenue — "},
+					{text: "nearly double OpenAI's", emphasis: true},
+					{text: '. Like Bugatti quietly outselling everyone two-to-one, no ads needed.'},
 				]}
 			/>
-			<TrendLine ticker="GOOGL" changeLabel="-7.2%" delay={78} />
+			<TrendLine ticker="ANTHROPIC ARR" changeLabel="2X OPENAI" delay={78} />
 		</SceneLayout>
 	);
 };

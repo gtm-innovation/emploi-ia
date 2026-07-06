@@ -14,7 +14,7 @@ export const Scene5Risk: React.FC = () => {
 			slideNumber="05"
 			overlay={<MidSceneFlash delay={78} />}
 		>
-			<EyebrowLabel text="THE RISK" color={colors.gold} />
+			<EyebrowLabel text="THE REAL URGENCY" color={colors.gold} />
 			<StatNumber
 				to={90}
 				durationInFrames={20}
@@ -27,9 +27,9 @@ export const Scene5Risk: React.FC = () => {
 				fontSize={48}
 				staggerFrames={1.5}
 				segments={[
-					{text: '90% of professionals', emphasis: true},
+					{text: '90% of execs', emphasis: true},
 					{
-						text: ' will move too late. I built the exact framework to turn this shift into an edge, not a threat.',
+						text: ' still have no AI strategy that generates revenue — just scattered use cases. I built the exact framework for that.',
 					},
 				]}
 			/>
@@ -37,7 +37,7 @@ export const Scene5Risk: React.FC = () => {
 				to={90}
 				durationInFrames={24}
 				delay={78}
-				captionLines={['MOVE', 'TOO LATE']}
+				captionLines={['NO AI', 'STRATEGY']}
 			/>
 		</SceneLayout>
 	);

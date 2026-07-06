@@ -14,9 +14,9 @@ export const Scene2Valuation: React.FC = () => {
 			slideNumber="02"
 			overlay={<MidSceneFlash delay={78} />}
 		>
-			<EyebrowLabel text="WHY THEY'RE LEAVING" color={colors.gold} />
+			<EyebrowLabel text="WHY THE RUSH" color={colors.gold} />
 			<StatNumber
-				to={965}
+				to={730}
 				durationInFrames={24}
 				delay={8}
 				fontSize={216}
@@ -27,29 +27,29 @@ export const Scene2Valuation: React.FC = () => {
 				fontSize={48}
 				staggerFrames={1.5}
 				segments={[
-					{text: "Anthropic's valuation, which just "},
-					{text: 'overtook OpenAI', emphasis: true},
+					{text: "OpenAI's targeted IPO valuation — "},
+					{text: 'below its last private round of $852B', emphasis: true},
 					{
-						text: '. Pre-IPO equity there is worth more than a Google paycheck.',
+						text: '. The market already smells doubt.',
 					},
 				]}
 			/>
 			<ComparisonBars
 				delay={78}
-				maxValue={965}
+				maxValue={852}
 				items={[
 					{
-						label: 'Anthropic',
-						value: 965,
-						displayValue: '$965B',
-						color: colors.gold,
-						emphasis: true,
-					},
-					{
-						label: 'OpenAI',
+						label: 'Last private round',
 						value: 852,
 						displayValue: '$852B',
 						color: colors.gray,
+					},
+					{
+						label: 'IPO target',
+						value: 730,
+						displayValue: '$730B',
+						color: colors.gold,
+						emphasis: true,
 					},
 				]}
 			/>

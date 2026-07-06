@@ -10,22 +10,22 @@ export const Scene4Reframe: React.FC = () => {
 			<Headline
 				fontSize={104}
 				delay={4}
-				lines={[{text: 'Not an exodus.'}, {text: 'A forecast.'}]}
+				lines={[{text: 'Not an IPO.'}, {text: 'A verdict.'}]}
 			/>
 			<BodyText
 				delay={26}
 				fontSize={48}
 				staggerFrames={2}
 				segments={[
-					{text: 'The market is betting AI research '},
-					{text: 'decides who wins', emphasis: true},
-					{text: '. Whole professions are about to be rewritten.'},
+					{text: "The market just decided value isn't a story anymore — "},
+					{text: "it's a bill", emphasis: true},
+					{text: '. Every firm selling advice, law, or accounting already gets it.'},
 				]}
 			/>
 			<IconRow
 				delay={70}
 				stagger={7}
-				items={['Accountants', 'Lawyers', 'Marketers', 'Doctors']}
+				items={['Consultants', 'Lawyers', 'Accountants']}
 			/>
 		</SceneLayout>
 	);
